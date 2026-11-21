@@ -2,27 +2,65 @@
 
 **Basis and limits.** Built from two documents only: the defense slide deck ("Details for DFE with messages") and the Preliminary Hearing Officer (PHO) report of 10 Aug 2026. Not reviewed: the interview video, the full chat extraction, the ad, any forensic report. I am not a lawyer and this is not legal advice. Statements of law are my understanding, and defense counsel should confirm each one.
 
-**Updated 21 Nov 2026.** Section 8 adds a closer reading of the deck's timeline slide and one interview statement as it was relayed to me, not as heard on the video. Section 9 reviews the two-day timeline supplied afterwards and the "Ok. Where at?" point. Section 10 tests the single account of May 1 that the defense has since put forward. Section 11 takes three further points and answers whether the image search counts as a disclosure that she was an adult. Sections 1 to 7 have been revised where these change them.
+**Updated 21 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
 
 ## 1. Bottom line
 
+*Current as of section 12.*
+
+**The charges**
+
 - **Spec 3** (attempted patronizing, as amended) is strong for the government, and age is irrelevant to it. **Spec 4** should fall away: the PHO found no probable cause and the government said it would dismiss.
-- **Specs 1 and 2** turn on one question: on May 1, did he actually believe the person he was texting was under 16? There was no real child, so these are attempts, and an attempt is judged on the facts as the accused believed them. "Should have realized" is not the test. In the excerpts provided, age is never mentioned on May 1.
-- The government's answer: same number, same thread, 23 hours later, "Are you still around?"
-- The defense's answer in the deck: the one time age came up he refused in 37 seconds, and the next day he lost track among many contacts.
-- **That answer is now in serious doubt.** As relayed, he told the interviewer on May 1: "I refused and thought the next day she just needed money so the next day I thought about just giving money and leaving." That sentence treats the person he texted on May 1 as the person he refused on April 30. If the video matches it, "I didn't realize it was the same person" cannot be said, and the risk on Specs 1 and 2 is higher than the points above suggest (section 8).
-- **The defense has since settled on one account of May 1.** The message was meant for a woman he had texted earlier that day; the Belton location made him suspect a scam; a second photo then led him to take her for the woman on the adult profile, without connecting that profile to April 30. Proving the first step would take away the government's best fact. The last step gives him an adult belief for the final hour, but it requires a memory that kept the profile and lost the reason for looking it up (sections 10 and 11.2).
-- **The image search is evidence of what he believed. It is not a disclosure that cancels the text.** In the court-martial it is a real reason to doubt that he believed she was under 16, and nobody who decides has seen it yet. In Texas it may not bear on guilt (sections 11.3 and 11.4).
-- The slide deck weakens the defense, because it runs several explanations that contradict each other, the texts, and now the interview.
-- Two things still have to be seen: the exact words on the interview video, with the question that drew them, and forensic proof of what was on his screen at 15:49:15 on May 1.
-- **Urgent.** The texting provider's records and the profile itself can disappear. Counsel should be asked whether both have been secured (sections 11.1 and 11.5).
+- **Specs 1 and 2** turn on one question: on May 1, did he believe the person he was texting was under 16? There was no real child, so these are attempts, and an attempt is judged on the facts as the accused believed them. "Should have realized" is not the test. In the excerpts provided, age is never mentioned on May 1.
+
+**The defense account as it now stands**
+
+1. On April 30 he was told she would be 16 in June and refused within 37 seconds. Eleven minutes after the conversation ended he searched the ad's photo and found an adult's profile, which gave an age of 23 and carried a posted college email from 2021.
+2. On May 1 he meant to pick up a conversation with another woman from earlier that afternoon. The undercover number was one of several unsaved numbers listed in the texting app, and he opened the wrong conversation.
+3. The location she gave was not the one he expected. He suspected a scam and asked for pictures.
+4. A second picture led him to take her for the woman on the profile, an adult. He did not connect the profile with April 30.
+
+**What supports it**
+
+- The refusal. It is the government's own exhibit, and it shows what he did the one time he believed she was a minor.
+- Nothing was said about age on May 1.
+- The search is recorded on his phone and predates the arrest. That the profile's owner is an adult is now close to beyond dispute (section 12.1).
+- The mistake has an ordinary mechanism: conversations listed by number only (section 12.2).
+- His first messages on May 1 read more naturally as continuing an arrangement than as returning to someone he had refused (section 10.1).
+
+**What stands against it**
+
+- On his own account he opened the existing conversation, and the April 30 exchange was part of it (section 12.2).
+- The interview statement, as relayed, treats her as one person on both days (section 8.2).
+- Everything on the profile places its owner in Rhode Island, which points to borrowed photos, and he asked for proof that the picture was real (sections 11.3 and 12.1).
+- The account needs him to have remembered the profile and forgotten why he looked it up (section 11.2).
+- What he did at the hotel, and the removal of the texting apps minutes after he described his car (section 9.3).
+- Earlier versions in the deck that conflict with this one (section 8.3).
+
+**What it still asks a fact-finder to accept on his word**
+
+1. That he did not take in the April 30 messages when he opened that conversation, if the app displayed them.
+2. That he remembered the profile but not the reason for the search.
+3. That what he told the agents that evening was wrong.
+
+Each is possible. Needing all three is the difficulty. Records can take the first off his word, and the video may do the same for the third.
+
+**What will decide it**
+
+1. The interview video: the exact words, and what he had been told before he said them.
+2. What the texting app displayed at 15:49, and what happened in the other woman's conversation after that time (section 12.2).
+3. The second photo and the advertisement (sections 11.2 and 11.3).
+
+**Texas.** The offense there can rest on what he was told, so the search may not bear on guilt (section 11.4).
+
+**Urgent.** The texting provider's records and the profile can both disappear. Counsel should be asked whether they have been secured (sections 11.1 and 11.5).
 
 ## 2. Prosecution
 
 ### Strengths
 
 1. **Age was disclosed and understood.** "i will be 16 in june is that ok" drew "No. Find a different way of life please." He cannot claim he missed it.
-2. **He initiated the return.** Same UC number, same thread, about 23 hours later. Nobody lured him back.
+2. **He initiated the return.** Same UC number, same thread, about 23 hours later. Nobody lured him back. On the defense's present account he opened that thread by mistake, which still puts the April 30 exchange in front of him (section 12.2).
 3. **May 1 shows intent to complete a paid encounter.** He offered an Uber, answered "Ok. Where at?" 18 seconds after "2 for 1 tonight 100," sent "Yes" and "Just you….then both," asked for pictures, drove about 20 minutes, asked "Cash right?", asked to be walked upstairs, wrote "I have tinted windows if you can carplay. Ill give extra," and identified his vehicle. Travel to the meeting place is a textbook substantial step.
 4. **Concealment evidence, some of it supplied by the defense deck itself.** Tinted windows, nervousness, the peace-sign verification request, burner-number app searches, removal of the texting app in the parking lot, and a pre-arrival search for sting indicators.
 5. **A recorded interview after a signed rights waiver.** DPS reports he "admitted to knowingly speaking to a minor," and he admitted prior patronizing. The relayed statement that he "thought the next day she just needed money" supplies the link the texts lack: that on May 1 he knew who he was texting (section 8).
@@ -44,7 +82,7 @@
 
 1. **The 37-second refusal.** It is direct evidence of what he does when he knows the age.
 2. **The legal standard.** The government must prove what he believed, and its proof for May 1 is inference. Section 11.3 sets out the standard and one open question about it.
-3. **Everything he saw was adult.** By his own search, the photos trace to a 23-year-old's account, and the PHO found his history was with adults, "not minors."
+3. **Everything he saw was adult.** By his own search, the photos trace to a 23-year-old's account, and the PHO found his history was with adults, "not minors." The profile also carried a posted college email from 2021 (section 12.1).
 4. **Digital corroboration, if it holds.** The image search 11 minutes after the April 30 chat ended; other profiles messaged on May 1 before the UC (the two-day timeline lists five between 13:48 and 15:30, all still awaiting forensic confirmation); hotel lookups in Round Rock and Georgetown at 3:18 PM, half an hour before the UC text; the same stock opener to other numbers ("Are you still in killeen?", "Hi are you still available?").
 5. **An innocent reading of the caution.** Paying an adult for sex is also a crime and a career-ender for an NCO. Nervousness, deletion and tinted windows do not distinguish between the two.
 6. **The PHO's recommendation.** A neutral judge advocate recommended a bad-conduct discharge with no confinement. It is non-binding, but it is leverage in negotiation.
@@ -56,8 +94,8 @@
    - "The photos showed an adult" conflicts with "I knew the photos were fake." Fake photos say nothing about who is texting.
    - "I did not intend to meet anyone" conflicts with the drive, "Cash right?", "Can you walk me upstairs?" and "Ill give extra."
    - Three separate misreadings ("on" as "or," "will" as "we'll," "Ok" answering only "we have a room") look contrived when stacked.
-2. **The linchpin is unproven.** The deck says he "can't definitively remember" deleting the April 30 thread. If the extraction shows the thread was still there at 15:49:15 on May 1, the refusal exchange sat directly above the box he typed in. Uninstalling the app cannot explain the mistake either, since the UC log shows the May 1 text arriving in the same thread from the same sender.
-3. **His diligence cuts against him.** A man who reverse-searches photos, demands verification and checks for stings is hard to believe when he says he did not notice a number from 23 hours earlier.
+2. **The linchpin is unproven.** The deck says he "can't definitively remember" deleting the April 30 thread. If the extraction shows the thread was still there at 15:49:15 on May 1, the refusal exchange sat directly above the box he typed in. Uninstalling the app cannot explain the mistake either, since the UC log shows the May 1 text arriving in the same thread from the same sender. The defense now says the thread was in the app's list and he opened it by mistake (section 12.2). That makes what the screen showed the central forensic question.
+3. **His diligence cuts against him.** A man who reverse-searches photos, demands verification and checks for stings is hard to believe when he says he did not notice a number from 23 hours earlier. This has less force if, as now relayed, the conversations were listed by number only (section 12.2).
 4. **The image search began within minutes of the age disclosure.** Expect: "You were checking whether she was really 15, looking for a reason to say yes."
 5. **"Compulsion" serves the government's story too:** the urge overrode Thursday's "no." It is mitigation for sentencing, not a defense to intent.
 6. **Self-inflicted exhibits.** Searches for second-number apps at 2:01–2:04 PM on May 1, including a visit to "Vikk – AI Lawyer & Legal Help" at 2:02 PM; the claimed pre-arrival sting search; removal of the texting apps at 17:02, minutes after he described his car. Each needs a truthful explanation before the government sees it.
@@ -76,12 +114,12 @@
 | Evidence | Prosecution reading | Defense reading | Likely reaction |
 |---|---|---|---|
 | April 30 refusal | He knew her age | He refuses minors | Helps him. Then they ask: "So why go back?" |
-| "Are you still around?" 23 hours later | Deliberate return | Stock opener; thread gone; many contacts | Starts against him. Without forensic proof of deletion, most will infer he knew |
+| "Are you still around?" 23 hours later | Deliberate return | Meant for another woman; he opened the wrong conversation in a list of unsaved numbers | A familiar kind of mistake, so they will consider it. Then it depends on what the screen showed when he typed (section 12.2) |
 | No age question on May 1 | He already knew | No reason to ask | Follows whichever story they already believe |
 | "Ok. Where at?", "Cash right?", the drive | Agreed and acted | "Ok" answered "we have a room," not the price; scam testing | Reads as intent to buy sex. The room reading is arguable for "Ok" alone and does not reach "Cash right?" (section 9.5) |
 | "Yes" / "Just you….then both" | Agreed to the act; chose the 15-year-old | Answered "coming?"; undecided on 2-for-1 | Timing may earn doubt on "Yes." "Just you" reads as sexual interest in that persona |
 | "tinted windows… carplay… Ill give extra" | Hidden sex with a child, for more money | Afraid of the room; a bluff | Most damaging text. "Bluff" will not be believed; "afraid to go in" might |
-| Image search to an adult profile | Still focused on her after "15"; photos fake anyway | All he saw was an adult | Double-edged. Helps only inside one consistent account, and only if he took the woman in the photo to be the person texting (section 11.3) |
+| Image search to an adult profile, with a posted 2021 college email | Still focused on her after "15"; the owner is in Rhode Island, so the photos were borrowed | All he saw was an adult | They will accept that the owner is an adult. The question is whether he took her to be the person texting (sections 11.3 and 12.1) |
 | Other recipients, stock phrases, hotel lookups | Prolific buyer | Lost track | Makes a mix-up plausible; costs sympathy |
 | Deleted threads, burner apps, app removal | Consciousness of guilt | Shame habit; adult prostitution is illegal too | Hurts unless forensics shows the habit predates May 1 |
 | Interview: "thought the next day she just needed money… just giving money and leaving" | He knew on May 1 who she was, and knew he should not be there | He refused, felt sorry for her and denied wanting sex; the wording reflects stress and hindsight | Outweighs anything said later. The texts undercut the "give money and leave" half |
@@ -98,7 +136,7 @@
 
 1. **Own the bad fact first.** "I was trying to pay an adult for sex. It was wrong and I knew it was illegal." Counsel should weigh conceding the Spec 3 conduct; it buys credibility for the fight that matters.
 2. **April 30, plainly.** He answered an ad showing an adult. When told "16 in June," he said no and meant it.
-3. **The image search.** What he did and the one real reason he did it.
+3. **The image search.** What he did and the one real reason he did it. That includes how much of the profile he looked at (section 12.1).
 4. **May 1.** How many ads he contacted, where this number came from, what was on the screen when he typed, and what he truly believed about who he was texting. The first draft of this point had him say he did not know it was the person from the day before. The relayed interview statement points the other way. If he did know, that line cannot be used, and his testimony has to start from what he told the interviewer (section 8). The defense position is now that the message was meant for a woman he had texted earlier that day (section 10). If that is what happened, this is where he says it, and the phone records have to carry it.
 5. **The parking lot.** He was nervous about police, robbery and exposure because buying sex is illegal, not because of age.
 6. **The interview.** Only after watching it. He will have to explain "she just needed money" and "just giving money and leaving" in his own words. If he never mentioned the image search that night, he will also have to say why.
@@ -114,7 +152,7 @@
 
 ## 6. Likely cross-examination
 
-Each entry gives the question, an honest shape for the answer, the prosecutor's rebuttal, and the reply. Every answer is conditional on being true. Answers 2 to 5 assume he did not know on May 1 that he was texting the person from April 30. The interview statement in section 8 suggests he did. If he did, those answers are not available to him. Section 10.6 lists the questions the later account will draw. Section 11.6 adds those raised by what he remembered of the profile.
+Each entry gives the question, an honest shape for the answer, the prosecutor's rebuttal, and the reply. Every answer is conditional on being true. Answers 2 to 5 assume he did not know on May 1 that he was texting the person from April 30. The interview statement in section 8 suggests he did. If he did, those answers are not available to him. Section 10.6 lists the questions the later account will draw. Section 11.6 adds those raised by what he remembered of the profile. Section 12.4 adds those raised by the college email and the unsaved number.
 
 1. **"On April 30 you were told she was 15, and you understood?"**
    - Answer: "Yes. That's why I said no."
@@ -126,12 +164,14 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
    - Reply: depends on forensics. Either "The thread was gone; the screen was blank," or "I don't remember seeing it. I delete those threads. Had I seen it I would not have sent that."
    - Rebuttal: "You don't remember deleting it."
    - Reply: "Not that specific thread, no." Concede it and stop.
+   - Update: the account now given is that he opened this conversation by mistake from a list of unsaved numbers (section 12.2). On that account "the thread was gone" cannot be the reply. What remains is what he remembers seeing, and what the examiner can show the screen displayed.
 3. **"Where did you get the number on May 1? The same ad you reverse-searched the day before?"**
    - He must know this cold: which site, which ad, what he recognized.
    - Rebuttal: "The only reason you searched that photo was that she said she was 15."
    - Reply: whatever the true reason was. This is the hardest link in the mistaken-identity account.
 4. **"You check photos and demand verification, but you didn't notice the number?"**
    - Answer: "I check pictures, not numbers, and I had texted [number] ads that week." The count must come from the extraction.
+   - If the conversations were listed by number only, with no names, he can say that too (section 12.2).
 5. **"You never asked her age on May 1."**
    - Answer: "I had no reason to think it was an issue. The one time it was, I ended it in under a minute."
    - Rebuttal: "Or you already knew."
@@ -180,7 +220,7 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
 ## 7. Before any decision
 
 1. **Watch the full interview with counsel.** Transcribe every statement about age, identity, scam belief and intent. Section 8.2 lists what to look for around the "needed money" statement. Get the Army CID interview record as well; the DPS report says CID questioned him separately.
-2. **Get the forensic report before fixing a theory.** Thread deletion time; app install and uninstall times; how the UC number was entered on May 1; the page viewed at 15:45–15:49; the number of ads contacted April 28 to May 1; exact search queries; the date of the Play Store screenshot.
+2. **Get the forensic report before fixing a theory.** Thread deletion time; app install and uninstall times; how the UC number was entered on May 1; the page viewed at 15:45–15:49; the number of ads contacted April 28 to May 1; exact search queries; the date of the Play Store screenshot. Section 12.2 adds tests for the accident account.
 3. **Demand in discovery:** the ad (text, stated age, photos, site), the operation plan and any age-confirmation protocol, the full UC extraction with metadata, and the arrest inventory (cash on hand).
 4. **Settle on the one true account and correct the timestamps.**
 5. **Motions for counsel to assess:** suppression of the interview (the DPS report describes a joint DPS–Army operation, which raises an Article 31(b) question), M.R.E. 707, M.R.E. 404(b) on prior patronizing, the rule of completeness for the interview, and speedy trial under R.C.M. 707 (charges were preferred 24 June 2026).
@@ -213,7 +253,7 @@ Merged sequence, Central time:
 | 16:40:46 | "No. Find a different way of life please" | UC log |
 | 16:42:25 | "Not in rude way." | UC log |
 | 16:43:04 | UC: "k i get it." Conversation ends | UC log |
-| 16:42 to 16:50, or 16:54 to 16:58 | Reverse image search; views an X profile whose bio gives the woman's age as 23 and her location as Rhode Island | Deck timeline gives the first range; the Google activity screenshot shows the second |
+| 16:42 to 16:50, or 16:54 to 16:58 | Reverse image search; views an X profile whose bio gives the woman's age as 23 and her location as Rhode Island. As later relayed, he also viewed a posted photo of a 2021 college email (section 12.1) | Deck timeline gives the first range; the Google activity screenshot shows the second |
 | May 1, 13:49 to 15:45 | Texts to at least four other recipients | Deck slide 4 |
 | 15:18 | Hotel lookups in Round Rock and Georgetown | Google Maps activity |
 | 15:49:15 | "Are you still around?" to the UC number | UC log (deck timeline says 15:47) |
@@ -372,7 +412,7 @@ On April 30 the timeline shows the app installed at 16:26, the first UC message 
 1. **The UC was contacted last.** Five other profiles between 13:48 and 15:30, then the UC at 15:49. The government's reading is that he tried everyone else first and went back to the one he had refused when nothing else worked. That fits the interview statement and the deck's own "compulsion" account. The order that shows "one of many" also shows "last resort."
 2. **Going back to yesterday's numbers means he kept track of them.** To message Jane Does 1 and 2 again he needed their numbers or threads from April 30. The prosecutor will ask why the third April 30 contact was the only one he did not recognize.
 3. **The app was installed at 16:26 and the UC was messaged at 16:33.** That suggests the app was set up for this contact, which reads as planning and concealment.
-4. **The number was the same on both days.** The UC log is one thread, so the May 1 messages came from the April 30 account. Many texting apps keep conversations on their servers and restore them at login. If this one does, reinstalling at 13:11 would have brought the April 30 exchange back, unless he had deleted that thread. The examiner should identify the app and how it behaves.
+4. **The number was the same on both days.** The UC log is one thread, so the May 1 messages came from the April 30 account. Many texting apps keep conversations on their servers and restore them at login. If this one does, reinstalling at 13:11 would have brought the April 30 exchange back, unless he had deleted that thread. The examiner should identify the app and how it behaves. Section 12.2 takes this further.
 5. **A search for a new texting app at 14:04.** It is verified, and the timeline does not explain it. Expect to be asked why he wanted another number that afternoon.
 6. **Steady movement toward Belton.** Gas stop, hotel search, "20 min away," Walmart, on scene. That is a deliberate trip, and it undercuts "I did not intend to meet anyone." Expect to be asked what he bought at Walmart and whether he took out cash. Receipts and bank records will show it either way.
 7. **The La Quinta at 16:49.** Trying to park at another hotel a minute after arriving reads as watching for police or a set-up. That fits caution about any illegal meeting and says nothing about age. It is not what someone does who has decided not to meet.
@@ -476,7 +516,7 @@ He should keep following counsel's instruction not to reinstall the app or open 
 | The old conversation had been deleted, and he picked the number from a list of recent numbers or a suggestion | Possible in some apps. The examiner would have to show that this app does it and that the conversation was deleted before 15:49 |
 | He typed or pasted the number | He took it from somewhere, and the examiner should be able to say where. If the UC's ad was open on his phone, that is the slide 2(e) version, not an accident |
 
-The account needs two things that pull against each other. The UC's number had to be easy to pick by mistake, and the April 30 conversation had to be gone. The easier the number was to pick, the more likely the conversation was there to be read.
+The account needs two things that pull against each other. The UC's number had to be easy to pick by mistake, and the April 30 conversation had to be gone. The easier the number was to pick, the more likely the conversation was there to be read. The defense has since said which row applies: the first (section 12.2).
 
 **What the texts do not show.** If he thought he was talking to a woman from earlier that afternoon, some replies should have seemed wrong. She said she was working with a friend, quoted a price, said she was not from the area and named a town other than the one he says he expected. He never wrote "I thought you were somewhere else" or "who is this?" The prosecutor will go through each reply and ask why not.
 
@@ -547,7 +587,7 @@ No answer shapes are offered. Each answer has to be what he remembers. Questions
 **For the forensic examiner, through counsel** (in addition to sections 7 and 9.6)
 
 1. The conversation he meant to continue: the number, the app, every message, whether "Are you still around?" or any follow-up was ever sent to it, and whether anything in it leads up to "Can I send a Uber for you?"
-2. Whether the UC conversation existed on the phone at 15:49, what it displayed, and how the 15:49 message was started.
+2. Whether the UC conversation existed on the phone at 15:49, what it displayed, and how the 15:49 message was started. Section 12.2 sets out tests for this.
 3. All browser, Google and app activity from 16:02 to 16:48 on May 1: image searches, X or Twitter views, ad pages.
 4. The second photo: what it shows, whether it includes a peace sign, when it arrived, and what he sent next.
 5. The search for signs of a sting: its time and exact words.
@@ -606,7 +646,7 @@ No answer shapes are offered. Each answer has to be what he remembers. Questions
 **What it costs**
 
 1. **The split memory.** He has to have kept the picture, the age and the nursing detail for 23 hours, and lost the reason he looked the profile up: the person using that picture had just told him she was 15. Memory does fail in this way. People keep what they learned and lose where or why they learned it, which psychologists call a source-memory error. But this was not idle browsing. The search came 11 minutes after an exchange striking enough that he told her to find a different way of life. A fact-finder will find the split hard to accept on his word alone.
-2. **Rhode Island.** The profile's one-line description gives the nursing ambition, the age and the state together. Expect: "You remembered 'nurse' and '23.' The next words are 'Rhode Island.' Why did you think she was in a hotel in Belton?"
+2. **Rhode Island.** The profile's one-line description gives the nursing ambition, the age and the state together. Expect: "You remembered 'nurse' and '23.' The next words are 'Rhode Island.' Why did you think she was in a hotel in Belton?" The college email is a second item placing her there (section 12.1).
 3. **Recognition before arrival.** Section 10.4 stands. If he recognized the woman on the profile, the government will say he recognized the ad.
 4. **It conflicts with other parts of the deck.** Slide 8 says he had identified the photo as fake. Slide 9 says he did not intend to meet anyone and took "friend" as a code word for a handler. A man who believed he was meeting a 23-year-old nursing student did not hold those beliefs at the same time.
 5. **The interview.** If he believed that evening that she was a 23-year-old nursing student, that is what he would be expected to tell the agent. As relayed, he said she needed money.
@@ -638,7 +678,7 @@ No answer shapes are offered. Each answer has to be what he remembers. Questions
 | When | 16:40 on April 30 | 16:54 on April 30, 11 minutes after the conversation ended |
 
 1. **The third row is the weak point.** When a photograph in an online ad traces to a private person's account in another state, the ordinary conclusion is that the photograph was borrowed. A borrowed photograph says nothing about the age of whoever placed the ad. His own conduct points to that conclusion: the next day he asked for a picture "so I know real," and slide 8 says he had identified the first photo as fake.
-2. **The government will concede that the picture shows an adult.** It costs them nothing. Sting operations commonly use pictures of adults, and the profile, which dates from July 2015, plainly belongs to one. Their case is about the age she stated, not the age she appeared.
+2. **The government will concede that the picture shows an adult.** It costs them nothing. Sting operations commonly use pictures of adults, and the profile, which dates from July 2015, plainly belongs to one. Their case is about the age she stated, not the age she appeared. The college email makes that more certain (section 12.1).
 3. **Courts have upheld convictions on this pattern.**
    - *United States v. Fulsom* (N-M. Ct. Crim. App. 2026): the persona was listed as 18 on an adult dating app and said by text that she was "almos 15." Convictions for attempted sexual assault and attempted sexual abuse of a child were affirmed.
    - *Perales v. State*, 622 S.W.3d 575 (Tex. App. 2021): the profile said 18, the defendant said the photos made him think she was about 23, and she told him by text that she was 16. The court held the jury could infer that he believed the text.
@@ -664,7 +704,7 @@ No answer shapes are offered. Each answer has to be what he remembers. Questions
    In a version where he neither knew who she was nor recognized the picture, the search plays no part. So "the search negated the disclosure" and "I did not know it was her" can be said together only in the third version, which rests on the split memory.
 2. **Counsel can argue in the alternative. He cannot testify in the alternative.** A lawyer may tell the fact-finder: "He did not know it was her. If you think he did, the last thing he had learned about her was that she was 23." From the witness stand he can give only one account. The search itself can come in through the examiner without his testimony. What he concluded from it can come only from him.
 3. **Doubt about her age may not be enough.** If the search left him unsure, the government may ask for a "deliberate avoidance" instruction: a person who suspects a fact and deliberately avoids confirming it can be treated as knowing it. Military courts recognize the instruction but limit when it can be given. *United States v. Brown*, 50 M.J. 262 (C.A.A.F. 1999), found it was error to give it on the facts there. Slide 1's point that he asked no questions on May 1 invites it. Whether it is available on the belief element of an attempt is a question for counsel.
-4. **Genuine or reasonable, and whose burden.** For the completed offense, a mistake about age is a defense only if it was reasonable, and the accused has to prove it (Article 120b(d)(2); R.C.M. 916(j)(2)). For elements that require specific intent, R.C.M. 916(j)(1) says a mistake "need only have existed in the mind of the accused." Under the first rule he would have to prove that an adult belief was reasonable. Under the second, a genuine belief is enough and the government has to disprove it. I could not confirm which a military judge would apply to an attempt where there was no child. The search supports a genuine belief more easily than a reasonable one, so counsel should settle this first.
+4. **Genuine or reasonable, and whose burden.** For the completed offense, a mistake about age is a defense only if it was reasonable, and the accused has to prove it (Article 120b(d)(2); R.C.M. 916(j)(2)). For elements that require specific intent, R.C.M. 916(j)(1) says a mistake "need only have existed in the mind of the accused." Under the first rule he would have to prove that an adult belief was reasonable. Under the second, a genuine belief is enough and the government has to disprove it. I could not confirm which a military judge would apply to an attempt where there was no child. The search supports a genuine belief more easily than a reasonable one, so counsel should settle this first. Section 12.1 cites a case stating the general rule.
 
 ### 11.4 Texas
 
@@ -697,3 +737,94 @@ No answer shapes are offered.
 4. "When the second picture came, did you open the profile again? Where is that on your phone?"
 5. "That evening, did you tell the agent you had looked her up and she was 23?"
 6. "If you believed she was a 23-year-old adult, why did you think about giving her money and leaving?"
+
+## 12. Addendum 5, 21 Nov 2026: the college email and the unsaved number
+
+**What this covers.** Two details supplied after section 11, and one image. They are recorded as relayed.
+
+1. On the profile he viewed more than the profile picture. He also viewed a posted photo of a college email, which adds to the grounds for taking the profile's owner to be an adult.
+2. Whatever else is in doubt, the May 1 message was not meant for the undercover number. That number was not saved as a contact. In the texting app it appeared as an unsaved number, one of several conversations listed by number only.
+
+**The image.** A photo of a computer screen showing an email dated Sunday 9 May 2021, sent from an address at ric.edu, the domain of Rhode Island College. The email tells a student her score on a lecture component and her average, a B. The poster's caption says she had thought she would fail anatomy. The student is addressed by a first name that matches the profile's. The image also shows an instructor's name and email address. Names are left out of this document.
+
+**Short version**
+
+- The email is good evidence for a point the government was unlikely to contest: the profile's owner is an adult.
+- Its better uses are narrower. It matches what he says he remembered of the profile, and it matters if his belief has to be reasonable as well as genuine.
+- It also helps the government. It is a second item placing the owner in Rhode Island, which supports the conclusion that the ad's pictures were borrowed.
+- The unsaved-number detail gives the mistake an ordinary mechanism and answers one prosecution argument.
+- It also settles a question against him. He opened the existing conversation, so the April 30 exchange was there to be seen unless the app did not display it. That conflicts with slide 3, which says the conversation may have been deleted.
+- The same things decide the case as before. This section adds tests the examiner can run on the accident.
+
+### 12.1 The college email
+
+**What it adds**
+
+1. **A dated document in place of a self-description.** The age in the profile's description is whatever the owner typed, and it carries no date. The email is a record from a third party showing the owner in a college course five years before these events. On any reading she was an adult by April 2026.
+2. **The two items agree.** Someone who was 23 in 2026 was about 18 in May 2021, the age of a first-year student.
+3. **It matches what he says he remembered.** Section 11 recorded that he kept three things from the search: the picture, the age, and that she was a nursing college student. Nursing is in the profile's description. College is in this email. A memory that matches the record in its details is easier to believe than a bare claim.
+4. **It shows he looked at more than one item from the account.** That supports a settled impression that the woman in the pictures was an adult. How he reached the email, through the search results or by going through the profile, is for the phone's records to show.
+5. **It matters most if reasonableness is required.** See below.
+
+**What it does not add**
+
+1. **The owner's adulthood was not going to be disputed** (section 11.3). The email makes more certain a point the government would concede.
+2. **The gap is where it was.** Who owns the profile and who was texting are different questions. The email says nothing about who was on the other end of the conversation.
+3. **Rhode Island, twice.** The description says Rhode Island, and the email comes from a college there. The more convincingly the profile belongs to a real student in Rhode Island, the more natural the conclusion that her pictures were taken for an ad in central Texas. A prosecutor will say the email shows the photos were borrowed, and that he knew it, because he asked for proof that the picture was real.
+4. **When he saw it has to be shown.** The Google activity on slide 1 lists three image views at 4:54 PM on April 30. I cannot tell from the thumbnails whether the email is one of them. The copy supplied to me carries no embedded date or device information. If the email was first seen after the arrest, it is evidence about the profile and not about what he believed.
+5. **It is more time spent on her, minutes after the refusal.** Section 3 noted the argument that he was checking whether she was really 15. More viewing gives that argument more to work with. The answer has to be his real reason for looking.
+
+**Where reasonableness comes in**
+
+- Section 11.3 left open whether an adult belief has to be reasonable or only genuine. *United States v. Binegar*, 55 M.J. 1 (C.A.A.F. 2001), states the general rule: a mistake about an element requiring specific intent need only be honest, and a mistake about a general-intent element must be honest and reasonable. I have not found a decision applying that rule to an attempted Article 120b offense where there was no child. It remains a question for counsel.
+- If the belief has to be reasonable, the email is among the most useful items the defense has, because it is a document and not his word. But reasonableness is judged on everything he knew. That includes what she had said about her age and where the profile placed its owner.
+- If a genuine belief is enough, reasonableness still matters in practice. A fact-finder decides whether a belief was really held partly by asking whether a sensible person could have held it.
+
+**Handling the image**
+
+- It shows a private person's first name and an instructor's name and email address. Neither has any part in this case. It should go to counsel and the examiner only, with those details redacted in anything shared more widely.
+- The examiner should capture the post from the live profile with its date, and show from the phone's records when it was viewed.
+- He should not contact the account's owner (section 11.5).
+
+### 12.2 The unsaved number
+
+**What it adds**
+
+1. **A mechanism.** Section 10.2 asked how the undercover number came to be selected. The answer now given is the first row of that table: he opened a conversation from the app's list. Each entry in the list was a bare number, with no name. Picking the wrong one is an ordinary mistake, and most people who text have made it.
+2. **It answers one prosecution argument.** Section 3 and cross-examination question 4 turned on his failing to notice the number. With no names attached there was nothing to notice but ten digits.
+3. **Not saving the number fits not meaning to use it again.** It shows little by itself, because he saved none of them.
+4. **It fits the first two messages** (section 10.1).
+
+**What it settles against him**
+
+1. **He opened the existing conversation.** The April 30 exchange was part of it. It was short, and it ended with four lines: her statement of her age, his refusal, his "Not in rude way.", and her "k i get it." Unless the app did not display earlier messages, those lines were directly above the box where he typed "Are you still around?" They would have stayed in view while the first replies arrived.
+2. **A conversation list usually shows more than a number.** Most apps show the last message and its date beside each entry, and put the newest at the top. For this conversation the last message was "k i get it," which says nothing about age, but its date was the day before. The conversations he had used that afternoon would have carried that day's times and sat above it.
+3. **It conflicts with slide 3.** Slide 3 says the conversation was possibly deleted. A deleted conversation is not in the list to be opened. Both can be true only if the app brought the conversation back when he reinstalled at 13:11, and the examiner can test that. If it did, that would help explain the mistake, because he would have had no reason to expect a conversation from the day before in the list. If it did not, slide 3 and this detail cannot both be right.
+4. **The accident explains the first message, not the hour that followed.** Sections 10.2 and 11.2 cover what he believed after it.
+
+**Tests for the examiner, through counsel**
+
+1. **The screen.** What the app displayed when that conversation was opened at 15:49, after a reinstall at 13:11: whether earlier messages appeared, how many fit above the keyboard, and whether a date line separated the two days.
+2. **The other conversation.** Slide 3 points to a conversation at about 15:18, Jane Doe 4 on the timeline, as the one he meant to continue. What was last said in it, and whether "Are you still around?" follows from it. Above all, what he sent to her after 15:49. If he went quiet in that conversation at the moment he began in this one, that supports the mistake. If he went on messaging both, he could tell them apart.
+3. **The list.** Which conversations were in the app at 15:49, in what order, and what each entry showed. Slide 4 shows at least one May 1 message sent from the phone's ordinary messaging app, and the timeline refers to texting apps in the plural, so the conversations may not all have been in one list. If the two conversations sat next to each other, a slip of the finger is believable. If they were far apart, the mistake was one of recognition, taking one number for another, and how alike the two numbers looked becomes relevant.
+4. **Deletion.** Whether deleting a conversation in this app removes it from the provider's servers, and whether a reinstall restores it.
+
+### 12.3 What this changes
+
+1. **The account is more coherent than at any earlier point.** Each step now has a mechanism, and most of the deck's other explanations can be dropped (section 10.1).
+2. **Slide 3 has to be reconciled with it or withdrawn** on the question of deletion.
+3. **The linchpin has moved.** Section 3 said the unproven point was whether the conversation had been deleted. On this account it had not been, or it had come back. The central forensic questions are now what the screen showed and what he did in the other conversation.
+4. **The email should be used for what it proves:** that the profile's owner is an adult, and that his memory of the profile matches the record. It should not be offered as proof of who was texting, and the Rhode Island point should be expected.
+5. **Section 1 lists three things the account asks a fact-finder to accept on his word.** These details remove none of them. The examiner's tests can remove the first.
+6. **The order of work is unchanged.** Video first, forensic report second, account third.
+
+### 12.4 Questions these details will draw
+
+No answer shapes are offered.
+
+1. "The conversation you opened had your own words in it from the day before. Were they on the screen when you typed?"
+2. "Every other conversation in that list was from that afternoon. This one was dated the day before. Did you look at the date?"
+3. "After 15:49, what did you send to the woman you say you meant to text?"
+4. "Your slide says you may have deleted that conversation. Now you say you opened it by mistake. Which is it?"
+5. "She had just told you she was 15. Why were you still looking through her pictures?"
+6. "The email is from a college in Rhode Island, and the profile says Rhode Island. Why did you think she was in Belton?"
