@@ -2,7 +2,7 @@
 
 **Basis and limits.** Built from two documents only: the defense slide deck ("Details for DFE with messages") and the Preliminary Hearing Officer (PHO) report of 10 Aug 2026. Not reviewed: the interview video, the full chat extraction, the ad, any forensic report. I am not a lawyer and this is not legal advice. Statements of law are my understanding, and defense counsel should confirm each one.
 
-**Updated 21 Nov 2026.** Section 8 adds a closer reading of the deck's timeline slide and one interview statement as it was relayed to me, not as heard on the video. Section 9 reviews the two-day timeline supplied afterwards and the "Ok. Where at?" point. Section 10 tests the single account of May 1 that the defense has since put forward. Sections 1 to 7 have been revised where these change them.
+**Updated 21 Nov 2026.** Section 8 adds a closer reading of the deck's timeline slide and one interview statement as it was relayed to me, not as heard on the video. Section 9 reviews the two-day timeline supplied afterwards and the "Ok. Where at?" point. Section 10 tests the single account of May 1 that the defense has since put forward. Section 11 takes three further points and answers whether the image search counts as a disclosure that she was an adult. Sections 1 to 7 have been revised where these change them.
 
 ## 1. Bottom line
 
@@ -11,9 +11,11 @@
 - The government's answer: same number, same thread, 23 hours later, "Are you still around?"
 - The defense's answer in the deck: the one time age came up he refused in 37 seconds, and the next day he lost track among many contacts.
 - **That answer is now in serious doubt.** As relayed, he told the interviewer on May 1: "I refused and thought the next day she just needed money so the next day I thought about just giving money and leaving." That sentence treats the person he texted on May 1 as the person he refused on April 30. If the video matches it, "I didn't realize it was the same person" cannot be said, and the risk on Specs 1 and 2 is higher than the points above suggest (section 8).
-- **The defense has since settled on one account of May 1.** The message was meant for a woman he had texted earlier that day; the Belton location made him suspect a scam; a second photo resembled the adult profile, but he did not connect it to April 30. Proving the first step would take away the government's best fact. The third step, as stated, gives the government a moment of recognition (section 10).
+- **The defense has since settled on one account of May 1.** The message was meant for a woman he had texted earlier that day; the Belton location made him suspect a scam; a second photo then led him to take her for the woman on the adult profile, without connecting that profile to April 30. Proving the first step would take away the government's best fact. The last step gives him an adult belief for the final hour, but it requires a memory that kept the profile and lost the reason for looking it up (sections 10 and 11.2).
+- **The image search is evidence of what he believed. It is not a disclosure that cancels the text.** In the court-martial it is a real reason to doubt that he believed she was under 16, and nobody who decides has seen it yet. In Texas it may not bear on guilt (sections 11.3 and 11.4).
 - The slide deck weakens the defense, because it runs several explanations that contradict each other, the texts, and now the interview.
 - Two things still have to be seen: the exact words on the interview video, with the question that drew them, and forensic proof of what was on his screen at 15:49:15 on May 1.
+- **Urgent.** The texting provider's records and the profile itself can disappear. Counsel should be asked whether both have been secured (sections 11.1 and 11.5).
 
 ## 2. Prosecution
 
@@ -41,7 +43,7 @@
 ### Strengths
 
 1. **The 37-second refusal.** It is direct evidence of what he does when he knows the age.
-2. **The legal standard.** The government must prove what he believed, and its proof for May 1 is inference.
+2. **The legal standard.** The government must prove what he believed, and its proof for May 1 is inference. Section 11.3 sets out the standard and one open question about it.
 3. **Everything he saw was adult.** By his own search, the photos trace to a 23-year-old's account, and the PHO found his history was with adults, "not minors."
 4. **Digital corroboration, if it holds.** The image search 11 minutes after the April 30 chat ended; other profiles messaged on May 1 before the UC (the two-day timeline lists five between 13:48 and 15:30, all still awaiting forensic confirmation); hotel lookups in Round Rock and Georgetown at 3:18 PM, half an hour before the UC text; the same stock opener to other numbers ("Are you still in killeen?", "Hi are you still available?").
 5. **An innocent reading of the caution.** Paying an adult for sex is also a crime and a career-ender for an NCO. Nervousness, deletion and tinted windows do not distinguish between the two.
@@ -79,7 +81,7 @@
 | "Ok. Where at?", "Cash right?", the drive | Agreed and acted | "Ok" answered "we have a room," not the price; scam testing | Reads as intent to buy sex. The room reading is arguable for "Ok" alone and does not reach "Cash right?" (section 9.5) |
 | "Yes" / "Just you….then both" | Agreed to the act; chose the 15-year-old | Answered "coming?"; undecided on 2-for-1 | Timing may earn doubt on "Yes." "Just you" reads as sexual interest in that persona |
 | "tinted windows… carplay… Ill give extra" | Hidden sex with a child, for more money | Afraid of the room; a bluff | Most damaging text. "Bluff" will not be believed; "afraid to go in" might |
-| Image search to an adult profile | Still focused on her after "15"; photos fake anyway | All he saw was an adult | Double-edged. Helps only inside one consistent account |
+| Image search to an adult profile | Still focused on her after "15"; photos fake anyway | All he saw was an adult | Double-edged. Helps only inside one consistent account, and only if he took the woman in the photo to be the person texting (section 11.3) |
 | Other recipients, stock phrases, hotel lookups | Prolific buyer | Lost track | Makes a mix-up plausible; costs sympathy |
 | Deleted threads, burner apps, app removal | Consciousness of guilt | Shame habit; adult prostitution is illegal too | Hurts unless forensics shows the habit predates May 1 |
 | Interview: "thought the next day she just needed money… just giving money and leaving" | He knew on May 1 who she was, and knew he should not be there | He refused, felt sorry for her and denied wanting sex; the wording reflects stress and hindsight | Outweighs anything said later. The texts undercut the "give money and leave" half |
@@ -112,7 +114,7 @@
 
 ## 6. Likely cross-examination
 
-Each entry gives the question, an honest shape for the answer, the prosecutor's rebuttal, and the reply. Every answer is conditional on being true. Answers 2 to 5 assume he did not know on May 1 that he was texting the person from April 30. The interview statement in section 8 suggests he did. If he did, those answers are not available to him. Section 10.6 lists the questions the later account will draw.
+Each entry gives the question, an honest shape for the answer, the prosecutor's rebuttal, and the reply. Every answer is conditional on being true. Answers 2 to 5 assume he did not know on May 1 that he was texting the person from April 30. The interview statement in section 8 suggests he did. If he did, those answers are not available to him. Section 10.6 lists the questions the later account will draw. Section 11.6 adds those raised by what he remembered of the profile.
 
 1. **"On April 30 you were told she was 15, and you understood?"**
    - Answer: "Yes. That's why I said no."
@@ -184,7 +186,8 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
 5. **Motions for counsel to assess:** suppression of the interview (the DPS report describes a joint DPS–Army operation, which raises an Article 31(b) question), M.R.E. 707, M.R.E. 404(b) on prior patronizing, the rule of completeness for the interview, and speedy trial under R.C.M. 707 (charges were preferred 24 June 2026).
 6. **Coordinate military and Texas counsel.** Testimony or a guilty plea in one forum is usable in the other. The PHO's suggested deal does not say which specifications; a plea to Spec 1 or 2 would almost certainly bring sex-offender registration.
 7. **Ask counsel about a psychosexual evaluation,** which is often used in sting cases for negotiation and sentencing.
-8. **Keep work product inside the defense team.** Material shared outside the attorney-client relationship may not be privileged, and anything handed to a testifying expert can reach the prosecutor. Route the forensic examiner through counsel.
+8. **Keep work product inside the defense team.** Material shared outside the attorney-client relationship may not be privileged, and anything handed to a testifying expert can reach the prosecutor. Route the forensic examiner through counsel. Section 11.5, point 6, cites a 2026 federal ruling on exchanges with AI tools.
+9. **Secure what can disappear.** The texting provider's records for his account, and a capture of the profile as it stands. Nearly seven months have passed since the events (sections 11.1 and 11.5).
 
 ## 8. Addendum, 21 Nov 2026: timeline, interview statement, and the contradiction point
 
@@ -279,8 +282,8 @@ As relayed: "I refused and thought the next day she just needed money so the nex
 - **Completeness.** If the government offers part of the interview, M.R.E. 304(h)(2) lets the defense introduce the remaining portions.
 - **Impeachment survives suppression.** Under M.R.E. 304(e), a statement excluded for an Article 31 or rights-warning violation can still be used to contradict the accused's own testimony. Winning a suppression motion would not make it safe to testify to something the statement contradicts.
 - **Polygraph circumstances.** If the statement came out of the polygraph session, *United States v. Kohlbek* (C.A.A.F. 2019) held that M.R.E. 707 does not bar evidence about the circumstances of the examination when it is offered to explain why a statement was made.
-- **Belief or suspicion.** The image search may show at most that he was unsure of her age. Whether the government must prove he actually believed she was under 16, or whether going ahead while unsure is enough, should be answered before a theory is chosen.
-- **Texas.** § 43.021(b)(2) reaches a person "represented to the actor as being younger than 18." If he knew he was texting the person who had said "16 in june," what he came to believe afterwards may not matter there.
+- **Belief or suspicion.** The image search may show at most that he was unsure of her age. Whether the government must prove he actually believed she was under 16, or whether going ahead while unsure is enough, should be answered before a theory is chosen. Section 11.3 takes this further.
+- **Texas.** § 43.021(b)(2) reaches a person "represented to the actor as being younger than 18." If he knew he was texting the person who had said "16 in june," what he came to believe afterwards may not matter there. Section 11.4 takes this further.
 
 ### 8.3 "The slide deck's explanations contradict each other," explained
 
@@ -320,7 +323,7 @@ The interview adds a seventh: I knew who she was, felt sorry for her, and though
 1. **The risk on Specs 1 and 2 is higher than the first draft assessed.** The first draft treated "did he know who he was texting" as open. The relayed statement goes a long way toward closing it against him.
 2. **The decision to testify is harder.** If he knew it was the same person, he cannot say otherwise on the stand, and the statement can be used against any testimony that contradicts it.
 3. **The phone evidence is better used for a narrower purpose.** It supports "the investigators' summary is incomplete" and "he had reason to doubt she was 15." It does not support "he did not know who she was."
-4. **Negotiation deserves a serious conversation with counsel.** The PHO recommended a bad-conduct discharge with no confinement. The refusal, the tone of the interview and the "not minors" finding carry weight in that setting. Which specifications a plea would cover, sex-offender registration and the Texas case all belong in that conversation. The decision is his.
+4. **Negotiation deserves a serious conversation with counsel.** The PHO recommended a bad-conduct discharge with no confinement. The refusal, the tone of the interview and the "not minors" finding carry weight in that setting. Which specifications a plea would cover, sex-offender registration and the Texas case all belong in that conversation. The decision is his. A guilty plea to Spec 1 or 2 in the court-martial would require him to admit under oath that he believed she was under 16 (section 11.5, point 3).
 5. **The first step is unchanged.** Watch the interview with counsel before committing to any account.
 
 ## 9. Addendum 2, 21 Nov 2026: the two-day timeline and "Ok. Where at?"
@@ -428,7 +431,7 @@ The exchange, from the UC log:
 5. The texting provider's own records for the account.
 6. The arrest time and the vehicle's position, from DPS records and video.
 
-He should keep following the instruction not to reinstall or log in to the app. Any change to the account now could be read as tampering.
+He should keep following counsel's instruction not to reinstall the app or open the account through the cloud. Any change to the account now could be read as tampering. Section 11.1 covers how the records can be obtained without his touching it.
 
 ## 10. Addendum 3, 21 Nov 2026: the defense's single account of May 1
 
@@ -490,7 +493,7 @@ The account needs two things that pull against each other. The UC's number had t
 
 ### 10.4 Step 3: the second photo
 
-As stated, this step does the most damage.
+As stated, this step does the most damage. Section 11.2 assesses a later detail about what he remembered of the profile.
 
 1. **The Twitter profile is in this case for one reason.** He found it at 16:54 on April 30 by searching the photo of the person who had told him, 14 minutes earlier, that she would be 16 in June. If on May 1 he checked a new photo against that profile, he had linked the person he was texting with the April 30 ad. The account says he recognized the face without remembering where he knew it from. Section 8.3 called this remembering the answer and forgetting the question. The new detail makes it concrete.
 2. **It puts the link before the acts that matter most.** From the excerpts, the second photo appears to have arrived after the peace-sign request and before the door photo at 16:48:45. Unless the comparison was made later than that, "Cash right?" and the carplay offer came after it. On the defense's own account, the government can point to a moment when he had reason to know who she was, and to what he did next.
@@ -556,7 +559,141 @@ No answer shapes are offered. Each answer has to be what he remembers. Questions
 ### 10.8 What this changes
 
 1. **Step 1 is worth pursuing hard, through the examiner.** If the records show the other conversation and an empty UC conversation at 15:49, the position on Specs 1 and 2 improves considerably, though the interview statement would still need explaining. If they show the April 30 conversation was on the screen, step 1 should be dropped.
-2. **Step 3 should not be put forward in its present form.** As written, it supplies the recognition the government would otherwise have to infer. It needs the records first, and it has to be what he remembers.
-3. **The account needs an ending.** It has to say what he believed on arrival, and that has to fit "Cash right?", the carplay offer, the removal of the apps and the interview.
+2. **Step 3 should not be put forward in its present form.** As written, it supplies the recognition the government would otherwise have to infer. It needs the records first, and it has to be what he remembers. Section 11.2 assesses the later detail that he remembered the profile only as that of a 23-year-old nursing student.
+3. **The account needs an ending.** It has to say what he believed on arrival, and that has to fit "Cash right?", the carplay offer, the removal of the apps and the interview. The later detail supplies one for the period after the second photo (section 11.2).
 4. **Texas.** If he did not know he was dealing with the person who had said she was 15, the question is whether § 43.021(b)(2)(B), "represented to the actor as being younger than 18," requires that he knew. The text does not say. Texas counsel should answer that before the accident account is relied on there.
 5. **The order of work is unchanged.** Video first, forensic report second, account third. Committing to this account before the first two are in hand risks having to change it again.
+
+## 11. Addendum 4, 21 Nov 2026: three further points and the "counter-disclosure" question
+
+**What this covers.** Three points supplied after section 10, and one question. The points are recorded as relayed. I have not seen the second photo, the advertisement or the video.
+
+1. He did not mean to contact the April 30 person again. I take that as his sincere position.
+2. Counsel has told him not to reinstall the texting app or open the account through the cloud.
+3. The second photo links to April 30 on paper. In his memory it did not. From the April 30 search he kept only the picture, the age, and that the profile belonged to a nursing college student.
+4. The question: if the government treats "i will be 16 in june" as proof that he knew her age, why is a profile showing the same picture with an adult's age not treated as a disclosure that she was an adult, or at least as cancelling the first?
+
+**Short version**
+
+- The search is evidence, and in the court-martial it is a real reason to doubt that he believed she was under 16. Nobody has weighed it yet, because it has not been put in front of anyone who decides. The defense presented no evidence at the preliminary hearing.
+- It is not a disclosure of the same kind as the text. In the text, the person he was dealing with stated her own age. The profile gave the age of a woman in a photograph. Getting from one to the other takes a belief that the woman in the photograph was the person texting.
+- Neither cancels the other as a matter of law. Both are evidence of what he believed, and a fact-finder weighs them. Courts have upheld convictions where a profile gave an adult age and a text gave a younger one.
+- In Texas the search may not bear on guilt, because the offense can rest on what he was told.
+- Point 3 gives the account something it lacked, a belief at the time he arrived. It depends on his having kept the profile in mind while losing the reason he looked it up.
+- Two steps are urgent because the evidence can disappear: securing the texting provider's records, and capturing the profile.
+
+### 11.1 Points 1 and 2: his intent, and counsel's instruction
+
+1. **His intent.** Whether he meant to contact her again is a fact about his own mind. This analysis cannot test it and does not dispute it. What it can do is say how a fact-finder would test it and what would prove it. Section 10.2 does that, and it stands.
+2. **Counsel's instruction is sound, and it has a consequence.** He cannot check his memory against the account, so proof of the accident has to come from elsewhere:
+   - the government's forensic copy of his phone, if one was made on or near May 1;
+   - the texting provider's own records;
+   - the undercover side's records.
+3. **The phone may no longer hold the conversations.** Removing an app from an Android phone normally removes the data it stored there, and the timeline shows the apps removed at 17:02 on May 1. The conversation he says he meant to continue may now exist only with the provider, or in a copy the government made.
+4. **Time matters.** Nearly seven months have passed. Services of this kind commonly delete inactive accounts and reassign their numbers. Two questions for counsel:
+   - Has a preservation letter gone to the provider?
+   - Can the account's records be requested with his written consent? The Stored Communications Act lets a provider release the contents of a message with the consent of its sender or recipient (18 U.S.C. § 2702(b)(3)). Whether to do that, or to go through the court-martial or the Texas court, is counsel's decision.
+
+### 11.2 Point 3: what he remembered of the profile
+
+**What it adds**
+
+1. **A belief for the last part of the afternoon.** On this detail, from the second photo onward he took the person he was texting to be the woman on the profile, an adult. That covers the drive, the arrival, "Cash right?" and the carplay message. On my understanding of attempt law, an adult belief held at those times answers the charges that rest on them. Whether it has to be reasonable as well as genuine is an open question (end of 11.3).
+2. **It does not reach the earlier messages.** "Yes" and "Just you….then both" were sent at 15:59 to 16:00, before either photo. For those, the account still depends on step 1, that he thought he was texting a woman from earlier that day.
+3. **It supplies the ending** that section 10.8 said the account needed.
+4. **It fits texts the deck struggled with.** A man who believes he is about to meet an adult whose photo he has checked would ask "Cash right?" and might offer extra for the car. No misreading or bluff is needed to explain them.
+
+**What it costs**
+
+1. **The split memory.** He has to have kept the picture, the age and the nursing detail for 23 hours, and lost the reason he looked the profile up: the person using that picture had just told him she was 15. Memory does fail in this way. People keep what they learned and lose where or why they learned it, which psychologists call a source-memory error. But this was not idle browsing. The search came 11 minutes after an exchange striking enough that he told her to find a different way of life. A fact-finder will find the split hard to accept on his word alone.
+2. **Rhode Island.** The profile's one-line description gives the nursing ambition, the age and the state together. Expect: "You remembered 'nurse' and '23.' The next words are 'Rhode Island.' Why did you think she was in a hotel in Belton?"
+3. **Recognition before arrival.** Section 10.4 stands. If he recognized the woman on the profile, the government will say he recognized the ad.
+4. **It conflicts with other parts of the deck.** Slide 8 says he had identified the photo as fake. Slide 9 says he did not intend to meet anyone and took "friend" as a code word for a handler. A man who believed he was meeting a 23-year-old nursing student did not hold those beliefs at the same time.
+5. **The interview.** If he believed that evening that she was a 23-year-old nursing student, that is what he would be expected to tell the agent. As relayed, he said she needed money.
+
+**What would support it**
+
+1. **The second photo.** Does it show a peace sign, and is it the same woman as the first photo and the profile? A verification photo of the same woman, produced on request, would give anyone a reason to think she was real. Its time is not in the excerpts, and it decides which acts the belief covers.
+2. **A record of the comparison.** A search or profile view on his phone on May 1 between 16:02 and 16:48.
+3. **The video.** Any mention of "nurse," "23," or looking her up.
+4. **Whether the ad's picture is the profile's picture.** A reverse image search returns look-alikes as well as copies. Once the ad is produced, the examiner can say which this was.
+5. **A memory expert,** if counsel thinks one would be admitted and would help.
+
+### 11.3 The question: why the search is not treated as a disclosure that she was an adult
+
+**The answer in three parts**
+
+1. **It has not been treated as anything, because it is not yet in any record.** The PHO's findings rest on the government's packet. The defense offered no evidence at the hearing. As far as the relayed interview shows, he did not mention the search to the agents. Before it can be weighed it has to reach the people who decide: the prosecutors, in negotiation, and the fact-finder, through the forensic examiner. When and how is for counsel.
+2. **"Knew" is not the test in the court-martial, and that helps him.** Being told is easy to prove. But the charges are attempts, and an attempt is judged on the circumstances as the accused believed them to be (Manual for Courts-Martial, pt. IV, ¶ 4.c.(3)). In sting cases the specification usually reads "a person he believed to be a child" (for example *United States v. Axe*, N-M. Ct. Crim. App. 2020). The charge sheet here should be checked for that wording. So, on my understanding, the government has to prove more than that he was told. It has to prove beyond a reasonable doubt that on May 1 he believed she was under 16. The text is evidence that he did. The search is evidence that he did not. Neither is the belief itself.
+3. **So the search does not have to cancel the text. It has to leave a reasonable doubt.** That is a lower bar than the question sets, and it is the better way to put the point.
+
+**Why a fact-finder will not weigh the two equally**
+
+| Point of comparison | The text | The profile |
+|---|---|---|
+| Who is speaking | The person he was dealing with | A third party with no part in the exchange |
+| About whom | Herself | The woman in a photograph |
+| What has to be assumed before it gives the texter's age | Nothing | That the person texting was the woman in the photograph |
+| What he did on receiving it | Refused within 37 seconds, which shows he believed it | Nothing yet shown: no message, note or statement |
+| When | 16:40 on April 30 | 16:54 on April 30, 11 minutes after the conversation ended |
+
+1. **The third row is the weak point.** When a photograph in an online ad traces to a private person's account in another state, the ordinary conclusion is that the photograph was borrowed. A borrowed photograph says nothing about the age of whoever placed the ad. His own conduct points to that conclusion: the next day he asked for a picture "so I know real," and slide 8 says he had identified the first photo as fake.
+2. **The government will concede that the picture shows an adult.** It costs them nothing. Sting operations commonly use pictures of adults, and the profile, which dates from July 2015, plainly belongs to one. Their case is about the age she stated, not the age she appeared.
+3. **Courts have upheld convictions on this pattern.**
+   - *United States v. Fulsom* (N-M. Ct. Crim. App. 2026): the persona was listed as 18 on an adult dating app and said by text that she was "almos 15." Convictions for attempted sexual assault and attempted sexual abuse of a child were affirmed.
+   - *Perales v. State*, 622 S.W.3d 575 (Tex. App. 2021): the profile said 18, the defendant said the photos made him think she was about 23, and she told him by text that she was 16. The court held the jury could infer that he believed the text.
+4. **Both cases differ from this one in a way that helps him.** In each, the accused was told the younger age and carried on with the conversation. In *Fulsom* the agents also gave him chances to back out, which he did not take. Here he took the chance on April 30, and the excerpts show no mention of age on May 1. That contrast is the defense's best point on belief, and it does not depend on the search.
+
+**What would give the search more weight**
+
+1. The second photo, if it is a verification photo of the same woman (11.2).
+2. Any record made before the arrest that shows what he concluded from the search.
+3. The advertisement. If it gave an adult age, the government's own statements to him conflicted. That is a stronger form of the argument than a third party's profile.
+4. The video, if he mentions the search.
+
+**Its limits**
+
+1. **It has force only if the profile was in his mind on May 1.** There are three versions of that day.
+
+   | Version | Did he know who she was? | What the search does |
+   |---|---|---|
+   | The government's | Yes, and he remembered "15" | Nothing. He went ahead anyway |
+   | He knew, and the search had changed his mind | Yes, but he had concluded she was 23 | It is the reason for an adult belief |
+   | His account, with point 3 | No, but he recognized the woman on the profile | It is the only age he connected with her |
+
+   In a version where he neither knew who she was nor recognized the picture, the search plays no part. So "the search negated the disclosure" and "I did not know it was her" can be said together only in the third version, which rests on the split memory.
+2. **Counsel can argue in the alternative. He cannot testify in the alternative.** A lawyer may tell the fact-finder: "He did not know it was her. If you think he did, the last thing he had learned about her was that she was 23." From the witness stand he can give only one account. The search itself can come in through the examiner without his testimony. What he concluded from it can come only from him.
+3. **Doubt about her age may not be enough.** If the search left him unsure, the government may ask for a "deliberate avoidance" instruction: a person who suspects a fact and deliberately avoids confirming it can be treated as knowing it. Military courts recognize the instruction but limit when it can be given. *United States v. Brown*, 50 M.J. 262 (C.A.A.F. 1999), found it was error to give it on the facts there. Slide 1's point that he asked no questions on May 1 invites it. Whether it is available on the belief element of an attempt is a question for counsel.
+4. **Genuine or reasonable, and whose burden.** For the completed offense, a mistake about age is a defense only if it was reasonable, and the accused has to prove it (Article 120b(d)(2); R.C.M. 916(j)(2)). For elements that require specific intent, R.C.M. 916(j)(1) says a mistake "need only have existed in the mind of the accused." Under the first rule he would have to prove that an adult belief was reasonable. Under the second, a genuine belief is enough and the government has to disprove it. I could not confirm which a military judge would apply to an attempt where there was no child. The search supports a genuine belief more easily than a reasonable one, so counsel should settle this first.
+
+### 11.4 Texas
+
+1. **The statute has three branches.** Texas Penal Code § 43.021(b)(2) applies if the person was (A) younger than 18, (B) "represented to the actor as being younger than 18," or (C) "believed by the actor to be younger than 18." The State can charge (B). A 2026 court of appeals decision upheld the evidence on a charge worded that way (*Brown v. State*, No. 06-25-00151-CR, Tex. App., Texarkana).
+2. **On branch (B), the search probably changes nothing.** Under that branch the text is not evidence of what he knew. It is the thing the statute asks about: what was represented to him. The statement was made, and the person who made it never withdrew it. What he later concluded from another source goes to branch (C), which the State does not need.
+3. **Two arguments remain for Texas counsel.**
+   - The advertisement. If it gave an adult age, was she "represented" as under 18 when the representations conflicted?
+   - Identity. If he did not know he was dealing with the person who had made the statement, does branch (B) still apply (section 10.8, point 4)?
+4. **On belief, a Texas jury is free to reject this kind of argument,** as *Perales* shows.
+5. **In Texas the search may be worth more for negotiation and punishment than for guilt.**
+
+### 11.5 What this changes
+
+1. **How to use the search.** Not as a disclosure that cancels the text. As a dated, pre-arrest reason to doubt that he believed she was under 16, proved by the examiner and argued by counsel.
+2. **The belief defense has a core that depends on neither step.** The one time he believed she was a minor, he refused. Everything he was shown afterwards was an adult. Age was not mentioned on May 1. The accident, if proved, adds an explanation for the whole afternoon. Point 3, if it is what he remembers, adds one for the period after the second photo.
+3. **A plea.** A military judge will accept a guilty plea only if the accused admits under oath the facts that make him guilty. There is no plea that maintains innocence (Article 45, UCMJ; R.C.M. 910). If his position is that he never believed she was under 16, he cannot plead guilty to Spec 1 or 2. Spec 3 is different, because age is not part of it. So the disposition the PHO suggested depends on which specifications it would cover. Texas does allow a no-contest plea, which is a matter for Texas counsel.
+4. **Two urgent steps, both through counsel.**
+   - The texting provider's records (11.1).
+   - A capture of the profile as it stands, and any archived copy from about April 30. Profiles are edited and deleted. He should not contact the account holder.
+5. **Discovery.** The advertisement, and where its photographs came from. Whether the operation's plan required the agent to restate the age or offer a way out, and whether either was done on May 1.
+6. **The written record.** A federal court ruled in February 2026 that a defendant's exchanges with an AI tool, made on his own initiative, were protected by neither attorney-client privilege nor the work-product doctrine (*United States v. Heppner*, S.D.N.Y.). That is one court, and it does not bind a court-martial or a Texas court. But it describes this document and the conversation behind it. Counsel should be told that both exist.
+
+### 11.6 Questions these points will draw
+
+No answer shapes are offered.
+
+1. "The profile said Rhode Island. Why did you think she was at a hotel in Belton?"
+2. "You remembered her age and that she wanted to be a nurse. You did not remember that you looked her up because she had just said she was 15?"
+3. "If you believed she was 23, why did you ask for proof that the picture was real?"
+4. "When the second picture came, did you open the profile again? Where is that on your phone?"
+5. "That evening, did you tell the agent you had looked her up and she was 23?"
+6. "If you believed she was a 23-year-old adult, why did you think about giving her money and leaving?"
