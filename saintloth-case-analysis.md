@@ -2,11 +2,11 @@
 
 **Basis and limits.** Built from two documents only: the defense slide deck ("Details for DFE with messages") and the Preliminary Hearing Officer (PHO) report of 10 Aug 2026. Not reviewed: the interview video, the full chat extraction, the ad, any forensic report. I am not a lawyer and this is not legal advice. Statements of law are my understanding, and defense counsel should confirm each one.
 
-**Updated 23 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 17: his response on how this text is to be used, with each point sorted by the record that supports it. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
+**Updated 23 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 17: his response on how this text is to be used, with each point sorted by the record that supports it. Section 18: whether hypnosis could be used to recover his memory. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
 
 ## 1. Bottom line
 
-*Current as of section 17.*
+*Current as of section 18.*
 
 **The charges**
 
@@ -73,6 +73,8 @@ Each is possible. Needing all three is the difficulty. Records can take some of 
 **Texas.** The offense there can rest on what he was told, so the search may not bear on guilt (section 11.4).
 
 **Urgent.** The provider says a number lapses after 30 days without use, and that message history may not survive long inactivity. Nearly seven months have passed. Counsel should be asked now whether the provider's records were preserved or obtained, by the defense or by the government (section 14.2). The profile and the Google account's activity can also be lost or changed (sections 11.5 and 13.7).
+
+**Hypnosis.** He has asked whether a hypnotherapist could help him recall the events. A court could not refuse to hear him for that reason alone. But hypnosis does not make recall more accurate, it would open his testimony about what he believed to a new attack, and it cannot be undone. He should have no session about these events before counsel has advised (section 18).
 
 ## 2. Prosecution
 
@@ -149,7 +151,7 @@ Each is possible. Needing all three is the difficulty. Records can take some of 
 
 **The decision.** It is his, made with counsel. For: a state-of-mind defense is hard to mount without him. Against: cross-examination on every text and on the interview, the prior patronizing, and the fact that sworn testimony in one forum can be used in the other (the Army and Texas are separate sovereigns). A mock cross-examination with counsel should come first.
 
-**Ground rule.** He should testify only to what he actually remembers and believed. I will not suggest wording for anything untrue, and nothing loses faster than an account the extraction or the video contradicts. Where the deck reconstructs rather than remembers, the honest answer is "I don't remember," and the forensic examiner carries the point.
+**Ground rule.** He should testify only to what he actually remembers and believed. I will not suggest wording for anything untrue, and nothing loses faster than an account the extraction or the video contradicts. Where the deck reconstructs rather than remembers, the honest answer is "I don't remember," and the forensic examiner carries the point. Section 18 explains why hypnosis is not a safe way to recover more.
 
 **Points to make, in this order, if they are true**
 
@@ -250,6 +252,7 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
 7. **Ask counsel about a psychosexual evaluation,** which is often used in sting cases for negotiation and sentencing. Section 17.3 notes how the condition is classed.
 8. **Keep work product inside the defense team.** Material shared outside the attorney-client relationship may not be privileged, and anything handed to a testifying expert can reach the prosecutor. Route the forensic examiner through counsel. Section 11.5, point 6, cites a 2026 federal ruling on exchanges with AI tools.
 9. **Secure what can disappear.** The texting provider's records for his account, and a capture of the profile as it stands. Nearly seven months have passed since the events (sections 11.1 and 11.5). The Google account's activity should be preserved as well (section 13.7). The provider's stated policy on unused accounts makes this more urgent (section 14.2).
+10. **No hypnosis about these events before counsel has advised.** It does not make recall more accurate, it can change what he remembers, and it gives the government a new line of attack on his testimony (section 18).
 
 ## 8. Addendum, 21 Nov 2026: timeline, interview statement, and the contradiction point
 
@@ -679,7 +682,7 @@ No answer shapes are offered. Each answer has to be what he remembers. Questions
 2. **A record of the comparison.** A search or profile view on his phone on May 1 between 16:02 and 16:48.
 3. **The video.** Any mention of "nurse," "23," or looking her up.
 4. **Whether the ad's picture is the profile's picture.** A reverse image search returns look-alikes as well as copies. Once the ad is produced, the examiner can say which this was.
-5. **A memory expert,** if counsel thinks one would be admitted and would help.
+5. **A memory expert,** if counsel thinks one would be admitted and would help. Section 18.6 sets out what such an expert could do, and how that differs from a hypnotist.
 
 ### 11.3 The question: why the search is not treated as a disclosure that she was an adult
 
@@ -1646,7 +1649,7 @@ No answer was given. His answers to questions 8 and 9 make this one harder (16.4
 
 1. **The wording of a question cannot be predicted. Its subject can.** Every question in cross-examination is built on an exhibit: a message, a search, a time, or a sentence from the interview. There are a few dozen messages, a handful of records and one interview. Section 6 is a list of those exhibits put as questions. It is not a forecast of wording. I agree with where he ends up: answers are not to be memorized. What holds up under any wording is knowing what each exhibit shows and what he remembers about it.
 2. **Using records to work out what happened is legitimate.** It is what a forensic examiner is for, and counsel can argue from records whatever he remembers. A man is not less credible because he needs a record to fix a time or a sequence. The line is the one in section 13.6. A record can stand in for his memory of what he did. It cannot stand in for his memory of what he was thinking (16.5).
-3. **Routine is a better explanation of poor recall than any given so far.** People do not remember each occasion on which they did what they always do. If the afternoon of May 1 was routine until the arrest, it is ordinary that he cannot recall each message. The one thing that was not routine is the exchange on April 30, and his words that evening, as relayed, show that he remembered it: "I refused."
+3. **Routine is a better explanation of poor recall than any given so far.** People do not remember each occasion on which they did what they always do. If the afternoon of May 1 was routine until the arrest, it is ordinary that he cannot recall each message. The one thing that was not routine is the exchange on April 30, and his words that evening, as relayed, show that he remembered it: "I refused." Section 18.2 notes what follows for hypnosis: what was never noticed cannot be recovered.
 4. **He has considered that this text is not privileged,** and the decision to go on is his. The analysis has made the point in several sections and will not repeat it.
 
 ### 17.2 Each point, sorted by the record behind it
@@ -1783,7 +1786,7 @@ His point leads here. If the text matters only where records support it, the que
 **Where his testimony fits**
 
 1. **The more the records carry, the less he has to.** That suits a witness who, as he says, cannot recall every detail without them.
-2. **What only he can add** is what he believed, and what he remembers of 15:49 and of the second photo.
+2. **What only he can add** is what he believed, and what he remembers of 15:49 and of the second photo. Section 18 deals with hypnosis as a way of recovering more.
 3. **The statements in group D come into the case only if he makes them.** Nothing requires him to offer an explanation for each message. If he testifies he will be asked about them, and section 16.3 sets out the answer that needs no misreading, if it is true.
 4. **Whether he testifies is his decision, with counsel** (section 5).
 
@@ -1804,3 +1807,115 @@ These add to sections 13.7, 15.5 and 16.7.
 3. **Three of the answers in section 16 fail the test,** and a fourth depends on a record that may no longer exist. The case does not need them.
 4. **Section 1's three points remain.** None is a habit, and two of them depend on records in group C.
 5. **The order of work is unchanged.** Video first, forensic report second, account third. The records in group B can be gathered now.
+
+## 18. Addendum 11, 23 Nov 2026: hypnosis as a way of recovering memory
+
+**What this covers.** Three questions asked after section 17, recorded as asked. I could not open the decisions cited here. What follows rests on what a web search returns from them, and on the rules as I understand them. Counsel should confirm each point.
+
+1. Can he use a hypnotherapist to recall the events accurately, so that what he recalls can be entered in the record?
+2. Will that matter either way if the trial is decided on the evidence?
+3. Would the hypnotherapist not be an expert witness?
+
+**Short version**
+
+- He is allowed to. A court may not refuse to hear a defendant only because he has been hypnotized (*Rock v. Arkansas*). It may still examine how the hypnosis was done, and limit or discount what came from it.
+- It would not do what he wants. The research finding is consistent. Hypnosis produces more recollections, true and false, and more confidence in both. It does not make recall more accurate. Afterwards nobody can tell the true ones from the false, and that includes him.
+- By his own test in section 17, it adds nothing. A detail recovered under hypnosis counts only if a record confirms it, and then the record is the evidence.
+- The hypnotherapist could be called, but not for either purpose he has in mind. The hypnotherapist could not repeat what was said in the session as proof that it happened, and could not say that the recall is accurate. All that is left is describing how the session was run. On that, a hypnotherapist chosen and paid by the accused, without a license in psychology or psychiatry, fails the first two things courts look for.
+- The cost falls where his case is thinnest. The one thing only he can supply is what he believed on May 1. After hypnosis the government can say that his memory of it was produced in a session, and call an expert who has the research on his side.
+- It cannot be undone. He should have no session about these events before counsel has advised. My assessment is that it is more likely to harm his case than to help it.
+
+### 18.1 Whether he can
+
+1. **The Supreme Court has ruled on a defendant's own testimony.** In *Rock v. Arkansas*, 483 U.S. 44 (1987), a woman charged with shooting her husband could not remember the details. A licensed neuropsychologist trained in hypnosis hypnotized her twice, and the sessions were recorded. Afterwards she remembered details suggesting that the gun had misfired. An expert then examined the gun and found it defective. The state courts allowed her to testify only to what she had told the doctor before hypnosis. The Supreme Court held that a rule excluding everything a defendant recalls after hypnosis, in every case, violates the right to testify in one's own defense.
+2. **The decision has limits.** The Court said that a state may set guidelines for judging such testimony, and may show that the testimony in a particular case is so unreliable that it should be excluded. It described three ways in which hypnosis produces inaccurate memories. The subject becomes suggestible and tries to give answers that will please. He fills gaps from imagination to make the account complete. And he becomes highly confident in true and false memories alike. The Court called the last of these memory hardening, and said it makes cross-examination harder.
+3. **What made the difference in *Rock* was the gun.** The detail she recalled could be tested against a physical object, and it held. Section 18.3 comes back to this.
+4. **The court-martial.** I found no Military Rule of Evidence on hypnosis. M.R.E. 707 deals only with polygraphs. Where the rules are silent, M.R.E. 101(b) directs courts-martial to the federal rules and the cases applying them, as I understand it. *Rock* is a constitutional ruling, so it applies there too. Three decisions bear on it.
+   - *United States v. Scheffer*, 523 U.S. 303 (1998). This was a court-martial case. The Supreme Court upheld M.R.E. 707 and distinguished *Rock*: the rule did not stop the accused from giving his own version of the facts. It barred only expert opinion offered to bolster his credibility. So his own testimony has a protection that an expert called to support his credibility does not.
+   - *United States v. Harrington*, 18 M.J. 797 (A.C.M.R. 1984). I could confirm the citation and not the holding. My recollection is that the Army court allowed the testimony of a hypnotized witness where safeguards had been followed. Counsel should read it.
+   - *United States v. Mustafa*, 22 M.J. 165 (C.M.A. 1986). I have read only the description in the government's brief opposing Supreme Court review, which was denied (479 U.S. 953). A member of the Air Force agreed to hypnotic interviews with investigators to refresh his memory of what he had seen. Six months later he made statements to them, and those statements were admitted against him at his trial for murder. His defense argued that the hypnosis had led him to believe in events that were not true. The trial judge found the later statements voluntary. According to the brief, the court below also rejected his argument that statements made after hypnosis should be excluded in every case, or admitted only if rigorous safeguards had been used in the session.
+5. **Texas.** *Zani v. State*, 758 S.W.2d 233 (Tex. Crim. App. 1988), puts the burden on whoever offers the testimony to show by clear and convincing evidence that it is trustworthy. The court lists what a judge weighs:
+   - the hypnotist's training in the clinical and forensic uses of hypnosis;
+   - the hypnotist's independence from the police, the prosecution and the defense;
+   - a record of what the hypnotist was told about the case beforehand;
+   - a written or recorded account of what the subject remembered before hypnosis;
+   - recordings of every contact between the two;
+   - who else was present, and where the session was held;
+   - whether the techniques used were appropriate;
+   - whether hypnosis suits the kind of memory loss involved;
+   - evidence that corroborates what was recalled.
+
+   That case concerned a prosecution witness. How it applies to a defendant's own testimony after *Rock* is for Texas counsel.
+6. **Texas has since moved against the technique.** The Texas Rangers ended their hypnosis program in January 2021. Since 1 September 2023, article 38.24 of the Code of Criminal Procedure has made statements that follow hypnosis by a law enforcement agency inadmissible against a defendant. The statute does not cover a defendant's own hypnosis. It does show how the state now regards hypnotic recall.
+7. **The direction elsewhere is the same.** New Jersey wrote the safeguards that many courts borrowed (*State v. Hurd*, 86 N.J. 525 (1981)). In 2006 its Supreme Court abandoned them and held the hypnotically refreshed testimony of a witness generally inadmissible in criminal trials (*State v. Moore*, 188 N.J. 182). That rule concerns witnesses. A defendant's own testimony is still governed by *Rock*.
+
+So the answer to the first question is yes, in this sense: neither forum could refuse to hear him only because he had been hypnotized. As I understand it, each could hold a hearing on how it was done, and each could limit or discount what it produced.
+
+### 18.2 Whether it would make his recall accurate
+
+1. **The research says no.** In 1985 the American Medical Association's Council on Scientific Affairs reviewed the evidence and found that recollections obtained during hypnosis "can involve confabulations and pseudomemories and not only fail to be more accurate, but actually appear to be less reliable than nonhypnotic recall." A 1994 review of 24 studies found that hypnotized subjects reported more false detail and were more confident in what they recalled (Steblay and Bothwell, *Law and Human Behavior*).
+2. **Nobody can sort the results afterwards.** The opinion in *Zani* sets out the point. During a session neither the subject nor the hypnotist can tell true memories from false ones, and afterwards neither an expert nor a judge or jury can. Unless a claimed memory is verified by wholly independent means, "no one can reliably tell whether it is an accurate recollection or mere confabulation."
+3. **What he would get is confidence.** He would come out of a session surer of more things. He would not come out more accurate, and he would have no way of knowing which of the new things were true.
+4. **His situation is close to the worst case for it.**
+   - Seven months have passed.
+   - He knows exactly which gaps matter and what would help in each: what was on the screen at 15:49, whether he deleted her conversation, why he searched her photo, and whom "Cash right?" was for.
+   - He has a detailed account of the afternoon, built since the arrest from records and reasoning (sections 10 to 17). A hypnotized subject fills gaps with what he expects and with what makes the account complete. For him that material is ready to hand. What is most likely to come back is the account in this document, now felt as a memory.
+5. **Some of what he wants was never stored.** On his own account he did not notice whose number he was texting, and he does not recall seeing the April 30 messages. Section 17.1 said that routine acts are not remembered one by one. If that is right, there is nothing there to recover. Whatever a session produced on those points would be new.
+6. **A belief is not an event.** The question in Specs 1 and 2 is what he believed on May 1. Hypnosis cannot retrieve a belief more accurately than he can state it now. It can only make him more certain of whatever he says.
+
+### 18.3 Whether it would matter if the trial is decided on the records
+
+1. **His own test answers this.** Section 17 accepted his point that what he says matters where records support it. Apply that to a detail recovered under hypnosis.
+
+   | The recovered detail | What it is worth |
+   |---|---|
+   | A record confirms it | The record is the evidence. It could have been looked for without the session |
+   | A record contradicts it | It is one more version, and he now holds it with more confidence than before |
+   | No record either way | It rests on his word, and on a method the research does not support |
+
+2. ***Rock* is an example of the first row.** Her recollection mattered because the gun could be examined. The things that can be examined here are already listed in groups B and C of section 17.2: his Google activity, the provider's records, the extraction and the video. Each can be sought directly.
+3. **The one real use of hypnosis is as a lead.** If a session pointed to a record nobody had thought to look for, the record would stand on its own, however it was found. I cannot identify such a record here. If counsel can, that is the case for considering it, and it would have to be done through counsel, with the safeguards listed in 18.1 and 18.4.
+4. **A case that rests on the records needs him for one thing.** Section 17.4 said the records can carry what he did. What only he can add is what he believed. That is the subject on which hypnosis is weakest, and on which a doubt about his memory costs most.
+5. **How a recollection gets into the record.** On the question of guilt, only through his sworn testimony, subject to cross-examination. A written account, a recording of a session or a hypnotist's report cannot be offered by the defense as proof of what happened. His own out-of-court statements are hearsay when he is the one offering them. The exception for a recorded recollection needs a record made while the matter was fresh (M.R.E. 803(5)), which a session seven months later is not. An unsworn statement is available at sentencing only (R.C.M. 1001).
+
+### 18.4 Whether the hypnotherapist would be an expert witness
+
+The hypnotherapist could be called. What matters is what the testimony would be allowed to cover.
+
+| What the hypnotist would say | Allowed? |
+|---|---|
+| What he said during the session | Not as proof that it happened. His own earlier statements are hearsay when the defense offers them. One survey of the cases reports that courts "have uniformly rejected the admissibility of out-of-court statements made while an individual is in hypnosis." *Greenfield v. Commonwealth*, 214 Va. 710 (1974), is an example |
+| That his recall is accurate, or that he was telling the truth | No. Nothing can separate a true hypnotic memory from a false one (18.2). Military courts also bar what they call human lie detector testimony, an opinion that a person was truthful about a fact in issue (*United States v. Knapp*, 73 M.J. 33 (C.A.A.F. 2014)). *Scheffer* (18.1) treats expert opinion offered to bolster an accused's credibility as something a rule may exclude |
+| How the session was conducted | Yes, to the judge, in deciding whether his testimony is reliable enough to be heard. This is where the hypnotist's own training and independence are examined |
+
+1. **An expert has to be qualified, and the method has to be reliable** (M.R.E. 702). The government would call its own expert, probably a research psychologist, and the research is on that side (18.2).
+2. **Courts look for a particular kind of hypnotist.** The safeguards in *Hurd* and the factors in *Zani* start with the same two things: a psychiatrist or psychologist trained in hypnosis, who is independent of both sides. In *Rock* the hypnotist was a licensed neuropsychologist.
+3. **"Hypnotherapist" is often not a licensed profession.** In Texas the statutory definition of the practice of psychology includes hypnosis (Occupations Code § 501.003), and a 1995 Attorney General opinion concluded that hypnotherapy for pay required a psychology license (DM-0321). A hypnotist outside those professions may hold no license at all. A federal appeals court upheld the exclusion of a plaintiff's testimony about memories that followed hypnosis. The hypnotist had no formal training in psychiatry or psychotherapy and, as I read the summaries, no record of the sessions had been kept (*Borawick v. Shay*, 68 F.3d 597 (2d Cir. 1995), a civil case).
+4. **A hypnotist he hires is not independent.** That is the second safeguard.
+5. **Privilege.** The military psychotherapist privilege covers a psychiatrist, clinical psychologist, clinical social worker or other licensed mental health professional, and communications made for the diagnosis or treatment of a mental or emotional condition (M.R.E. 513). A session with a lay hypnotherapist, held to recover memory for a trial, is probably neither. An expert engaged by counsel as part of the defense team is in a different position (M.R.E. 502; defense motions cite *United States v. Toledo*, 25 M.J. 270 (C.M.A. 1987), for this). Even then, if he testifies to what the session produced, the recordings are what the judge and the other side will examine. Section 7, point 8, notes that what goes to a testifying expert can reach the prosecutor.
+6. **What he says around a session is less protected than he might expect.** Courts have refused statements made in the hypnotic state from either side, including confessions. But a session run properly also records what he says before and after it, and those are ordinary statements. Anything in them that helps him cannot be offered by him. Anything that hurts can be offered against him as his own statement, if the government obtains the recording (M.R.E. 801(d)(2)). *Mustafa* (18.1) is a case in which statements an accused made after hypnosis were used at his trial, and in which, on the brief's account, the court did not require that the session had met safeguards.
+
+### 18.5 What it would cost
+
+1. **His testimony on belief would carry a label.** Everything he says about May 1 after a session can be described as hypnotically refreshed. The judge may hold a hearing on it first. The members or jurors would learn of the hypnosis in cross-examination, and could hear the government's expert explain what it does to memory.
+2. **There is a record of what he remembered before.** Where a court limits testimony after hypnosis, the usual line is what the person remembered before the session. For him that is on record: the interview that evening, the deck, and the points in this document on which he has said he does not recall (sections 13.4, 13.6 and 15). A memory of exactly those points, appearing after hypnosis, invites the comparison.
+3. **Memory hardening works against him as a witness.** Section 13.6 said that "I don't recall" is the safe answer where the records may go against him. After hypnosis he may no longer be able to give it honestly, because he will feel that he does recall. If a record then contradicts him, he will have been confidently wrong under oath.
+4. **It adds a version.** Sections 8.3, 13.6 and 15.4 count the points that have been given more than one way. An account given after hypnosis would be another, and the easiest one to attack.
+5. **It cannot be undone.** Once he has been hypnotized about these events, every later statement comes after it. He could not then choose to leave the hypnotic material out of his testimony, because he would not be able to separate it from the rest.
+6. **The recordings exist.** A session done properly is recorded from start to finish. A session done without recordings fails the safeguards (18.4).
+
+### 18.6 What could be done instead
+
+1. **Counsel takes down his present memory now, in full.** It is privileged. It fixes what he remembered unaided, before records, discussion or anything else changes it further. It is also the first thing a court would ask for if hypnosis were ever used.
+2. **The records.** Looking at a record to refresh memory is the ordinary, accepted method (section 16.6, on M.R.E. 612). Groups B and C of section 17.2 are the list.
+3. **A psychologist engaged through counsel, for one of two purposes.**
+   - *To explain memory to the fact-finder.* Why routine acts are not remembered one by one, and how a person keeps a fact and loses where it came from (section 11.2). That is expert evidence that fits his case, if counsel thinks the judge would admit it. It supports "I don't recall." It does not replace it.
+   - *To interview him without hypnosis.* The best-studied method is the cognitive interview. A 2010 review of the research found a large increase in correct details and a small increase in errors, compared with an ordinary interview (Memon, Meissner and Fraser, *Psychology, Public Policy, and Law*). The same review found that the benefit shrinks, and invented detail grows, as the time since the event lengthens. At seven months the gain may be modest. Whether to do it is for counsel.
+4. **Treatment is a separate matter.** Seeing a licensed clinician about the behavior he describes as out of control is worth doing for its own sake, and it bears on negotiation and sentence (section 7, point 7). Counsel should know before it starts, because the privilege has exceptions. If the clinician proposes hypnosis as part of treatment, counsel should be asked first. Hypnosis given as therapy can be raised against his testimony just as a memory session can, if it touches on the events. *Borawick* arose from hypnosis given as therapy.
+
+### 18.7 What this changes
+
+1. **Nothing in the assessment of the charges.**
+2. **One addition to section 7.** No hypnosis about these events before counsel has advised. If a session has already taken place, counsel should be told now, and any recording or notes should be kept.
+3. **The three questions, answered.** He may. It would not make his memory more accurate. It would matter only where a record confirmed it, and the records can be sought without it.
+4. **The order of work is unchanged.** Video first, forensic report second, account third.
