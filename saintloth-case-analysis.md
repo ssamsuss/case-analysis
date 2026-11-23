@@ -2,11 +2,11 @@
 
 **Basis and limits.** Built from two documents only: the defense slide deck ("Details for DFE with messages") and the Preliminary Hearing Officer (PHO) report of 10 Aug 2026. Not reviewed: the interview video, the full chat extraction, the ad, any forensic report. I am not a lawyer and this is not legal advice. Statements of law are my understanding, and defense counsel should confirm each one.
 
-**Updated 23 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
+**Updated 23 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
 
 ## 1. Bottom line
 
-*Current as of section 15.*
+*Current as of section 16.*
 
 **The charges**
 
@@ -20,28 +20,34 @@
 3. At 15:49 he meant to pick up a conversation with another woman from earlier that afternoon, and the message went to the undercover number. That number was not saved as a contact. He has described it as one of several unsaved numbers in the app. He does not recall seeing the April 30 messages. He now says her conversation had possibly been deleted, while many others were present (section 15.2).
 4. The location she gave was not the one he expected. He suspected a scam and asked for pictures.
 5. A second picture led him to take her for the woman on the profile, an adult. He did not connect the profile with April 30.
-6. What he told the agents that evening was, as I read his response, a generalization from how he usually thinks or acts, and it left out these details (section 13.2).
+6. At the hotel he still expected a scam. "Cash right?" was meant for someone else, and the offer of extra for the car was meant to expose a scam. At no time on May 1 did he believe he was texting a minor (section 16.1).
+7. What he told the agents that evening was a generalized and inaccurate version, given when the details were confused in his mind. He says he told them to look at his phone, and that he took one question as hypothetical (sections 13.2 and 16.5).
 
 **What supports it**
 
 - The refusal. It is the government's own exhibit, and it shows what he did the one time he believed she was a minor.
 - Nothing was said about age on May 1.
+- The two days' conversations read differently, and the log shows it without his testimony (section 16.1).
 - Two records made before the arrest: the profile views on April 30, and the look at other texting apps at 14:01 to 14:04 on May 1 (sections 13.2 and 13.5). They show what he did. What he meant by it still comes from him.
 - The profile states an age in writing, and a dated college record supports it. That its owner is an adult is close to beyond dispute (sections 12.1 and 13.3).
 - If her conversation was still in the list, the mistake has an ordinary mechanism: conversations listed by number only, and brought back whenever the app was reinstalled (sections 12.2 and 14.2).
 - The provider's help pages bear out what he said about blocking in this app (section 14.1). A dated record that he read them before April 30 would show he knew it then (section 15.1).
 - As relayed, his Google activity shows that removing the app was his routine before April 30. If so, the removals say nothing about her (section 14.3).
+- He says he reverse-searches the photos in ads as a routine. Earlier searches in his Google activity would make the April 30 search ordinary (section 16.1).
+- He says he told the agents to look at his phone. The video will show whether he did (section 16.5).
 - His first messages on May 1 read more naturally as continuing an arrangement than as returning to someone he had refused (section 10.1).
 
 **What stands against it**
 
 - On his own account he had singled out her number that afternoon, less than two hours before he texted it if the app search marks the moment. He considered blocking it, changing apps and deleting her conversation, and cannot say that he did any of the three (sections 13.5 and 15.3).
 - How the message reached her number has been given two ways. If he opened her conversation from the list, the April 30 exchange was in it. If the conversation had been deleted, he entered her number some other way, and the obvious source is her ad (section 15.2).
-- The interview statement, as relayed, treats her as one person on both days (sections 8.2 and 13.2).
+- The interview statement, as relayed, treats her as one person on both days (sections 8.2 and 13.2). On his own recollection he told the agents neither that she was an adult nor that he had texted the wrong person (section 16.5).
 - The profile's age is hers only if he believed its owner was the person texting, and until the second photo he doubted the pictures were real (sections 11.3 and 13.3).
 - The account needs him to have remembered the profile and forgotten why he looked it up (section 11.2).
 - What he did at the hotel. The removal of the apps minutes after he described his car counts for less if removal was his routine, but its timing still draws questions (sections 9.3, 13.1 and 14.3).
-- Several points have now been given in more than one version (sections 8.3, 13.6 and 15.4).
+- He says that at the hotel he still expected a scam. If that means the pictures were not hers, the profile's age told him nothing (section 16.4).
+- His answers to the cross-examination questions give ten of his messages and acts a meaning other than the natural one, for seven kinds of reason (section 16.2).
+- Several points have now been given in more than one version (sections 8.3, 13.6, 15.4 and 16.5).
 
 **What it still asks a fact-finder to accept on his word**
 
@@ -49,11 +55,11 @@
 2. That he remembered the profile but not the reason for the search.
 3. That what he told the agents that evening was not what he had thought.
 
-Each is possible. Needing all three is the difficulty. Records can take some of the weight off the first, and the video may do the same for the third.
+Each is possible. Needing all three is the difficulty. Records can take some of the weight off the first, and the video may do the same for the third. His answers in section 16 add more points of the same kind. Most of them concern whether he agreed to pay, which Specs 1 and 2 do not turn on (section 16.3).
 
 **What will decide it**
 
-1. The interview video: the exact words, and what he had been told before he said them.
+1. The interview video: the exact words, the question asked just before them, what he had been told by then, and whether he told the agents to look at his phone (sections 8.2 and 16.5).
 2. Whether her conversation had been deleted, how her number was selected at 15:49, what the screen showed, and what he sent in the other woman's conversation after that time (sections 12.2, 13.4 and 15.2). The provider's copy may no longer exist (section 14.2).
 3. Whether any record from before the arrest shows why he looked at other apps (sections 13.5 and 14.1).
 4. The second photo and the advertisement (sections 11.2 and 11.3).
@@ -96,7 +102,7 @@ Each is possible. Needing all three is the difficulty. Records can take some of 
 
 ### Weaknesses
 
-1. **Too many theories, and they fight each other.** A panel that hears all of them is likely to believe none. Section 8.3 explains this in full. Section 10 tests the single account the defense has since put forward.
+1. **Too many theories, and they fight each other.** A panel that hears all of them is likely to believe none. Section 8.3 explains this in full. Section 10 tests the single account the defense has since put forward. His answers to the cross-examination questions bring several of them back (section 16.2).
    - "I didn't realize it was the same person" conflicts with "my image search told me she was an adult." The second means he recognized the ad he had researched right after being told 15.
    - "The photos showed an adult" conflicts with "I knew the photos were fake." Fake photos say nothing about who is texting.
    - "I did not intend to meet anyone" conflicts with the drive, "Cash right?", "Can you walk me upstairs?" and "Ill give extra."
@@ -123,9 +129,9 @@ Each is possible. Needing all three is the difficulty. Records can take some of 
 | April 30 refusal | He knew her age | He refuses minors | Helps him. Then they ask: "So why go back?" |
 | "Are you still around?" 23 hours later | Deliberate return | Meant for another woman; it went to the wrong one of several unsaved numbers | A familiar kind of mistake, so they will consider it. Then it depends on whether her conversation had been deleted, how the number was selected and what the screen showed (sections 12.2 and 15.2) |
 | No age question on May 1 | He already knew | No reason to ask | Follows whichever story they already believe |
-| "Ok. Where at?", "Cash right?", the drive | Agreed and acted | "Ok" answered "we have a room," not the price; scam testing | Reads as intent to buy sex. The room reading is arguable for "Ok" alone and does not reach "Cash right?" (section 9.5) |
+| "Ok. Where at?", "Cash right?", the drive | Agreed and acted | "Ok" answered "we have a room," not the price; "100" read as a time; "Cash right?" meant for someone else | Reads as intent to buy sex. The room reading is arguable for "Ok" alone (section 9.5). The two newer readings are likely to cost more than they gain (section 16.1) |
 | "Yes" / "Just you….then both" | Agreed to the act; chose the 15-year-old | Answered "coming?"; undecided on 2-for-1 | Timing may earn doubt on "Yes." "Just you" reads as sexual interest in that persona |
-| "tinted windows… carplay… Ill give extra" | Hidden sex with a child, for more money | Afraid of the room; a bluff | Most damaging text. "Bluff" will not be believed; "afraid to go in" might |
+| "tinted windows… carplay… Ill give extra" | Hidden sex with a child, for more money | Afraid of the room; a test to expose a scam | Most damaging text. A bluff or test will not be believed unless he can say what he meant to do once she agreed; "afraid to go in" might (section 16.1) |
 | Image search to an adult profile that states an age of 23, with a posted 2021 college email | Still focused on her after "15"; the owner is in Rhode Island, so the photos were borrowed | All he saw was an adult, by her own stated age | They will accept that the owner is an adult. The question is whether he took her to be the person texting (sections 11.3, 12.1 and 13.3) |
 | Other recipients, stock phrases, hotel lookups | Prolific buyer | Lost track | Makes a mix-up plausible; costs sympathy |
 | Deleted threads, searches for second-number apps, app removal | Consciousness of guilt | Removing the app was his routine before April 30; the app searches were to avoid texting her number by accident; adult prostitution is illegal too | If the records show the routine, the removals stop looking like a reaction to her, though the timing at 17:02 still draws questions. The reason given for the app searches cuts both ways (sections 13.5, 14 and 15.1) |
@@ -156,10 +162,13 @@ Each is possible. Needing all three is the difficulty. Records can take some of 
 - Carplay as a "bluff test."
 - "Indifferent" to whether the encounter was genuine.
 - Addiction as the explanation for May 1.
+- Reading "100" as a time (section 16.1).
+- "Cash right?" as meant for someone else, unless the other conversation shows it (section 16.1).
+- "It seemed harmless at the time," beside "nervous" and "paralyzed" (section 16.4).
 
 ## 6. Likely cross-examination
 
-Each entry gives the question, an honest shape for the answer, the prosecutor's rebuttal, and the reply. Every answer is conditional on being true. Answers 2 to 5 assume he did not know on May 1 that he was texting the person from April 30. The interview statement in section 8 suggests he did. If he did, those answers are not available to him. Section 10.6 lists the questions the later account will draw. Section 11.6 adds those raised by what he remembered of the profile. Section 12.4 adds those raised by the college email and the unsaved number. Section 13.4 assesses the answers he has since given to the questions in 12.4. Section 14.4 adds those raised by the provider's help pages and the record of the habit. Section 15 assesses his answers to those in 14.4.
+Each entry gives the question, an honest shape for the answer, the prosecutor's rebuttal, and the reply. Every answer is conditional on being true. Answers 2 to 5 assume he did not know on May 1 that he was texting the person from April 30. The interview statement in section 8 suggests he did. If he did, those answers are not available to him. Section 10.6 lists the questions the later account will draw. Section 11.6 adds those raised by what he remembered of the profile. Section 12.4 adds those raised by the college email and the unsaved number. Section 13.4 assesses the answers he has since given to the questions in 12.4. Section 14.4 adds those raised by the provider's help pages and the record of the habit. Section 15 assesses his answers to those in 14.4. Section 16 assesses the answers he has since given to questions 4 to 18.
 
 1. **"On April 30 you were told she was 15, and you understood?"**
    - Answer: "Yes. That's why I said no."
@@ -197,7 +206,7 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
 9. **"'I'm a little nervous.' Nervous because she was 15."**
    - Answer: "Nervous because buying sex is illegal, could end my career, and could have been a robbery or police."
    - Rebuttal: "You searched for stings and burner apps that day."
-   - Reply: "For the same reason." He must know the exact search terms before trial. He has since given a different reason for the app search (section 13.5), so this reply now fits only the sting search.
+   - Reply: "For the same reason." He must know the exact search terms before trial. He has since given a different reason for the app search (section 13.5), so this reply now fits only the sting search. He has since changed the answer above it to a scam, which changes what this reply says (section 16.1).
 10. **"You offered a 15-year-old extra money for sex in a car with tinted windows."**
     - Answer, if true: "I was afraid to go into that room, so I asked her to come to the car. I believed she was an adult."
     - The bluff version draws: "A bluff with more money? And when she agreed, you described your car."
@@ -357,7 +366,7 @@ The interview adds a seventh: I knew who she was, felt sorry for her, and though
 4. **Scam and No intent against what he did.** A man who thinks he is texting a scammer and does not intend to meet anyone does not drive 20 minutes, ask "Cash right?", ask to be walked upstairs and offer extra for the car. Slide 8 also calls him "indifferent" to whether the encounter was genuine, which is different from believing it was fake.
 5. **No intent against Adult.** Adult explains why meeting her would not be the charged crime. No intent denies wanting to meet at all. A man who believed he was meeting an adult has no need for the second, and offering both suggests neither is firm.
 6. **"Give money and leave" against the rest.** Slide 9 says that when signs pointed to a real person he "thought maybe I should only give money and leave." The interview says much the same. That thought makes little sense toward an adult escort or a scammer. It makes sense toward someone he believed he should not touch, which is what the other slides deny.
-7. **The misreadings.** There are three, and each falls on exactly the message that hurts: "on" read as "or," "will" read as "we'll," and "Ok" answering only the earlier line. One misreading is believable. Three in a row, all in his favor, look like explanations written afterwards. They also leave the problem in place: on slide 7's own account, "Just you….then both" was his answer to the two-girl offer.
+7. **The misreadings.** There are three, and each falls on exactly the message that hurts: "on" read as "or," "will" read as "we'll," and "Ok" answering only the earlier line. One misreading is believable. Three in a row, all in his favor, look like explanations written afterwards. They also leave the problem in place: on slide 7's own account, "Just you….then both" was his answer to the two-girl offer. A fourth has since been offered: "100" read as a time (section 16.1).
 8. **Slide 1's argument turns around.** It says that if he had known of the previous day's age, he would have asked a question to clear up the discrepancy. The interview indicates he did know who she was, and he asked nothing. On the deck's own reasoning, that silence now counts against him.
 9. **The interview against Wrong person and Scam.** "She" is the same person on both days, and nobody feels sorry for a scammer.
 
@@ -467,7 +476,7 @@ The exchange, from the UC log:
 - It does not touch Specs 1 and 2, which turn on who he believed she was.
 - The reading concedes that he wanted to know where the room was. The next question is "Why?", and the answer collides with "I did not intend to meet anyone."
 
-**How to use it.** As a narrow, accurate correction: the message is ambiguous, and the PHO treated it as a firm agreement to a price. Say it once and move on. It should not be paired with "I didn't understand 2 for 1," and it should not be offered as one of three misreadings (section 8.3, point 7). If the Spec 3 conduct is conceded for credibility (section 5, point 1), this point may not be worth raising at all.
+**How to use it.** As a narrow, accurate correction: the message is ambiguous, and the PHO treated it as a firm agreement to a price. Say it once and move on. It should not be paired with "I didn't understand 2 for 1," and it should not be offered as one of three misreadings (section 8.3, point 7). If the Spec 3 conduct is conceded for credibility (section 5, point 1), this point may not be worth raising at all. He has since paired it with a reading of "100" as a time (section 16.1).
 
 ### 9.6 Additions for the forensic examiner, through counsel
 
@@ -645,10 +654,10 @@ No answer shapes are offered. Each answer has to be what he remembers. Questions
 
 **What it adds**
 
-1. **A belief for the last part of the afternoon.** On this detail, from the second photo onward he took the person he was texting to be the woman on the profile, an adult. That covers the drive, the arrival, "Cash right?" and the carplay message. On my understanding of attempt law, an adult belief held at those times answers the charges that rest on them. Whether it has to be reasonable as well as genuine is an open question (end of 11.3).
+1. **A belief for the last part of the afternoon.** On this detail, from the second photo onward he took the person he was texting to be the woman on the profile, an adult. That covers the drive, the arrival, "Cash right?" and the carplay message. On my understanding of attempt law, an adult belief held at those times answers the charges that rest on them. Whether it has to be reasonable as well as genuine is an open question (end of 11.3). His later answers say that at the hotel he still expected a scam (section 16.4).
 2. **It does not reach the earlier messages.** "Yes" and "Just you….then both" were sent at 15:59 to 16:00, before either photo. For those, the account still depends on step 1, that he thought he was texting a woman from earlier that day.
 3. **It supplies the ending** that section 10.8 said the account needed.
-4. **It fits texts the deck struggled with.** A man who believes he is about to meet an adult whose photo he has checked would ask "Cash right?" and might offer extra for the car. No misreading or bluff is needed to explain them.
+4. **It fits texts the deck struggled with.** A man who believes he is about to meet an adult whose photo he has checked would ask "Cash right?" and might offer extra for the car. No misreading or bluff is needed to explain them. He has since explained both texts in other ways (section 16.1).
 
 **What it costs**
 
@@ -876,12 +885,12 @@ No answer shapes are offered. Section 13.4 assesses the answers since given.
 3. **Why the order matters.** By the time of the arrest he had every reason to explain himself, so what he has said since does little to support his own testimony. As I understand M.R.E. 801(d)(1)(B), an earlier consistent statement answers a charge of recent fabrication only if it was made before the motive to fabricate arose. What he did before the arrest is not open to that objection, which is why the two records are worth so much.
 4. **A third record would be worth more than either.** Any trace on the phone, between the second photo and his arrival on May 1, of the profile being opened again (section 10.4, point 5).
 
-**The explanation of the statement.** I read "extrapolated usual trend, without included core details" to mean this: when the agents asked, he described what he would usually think or do, and left out what had happened that afternoon, which was the wrong conversation, the scam suspicion and the photo. If he meant something else, the rest of this subsection may not apply.
+**The explanation of the statement.** I read "extrapolated usual trend, without included core details" to mean this: when the agents asked, he described what he would usually think or do, and left out what had happened that afternoon, which was the wrong conversation, the scam suspicion and the photo. If he meant something else, the rest of this subsection may not apply. He has since put it in his own words: a generalized version, stated inaccurately (section 16.5).
 
 1. **It describes something that happens.** People asked why they did something often answer from a general idea of themselves, and do not notice that they are not remembering. The best-known study is Nisbett and Wilson, *Psychological Review* (1977). Arrest and questioning make it more likely, and so does a question that already contains the premise.
 2. **The words as relayed are not general.** "I refused" is an event. "The next day" is a date. "She" is one person. "I thought about just giving money and leaving" reports a thought. A general answer sounds like "I usually" or "I would have." The video will show which this was. Hedges such as "I guess" or "I must have" would support him. So would an agent supplying "the next day" or "she" before he used them.
 3. **If paying and leaving is something he has thought of or done before, with adults, that fact matters more than the word "extrapolated."** Section 8.2 said the thought fits best with someone he believed he should not touch. That inference weakens if he has had the same thought about adults. It can be used only if it is true, and it needs support from something other than his word. It would also bring his history into the trial, which counsel has to weigh (section 7, point 5).
-4. **Slide 9 has to be read with it.** Slide 9 presents "give money and leave" as a thought he had at the hotel, and section 10.5 treated it as a real memory. If the interview was a generalization, the defense has to say whether slide 9 is one too.
+4. **Slide 9 has to be read with it.** Slide 9 presents "give money and leave" as a thought he had at the hotel, and section 10.5 treated it as a real memory. If the interview was a generalization, the defense has to say whether slide 9 is one too. He has since said he took the question as hypothetical, which is a third description of the same words (section 16.5).
 5. **"Without the core details" is the government's point.** His response accepts that the statement left out the mistake and the profile. On his account, by the time he arrived he believed he was meeting the woman on the profile, and not the woman he had set out to text. Question 15 in section 6 asks why he told the agents neither. The explanation now offered answers a different question: why what he did say was inaccurate.
 6. **There are two possibilities, and they lead to different testimony.**
    - He knew that evening that he had texted the wrong person, and did not say so. Then the omission needs a reason, and the video may supply one (section 10.5, point 3).
@@ -964,7 +973,7 @@ His memory should not be what settles this. The provider's records will show whi
   | After 16:43 | Interest in her that continued after the refusal |
 
 - On any of these, he went back to it. The profile was viewed at 16:54 and the account's handle was searched at 16:58, both after the refusal. The question still applies to those minutes, and the answer has to be his real reason.
-- If the records show him searching the photos in other ads before April 30, that is a routine, and the question loses most of its force.
+- If the records show him searching the photos in other ads before April 30, that is a routine, and the question loses most of its force. He has since said he reverse-searches photos often (section 16.1).
 
 **6. Why did he think a woman from Rhode Island was in Belton?**
 
@@ -1045,9 +1054,12 @@ Sorted from everything relayed so far.
 |---|---|---|
 | How the May 1 message came to be sent | Slide 2(e): he saw the ad's picture again and contacted it. Slide 3: it was meant for someone else | Meant for someone else. Section 12: he opened the wrong conversation in a list of unsaved numbers. If her conversation had been deleted, her number was entered some other way (section 15.2) |
 | The April 30 conversation | Slide 3: possibly deleted. Section 12: in the app as one of several unsaved numbers | He does not recall deleting it (13.4). Possibly deleted, with many others present (section 15.2) |
-| The app search at 14:01 to 14:04 | Timeline: no reason given. Slide 3, as I noted it: removing and replacing these apps out of shame | To avoid messaging her number by accident |
+| The app search at 14:01 to 14:04 | Timeline: no reason given. Slide 3, as I noted it: removing and replacing these apps out of shame | To avoid messaging her number by accident (13.5). "For the same reason" as his nervousness, a scam (section 16.1) |
 | When the image search was made | Slide 2: 16:42 to 16:50. Two-day timeline: 16:54, after the conversation | During the conversation, with a break |
-| "Give money and leave" | Slide 9: a thought he had at the hotel | The interview statement was a generalization |
+| "Give money and leave" | Slide 9: a thought he had at the hotel | The interview statement was a generalization (13.2). An answer to a question he took as hypothetical (section 16.5) |
+| "2 for 1 tonight 100" | Slide 5: "2 for 1" did not make sense until later | A proposition for two that he did not answer at first; "100" read as a time (section 16.1) |
+| "Cash right?" | The deck, as section 4 recorded it: scam testing | Meant for someone else (section 16.1) |
+| What he believed at the hotel | Slide 9: he did not intend to meet anyone. Section 11: she was the woman on the profile, an adult | He expected a scam, and never thought she was a minor (section 16.4) |
 
 Some of these are refinements and not contradictions, and the newer version is usually the more specific and the easier to check. Each is still a "which is it?" question, and the deck is a written record of the earlier versions. Section 8.3 explains the cost. Counsel should settle which slides are withdrawn before anything more is disclosed.
 
@@ -1340,3 +1352,267 @@ These add to section 13.7.
 5. **Section 1's three points to accept on his word remain,** with the first reworded to cover both forms.
 6. **Where the next round belongs.** These answers were given without the records, and one of them moved the account. Each written version can later be set beside the next (sections 10.5 and 11.5). The questions noted in 15.1 are better answered with counsel, after the video and the forensic report, than here.
 7. **The order of work is unchanged.** Video first, forensic report second, account third.
+
+## 16. Addendum 9, 23 Nov 2026: his answers to the cross-examination questions in section 6
+
+**What this covers.** Answers supplied after section 15 to questions 4 to 18 of section 6, and to the rebuttals listed under them. They are recorded as relayed. Questions 1 to 3 were not answered. Question 3, where the number came from on May 1, is the one section 15.2 left open. Several answers keep the wording of section 6, and 16.6 says which. I have not seen the video, the forensic report or the other conversations.
+
+**Short version**
+
+- The answers that work best are the plainest. He never believed on May 1 that he was texting a minor. The two days' conversations read differently. The one time a minor came up, he refused. His "Yes" was sent two seconds after the line it is said to answer. The last three rest on exhibits.
+- Most of the others explain one message each, and the explanations are of different kinds. This round adds a second message meant for someone else ("Cash right?") and a fourth misreading ("100" as a time). Section 16.2 puts them in one table. Nearly every message that hurts now has its own explanation, which is the problem section 8.3 described.
+- Most of that effort goes into denying that he agreed to pay for sex. That is Spec 3, which does not depend on age, and his other answers concede the conduct. It spends credibility he needs for the one question that decides Specs 1 and 2.
+- Two answers say that at the hotel he still expected a scam. Section 11.2 recorded that from the second photo he took her to be the woman on the profile. Whether both can be true depends on what he means by a scam.
+- On the interview there are two new details, and the video can check both. He says he told the agents to look at his phone. He says he took one question as hypothetical. He also says he never told them she was 23.
+- "These details were unlikely to be instantly recalled" is given three times. It can explain forgotten details. The two things missing from the interview are not details. And the explanations he now gives are about what he was thinking, which no record shows.
+- One sentence, as written, says the opposite of what he appears to mean (question 5).
+
+### 16.1 The answers
+
+The numbers are those of section 6. Each answer is recorded as relayed and then assessed for how it would be received. No wording is suggested.
+
+**4. He checks photos and asks for verification, but did not notice the number?**
+
+*As relayed: numbers can be changed, like the one he was using. He frequently reverse-searches images, with results.*
+
+- The first half is a real reason. In this setting a number identifies nobody. The provider's own pages say a user may be able to change his number. A man who knows that checks pictures and not numbers.
+- It moves the question from the number to the picture, and that is where the difficulty lies. If pictures are how he tells people apart, then on May 1 he identified her by her pictures. On his account he matched the second one to the profile he had found by searching the April 30 ad (section 10.4).
+- His own number did not change between the two days. The undercover log is one conversation with one sender.
+- The second half is new and useful. If he reverse-searched the photos in ads as a routine, the search on April 30 was routine too, and not a check on what she had just said (section 13.4, answer 5). His Google activity recorded the April 30 search, so it should show the earlier ones.
+- It draws two questions. What did he do when a search showed that an ad's photo belonged to someone else? And if he searched as a rule, where is the search on the photos she sent on May 1? The timeline shows none (section 10.4, point 5).
+
+**5. He never asked her age on May 1.**
+
+*As relayed: "I had no reason to think it was different from posted age; so there was reason to address age discrepancy the way i asked for second photo when i thought the first was fake."*
+
+- As written, the second half says there was a reason to address an age discrepancy. I take it that a "no" is missing and that he means this: he saw no discrepancy about age, so he raised none, and when he did see one, in the first photo, he challenged it.
+- Read as written, the sentence says that age was on his mind on May 1 and that the photo request was how he dealt with it. That is the government's case in his own words. The sentence should not be left in this form in anything he keeps.
+- On my reading it is slide 1's argument, and it is a fair one. His conduct shows that he questions what looks wrong. He questioned the photo. He did not question her age.
+- The government's answer is that he checked everything except the one thing he did not want answered (section 11.3, on deliberate avoidance).
+- "Posted age" has to be pinned down. Posted where?
+  - On the ad of the woman he meant to text. That fits the mistake, up to the second photo.
+  - On the profile. That fits the time after the second photo, and the profile came from the April 30 search.
+  - On the undercover ad. Then he knew on May 1 which ad he was answering, which is slide 2(e).
+- If the undercover ad gave an adult age, that matters for other reasons (sections 11.3 and 11.4). The ad is still not in evidence.
+- "No reason to think" assumes he did not know whose number it was. A man who knew had been given a reason the day before. So this answer stands or falls with the first step of the account.
+
+**6. "2 for 1 tonight 100." "Ok. Where at?"**
+
+*As relayed: no. He was answering "we have a room." Later in the conversation the two-girl proposition was repeated, which he took to be because he had not answered it the first time.*
+
+- This is the reading in section 9.5. The new point is a fair one: she raised it again, which suggests she had not taken "Ok" as his answer.
+- In the excerpts I have seen, the only later mention of two before his reply is "on both of us lol" at 15:59:19. If that is the repeat he means, then "Just you….then both" at 16:00:22 was his answer to it. So on his own account he answered the proposition six and a half minutes after "Ok," and the answer was not no.
+- It also shows that he read the first line as a proposition for two. That bears on the next answer.
+
+*To the rebuttal that he read the price and never refused it. As relayed: he had not asked for a price, so he read "100" as a time, 0100, because "tonight" suggests later.*
+
+- This is the answer most likely to cost him. Section 9.5 said the "Ok" point should not be paired with a claim not to have understood the offer. It is also a fourth misreading (section 8.3, point 7).
+- His conduct does not fit it. He had just offered to send a car. He asked where, checked the distance, and by 16:13 was at a Walmart on the road to Belton. He arrived at 16:48. Nobody sets off at four in the afternoon for an appointment he believes is at one in the morning.
+- His own later text does not fit it. "Ill give extra" means extra on top of a price. The only figure in the May 1 conversation is "100."
+- The day before, in the same conversation, a bare number was a price: "50."
+- "2 for 1" is how a price is put. He has done this before, and a panel will know how these messages read.
+- The sentence is reasoning. He had not asked for a price, so it read as a time. It is not put as a memory of how he read the line then (section 15.4).
+- One part is true and can be said without the rest. At 15:53 in the afternoon, "tonight" does not mean now.
+
+*To the follow-up, why he wanted to know where the room was. As relayed: it is habitual to ask where, and then to check the distance.*
+
+- The records bear this out. He asked where, searched the hotel at 15:57, and wrote "Its 20 min away from me" at 15:58. He had looked up hotels in two other towns at 15:18.
+- It describes what he does. The question was why, and the habit is that of a man deciding whether to go. It fits meeting an adult. It does not fit "I did not intend to meet anyone," and it sits badly with a meeting at 0100.
+
+**7. "u gonna cum" / "on both of us lol" / "Yes"**
+
+*As relayed: the answer in section 6, word for word. To the rebuttal that he then wrote "Just you….then both": as earlier, he had not replied to the original two-person proposition.*
+
+- The timing is the strongest point he has on any single message. It is in the log, and it does not depend on his word.
+- The reply does not meet the rebuttal, which was that he never corrected "Yes." It says what "Just you….then both" was: his answer to the proposition. That concedes that by 16:00:22 he understood what was offered and answered it.
+- Whom "you" meant is then the question, and it is the question of Specs 1 and 2.
+
+**8. He drove 20 minutes and asked "Cash right?"**
+
+*As relayed: the actual duration was 36 minutes, and not directly to the location. "Cash" stems from a separate conversation he had. In a later answer: "Cash right?" was intended for someone else.*
+
+- "20 minutes" is his own figure, from his text at 15:58. I cannot match 36 minutes to the timeline with certainty. It may be the two legs of the drive. The timeline has him leaving the Walmart at 16:23 and on scene at 16:48, which is 25 minutes. The figure should come from the records.
+- The correction helps the prosecutor. A longer trip with a stop gave him more time to turn back. The gas stop was in Killeen, as I understand the address, and Harker Heights lies on the main road from there to Belton. A map is likely to show that the stop was on the way.
+- The stop brings back a question from section 9.3: what he bought, and whether he took out cash. His bank records and the arrest inventory will show it. If he drew cash between 16:13 and 16:23, "Cash right?" at 16:51 was about that cash.
+- "Meant for someone else" can be read two ways.
+  - *He typed it into the wrong conversation.* That is a second message sent to her by mistake within about an hour. It came less than three minutes after she sent the photo of the door, while he was parked at her hotel. It also means he was arranging payment with someone else at that moment. He will be asked who, and where they were to meet.
+  - *The subject came from the other conversation.* Then it was a question to her about how he would pay, and it concedes payment.
+- The log decides part of this. If she answered "Cash right?" and he carried on without saying it was meant for someone else, he did not treat it as a mistake. The other conversation decides the rest: whether payment was being discussed in it at 16:51.
+- A second wrong message weakens the first. One is a familiar mistake (section 12.2). Two, each falling on a message that hurts, is a pattern a fact-finder will not accept without the other conversation in evidence.
+
+*If he says he was testing for a scam: why drive there, and why offer extra? As relayed: it seemed harmless at the time. Offering extra was an attempt to expose a scam.*
+
+- "Harmless" does not sit with the next answer, that he was nervous because he expected a scam, or with "paralyzed" (16.4).
+- The test has a logic. A real person will come down to the car, and a scammer will make excuses. The money is what makes it worth her while.
+- On that logic she passed. She wrote "ok will be down what car u in," and he answered "Black suv." So the test told him that someone real was coming. Section 6 asked what follows: "And when she agreed, you described your car." No answer has been given to that. It is the part that matters, because it goes to what he intended at 16:59.
+- Section 4 said a bluff would not be believed and that fear of going into the room might be. That is still my assessment. "Can you walk me upstairs?" and the request to come to the car both fit a man who wanted to see who was there before he went in.
+
+**9. "Im a little nervous."**
+
+*As relayed: nervous because he expected a scam. To the rebuttal about the searches for stings and second-number apps: for the same reason.*
+
+- Section 6 had a different answer here: nervous because buying sex is illegal, could end his career, and might be a robbery or the police. That answer explained his caution without any reference to age. It was easy to believe because it admitted what he was doing. The new answer drops it.
+- People do not usually tell a suspected scammer that they are nervous. They tell the person they are about to meet.
+- "For the same reason" was written for the earlier answer. With the new one it says that he searched for stings and for second-number apps because he expected a scam. Neither fits.
+  - The app search was at 14:01 to 14:04. On his account the suspicion began when she named Belton, after 15:54.
+  - He has given the app search a different reason, her number (section 13.5). This is the third.
+  - A sting is the police, and a scam is not (section 10.3, point 5). A search for signs of a police operation shows that he thought the police might be at the other end. The government will say that a man who thinks so and goes anyway has decided to take the chance.
+
+**10. "You offered a 15-year-old extra money for sex in a car with tinted windows."**
+
+*As relayed: not true. Not once on May 1 did he believe he was texting a supposed minor. The dialogue is drastically different when he thought he was talking to an adult as opposed to a minor.*
+
+- This is the center of his defense, and the best answer in the set. It is a direct statement of what he believed, and only he can give it.
+- The comparison is one a fact-finder can make from the exhibits. On April 30, once age was mentioned, he refused and told her to change her life. Nothing like that appears on May 1. Counsel can make the point from the log without his testimony, so it does not depend on whether he is believed.
+- The government's answer: the May 1 conversation reads like April 30 before she gave her age. On its theory that is the point. He went back to treating her as he had before she told him.
+- The answer does not take up the car or the money, and it does not need to. What he believed is the issue. If he is believed on that, the car and the money are Spec 3.
+
+**11. He removed the app in the parking lot.**
+
+*As relayed: he deletes that app and those threads out of shame, and had many times before, because he felt out of control. To "But you didn't drive away": he felt paralyzed.*
+
+- "Those threads" is still in the answer. On his own answers many of the April 30 conversations were still there on May 1 (sections 14.3 and 15.2). The records support removing the app as a routine. They do not yet support deleting conversations as one.
+- "Out of control" is honest, and it will matter at sentencing. On the findings it is also the government's theme: the urge that overrode Thursday's refusal (section 3).
+- "Paralyzed" has to answer one question: by what? He has said it seemed harmless, that he expected a scam, and that he believed she was an adult. None of those is a reason to freeze. The government will supply one. If his reason was shame at what he was doing at all, that is his answer, and only he can give it.
+- The time of the arrest may make this unnecessary. If he was arrested a minute or two after 17:02, he had no time to drive away. The arrest time is still not in anything I have seen (section 9.1).
+
+**12. "I refused and thought the next day she just needed money."**
+
+*As relayed: the details had become convoluted in his head, and he gave an inaccurate, generalized version. What he said was to just "look at my phone." Asked where on the recording he says she was 23: at no time was that stated, only "look at my phone."*
+
+Section 16.5 deals with this.
+
+**13. If he thought about giving her money and leaving, why "Just you….then both," "Cash right?" and "Ill give extra"?**
+
+*As relayed: those are different questions at different times. The first was his reply after not replying earlier. "Cash right?" was intended for someone else. "Ill give extra" was intended for a purported scammer. These details were unlikely to be instantly recalled during the interview. To the follow-up, why give money and leave at all: he understood the question as hypothetical.*
+
+- The question was not what each text meant. It was that none of the three fits a man who meant to hand over money and leave. Three separate explanations do not answer that. They show that each text needs one.
+- His answer to question 12 goes further than these three explanations. If the interview statement was inaccurate, giving money and leaving was never his plan, and the three texts have nothing to contradict. Slide 9 cannot then stand beside it, because it gives the same thought as one he had at the hotel.
+
+**14 and 15. His memory that evening, and what he did not tell the agents.**
+
+*As relayed, to both: these details were unlikely to be instantly recalled during the interview. He keeps part of the answer from section 6: he is pointing to the phone records, not to his memory.*
+
+Section 16.5 deals with these.
+
+**16. He asked for a peace sign "so I know real," so the photos told him nothing.**
+
+No answer was given. His answers to questions 8 and 9 make this one harder (16.4).
+
+**17. How many times has he paid for sex?**
+
+*As relayed: the answer in section 6, unchanged.*
+
+- His other answers already tell the fact-finder that it was often: "habitual," "frequently," "many times before." Counsel may be able to keep his history out (section 7, point 5). Explaining his conduct by his habits brings it in. That is counsel's decision, and it should be made before he gives any of these answers.
+
+**18. Addiction.**
+
+*As relayed: the answer in section 6, with an addition. The one time he read that a minor was involved, he refused.*
+
+- The addition is his best fact, used where it belongs.
+- "Careless about who I was texting" fits the mistake. A prosecutor will try to turn "careless" into "did not care," which is slide 8's "indifferent" (section 11.3, on deliberate avoidance).
+
+### 16.2 One explanation for each message
+
+| On May 1 | How it reads | His explanation | Kind |
+|---|---|---|---|
+| "Are you still around?" | A return to her | Meant for another woman | Wrong recipient |
+| "Ok. Where at?" after "2 for 1 tonight 100" | Going along with the offer | He was answering "we have a room"; "100" read as a time | Reading of the text |
+| "Yes" | Agreeing to the act | He was answering "are you coming?" | Reading of the text, supported by the timing |
+| "Just you….then both" | Choosing her, then both | His answer to the repeated proposition | Not disputed |
+| "Im convinced lol" | Satisfied by the photo | Sarcasm | Tone |
+| "Cash right?" | Confirming how he would pay | Meant for someone else | Wrong recipient |
+| "Im a little nervous" | Said to the person he was about to meet | He expected a scam | Scam |
+| "I have tinted windows if you can carplay. Ill give extra" | More money for sex in the car | A test to expose a scam | Scam |
+| "Black suv" | Telling her where to find him | None given | |
+| Removing the apps at 17:02 | Getting rid of evidence | Habit and shame | Habit |
+| Staying in the car park | Waiting for her | He felt paralyzed | State of mind |
+| The interview that evening | He knew who she was | A generalized, inaccurate version; a hypothetical question | Memory |
+
+1. **Taken one at a time, several of these are possible.** The timing on "Yes" is good. Sarcasm is plausible. Removing the app as a habit can be proved.
+2. **Taken together they are the problem.** Ten of the twelve are given a meaning other than the natural one, for seven kinds of reason. A fact-finder does not weigh them one by one. He asks how likely it is that so many messages meant something other than what they say, each for a different reason. The government needs one explanation for all twelve.
+3. **This is the list section 8.3 warned about, and it is longer.** The single account in section 10 was an improvement because it let most of these go. These answers bring them back and add two.
+4. **A witness with an answer for everything is believed less than one who concedes what is plain.** The statements that have added to his credibility in this review are the ones that cost him something: that he pays for sex, that he meant to block her, that he felt out of control.
+
+### 16.3 Which charge the answers defend
+
+1. **Most of the answers deny that he agreed to pay for sex.** "Ok" answered the room. "100" was a time. "Cash right?" was for someone else. The extra was a test. He expected a scam.
+2. **That is Spec 3.** It is the charge the government can prove without her age, and this analysis has called it strong from the first draft. If every one of these answers were accepted, Specs 1 and 2 would still turn on the same question: whom did he believe he was dealing with?
+3. **His other answers concede the conduct.** He asks where and checks the distance as a habit. "Just you….then both" was his answer to the proposition. He has paid adults for sex. He drove there, waited and described his car.
+4. **The cost falls on the charges that matter.** The only evidence that he believed she was an adult is his own word (section 8.3). A fact-finder who decides he is not being straight about "100" or "Cash right?" will not then take his word on the one point where his word is all there is.
+5. **Section 5 put it the other way round,** and that is still my assessment. If it is true that he went to Belton to pay an adult for sex, that one fact explains "Ok. Where at?", "Just you….then both", "Cash right?", the nervousness and the extra. It needs no misreading and no second mistake, and it leaves his credibility for the question of age.
+6. **If it is not true, he cannot say it.** Then he should expect the scam account to be tested against the drive, the wait and "Black suv." Most fact-finders will not accept it.
+7. **Conceding the Spec 3 conduct has consequences of its own,** in the court-martial and in Texas. That decision is his and counsel's (section 11.5).
+
+### 16.4 The scam and the adult belief
+
+**The collision.** Section 11.2 recorded that from the second photo he took her to be the woman on the profile, a real adult. His answers now say that at 16:53 he was nervous because he expected a scam, and that at 16:58 he offered extra to expose one. As far as the excerpts show, both came after the second photo.
+
+**Why it matters.** The profile's age tells him her age only if he believed the pictures were hers (sections 11.3 and 13.3). If at the hotel he still thought they were not, then on his own answers the profile told him nothing about who was in the room. Question 16 asks exactly this, and it is the one he left unanswered.
+
+**What "scam" means decides it.** The word has been used for at least two different things.
+
+| Meaning | Where it appears | Does it fit the adult belief? |
+|---|---|---|
+| Nobody real is there, and the pictures are not hers | Slide 8 (the photo was fake); the peace-sign request; "a test to expose a scam" | No. Pictures that are not hers say nothing about her age |
+| A real woman, but a set-up: a robbery, or money taken for nothing | Slide 9 (a "friend" as a handler); "Can you walk me upstairs?"; asking her to come to the car | Yes. He could believe she was the adult in the pictures and still fear what was waiting |
+
+1. **Only he knows which he meant, and when.** It has to be the same thing each time he uses the word. This is an observation about fit, not a suggestion about what to say.
+2. **Neither meaning involves a minor.** That is the one thing all his answers agree on. If what he remembers is that he was unsure what was waiting but never thought of a child, that is one state of mind. Given as "I expected a scam" in one answer and "I believed she was an adult" in another, it is heard as two stories.
+3. **His state at the hotel has been described four ways:** it seemed harmless, he was nervous, he felt out of control, and he felt paralyzed. A fact-finder can accept that a man felt several things in ten minutes. "Harmless" is the one that does not belong with the rest.
+
+### 16.5 The interview
+
+**"Look at my phone"**
+
+1. **If it is on the video, it is worth having.** A man who tells the agents to look at his phone is not behaving like a man who thinks it will convict him. The record of the search and the profile could be reached from it.
+2. **It has an obvious answer.** He had removed the texting apps from that phone at 17:02. The prosecutor will say that he invited them to look once the conversations were off it.
+3. **It is not an account.** Asked what had happened, he sent them to the phone. As relayed, he did not say what they would find.
+4. **What to look for on the video:** the exact words, the question that drew them, whether he said what the phone would show, and whether he consented to a search. If he consented, the government has an extraction, and counsel should have it (section 14.2).
+5. **It was said after the arrest,** so it does little to support his later account as a statement (section 13.2, on M.R.E. 801(d)(1)(B)). Its value is as conduct: he invited scrutiny.
+
+**What he did not say.** He now says that at no time did he tell the agents she was 23. Section 6 said of question 15 that the video controls, and that if he said neither thing it may be the hardest question in the case. On his own recollection the video will not contain it. His recollection of the interview is, on his own account, poor, so the video still has to be watched for it.
+
+**"Hypothetical"**
+
+1. **I read this as being about the agent's question.** He took it as asking what he would do, and giving money and leaving was his answer to that. If he means the cross-examination question, this point does not apply.
+2. **The video can settle it.** Section 8.2 listed the question asked just before the statement as the first thing to look for. If the agent asked what he would have done, or what he was going to do, the statement loses much of its force as a report of what he thought.
+3. **The words as relayed are not hypothetical in form.** "The next day I thought about just giving money and leaving" reports a thought, in the past tense.
+4. **It is the third description of the same words.** Slide 9 gives it as a thought he had at the hotel. Section 13.2 records it as a generalization. Now it is an answer to a hypothetical. The table in section 13.6 has been updated.
+
+**"Unlikely to be instantly recalled"**
+
+1. **It is given three times, to three different questions.** In testimony a repeated sentence sounds prepared, and each question asked for something different.
+2. **It can explain forgetting details.** That "Cash right?" was meant for someone else is a detail.
+3. **The two things missing from the interview are not details.** That he had texted the wrong person, and that he believed she was an adult, are the whole of his account. A man arrested for soliciting a minor, who believed he had been dealing with an adult, does not have to recall that. It is what he would be expected to say first.
+4. **It turns round.** If the afternoon was too confused in his head to describe that evening, the prosecutor will ask how he can now say what he was thinking as he sent each text.
+5. **"I am pointing to the phone records, not to my memory" does not cover these answers.** Records show what he did and when. They cannot show that he read "100" as a time, whom "Cash right?" was for, or what the extra was meant to do. Those are statements about his mind, and only memory can supply them. If seeing the records brought a memory back, he can say so. If he worked it out from the records, it is an inference (sections 13.6 and 15.4).
+
+### 16.6 The wording, and this document
+
+1. **Several answers keep the wording of section 6,** in whole or in part: 7, 9, 11, 14, 17 and 18. Those shapes were offered on one condition, that they were true. Adopting one here does not make it his memory. Each has to be what he remembers, in words he would use.
+2. **A matching text can be used against him.** If this document is obtained, an answer given in its words will be put to him as rehearsed (sections 10.5 and 11.5).
+3. **There is a further rule to ask counsel about.** As I understand M.R.E. 612, which follows the federal rule, when a witness uses a writing to refresh his memory, the other side can ask to see it. Where the writing was used before testifying, the judge decides. A document he prepares from could be asked for on that ground. Counsel should say whether that applies here, and how he should prepare.
+4. **He has now written out answers to most of the cross-examination,** and some differ from what he said in earlier rounds. That is the record sections 13.8 and 15.6 advised against making here. The place for it is a practice session with counsel.
+
+### 16.7 Records that bear on these answers, through counsel
+
+1. **The other conversation at about 16:51:** whether payment was being discussed in it, and what he sent there (answer 8).
+2. **Her reply to "Cash right?"** in the undercover log, and what he sent next.
+3. **Bank records, the Walmart receipt and the arrest inventory:** whether he drew cash, and what he had on him.
+4. **Earlier reverse image searches** in his Google activity (answer 4).
+5. **The route and its times,** from his location history: where he was at 15:58, when he set off, and each leg.
+6. **The search for signs of a sting:** its time and exact words (section 9.4).
+7. **The arrest:** its time, and where the car was.
+8. **The advertisement and its stated age** (answer 5).
+9. **The video:** "look at my phone," the question before "giving money and leaving," and any statement about her age or a mistake.
+
+### 16.8 What this changes
+
+1. **The assessment of the charges is unchanged.** Spec 3 is strong. Specs 1 and 2 turn on what he believed.
+2. **His best material is confirmed:** the direct denial, the contrast between the two days, the refusal, and the timing of "Yes."
+3. **The answers move away from the single account.** Section 10 reduced the explanations to one account. These bring back the scam, add a fourth misreading and add a second wrong message.
+4. **Two answers should be weighed hardest before they are used:** "100" as a time, and "Cash right?" as meant for someone else. Each has to be a real memory, and the second needs the other conversation.
+5. **One question matters more than the rest:** whom he believed was coming down when he wrote "Black suv." His answers give two different beliefs for the hotel, and question 16 is unanswered.
+6. **The video has two more things to show:** "look at my phone," and the question asked before "giving money and leaving."
+7. **The order of work is unchanged.** Video first, forensic report second, account third. These answers were written before any of the three.
