@@ -2,11 +2,11 @@
 
 **Basis and limits.** Built from two documents only: the defense slide deck ("Details for DFE with messages") and the Preliminary Hearing Officer (PHO) report of 10 Aug 2026. Not reviewed: the interview video, the full chat extraction, the ad, any forensic report. I am not a lawyer and this is not legal advice. Statements of law are my understanding, and defense counsel should confirm each one.
 
-**Updated 23 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
+**Updated 23 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 17: his response on how this text is to be used, with each point sorted by the record that supports it. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
 
 ## 1. Bottom line
 
-*Current as of section 16.*
+*Current as of section 17.*
 
 **The charges**
 
@@ -14,6 +14,8 @@
 - **Specs 1 and 2** turn on one question: on May 1, did he believe the person he was texting was under 16? There was no real child, so these are attempts, and an attempt is judged on the facts as the accused believed them. "Should have realized" is not the test. In the excerpts provided, age is never mentioned on May 1.
 
 **The defense account as it now stands**
+
+His position, as I read it: he is innocent of the charges that involve a minor, and what looks like guilt is what he habitually does when arranging to pay an adult for sex (section 17.3). The steps of the account are these.
 
 1. On April 30 he was told she would be 16 in June and refused within 37 seconds. He searched the ad's photo and found an adult's profile, which states an age of 23 and carries a posted college email from 2021. The phone records the profile being viewed at 16:54, eleven minutes after the conversation ended. He says the search was started during it.
 2. He meant to block her number. He understood that the app lifts a block once a message is sent to the blocked number, which the provider's help pages confirm (section 14.1). He says he had read this weeks or months before April 30 and had blocked numbers in the app before (section 15.1). So he looked at other texting apps to avoid messaging her by accident, and stayed with the one he had. He gave no time for this. The phone records a look at other apps at 14:01 to 14:04 on May 1.
@@ -35,6 +37,8 @@
 - As relayed, his Google activity shows that removing the app was his routine before April 30. If so, the removals say nothing about her (section 14.3).
 - He says he reverse-searches the photos in ads as a routine. Earlier searches in his Google activity would make the April 30 search ordinary (section 16.1).
 - He says he told the agents to look at his phone. The video will show whether he did (section 16.5).
+- His strongest points rest on records already supplied, and several more would if the records he describes are produced. Section 17.2 sorts them.
+- Habit, if records from before April 30 show it, is one explanation for most of what he did on May 1 (section 17.3).
 - His first messages on May 1 read more naturally as continuing an arrangement than as returning to someone he had refused (section 10.1).
 
 **What stands against it**
@@ -47,6 +51,7 @@
 - What he did at the hotel. The removal of the apps minutes after he described his car counts for less if removal was his routine, but its timing still draws questions (sections 9.3, 13.1 and 14.3).
 - He says that at the hotel he still expected a scam. If that means the pictures were not hers, the profile's age told him nothing (section 16.4).
 - His answers to the cross-examination questions give ten of his messages and acts a meaning other than the natural one, for seven kinds of reason (section 16.2).
+- Habit as the explanation concedes that he was arranging to pay for sex. It cannot be combined with the answers in section 16 that deny it, and it does not reach the three points below (section 17.3).
 - Several points have now been given in more than one version (sections 8.3, 13.6, 15.4 and 16.5).
 
 **What it still asks a fact-finder to accept on his word**
@@ -63,6 +68,7 @@ Each is possible. Needing all three is the difficulty. Records can take some of 
 2. Whether her conversation had been deleted, how her number was selected at 15:49, what the screen showed, and what he sent in the other woman's conversation after that time (sections 12.2, 13.4 and 15.2). The provider's copy may no longer exist (section 14.2).
 3. Whether any record from before the arrest shows why he looked at other apps (sections 13.5 and 14.1).
 4. The second photo and the advertisement (sections 11.2 and 11.3).
+5. Whether his earlier conversations with adults contain the same lines as May 1 (section 17.5).
 
 **Texas.** The offense there can rest on what he was told, so the search may not bear on guilt (section 11.4).
 
@@ -110,7 +116,7 @@ Each is possible. Needing all three is the difficulty. Records can take some of 
 2. **The linchpin is unproven.** The deck says he "can't definitively remember" deleting the April 30 thread. If the extraction shows the thread was still there at 15:49:15 on May 1, the refusal exchange sat directly above the box he typed in. Uninstalling the app cannot explain the mistake either, since the UC log shows the May 1 text arriving in the same thread from the same sender. The defense now says the thread was in the app's list and he opened it by mistake (section 12.2). That makes what the screen showed the central forensic question. The provider says a deleted conversation cannot be recovered (section 14.2). He has since said the thread was possibly deleted, which would change how the number was reached (section 15.2).
 3. **His diligence cuts against him.** A man who reverse-searches photos, demands verification and checks for stings is hard to believe when he says he did not notice a number from 23 hours earlier. This has less force if, as now relayed, the conversations were listed by number only (section 12.2).
 4. **The image search began within minutes of the age disclosure.** Expect: "You were checking whether she was really 15, looking for a reason to say yes." He now says it was started during the conversation (section 13.4).
-5. **"Compulsion" serves the government's story too:** the urge overrode Thursday's "no." It is mitigation for sentencing, not a defense to intent.
+5. **"Compulsion" serves the government's story too:** the urge overrode Thursday's "no." It is mitigation for sentencing, not a defense to intent. Section 17.3 separates addiction from habit, which records can prove.
 6. **Self-inflicted exhibits.** Searches for second-number apps at 2:01–2:04 PM on May 1, including a visit to "Vikk – AI Lawyer & Legal Help" at 2:02 PM; the claimed pre-arrival sting search; removal of the texting apps at 17:02, minutes after he described his car. Each needs a truthful explanation before the government sees it. He has since given a reason for the app searches (section 13.5). Section 14 covers the provider's help pages and the record of the habit.
 7. **Timestamp errors in a deck that depends on timestamps.** Slide 2 lists the re-contact as 15:47 (log: 15:49:15) and the image searches as 16:42, 16:47 and 16:50 (the screenshot shows 4:54 and 4:58 PM). The two-day timeline corrects both, so slide 2 should be withdrawn. Slide 9 still lists "will be down" as 16:56:57 (log: 16:58:57).
 8. **"Physically impossible" overstates a good point.** "My reply was already on its way" is enough.
@@ -137,7 +143,7 @@ Each is possible. Needing all three is the difficulty. Records can take some of 
 | Deleted threads, searches for second-number apps, app removal | Consciousness of guilt | Removing the app was his routine before April 30; the app searches were to avoid texting her number by accident; adult prostitution is illegal too | If the records show the routine, the removals stop looking like a reaction to her, though the timing at 17:02 still draws questions. The reason given for the app searches cuts both ways (sections 13.5, 14 and 15.1) |
 | Interview: "thought the next day she just needed money… just giving money and leaving" | He knew on May 1 who she was, and knew he should not be there | He refused and denied wanting sex; he was describing how he usually thinks, not what he remembered | Outweighs anything said later, unless the video shows he was speaking generally or had just been told who she was. The texts undercut the "give money and leave" half (section 13.2) |
 | The account in sections 10 to 13: wrong conversation, then scam suspicion, then a photo matching the adult profile | The records are from before the arrest, but the explanation of them came after it; checking her photo against that profile shows he knew who she was | An honest mix-up, anchored by two records made before the arrest | Needs the other conversation on a screen. Without it, it sounds like an excuse, and the photo comparison reads as recognition (section 13.2) |
-| Addiction | Urge beat scruple | Explains carelessness | Little value on findings; some at sentencing |
+| Addiction | Urge beat scruple | Explains carelessness; what he did on May 1 was his routine with adults | As "addiction," little value on findings and some at sentencing. The routine itself can be proved from records and is worth more (section 17.3) |
 
 ## 5. If he testifies
 
@@ -161,7 +167,7 @@ Each is possible. Needing all three is the difficulty. Records can take some of 
 - Reading "on" as "or."
 - Carplay as a "bluff test."
 - "Indifferent" to whether the encounter was genuine.
-- Addiction as the explanation for May 1.
+- Addiction as the explanation for May 1. His routine is a different matter, and records can prove it (section 17.3).
 - Reading "100" as a time (section 16.1).
 - "Cash right?" as meant for someone else, unless the other conversation shows it (section 16.1).
 - "It seemed harmless at the time," beside "nervous" and "paralyzed" (section 16.4).
@@ -241,7 +247,7 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
 4. **Settle on the one true account and correct the timestamps.**
 5. **Motions for counsel to assess:** suppression of the interview (the DPS report describes a joint DPS–Army operation, which raises an Article 31(b) question), M.R.E. 707, M.R.E. 404(b) on prior patronizing, the rule of completeness for the interview, and speedy trial under R.C.M. 707 (charges were preferred 24 June 2026).
 6. **Coordinate military and Texas counsel.** Testimony or a guilty plea in one forum is usable in the other. The PHO's suggested deal does not say which specifications; a plea to Spec 1 or 2 would almost certainly bring sex-offender registration.
-7. **Ask counsel about a psychosexual evaluation,** which is often used in sting cases for negotiation and sentencing.
+7. **Ask counsel about a psychosexual evaluation,** which is often used in sting cases for negotiation and sentencing. Section 17.3 notes how the condition is classed.
 8. **Keep work product inside the defense team.** Material shared outside the attorney-client relationship may not be privileged, and anything handed to a testifying expert can reach the prosecutor. Route the forensic examiner through counsel. Section 11.5, point 6, cites a 2026 federal ruling on exchanges with AI tools.
 9. **Secure what can disappear.** The texting provider's records for his account, and a capture of the profile as it stands. Nearly seven months have passed since the events (sections 11.1 and 11.5). The Google account's activity should be preserved as well (section 13.7). The provider's stated policy on unused accounts makes this more urgent (section 14.2).
 
@@ -1045,7 +1051,7 @@ Sorted from everything relayed so far.
 
 1. **The pattern.** Most of the first column helps him. Most of the second would hurt if he remembered it the other way. A cross-examiner will say that his memory fails where he needs it to.
 2. **It may be how memory works.** People remember what they meant to do and what struck them. They do not remember what was on a screen, or whether they pressed delete. A fact-finder can accept that. It is easier to accept from a witness who also remembers things that do not help him, and the intention to block her is one.
-3. **The remedy is records.** Each item in the second column has a record that can answer it. Where the record goes against him, "I don't recall" was the safe answer. Where it goes for him, the record makes the point better than he could.
+3. **The remedy is records.** Each item in the second column has a record that can answer it. Where the record goes against him, "I don't recall" was the safe answer. Where it goes for him, the record makes the point better than he could. Section 17.2 sorts every point he has made by the record behind it.
 4. **The third column should stay where it is.** If he gives an inference as a memory and the records disagree, he loses the parts that are true as well.
 
 **Points that have been given more than one way**
@@ -1532,7 +1538,7 @@ No answer was given. His answers to questions 8 and 9 make this one harder (16.4
 1. **Taken one at a time, several of these are possible.** The timing on "Yes" is good. Sarcasm is plausible. Removing the app as a habit can be proved.
 2. **Taken together they are the problem.** Ten of the twelve are given a meaning other than the natural one, for seven kinds of reason. A fact-finder does not weigh them one by one. He asks how likely it is that so many messages meant something other than what they say, each for a different reason. The government needs one explanation for all twelve.
 3. **This is the list section 8.3 warned about, and it is longer.** The single account in section 10 was an improvement because it let most of these go. These answers bring them back and add two.
-4. **A witness with an answer for everything is believed less than one who concedes what is plain.** The statements that have added to his credibility in this review are the ones that cost him something: that he pays for sex, that he meant to block her, that he felt out of control.
+4. **A witness with an answer for everything is believed less than one who concedes what is plain.** The statements that have added to his credibility in this review are the ones that cost him something: that he pays for sex, that he meant to block her, that he felt out of control. He has since pointed to habit as the common explanation (section 17.3).
 
 ### 16.3 Which charge the answers defend
 
@@ -1540,7 +1546,7 @@ No answer was given. His answers to questions 8 and 9 make this one harder (16.4
 2. **That is Spec 3.** It is the charge the government can prove without her age, and this analysis has called it strong from the first draft. If every one of these answers were accepted, Specs 1 and 2 would still turn on the same question: whom did he believe he was dealing with?
 3. **His other answers concede the conduct.** He asks where and checks the distance as a habit. "Just you….then both" was his answer to the proposition. He has paid adults for sex. He drove there, waited and described his car.
 4. **The cost falls on the charges that matter.** The only evidence that he believed she was an adult is his own word (section 8.3). A fact-finder who decides he is not being straight about "100" or "Cash right?" will not then take his word on the one point where his word is all there is.
-5. **Section 5 put it the other way round,** and that is still my assessment. If it is true that he went to Belton to pay an adult for sex, that one fact explains "Ok. Where at?", "Just you….then both", "Cash right?", the nervousness and the extra. It needs no misreading and no second mistake, and it leaves his credibility for the question of age.
+5. **Section 5 put it the other way round,** and that is still my assessment. If it is true that he went to Belton to pay an adult for sex, that one fact explains "Ok. Where at?", "Just you….then both", "Cash right?", the nervousness and the extra. It needs no misreading and no second mistake, and it leaves his credibility for the question of age. Habit as the explanation leads the same way (section 17.3).
 6. **If it is not true, he cannot say it.** Then he should expect the scam account to be tested against the drive, the wait and "Black suv." Most fact-finders will not accept it.
 7. **Conceding the Spec 3 conduct has consequences of its own,** in the court-martial and in Texas. That decision is his and counsel's (section 11.5).
 
@@ -1593,7 +1599,7 @@ No answer was given. His answers to questions 8 and 9 make this one harder (16.4
 1. **Several answers keep the wording of section 6,** in whole or in part: 7, 9, 11, 14, 17 and 18. Those shapes were offered on one condition, that they were true. Adopting one here does not make it his memory. Each has to be what he remembers, in words he would use.
 2. **A matching text can be used against him.** If this document is obtained, an answer given in its words will be put to him as rehearsed (sections 10.5 and 11.5).
 3. **There is a further rule to ask counsel about.** As I understand M.R.E. 612, which follows the federal rule, when a witness uses a writing to refresh his memory, the other side can ask to see it. Where the writing was used before testifying, the judge decides. A document he prepares from could be asked for on that ground. Counsel should say whether that applies here, and how he should prepare.
-4. **He has now written out answers to most of the cross-examination,** and some differ from what he said in earlier rounds. That is the record sections 13.8 and 15.6 advised against making here. The place for it is a practice session with counsel.
+4. **He has now written out answers to most of the cross-examination,** and some differ from what he said in earlier rounds. That is the record sections 13.8 and 15.6 advised against making here. The place for it is a practice session with counsel. His response is recorded in section 17.1.
 
 ### 16.7 Records that bear on these answers, through counsel
 
@@ -1616,3 +1622,185 @@ No answer was given. His answers to questions 8 and 9 make this one harder (16.4
 5. **One question matters more than the rest:** whom he believed was coming down when he wrote "Black suv." His answers give two different beliefs for the hotel, and question 16 is unanswered.
 6. **The video has two more things to show:** "look at my phone," and the question asked before "giving money and leaving."
 7. **The order of work is unchanged.** Video first, forensic report second, account third. These answers were written before any of the three.
+
+## 17. Addendum 10, 23 Nov 2026: what the records support
+
+**What this covers.** His response to section 16.6, which said that he had now written out answers to most of the cross-examination. It is recorded as relayed. No new facts were supplied, and I have not seen the Google account, the extraction, the provider's records or the video.
+
+1. Questions cannot be predicted.
+2. A defendant who could not recall every detail without the records is using them to deal with the problems in the case.
+3. He is innocent, though addicted to habits. I read the rest of that sentence to mean that those habits are what the government, and this analysis, count against him. It may mean instead that the habits are of a kind classed as addiction. Section 17.3 covers both readings.
+4. The text here is not privileged and is not for rehearsal. It matters where digital records support it.
+
+**Short version**
+
+- He is right about the test, and this section applies it. Each point he has made is sorted by the record behind it (17.2).
+- His strongest points are on records already supplied: the refusal, the adult profile, the absence of any mention of age on May 1, and the timing of "Yes."
+- Several more would be on record if what he describes is produced: the app's install and removal on earlier dates, earlier image searches, and the visit to the provider's page.
+- Some of his answers are about what he was thinking. No record can support those, and the records seen so far go against three of them.
+- The same test applies to the government, and most of its case passes it.
+- Habit is the best single explanation he has offered for what he did on May 1. Records from before April 30 can prove it, and it replaces most of the separate explanations in section 16.2. It is also an account of a man arranging to pay for sex, so it cannot be combined with the answers that deny that.
+- Habit does not reach the three things that section 1 says have to be accepted on his word. None of them is a habit.
+
+### 17.1 His four points
+
+1. **The wording of a question cannot be predicted. Its subject can.** Every question in cross-examination is built on an exhibit: a message, a search, a time, or a sentence from the interview. There are a few dozen messages, a handful of records and one interview. Section 6 is a list of those exhibits put as questions. It is not a forecast of wording. I agree with where he ends up: answers are not to be memorized. What holds up under any wording is knowing what each exhibit shows and what he remembers about it.
+2. **Using records to work out what happened is legitimate.** It is what a forensic examiner is for, and counsel can argue from records whatever he remembers. A man is not less credible because he needs a record to fix a time or a sequence. The line is the one in section 13.6. A record can stand in for his memory of what he did. It cannot stand in for his memory of what he was thinking (16.5).
+3. **Routine is a better explanation of poor recall than any given so far.** People do not remember each occasion on which they did what they always do. If the afternoon of May 1 was routine until the arrest, it is ordinary that he cannot recall each message. The one thing that was not routine is the exchange on April 30, and his words that evening, as relayed, show that he remembered it: "I refused."
+4. **He has considered that this text is not privileged,** and the decision to go on is his. The analysis has made the point in several sections and will not repeat it.
+
+### 17.2 Each point, sorted by the record behind it
+
+"Supplied" means the record is in the material I was given: the deck, the PHO report, the two timelines and the college email. The last row of group A rests on the provider's published help pages. I have not seen what lies behind any of them.
+
+**A. On a record already supplied**
+
+| Point | Record | What it leaves open |
+|---|---|---|
+| Told she would be 16 in June, he refused within 37 seconds | The undercover log | Nothing. It is the government's own exhibit |
+| Minutes later his phone showed him an adult's profile, found from the ad's photo | Google activity at 4:54 and 4:58 PM on April 30 (slide 1) | When the search began, and what he made of it |
+| The profile's owner is an adult | The profile's stated age and its joining date of July 2015; the college email of May 2021 | Whether he took her to be the person texting; when he saw the email |
+| Nobody mentioned age on May 1 | The undercover log, in the excerpts supplied | The pages between about 16:09 and 16:48, which I have not seen |
+| "Yes" was sent two seconds after the line it is said to answer | The undercover log | What "Just you….then both" meant a minute later |
+| The two days read differently | The undercover log | The government's reading: May 1 reads like April 30 before she gave her age |
+| "Ok. Where at?" followed his question about a car and her answer about a room | The undercover log; the hotel search at 15:57 | Little turns on it (section 9.5) |
+| The first photo did not satisfy him | His request for another, "so I know real" | Whether the second did, and what he then believed |
+| "Are you still around?" is the kind of line he used with others | Messages of April 14 and April 25 (slide 4) | Whom this one was meant for |
+| His history involved adults, "not minors" | The PHO report, from the interview | It is a finding about his history, not about May 1 |
+| He looked up hotels in two other towns half an hour before he texted her | Google Maps activity at 3:18 PM on May 1 | Whom he was arranging to meet |
+| He looked at other texting apps at 14:01 to 14:04 on May 1 | Play Store activity (slide 3) | Why |
+| In this app a block does not stop the user's own message, old conversations return after a reinstall, and a deleted one does not | The provider's help pages | Whether the version he used behaved that way; what he knew, and when |
+
+**B. On a record he describes, not yet produced**
+
+| Point | Record | What it would show |
+|---|---|---|
+| Installing and removing the app was his routine before April 30 | Google activity, as relayed | That the removals were not a reaction to her (section 14.3) |
+| He searches the photos in ads as a rule | Google activity before April 30 | That the search on April 30 was routine (16.1, answer 4) |
+| He read the provider's page weeks or months before April 30 | Google activity, if it recorded his browsing | That he knew how a block works before she had any reason to matter (15.1) |
+| He messaged five other people on May 1 before her | Whatever lies behind the timeline's grey entries, which are inferred from hotel searches | That she was one contact in a round of them. It also shows that she came last (section 9.3) |
+
+**C. On records not yet in hand, as far as I know**
+
+| Point | Record that would decide it |
+|---|---|
+| "Are you still around?" was meant for another woman | Her conversation, in the provider's records or the government's extraction |
+| He did not see the April 30 messages, or her conversation had been deleted | What the account held for her number at 15:49 (section 15.2) |
+| Conversations from the previous day were in the list | The same records |
+| He meant to block her number, and had blocked others | The provider's record of blocks, if it keeps one |
+| "Cash right?" was meant for someone else | The other conversation at about 16:51 |
+| He told the agents to look at his phone, and took one question as hypothetical | The video |
+| The posted age was an adult's | The advertisement, once it is clear which posting he means (16.1, answer 5) |
+| Why he was still in the car park after 17:02 | The arrest record: its time, and where the car was |
+
+**D. No record can show it**
+
+These are statements about what he was thinking. They can come only from him, and only from memory. The second column gives what the records seen so far suggest.
+
+| Point | What the records suggest |
+|---|---|
+| He read "100" as a time | Against. By 16:13 he was at a shop in Harker Heights, and by 16:48 at the hotel. He later offered "extra" |
+| The offer of extra was a test to expose a scam | Against. She agreed to come down, and he described his car |
+| The searches that afternoon were made because he expected a scam | Against. The app search was at 14:01, and on his account the suspicion began after 15:54 |
+| He was nervous because he expected a scam | Neither way. The search that slide 8 describes was for signs of a police operation |
+| "Im convinced lol" was sarcasm | For. He asked for another photo |
+| He matched the second photo to the profile without connecting it with April 30 | Nothing either way. The timeline shows no view of the profile on May 1 |
+| He stayed in the car park because he felt paralyzed | Nothing either way. The arrest record may make the question unnecessary |
+| At no time on May 1 did he believe she was a minor | Belief is never on a record. Groups A and B are the evidence for it |
+
+1. **Group A is the heart of his case, and none of it depends on his memory.** The refusal, the profile, the silence about age on May 1 and the timing of "Yes" can all be shown through the exhibits and the examiner.
+2. **Group B is within his reach.** The Google account is his. If the records are as he describes, each is evidence from before April 30, which is the best kind (17.3). They should be produced once, complete, through counsel, and nothing in the account should be deleted (section 13.7).
+3. **Group C decides the mistake and the interview.** These are the records that matter most and the ones least in his control (section 14.2).
+4. **Group D is the text with no record behind it.** By his own test it matters least. Three of the statements in it cost him, and he needs none of them to make the point in the last row.
+5. **Most of the government's case passes the same test.** The message to her number, in the same conversation as the day before, is in the log. So are the question about a car, the distance, "Cash right?", the extra and his car. His own records show the search on her photo minutes after he refused her, the look at second-number apps that afternoon, the drive, and the removal of the apps about three minutes after he described his car. The interview is a recording. Two parts of its case do not pass. The ad he is said to have answered is not in evidence, and the DPS summary of what he admitted is second-hand until the video is seen (section 2).
+6. **What the records leave open is one thing.** They settle what he did on both days almost completely. They do not show whom he believed he was dealing with. Both sides have to argue that from inference, and the burden is the government's (section 2).
+
+### 17.3 Habit as the one explanation
+
+**His position, as I read it.** He is innocent of the charges that involve a minor. What looks like guilt is what he habitually does when arranging to pay an adult for sex.
+
+**What it does**
+
+1. **It is one explanation where section 16.2 found seven kinds.** A fact-finder can accept one cause for many acts far more easily than a separate reason for each.
+2. **Records can prove it, and they are records from before April 30.** Nothing about this case could have shaped them. That is stronger than the two records section 1 relies on, which date from the two days themselves.
+3. **It takes most of the force out of the conduct as evidence about her.** If he does the same things with every adult, doing them on May 1 does not show that he knew she was anything else.
+4. **It fits the PHO's finding** that his history involved adults, "not minors."
+5. **It explains the poor recall** (17.1, point 3).
+
+**What it covers, and what would show it**
+
+| On May 1 | Does he say he does it as a rule? | Record that would show it |
+|---|---|---|
+| "Are you still around?" | Yes, a usual opening line | Slide 4, supplied |
+| Asking where, then checking the distance | Yes (16.1, answer 6) | The hotel searches on both days, supplied in part |
+| The search on the ad's photo on April 30 | Yes (16.1, answer 4) | Google activity before April 30, not yet produced |
+| Asking for pictures, and for proof that they are real | He says he checks pictures | His earlier conversations |
+| Installing the app, and removing it afterwards | Yes | Google activity, as relayed |
+| Blocking numbers | Yes (15.1) | The provider's records |
+| "Cash right?" | Not said. His answer is that it was meant for someone else | His earlier conversations |
+| "Im a little nervous", "Can you walk me upstairs?", the offer to meet at the car | Not said | His earlier conversations |
+| Sending a message to her number | No. On his account it was a mistake | The provider's records |
+| What he told the agents | No | The video |
+
+1. **The test is his earlier conversations with adults.** If they contain the same lines, such as a question about cash, a request that the woman come to the car, a remark that he is nervous, or a request for a photo to prove she is real, then May 1 was his usual conversation. That would be worth more than every explanation in section 16.2, because it is one explanation and it is on record.
+2. **The test cuts both ways.** If those lines appear nowhere else, May 1 was different from his routine, and the prosecutor will ask what made it different.
+3. **One comparison matters most.** Whether age ever came up in an earlier conversation, and what he did. Section 16.1 records his answer that the one time he read that a minor was involved, he refused.
+
+**What it costs**
+
+1. **It is an account of a man arranging to pay for sex.** If May 1 was his routine, a fact-finder will take it that he read "100" as a price and asked about cash because that is how he pays. Habit cannot be combined with the answers in section 16 that deny he agreed to pay, or with slide 9's statement that he did not intend to meet anyone. Section 16.3 said those answers defend the wrong charge. Habit is another reason to let them go.
+2. **It brings in the other occasions.** The records that prove the routine show how often he did this (section 14.3, point 8). Counsel has to weigh that for both forums.
+3. **It does not reach the three points in section 1.** Sending a message to her number, remembering the profile without the reason for the search, and what he told the agents are not habits. The mistake still has to be shown.
+4. **Routine cuts both ways on the mistake.** A practiced routine is carried out without much attention, which is how a message goes to the wrong number. It is also the routine of an experienced man, and the prosecutor will say that he knew how to keep his numbers apart.
+5. **The routine was broken once.** On April 30 she told him her age and he refused. The government's case is that he knew this number was different from the others, and went back to it anyway.
+
+**Habit and addiction are different things in a courtroom**
+
+1. **A habit is what he does.** As I understand M.R.E. 406 (section 13.1), it means a regular response to a repeated, specific situation. The note to the federal rule it follows separates that from a general disposition, and says that evidence of intemperate "habits" is generally excluded. So what counts is the sequence, shown on dated occasions: the app installed, the opening line, the hotel looked up, the app removed.
+2. **Addiction is why he does it.** It is not a defense to intent (section 3). The government will use the word as readily as he does. Its case is that the urge brought him back to someone he had refused.
+3. **So the two have different uses.** For the findings, the routine is what helps, and records prove it without the word. The addiction belongs with an evaluator, for negotiation and sentence (section 7, point 7).
+4. **How it is classed.** The World Health Organization's ICD-11 lists compulsive sexual behaviour disorder, and places it among impulse-control disorders and not among addictions. The American manual, DSM-5, did not adopt the comparable diagnosis that was proposed for it. Whether either applies to him is for an evaluator to say.
+
+### 17.4 A case that rests on the records
+
+His point leads here. If the text matters only where records support it, the question is how much of the defense the records can carry.
+
+**What they could show without his memory**
+
+1. **April 30.** Told her age, he refused at once. Minutes later his phone showed him that the ad's photo belonged to an adult.
+2. **Before April 30.** His routine: the app installed for a session and removed after it, photos searched, the same opening lines, a hotel looked up after an exchange. This is group B, and it has to be produced.
+3. **May 1.** The same routine, and no mention of age.
+4. **The app.** Numbers listed without names, and old conversations back in the list after each reinstall.
+
+**The argument counsel could make from them.** When he knew, he refused. What he was shown next was an adult. The next day nobody mentioned age, and he did what he always did. The government has to prove that he believed she was under 16, and for May 1 its proof is inference. This is the core set out in section 11.5, with the routine added. It is an argument for counsel, not wording for him.
+
+**What it lacks**
+
+1. **A reason why her number got the message.** Without the other conversation, the records show a message to the number of someone he had refused the day before. The routine does not help here, and it may hurt. Section 9.2 noted that two of the people he messaged on May 1 were also contacts from the day before. If going back to the previous day's numbers was part of his round, the prosecutor will say that hers was one of them (section 9.3). That is a different account from a message meant for one particular woman, and only one of them can be what happened.
+2. **His belief.** Records give grounds for an inference and no more. That is true for both sides.
+3. **An answer to the interview.** The video is a record too, and it is the government's. Unless he explains it, the statement stands as he made it. What the video shows about the question he was answering, and about "look at my phone," decides how far a case on the records can go (16.5).
+
+**Where his testimony fits**
+
+1. **The more the records carry, the less he has to.** That suits a witness who, as he says, cannot recall every detail without them.
+2. **What only he can add** is what he believed, and what he remembers of 15:49 and of the second photo.
+3. **The statements in group D come into the case only if he makes them.** Nothing requires him to offer an explanation for each message. If he testifies he will be asked about them, and section 16.3 sets out the answer that needs no misreading, if it is true.
+4. **Whether he testifies is his decision, with counsel** (section 5).
+
+### 17.5 Records to add, through counsel
+
+These add to sections 13.7, 15.5 and 16.7.
+
+1. **His earlier conversations with adults,** from the provider, the extraction or screenshots of the kind on slide 4: the lines he used, set beside those of May 1.
+2. **Whether age ever came up in any of them,** and what he did.
+3. **The sequence on earlier dates:** install, messages, hotel searches, image searches and removal, each with its time. A habit is shown by the same sequence on several dated occasions.
+4. **Earlier image searches,** and what he did when a photo traced to someone other than the person advertising.
+5. **Group B as a whole,** produced once and complete.
+
+### 17.6 What this changes
+
+1. **His test is the right one,** and 17.2 applies it. His strongest points pass it without his testimony.
+2. **Habit is the best single explanation offered so far for what he did.** It needs records from before April 30, and it concedes that he was arranging to pay.
+3. **Three of the answers in section 16 fail the test,** and a fourth depends on a record that may no longer exist. The case does not need them.
+4. **Section 1's three points remain.** None is a habit, and two of them depend on records in group C.
+5. **The order of work is unchanged.** Video first, forensic report second, account third. The records in group B can be gathered now.
