@@ -2,11 +2,11 @@
 
 **Basis and limits.** Built from two documents only: the defense slide deck ("Details for DFE with messages") and the Preliminary Hearing Officer (PHO) report of 10 Aug 2026. Not reviewed: the interview video, the full chat extraction, the ad, any forensic report. I am not a lawyer and this is not legal advice. Statements of law are my understanding, and defense counsel should confirm each one.
 
-**Updated 23 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
+**Updated 23 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
 
 ## 1. Bottom line
 
-*Current as of section 14.*
+*Current as of section 15.*
 
 **The charges**
 
@@ -16,8 +16,8 @@
 **The defense account as it now stands**
 
 1. On April 30 he was told she would be 16 in June and refused within 37 seconds. He searched the ad's photo and found an adult's profile, which states an age of 23 and carries a posted college email from 2021. The phone records the profile being viewed at 16:54, eleven minutes after the conversation ended. He says the search was started during it.
-2. He meant to block her number. He understood that the app lifts a block once a message is sent to the blocked number, which the provider's help pages confirm (section 14.1). So he looked at other texting apps to avoid messaging her by accident, and stayed with the one he had. He gave no time for this. The phone records a look at other apps at 14:01 to 14:04 on May 1.
-3. At 15:49 he meant to pick up a conversation with another woman from earlier that afternoon. The undercover number was one of several unsaved numbers listed in the app, and he opened the wrong conversation. He does not recall seeing the April 30 messages.
+2. He meant to block her number. He understood that the app lifts a block once a message is sent to the blocked number, which the provider's help pages confirm (section 14.1). He says he had read this weeks or months before April 30 and had blocked numbers in the app before (section 15.1). So he looked at other texting apps to avoid messaging her by accident, and stayed with the one he had. He gave no time for this. The phone records a look at other apps at 14:01 to 14:04 on May 1.
+3. At 15:49 he meant to pick up a conversation with another woman from earlier that afternoon, and the message went to the undercover number. That number was not saved as a contact. He has described it as one of several unsaved numbers in the app. He does not recall seeing the April 30 messages. He now says her conversation had possibly been deleted, while many others were present (section 15.2).
 4. The location she gave was not the one he expected. He suspected a scam and asked for pictures.
 5. A second picture led him to take her for the woman on the profile, an adult. He did not connect the profile with April 30.
 6. What he told the agents that evening was, as I read his response, a generalization from how he usually thinks or acts, and it left out these details (section 13.2).
@@ -28,24 +28,24 @@
 - Nothing was said about age on May 1.
 - Two records made before the arrest: the profile views on April 30, and the look at other texting apps at 14:01 to 14:04 on May 1 (sections 13.2 and 13.5). They show what he did. What he meant by it still comes from him.
 - The profile states an age in writing, and a dated college record supports it. That its owner is an adult is close to beyond dispute (sections 12.1 and 13.3).
-- The mistake has an ordinary mechanism: conversations listed by number only, and brought back whenever the app was reinstalled (sections 12.2 and 14.2).
-- The provider's help pages bear out what he said about blocking in this app (section 14.1).
+- If her conversation was still in the list, the mistake has an ordinary mechanism: conversations listed by number only, and brought back whenever the app was reinstalled (sections 12.2 and 14.2).
+- The provider's help pages bear out what he said about blocking in this app (section 14.1). A dated record that he read them before April 30 would show he knew it then (section 15.1).
 - As relayed, his Google activity shows that removing the app was his routine before April 30. If so, the removals say nothing about her (section 14.3).
 - His first messages on May 1 read more naturally as continuing an arrangement than as returning to someone he had refused (section 10.1).
 
 **What stands against it**
 
-- On his own account he had singled out her number that afternoon, less than two hours before he texted it if the app search marks the moment. Her conversation was still in his list, though deleting it would have removed it for good (sections 13.5 and 14.2).
-- On his own answers, and on the provider's description of the app, the April 30 exchange was in the conversation he opened (sections 12.2, 13.4 and 14.2).
+- On his own account he had singled out her number that afternoon, less than two hours before he texted it if the app search marks the moment. He considered blocking it, changing apps and deleting her conversation, and cannot say that he did any of the three (sections 13.5 and 15.3).
+- How the message reached her number has been given two ways. If he opened her conversation from the list, the April 30 exchange was in it. If the conversation had been deleted, he entered her number some other way, and the obvious source is her ad (section 15.2).
 - The interview statement, as relayed, treats her as one person on both days (sections 8.2 and 13.2).
 - The profile's age is hers only if he believed its owner was the person texting, and until the second photo he doubted the pictures were real (sections 11.3 and 13.3).
 - The account needs him to have remembered the profile and forgotten why he looked it up (section 11.2).
 - What he did at the hotel. The removal of the apps minutes after he described his car counts for less if removal was his routine, but its timing still draws questions (sections 9.3, 13.1 and 14.3).
-- Several points have now been given in more than one version (sections 8.3 and 13.6).
+- Several points have now been given in more than one version (sections 8.3, 13.6 and 15.4).
 
 **What it still asks a fact-finder to accept on his word**
 
-1. That, having worried about texting that number by accident, he then opened its conversation at 15:49 without noticing whose it was or reading the lines above the box.
+1. That, having worried about texting that number by accident, he then sent it a message at 15:49 without knowing whose number it was.
 2. That he remembered the profile but not the reason for the search.
 3. That what he told the agents that evening was not what he had thought.
 
@@ -54,7 +54,7 @@ Each is possible. Needing all three is the difficulty. Records can take some of 
 **What will decide it**
 
 1. The interview video: the exact words, and what he had been told before he said them.
-2. What the texting app displayed at 15:49, and what he sent in the other woman's conversation after that time (sections 12.2 and 13.4). The provider's copy of that conversation may no longer exist (section 14.2).
+2. Whether her conversation had been deleted, how her number was selected at 15:49, what the screen showed, and what he sent in the other woman's conversation after that time (sections 12.2, 13.4 and 15.2). The provider's copy may no longer exist (section 14.2).
 3. Whether any record from before the arrest shows why he looked at other apps (sections 13.5 and 14.1).
 4. The second photo and the advertisement (sections 11.2 and 11.3).
 
@@ -67,7 +67,7 @@ Each is possible. Needing all three is the difficulty. Records can take some of 
 ### Strengths
 
 1. **Age was disclosed and understood.** "i will be 16 in june is that ok" drew "No. Find a different way of life please." He cannot claim he missed it.
-2. **He initiated the return.** Same UC number, same thread, about 23 hours later. Nobody lured him back. On the defense's present account he opened that thread by mistake, which still puts the April 30 exchange in front of him (section 12.2).
+2. **He initiated the return.** Same UC number, same thread, about 23 hours later. Nobody lured him back. On the defense's present account he opened that thread by mistake, which still puts the April 30 exchange in front of him (section 12.2). If the thread had been deleted, as he now says is possible, the number was entered some other way (section 15.2).
 3. **May 1 shows intent to complete a paid encounter.** He offered an Uber, answered "Ok. Where at?" 18 seconds after "2 for 1 tonight 100," sent "Yes" and "Just you….then both," asked for pictures, drove about 20 minutes, asked "Cash right?", asked to be walked upstairs, wrote "I have tinted windows if you can carplay. Ill give extra," and identified his vehicle. Travel to the meeting place is a textbook substantial step.
 4. **Concealment evidence, some of it supplied by the defense deck itself.** Tinted windows, nervousness, the peace-sign verification request, burner-number app searches, removal of the texting app in the parking lot, and a pre-arrival search for sting indicators. He has since said the habit predates these events and has given a reason for the app searches (sections 13.1, 13.5 and 14).
 5. **A recorded interview after a signed rights waiver.** DPS reports he "admitted to knowingly speaking to a minor," and he admitted prior patronizing. The relayed statement that he "thought the next day she just needed money" supplies the link the texts lack: that on May 1 he knew who he was texting (section 8).
@@ -101,7 +101,7 @@ Each is possible. Needing all three is the difficulty. Records can take some of 
    - "The photos showed an adult" conflicts with "I knew the photos were fake." Fake photos say nothing about who is texting.
    - "I did not intend to meet anyone" conflicts with the drive, "Cash right?", "Can you walk me upstairs?" and "Ill give extra."
    - Three separate misreadings ("on" as "or," "will" as "we'll," "Ok" answering only "we have a room") look contrived when stacked.
-2. **The linchpin is unproven.** The deck says he "can't definitively remember" deleting the April 30 thread. If the extraction shows the thread was still there at 15:49:15 on May 1, the refusal exchange sat directly above the box he typed in. Uninstalling the app cannot explain the mistake either, since the UC log shows the May 1 text arriving in the same thread from the same sender. The defense now says the thread was in the app's list and he opened it by mistake (section 12.2). That makes what the screen showed the central forensic question. The provider says a deleted conversation cannot be recovered, so on that account the thread had not been deleted (section 14.2).
+2. **The linchpin is unproven.** The deck says he "can't definitively remember" deleting the April 30 thread. If the extraction shows the thread was still there at 15:49:15 on May 1, the refusal exchange sat directly above the box he typed in. Uninstalling the app cannot explain the mistake either, since the UC log shows the May 1 text arriving in the same thread from the same sender. The defense now says the thread was in the app's list and he opened it by mistake (section 12.2). That makes what the screen showed the central forensic question. The provider says a deleted conversation cannot be recovered (section 14.2). He has since said the thread was possibly deleted, which would change how the number was reached (section 15.2).
 3. **His diligence cuts against him.** A man who reverse-searches photos, demands verification and checks for stings is hard to believe when he says he did not notice a number from 23 hours earlier. This has less force if, as now relayed, the conversations were listed by number only (section 12.2).
 4. **The image search began within minutes of the age disclosure.** Expect: "You were checking whether she was really 15, looking for a reason to say yes." He now says it was started during the conversation (section 13.4).
 5. **"Compulsion" serves the government's story too:** the urge overrode Thursday's "no." It is mitigation for sentencing, not a defense to intent.
@@ -121,14 +121,14 @@ Each is possible. Needing all three is the difficulty. Records can take some of 
 | Evidence | Prosecution reading | Defense reading | Likely reaction |
 |---|---|---|---|
 | April 30 refusal | He knew her age | He refuses minors | Helps him. Then they ask: "So why go back?" |
-| "Are you still around?" 23 hours later | Deliberate return | Meant for another woman; he opened the wrong conversation in a list of unsaved numbers | A familiar kind of mistake, so they will consider it. Then it depends on what the screen showed when he typed (section 12.2) |
+| "Are you still around?" 23 hours later | Deliberate return | Meant for another woman; it went to the wrong one of several unsaved numbers | A familiar kind of mistake, so they will consider it. Then it depends on whether her conversation had been deleted, how the number was selected and what the screen showed (sections 12.2 and 15.2) |
 | No age question on May 1 | He already knew | No reason to ask | Follows whichever story they already believe |
 | "Ok. Where at?", "Cash right?", the drive | Agreed and acted | "Ok" answered "we have a room," not the price; scam testing | Reads as intent to buy sex. The room reading is arguable for "Ok" alone and does not reach "Cash right?" (section 9.5) |
 | "Yes" / "Just you….then both" | Agreed to the act; chose the 15-year-old | Answered "coming?"; undecided on 2-for-1 | Timing may earn doubt on "Yes." "Just you" reads as sexual interest in that persona |
 | "tinted windows… carplay… Ill give extra" | Hidden sex with a child, for more money | Afraid of the room; a bluff | Most damaging text. "Bluff" will not be believed; "afraid to go in" might |
 | Image search to an adult profile that states an age of 23, with a posted 2021 college email | Still focused on her after "15"; the owner is in Rhode Island, so the photos were borrowed | All he saw was an adult, by her own stated age | They will accept that the owner is an adult. The question is whether he took her to be the person texting (sections 11.3, 12.1 and 13.3) |
 | Other recipients, stock phrases, hotel lookups | Prolific buyer | Lost track | Makes a mix-up plausible; costs sympathy |
-| Deleted threads, searches for second-number apps, app removal | Consciousness of guilt | Removing the app was his routine before April 30; the app searches were to avoid texting her number by accident; adult prostitution is illegal too | If the records show the routine, the removals stop looking like a reaction to her, though the timing at 17:02 still draws questions. The reason given for the app searches cuts both ways (sections 13.5 and 14) |
+| Deleted threads, searches for second-number apps, app removal | Consciousness of guilt | Removing the app was his routine before April 30; the app searches were to avoid texting her number by accident; adult prostitution is illegal too | If the records show the routine, the removals stop looking like a reaction to her, though the timing at 17:02 still draws questions. The reason given for the app searches cuts both ways (sections 13.5, 14 and 15.1) |
 | Interview: "thought the next day she just needed money… just giving money and leaving" | He knew on May 1 who she was, and knew he should not be there | He refused and denied wanting sex; he was describing how he usually thinks, not what he remembered | Outweighs anything said later, unless the video shows he was speaking generally or had just been told who she was. The texts undercut the "give money and leave" half (section 13.2) |
 | The account in sections 10 to 13: wrong conversation, then scam suspicion, then a photo matching the adult profile | The records are from before the arrest, but the explanation of them came after it; checking her photo against that profile shows he knew who she was | An honest mix-up, anchored by two records made before the arrest | Needs the other conversation on a screen. Without it, it sounds like an excuse, and the photo comparison reads as recognition (section 13.2) |
 | Addiction | Urge beat scruple | Explains carelessness | Little value on findings; some at sentencing |
@@ -159,7 +159,7 @@ Each is possible. Needing all three is the difficulty. Records can take some of 
 
 ## 6. Likely cross-examination
 
-Each entry gives the question, an honest shape for the answer, the prosecutor's rebuttal, and the reply. Every answer is conditional on being true. Answers 2 to 5 assume he did not know on May 1 that he was texting the person from April 30. The interview statement in section 8 suggests he did. If he did, those answers are not available to him. Section 10.6 lists the questions the later account will draw. Section 11.6 adds those raised by what he remembered of the profile. Section 12.4 adds those raised by the college email and the unsaved number. Section 13.4 assesses the answers he has since given to the questions in 12.4. Section 14.4 adds those raised by the provider's help pages and the record of the habit.
+Each entry gives the question, an honest shape for the answer, the prosecutor's rebuttal, and the reply. Every answer is conditional on being true. Answers 2 to 5 assume he did not know on May 1 that he was texting the person from April 30. The interview statement in section 8 suggests he did. If he did, those answers are not available to him. Section 10.6 lists the questions the later account will draw. Section 11.6 adds those raised by what he remembered of the profile. Section 12.4 adds those raised by the college email and the unsaved number. Section 13.4 assesses the answers he has since given to the questions in 12.4. Section 14.4 adds those raised by the provider's help pages and the record of the habit. Section 15 assesses his answers to those in 14.4.
 
 1. **"On April 30 you were told she was 15, and you understood?"**
    - Answer: "Yes. That's why I said no."
@@ -171,7 +171,7 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
    - Reply: depends on forensics. Either "The thread was gone; the screen was blank," or "I don't remember seeing it. I delete those threads. Had I seen it I would not have sent that."
    - Rebuttal: "You don't remember deleting it."
    - Reply: "Not that specific thread, no." Concede it and stop.
-   - Update: the account now given is that he opened this conversation by mistake from a list of unsaved numbers (section 12.2). On that account "the thread was gone" cannot be the reply. What remains is what he remembers seeing, and what the examiner can show the screen displayed. He has since said he does not recall seeing his earlier words (section 13.4). The provider says a deleted conversation cannot be recovered, which also rules out "the thread was gone" (section 14.2).
+   - Update: the account now given is that he opened this conversation by mistake from a list of unsaved numbers (section 12.2). On that account "the thread was gone" cannot be the reply. What remains is what he remembers seeing, and what the examiner can show the screen displayed. He has since said he does not recall seeing his earlier words (section 13.4). The provider says a deleted conversation cannot be recovered (section 14.2). He has since said the conversation was possibly deleted. If it was, the screen was blank, but the number did not come from the list. He cannot say which from memory, so the records have to (section 15.2).
 3. **"Where did you get the number on May 1? The same ad you reverse-searched the day before?"**
    - He must know this cold: which site, which ad, what he recognized.
    - Rebuttal: "The only reason you searched that photo was that she said she was 15."
@@ -202,7 +202,7 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
     - Answer, if true: "I was afraid to go into that room, so I asked her to come to the car. I believed she was an adult."
     - The bluff version draws: "A bluff with more money? And when she agreed, you described your car."
 11. **"You removed the app in the parking lot. You were destroying evidence."**
-    - Answer: "I delete that app and those threads out of shame, and had many times before." This needs forensic proof from before April 30 (section 13.1). He has since said the Google activity shows it for the app. On his own answers the April 30 conversations were still in the list on May 1, so the answer should not include deleting threads that day unless the records show it (section 14.3).
+    - Answer: "I delete that app and those threads out of shame, and had many times before." This needs forensic proof from before April 30 (section 13.1). He has since said the Google activity shows it for the app. On his own answers many conversations from April 30 were still in the list on May 1, so the answer should not describe deleting threads as a routine unless the records show it (sections 14.3 and 15.2).
     - Rebuttal: "But you didn't drive away."
     - Reply: the truth about why.
 12. **"That night you told the agent: 'I refused and thought the next day she just needed money.' 'She' is the girl who told you she was 15?"**
@@ -227,7 +227,7 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
 ## 7. Before any decision
 
 1. **Watch the full interview with counsel.** Transcribe every statement about age, identity, scam belief and intent. Section 8.2 lists what to look for around the "needed money" statement. Get the Army CID interview record as well; the DPS report says CID questioned him separately.
-2. **Get the forensic report before fixing a theory.** Thread deletion time; app install and uninstall times; how the UC number was entered on May 1; the page viewed at 15:45–15:49; the number of ads contacted April 28 to May 1; exact search queries; the date of the Play Store screenshot. Section 12.2 adds tests for the accident account. Section 13.7 lists records that would support the newer details.
+2. **Get the forensic report before fixing a theory.** Thread deletion time; app install and uninstall times; how the UC number was entered on May 1; the page viewed at 15:45–15:49; the number of ads contacted April 28 to May 1; exact search queries; the date of the Play Store screenshot. Section 12.2 adds tests for the accident account. Section 13.7 lists records that would support the newer details. Section 15.5 adds to it.
 3. **Demand in discovery:** the ad (text, stated age, photos, site), the operation plan and any age-confirmation protocol, the full UC extraction with metadata, and the arrest inventory (cash on hand).
 4. **Settle on the one true account and correct the timestamps.**
 5. **Motions for counsel to assess:** suppression of the interview (the DPS report describes a joint DPS–Army operation, which raises an Article 31(b) question), M.R.E. 707, M.R.E. 404(b) on prior patronizing, the rule of completeness for the interview, and speedy trial under R.C.M. 707 (charges were preferred 24 June 2026).
@@ -523,7 +523,7 @@ He should keep following counsel's instruction not to reinstall the app or open 
 | The old conversation had been deleted, and he picked the number from a list of recent numbers or a suggestion | Possible in some apps. The examiner would have to show that this app does it and that the conversation was deleted before 15:49 |
 | He typed or pasted the number | He took it from somewhere, and the examiner should be able to say where. If the UC's ad was open on his phone, that is the slide 2(e) version, not an accident |
 
-The account needs two things that pull against each other. The UC's number had to be easy to pick by mistake, and the April 30 conversation had to be gone. The easier the number was to pick, the more likely the conversation was there to be read. The defense has since said which row applies: the first (section 12.2). Section 14.2 sets out what the provider says about deleted conversations.
+The account needs two things that pull against each other. The UC's number had to be easy to pick by mistake, and the April 30 conversation had to be gone. The easier the number was to pick, the more likely the conversation was there to be read. The defense has since said which row applies: the first (section 12.2). Section 14.2 sets out what the provider says about deleted conversations. His later answers leave the first two rows open (section 15.2).
 
 **What the texts do not show.** If he thought he was talking to a woman from earlier that afternoon, some replies should have seemed wrong. She said she was working with a friend, quoted a price, said she was not from the area and named a town other than the one he says he expected. He never wrote "I thought you were somewhere else" or "who is this?" The prosecutor will go through each reply and ask why not.
 
@@ -761,7 +761,7 @@ No answer shapes are offered.
 - Its better uses are narrower. It matches what he says he remembered of the profile, and it matters if his belief has to be reasonable as well as genuine.
 - It also helps the government. It is a second item placing the owner in Rhode Island, which supports the conclusion that the ad's pictures were borrowed.
 - The unsaved-number detail gives the mistake an ordinary mechanism and answers one prosecution argument.
-- It also settles a question against him. He opened the existing conversation, so the April 30 exchange was there to be seen unless the app did not display it. That conflicts with slide 3, which says the conversation may have been deleted.
+- It also settles a question against him. He opened the existing conversation, so the April 30 exchange was there to be seen unless the app did not display it. That conflicts with slide 3, which says the conversation may have been deleted. Section 15.2 reopens this.
 - The same things decide the case as before. This section adds tests the examiner can run on the accident.
 
 ### 12.1 The college email
@@ -805,9 +805,9 @@ No answer shapes are offered.
 
 **What it settles against him**
 
-1. **He opened the existing conversation.** The April 30 exchange was part of it. It was short, and it ended with four lines: her statement of her age, his refusal, his "Not in rude way.", and her "k i get it." Unless the app did not display earlier messages, those lines were directly above the box where he typed "Are you still around?" They would have stayed in view while the first replies arrived. His later answers bear on this (section 13.4).
+1. **He opened the existing conversation.** The April 30 exchange was part of it. It was short, and it ended with four lines: her statement of her age, his refusal, his "Not in rude way.", and her "k i get it." Unless the app did not display earlier messages, those lines were directly above the box where he typed "Are you still around?" They would have stayed in view while the first replies arrived. His later answers bear on this (section 13.4). He has since said the conversation was possibly deleted (section 15.2).
 2. **A conversation list usually shows more than a number.** Most apps show the last message and its date beside each entry, and put the newest at the top. For this conversation the last message was "k i get it," which says nothing about age, but its date was the day before. The conversations he had used that afternoon would have carried that day's times and sat above it.
-3. **It conflicts with slide 3.** Slide 3 says the conversation was possibly deleted. A deleted conversation is not in the list to be opened. Both can be true only if the app brought the conversation back when he reinstalled at 13:11, and the examiner can test that. If it did, that would help explain the mistake, because he would have had no reason to expect a conversation from the day before in the list. If it did not, slide 3 and this detail cannot both be right. The provider's help pages answer this. Removing the app loses no conversations, and deleting one is permanent. So the conversation had not been deleted (section 14.2).
+3. **It conflicts with slide 3.** Slide 3 says the conversation was possibly deleted. A deleted conversation is not in the list to be opened. Both can be true only if the app brought the conversation back when he reinstalled at 13:11, and the examiner can test that. If it did, that would help explain the mistake, because he would have had no reason to expect a conversation from the day before in the list. If it did not, slide 3 and this detail cannot both be right. The provider's help pages say that removing the app loses no conversations and that deleting one is permanent (section 14.2). He has since said the conversation was possibly deleted, and section 15.2 takes up the conflict.
 4. **The accident explains the first message, not the hour that followed.** Sections 10.2 and 11.2 cover what he believed after it.
 
 **Tests for the examiner, through counsel**
@@ -865,7 +865,7 @@ No answer shapes are offered. Section 13.4 assesses the answers since given.
 4. **It has to be proved by records.** The Google account's Play Store history and the phone extraction should show each install and removal with its date. His saying so adds little.
 5. **The rule.** M.R.E. 406 allows evidence of a person's habit to show that he acted in accordance with it on a particular occasion. As I understand it, a habit is a regular response to a repeated situation, and a few instances may not be enough. Here the act is not disputed, only the reason for it, so counsel may treat this as a question of ordinary relevance. Either way it is for counsel.
 6. **The removal at 17:02 still needs its own explanation.** It came about three minutes after he described his car, while he was waiting. If his routine is to remove the app when he has finished, then at 17:02 he had finished something. The government will say it was the arranging. The defense has called it disengaging. Removing the app cut off his only line to her, which fits the defense reading better. The arrest time and the car's position will show which it was (section 9.3, point 8).
-7. **The habit and the mistake pull against each other.** If he cleared conversations every time, the April 30 conversation should not have been in the list at 15:49. He now says conversations from the previous day were in the list (13.4). The provider's help pages, supplied since, say that removing the app loses no conversations and that deleting one is permanent (section 14.2). So the habit that fits his answers is removing the app, not deleting conversations.
+7. **The habit and the mistake pull against each other.** If he cleared conversations every time, the April 30 conversation should not have been in the list at 15:49. He now says conversations from the previous day were in the list (13.4). The provider's help pages, supplied since, say that removing the app loses no conversations and that deleting one is permanent (section 14.2). So the habit that fits his answers is removing the app, not deleting conversations. Section 15.2 covers his later answer that hers was possibly deleted.
 
 ### 13.2 The interview, and "worked out afterwards"
 
@@ -925,7 +925,7 @@ The questions are those in section 12.4. Each answer is recorded as relayed and 
 *As relayed: some of the other conversations were from the previous day as well.*
 
 - This corrects the premise of the question. I had assumed the other conversations were all from that afternoon. If several were from the day before, hers did not stand out for that reason.
-- It also concedes something. Conversations from April 30 were in the list on May 1, so the app kept them or brought them back. Hers was there with its April 30 messages (13.1, point 7).
+- It also concedes something. Conversations from April 30 were in the list on May 1, so the app kept them or brought them back. If hers was among them, its April 30 messages were there too (13.1, point 7). He has since said hers was possibly deleted (section 15.2).
 - The order of the list is still open. Most apps put the most recently used conversation at the top. The one he meant to continue was from that afternoon. Hers had last been used the day before. The examiner's reconstruction of the list (section 12.2) will show how far apart they were.
 - Section 9.3 made a related point. He messaged two of the previous day's contacts again on May 1, so he could tell those conversations apart.
 
@@ -946,7 +946,7 @@ His memory should not be what settles this. The provider's records will show whi
 *As relayed: he does not recall. Counsel has told him not to open the app or the messages. He does remember meaning to block the number.*
 
 - "I don't recall" is consistent with slide 3, which says he cannot definitely remember deleting it.
-- It leaves slide 3 and section 12.2 unreconciled, and only the examiner can reconcile them. His answer to question 2 suggests how that will come out: the conversation was in the list, whether or not he had deleted it the day before.
+- It leaves slide 3 and section 12.2 unreconciled, and only the examiner can reconcile them. His answer to question 2 shows that the previous day's conversations were kept. Whether hers was among them is still open (section 15.2).
 - The rest of the answer is new. Section 13.5 deals with it.
 
 **5. Why was he still looking through her pictures?**
@@ -995,7 +995,7 @@ His memory should not be what settles this. The provider's records will show whi
 
 1. **It puts her number in his mind about an hour and three-quarters before he texted it.** The account's first step is that he opened her conversation without knowing whose it was. On this detail he had picked that conversation out of the list the same afternoon.
 2. **He foresaw the mistake and then made it.** The government will not accept that as coincidence. It will say that a man does not fear texting a number by accident, and that what he feared was wanting to. That reading fits "compulsion" (section 3), the order of contacts, in which she came last after five others (section 9.3), and the interview.
-3. **The simplest step was not taken.** Deleting the conversation takes it out of the list. He does not recall whether he did. The provider says deletion is permanent, so a conversation that was in the list at 15:49 had not been deleted (section 14.2). He will be asked why not.
+3. **The simplest step was not taken.** Deleting the conversation takes it out of the list. He does not recall whether he did. The provider says deletion is permanent, so a conversation that was in the list at 15:49 had not been deleted (section 14.2). He will be asked why not. He has since said that deleting seemed more effective than blocking, as I read him, and that the conversation was possibly deleted (sections 15.1 and 15.2).
 4. **He stayed with the same app.** Having seen the risk and looked at the alternatives, he changed nothing.
 5. **He searched for a second number.** Any texting app would have given him a list without her in it. The government will say a new number is what a man looks for when he is hiding.
 6. **The legal-help app.** The same Play Store session includes two visits at 2:02 PM to the page of an AI legal-help app. On this account the session was about her number, so he will be asked what legal question he had in mind. It may have been no more than a suggested result.
@@ -1005,8 +1005,8 @@ His memory should not be what settles this. The provider's records will show whi
 **What would support it**
 
 1. **How the app behaves.** When this section was first written I could not confirm that any texting app lifts a block automatically when the blocked number is messaged. He has since supplied the provider's help page, and it says that this one does (section 14.1). The examiner should still test the version he used.
-2. **A block that was actually set.** He says he was going to block the number, not that he did. If he did, the provider may have logged it, and the message at 15:49 would have lifted it. A block on her number, followed by an unblock at 15:49, would be strong support.
-3. **How he learned what the app does.** A notice on the block screen, a help page or a search would each leave a trace. A search or page visit about blocking, made before 15:49, would turn this from an explanation into evidence. Section 14.1 explains why it matters which page.
+2. **A block that was actually set.** He says he was going to block the number, not that he did. If he did, the provider may have logged it, and the message at 15:49 would have lifted it. A block on her number, followed by an unblock at 15:49, would be strong support. He has since said he had blocked numbers in the app before (section 15.1).
+3. **How he learned what the app does.** A notice on the block screen, a help page or a search would each leave a trace. A search or page visit about blocking, made before 15:49, would turn this from an explanation into evidence. Section 14.1 explains why it matters which page. He has since said he read the provider's page weeks or months before April 30 (section 15.1).
 4. **The conversation list at about 14:00.** Where her conversation sat, and what he did in the app between 13:48 and 14:06.
 
 **Questions it will draw.** No answer shapes are offered.
@@ -1043,8 +1043,8 @@ Sorted from everything relayed so far.
 
 | Point | Earlier | Now |
 |---|---|---|
-| How the May 1 message came to be sent | Slide 2(e): he saw the ad's picture again and contacted it. Slide 3: it was meant for someone else | He opened the wrong conversation in a list of unsaved numbers |
-| The April 30 conversation | Slide 3: possibly deleted | In the list at 15:49; he does not recall deleting it. On the provider's description it had not been deleted (section 14.2) |
+| How the May 1 message came to be sent | Slide 2(e): he saw the ad's picture again and contacted it. Slide 3: it was meant for someone else | Meant for someone else. Section 12: he opened the wrong conversation in a list of unsaved numbers. If her conversation had been deleted, her number was entered some other way (section 15.2) |
+| The April 30 conversation | Slide 3: possibly deleted. Section 12: in the app as one of several unsaved numbers | He does not recall deleting it (13.4). Possibly deleted, with many others present (section 15.2) |
 | The app search at 14:01 to 14:04 | Timeline: no reason given. Slide 3, as I noted it: removing and replacing these apps out of shame | To avoid messaging her number by accident |
 | When the image search was made | Slide 2: 16:42 to 16:50. Two-day timeline: 16:54, after the conversation | During the conversation, with a break |
 | "Give money and leave" | Slide 9: a thought he had at the hotel | The interview statement was a generalization |
@@ -1053,7 +1053,7 @@ Some of these are refinements and not contradictions, and the newer version is u
 
 ### 13.7 Records to look for, through counsel
 
-These add to the lists in sections 7, 9.6, 10.7 and 12.2. Section 14 adds the provider's log of blocks, a dated copy of its help page, and whether the government obtained the provider's records.
+These add to the lists in sections 7, 9.6, 10.7 and 12.2. Section 14 adds the provider's log of blocks, a dated copy of its help page, and whether the government obtained the provider's records. Section 15.5 adds further items.
 
 1. **Installs and removals of the texting apps before April 30,** with dates (13.1).
 2. **Earlier reverse image searches** on the photos in other ads (13.4, answer 5).
@@ -1086,9 +1086,9 @@ These add to the lists in sections 7, 9.6, 10.7 and 12.2. Section 14 adds the pr
 
 - He was right about the app, and section 13.5 has been corrected. In this app a block would not have stopped the message at 15:49.
 - The page shows what the app does. It does not show when he learned it, or that it was the reason for the app search on May 1. A record from before 15:49 would show that, and it matters which page the record is of.
-- The app is now identified, and the provider's other pages settle two open points. Removing the app loses no conversations. Deleting a conversation is permanent. So the conversation he opened had not been deleted, and slide 3's suggestion that it had been should be withdrawn.
+- The app is now identified, and the provider's other pages settle two open points. Removing the app loses no conversations. Deleting a conversation is permanent. So a conversation that had been deleted was not in the list to be opened. He has since said hers was possibly deleted (section 15.2).
 - The provider also says that a number lapses after 30 days without use and that message history may not survive long inactivity. The record that would best prove the mistake may no longer exist with the provider. Counsel needs to find out now.
-- If the Google activity shows the same cycle on earlier dates, the removals stop being evidence about her. The record can show removal of the app. It cannot show deleted conversations, and on his own answers the April 30 conversations were not deleted.
+- If the Google activity shows the same cycle on earlier dates, the removals stop being evidence about her. The record can show removal of the app. It cannot show deleted conversations, and on his own answers many of the April 30 conversations were not deleted. He has since said hers possibly was (section 15.2).
 
 ### 14.1 The provider's page on blocking
 
@@ -1101,13 +1101,13 @@ These add to the lists in sections 7, 9.6, 10.7 and 12.2. Section 14 adds the pr
 
 **What it does not show**
 
-1. **When he learned it.** The page is public and can be read today. It proves what the app does. It does not prove that he knew it on May 1, or that it was why he looked at other apps at 14:01 to 14:04. He will be asked when he first read it.
+1. **When he learned it.** The page is public and can be read today. It proves what the app does. It does not prove that he knew it on May 1, or that it was why he looked at other apps at 14:01 to 14:04. He will be asked when he first read it. He has since said weeks or months before April 30 (section 15.1).
 2. **Where the knowledge came from, if not from a page.** If he had blocked numbers in this app before, the provider may have a log of the blocks and of their being lifted.
 3. **It does not reach the two hardest questions in section 13.5:** why her conversation was still in his list, and why he stayed with the same app. Section 14.2 makes the first one sharper.
 
 **A record from before 15:49 on May 1**
 
-- Section 13.5 said that a search or a help page about blocking, opened before 15:49, would turn the detail from an explanation into evidence. That stands, and his Google activity is where it would be.
+- Section 13.5 said that a search or a help page about blocking, opened before 15:49, would turn the detail from an explanation into evidence. That stands, and his Google activity is where it would be. On his later answer he read the page well before April 30, so the record to look for is earlier (section 15.1).
 - It matters which page. The provider's article on how to block a number carries the point in its last line. A visit to that article before 15:49 would be strong support.
 - The page he has quoted is headed as instructions for unblocking. It tells the reader that the way to unblock a number is to message it. If the records show that page opened before 15:49, the defense will say he was finding out what a block would do. The government will say he was finding out how to undo one, and that at 15:49 he did what the page says.
 - Whether a block was ever set on her number decides between those readings. He says he was going to block it, not that he did. If none was set, there was nothing to undo. The provider's records may show which it was.
@@ -1125,17 +1125,17 @@ As relayed, the provider is TextFree, which is made by Pinger. That allows three
 
 | Question | What the provider says | What follows |
 |---|---|---|
-| Does removing and reinstalling the app lose conversations? | No. "Reinstalling the app will not cause you to lose your number or any messages." The user logs back in. One page adds that messages may be lost "dependent on account usage" | After the reinstall on May 1 the conversations from April 30 were back in the list. That supports his answer that some conversations in the list were from the day before (13.4), and the mechanism in section 12.2. It also means the April 30 exchange was in her conversation |
+| Does removing and reinstalling the app lose conversations? | No. "Reinstalling the app will not cause you to lose your number or any messages." The user logs back in. One page adds that messages may be lost "dependent on account usage" | After the reinstall on May 1 the conversations from April 30 were back in the list. That supports his answer that some conversations in the list were from the day before (13.4), and the mechanism in section 12.2. It also means the April 30 exchange was in her conversation, unless that conversation had been deleted |
 | Can a deleted conversation come back? | No. Deleting messages or conversations "is a permanent action". Neither the user nor the provider's support staff can recover them | If he had deleted her conversation, it was not in the list to be opened by mistake. If it was in the list, he had not deleted it |
 | How long does an unused account last? | The number expires after 30 days in which no message is sent and no call is made. Call and message history "may not be available after any long period of inactivity" | The points under "The expiry point" below |
 
 **The deletion point**
 
-1. **Slide 3 and the present account cannot both be right.** Section 12.2 said they could be reconciled only if the app brought a deleted conversation back when it was reinstalled. On the provider's statement it does not. His own answers put the conversation in the list. So it had not been deleted, and slide 3's suggestion that it had been should be withdrawn unless the examiner finds otherwise. That removes one of the points given in two versions (13.6).
-2. **"I don't recall whether I deleted it" now has an answer.** On his own account he had not.
-3. **It confirms what section 12.2 settled.** The April 30 exchange was in the conversation he opened.
+1. **Slide 3 and section 12.2 cannot both be right, with one exception.** Section 12.2 said they could be reconciled only if the app brought a deleted conversation back when it was reinstalled. On the provider's statement it does not. As first written, this point went on to say that his own answers put the conversation in the list, so it had not been deleted and slide 3 should be withdrawn. That went further than his answers did. He has since said the conversation was possibly deleted. Section 15.2 sets out what follows either way, and the exception.
+2. **"I don't recall whether I deleted it" is still his position.** The records have to answer it (section 15.2).
+3. **If the conversation was in the list, the April 30 exchange was in it.** That is what section 12.2 said, and the provider's pages bear it out.
 4. **It bears on the habit.** A habit of deleting conversations does not fit a list that still held the previous day's. A habit of removing the app does, because removal leaves the conversations with the provider (14.3).
-5. **It sharpens a question in section 13.5.** Deleting her conversation would have taken her number out of the list for good, in one step. On his account he saw the risk and looked for a way to remove it. For a number that is not a saved contact, the provider's article describes the block as set from the conversation itself, by swiping on it. If he got that far, her conversation was in front of him. He will be asked why it was still in the list at 15:49. No answer shape is offered.
+5. **It sharpens a question in section 13.5.** Deleting her conversation would have taken her number out of the list for good, in one step. On his account he saw the risk and looked for a way to remove it. For a number that is not a saved contact, the provider's article describes the block as set from the conversation itself, by swiping on it. If he got that far, her conversation was in front of him. If it was still in the list at 15:49, he will be asked why. No answer shape is offered.
 
 **The expiry point**
 
@@ -1155,18 +1155,18 @@ As relayed, the provider is TextFree, which is made by Pinger. That allows three
 1. **That is the date section 13.1 asked for.** If the activity shows the same cycle on earlier dates, with the app installed, used and gone again before the next install, then the removal after the April 30 conversation and the removal at 17:02 on May 1 stop being evidence of a reaction to her. They remain evidence that he hid buying sex, which he does not dispute.
 2. **It gives the install at 16:26 on April 30 an ordinary explanation.** An install followed seven minutes later by a first message is what a session looks like for someone who installs the app each time (section 9.3, point 3).
 3. **What Google's records show well, and what they may not.** They record searches and page visits in the Play Store, and when an app was used. The Play Store data in a Google export lists installs with their times. I could not confirm that any of these lists removals. Repeated installs of the same app imply the removals in between, which is enough for this point. The timeline marks the 17:02 removal as verified, so some record of removals exists. The examiner should identify it and say how far back it goes.
-4. **What the record cannot show.** Deleting a conversation happens inside the app, and Google does not record it. On his own answers the April 30 conversations were still in the list on May 1 (14.2). So the habit the records can prove is removing the app. The wider claim, that he also deleted conversations as a matter of routine, is not supported for April 30 and should not be made for that day.
+4. **What the record cannot show.** Deleting a conversation happens inside the app, and Google does not record it. On his own answers the April 30 conversations were still in the list on May 1 (14.2). So the habit the records can prove is removing the app. The wider claim, that he also deleted conversations as a matter of routine, is not supported for April 30 and should not be made for that day. He has since said hers was possibly deleted while many others were present. That describes one deletion, not a routine (section 15.2).
 5. **The timing at 17:02 still needs its own explanation** (13.1, point 6). The earlier cycles may help. They will show at what point in a session he usually removed the app. If it was when he had finished for the day, then 17:02 marks a decision that he had finished, and the argument is about what he had finished.
 6. **The same records test the blocking detail.** They will show whether looking at other texting apps was part of the routine.
    - If on earlier dates he reinstalled the same app each time and looked at no others, May 1 was different, and his reason (13.5) explains the difference.
    - If he had looked at other apps before, the search at 14:01 to 14:04 was routine. It then needs no special reason, and the government will say he has chosen the one that helps.
-7. **A regular cycle means he had seen old conversations come back before.** If he logged back in to the same account each time, as he did on May 1, each reinstall brought back the list. That supports the mechanism: a list of old, unsaved numbers after every reinstall. It supports the worry in 13.5 as well. It also means he had no reason to expect a clean list on May 1, and had reason to know her conversation would be in it.
+7. **A regular cycle means he had seen old conversations come back before.** If he logged back in to the same account each time, as he did on May 1, each reinstall brought back the list. That supports the mechanism: a list of old, unsaved numbers after every reinstall. It supports the worry in 13.5 as well. It also means he had no reason to expect a clean list on May 1, and had reason to know her conversation would be in it unless he had deleted it.
 8. **Each earlier cycle is another occasion.** The record that proves the habit also shows how often he did this. Counsel has to weigh that against the rules on other acts and against the Texas case before it is disclosed (section 7, point 5, and section 9.4, point 6).
 9. **The rule.** With a run of dated cycles, a habit argument under M.R.E. 406 has something to rest on (13.1, point 5). Whether to make it is for counsel.
 
 ### 14.4 Questions these items will draw
 
-No answer shapes are offered.
+No answer shapes are offered. Section 15 assesses the answers since given.
 
 1. "When did you first read that help page?"
 2. "Before May 1, had you ever blocked a number in that app?"
@@ -1179,8 +1179,164 @@ No answer shapes are offered.
 
 1. **One correction is accepted.** The app behaves as he said, and section 13.5 now says so.
 2. **The blocking detail is more credible as a description of the app.** It still needs a record that ties it to May 1.
-3. **Slide 3's deletion should be withdrawn,** unless the examiner finds otherwise. That leaves one contradiction fewer. It also confirms that the April 30 exchange was in the conversation he opened.
+3. **The deletion question is open again.** As first written, this point said that slide 3's deletion should be withdrawn. He has since said the conversation was possibly deleted (section 15.2).
 4. **The removals lose most of their force as evidence about her,** if the record is as relayed. The timing at 17:02 remains.
 5. **Preservation is the urgent item.** The best evidence for the mistake may no longer exist with the provider. Counsel should be asked now.
 6. **Section 1's three points to accept on his word are unchanged.** Neither item reaches what he saw at 15:49, why he remembered the profile but not the search, or what he told the agents.
+7. **The order of work is unchanged.** Video first, forensic report second, account third.
+
+## 15. Addendum 8, 23 Nov 2026: his answers to the questions in 14.4
+
+**What this covers.** Answers supplied after section 14 to the six questions in section 14.4. They are recorded as relayed. Three of them can be read more than one way, and section 15.1 says how I have read each. I have not seen the Google activity, the provider's records or the app.
+
+**Short version**
+
+- One answer can be checked, and would help if a record bears it out. He says he read the provider's page weeks or months before April 30. A dated visit from then would show that he knew how blocking works in this app before she had any reason to matter.
+- Two answers reopen a question that section 14 treated as closed. He now says her conversation was possibly deleted. Sections 14.2 and 14.5 said slide 3's deletion should be withdrawn. That went further than his answers did, and those passages have been changed.
+- Deleted and not deleted lead to different accounts of the first message. If the conversation was in the list, he opened it, and the April 30 exchange was on the screen. If it had been deleted, the screen was blank, but he entered her number some other way, and the obvious source is her ad. Only the records can say which.
+- He has now named three ways of keeping clear of her number: blocking it, changing apps and deleting her conversation. On his present memory he cannot say that he did any of them.
+- Four of the six answers do not say what he did or saw. They give what made sense, what was possible or what he would have done. A prosecutor will press that difference, and his own explanation of the interview supplies the reason.
+- This section adds no new list of questions. The next round is better done with counsel, with the records in hand.
+
+### 15.1 The six answers
+
+Each answer is recorded as relayed and then assessed for how it would be received. No wording is suggested.
+
+**1. When did he first read the help page?**
+
+*As relayed: weeks or months before April 30.*
+
+- This helps if a record shows it. A dated visit to the provider's page before April 30 would be a record made before the arrest, and before she had any reason to matter. It would show that what he knew about blocking was not learned because of her.
+- It removes one reading set out in section 14.1. That section said a visit to the unblocking page before 15:49 on May 1 could be read as finding out how to undo a block on her. On this answer the visit was long before her.
+- "Weeks or months" is an estimate. The record will give the date, and he should not put one on it from memory. If the Google activity shows no visit before April 30, the answer rests on his word, and the only visits on record will be recent ones.
+- The page he quoted is about unblocking. Expect: "Why were you reading how to unblock a number?" The ordinary reason is that a person has blocked someone and wants to reach them again. Answer 2 makes that question more pointed.
+- The page he quoted is for TextFree Web, which the provider describes as the version used from a desktop or laptop. If he ever used that version, the browser history on that computer is another place the examiner can look (15.5). It is not something for him to open.
+- It does not tie the knowledge to the afternoon of May 1. Section 14.1 asked for a record from before 15:49 that day. On this answer there will not be one of the page. Nothing dated May 1 yet shows that blocking her was on his mind when he looked at other apps.
+- If he had known this about the app for months, what was new on May 1 was not the knowledge. It was her number. Both sides will say so. The defense will say he took what she had told him seriously. The government will say she was on his mind.
+
+**2. Had he blocked a number in the app before May 1?**
+
+*As relayed: "sure, frequently texted individuals."*
+
+I read this as yes: he had blocked numbers before, in the course of texting many people. It may mean more narrowly that the numbers he blocked belonged to people he had texted often.
+
+- It makes the intention to block her ordinary. Blocking was something he did, so wanting to block her number needs no special explanation.
+- It explains how he knew what a block does.
+- The provider may hold a record of the blocks. I could not confirm that it keeps a list or a history. Its own description says only that a user can unblock a number later.
+- It draws a hard question. "You blocked numbers often. A girl told you she was 15. Did you block her that day?" On his account he was going to. The moment to do it was 16:40 on April 30. What the records show next is the search on her photo.
+- If the numbers he blocked were those of people he had been texting, the prosecutor will ask what the blocks were for. A block in this app stops the other person's messages and not his own. If the answer is that they were to stop himself going back, the government has its reading of section 13.5 from his own practice: he wanted her blocked because he thought he might go back to her.
+- With answer 1 it draws another. He had blocked people, and he had read how a block is lifted. "So you had blocked someone and then gone back to them?" If that is true, it is the pattern the government alleges here. If it is not, a record of his blocks would show it.
+
+**3. Why was her conversation still in the list?**
+
+*As relayed: "it seemed more effective than blocking."*
+
+I read "it" as deleting. On that reading he is saying that deleting was the step he thought would work, which is the answer of a man who believes he probably deleted the conversation. Answer 5 points the same way. "It" could instead be the change of app described in section 13.5. Then the answer explains why he did not block her, and not why he did not delete her conversation.
+
+- On my reading the answer disputes the premise of the question. He is not saying why the conversation was still there. He is saying it may not have been. Section 15.2 takes that up.
+- It reports what he thought, not what he did. The next question is "So did you delete it?" On his own answers that is "I don't recall."
+- It pulls against the reason he gave for looking at other apps. That reason was fear of messaging her by accident. Once her conversation was deleted, the only way to do that was to enter her number afresh, for example from her ad, and a different app would not prevent that. The two fit most easily in one order: he looked at other apps, stayed with this one, and then deleted her conversation. That would put the deletion after 14:04 on May 1.
+
+**4. Did he know her conversation would come back when he reinstalled?**
+
+*As relayed: reinstalling had nothing to do with any one individual.*
+
+- This is consistent with the records so far, and worth establishing. On the timeline, the reinstall at 13:11 was followed by messages to five other people before her, though those entries are still assumptions. On the record he describes, reinstalling was routine.
+- It answers a different question, which is why he reinstalled. The question asked was whether old conversations came back, and so whether he knew hers would be among them. That has a factual answer, and the examiner can give it.
+- A witness who answers a different question is asked the same one again, and the fact-finder notices. A responsive answer starts with yes, no or "I don't remember." The explanation comes after it.
+- His answer 5 supplies part of it. He says many other conversations were present on May 1. So he saw that old conversations were in the list. Whether hers was among them is the question in 15.2.
+
+**5. Were the previous day's conversations all still there?**
+
+*As relayed: possibly deleted, many others were present.*
+
+I read this as: her conversation was possibly deleted, and many other conversations were in the list.
+
+- "Possibly" is not a memory. A witness testifies to what he knows. As I understand M.R.E. 602, which follows the federal rule, that means matters of which he has personal knowledge. On the stand this answer becomes "I don't remember whether I deleted it," which is what he said in section 13.4.
+- "Many others were present" confirms section 14.3, point 4. He did not delete conversations as a routine. If hers was deleted, it was one deletion.
+- One deletion would help him in a way a routine would not. If the records show that on April 30 he deleted her conversation and kept the others, that is something he did before the arrest that matches the refusal. It would be the third such record, and the first that concerns her alone.
+- It would also change how the message came to be sent (15.2).
+
+**6. If a block had been set on her number, was messaging her at 15:49 the way he lifted it?**
+
+*As relayed: he would not message a number in order to unblock it. If he had blocked it, the reason would have been to prevent contact.*
+
+- The question arises only if a block was set. On his account in section 13.5 he was going to block her number. Nothing says he did. If none was set, that fact answers the question, and it is better than any argument. The provider's records may show it.
+- The answer given is an argument about what he would do. It is a reasonable one. It is not a statement of what happened, and the prosecutor will say so: "I am not asking what you would do."
+- The argument has two weak points. People do unblock numbers, and on answer 1 he had read how. And by his own account a block in this app does not prevent his contact with her. It prevents hers with him, and she never wrote first. So "to prevent contact" invites "whose?" That leads back to the reading under answer 2.
+
+### 15.2 The deletion question, reopened
+
+**The correction.** Section 12.2 read his description of the number, as one of several unsaved numbers in the app, to mean that he opened her existing conversation. Sections 13.4 and 14.2 built on that reading. Section 14.2 concluded that the conversation had not been deleted and that slide 3 should be withdrawn. His answers 3 and 5 do not accept that. The passages have been changed, and the question is open.
+
+**What follows from each possibility.** The provider says that a deleted conversation cannot be recovered and that reinstalling loses nothing (section 14.2). On that description there are three cases.
+
+| Her conversation was | In the list at 15:49 | On the screen as he typed | How her number got the message |
+|---|---|---|---|
+| Never deleted | Her conversation, with the April 30 exchange in it | The end of that exchange, above the box | He opened it from the list (section 12.2) |
+| Deleted after her last message at 16:43:04 on April 30, or on May 1 before 15:49 | Nothing for her number | A new, empty conversation | He entered her number some other way: typed, pasted, picked from a suggestion or taken from an ad (section 10.2) |
+| Deleted in part: before her last message arrived, or only some of its messages | In most apps, an entry holding what was left, at least "k i get it." | What was left | He opened it from the list |
+
+1. **The first case is section 12.2.** The mistake is the ordinary one, and the refusal was in front of him.
+2. **The second case clears the screen and changes the mistake.** Nothing on the screen would have told him who she was, which fits his not recalling his own words. But it was not a wrong conversation opened from a list. Her number had to be entered, and it was not a saved contact. The obvious source is her ad. That is slide 2(e): he saw the ad again and answered it. The defense set that version aside in section 10 in favor of a message meant for another woman. "Are you still around?" sent to a number taken from an ad also reads as one of his usual opening lines (slide 4), and not as a message meant for someone else.
+3. **The third case is the exception noted in section 14.2.** It is the only one in which slide 3 and section 12.2 are both right. If he deleted the conversation after his "Not in rude way." at 16:42:25 and before her "k i get it." at 16:43:04, her reply would in most apps have started a fresh entry holding that one line. Something similar would follow if he deleted some messages and not the whole conversation, which the provider's pages suggest is possible. Her number would then have been in the list with nothing about age in it, though still under the previous day's date. The window is 39 seconds, and I could not confirm how this app treats a message that arrives after a deletion.
+4. **He cannot testify to any of them.** He does not recall deleting the conversation. So the third case is a test for the examiner, and not something for him to adopt. If he says it and the records show otherwise, it is one more version.
+5. **These are two different accounts of the first message, and the choice between them is not his to make.** In the first and third cases he opened the wrong conversation. In the second he sent a message to a number he had just entered. Only one happened. Until the records show which, "wrong conversation" and "possibly deleted" should not be put forward together.
+6. **Where the answer is.**
+   - The provider's copy of his account, if it survives (section 14.2): what it held for her number, and any record of a deletion.
+   - The government's extraction of his phone, and whatever it recovered from the app.
+   - His Google activity for the minutes before 15:49 on May 1: which page or app was open. Section 7 has asked for this since the first draft. If her ad was open, it was the second case.
+   - The examiner's tests of the app: what a message arriving after a deletion produces, and whether the app suggests numbers that are no longer in the list.
+
+### 15.3 What he did about her number
+
+He has now named three ways of making sure he did not text her.
+
+| Measure | What he has said | What the records show so far |
+|---|---|---|
+| Block her number | He was going to. A block would not have held against his own message | Nothing |
+| Change to another app | He looked at others and stayed with this one | The Play Store visits at 14:01 to 14:04 on May 1 |
+| Delete her conversation | It seemed more effective than blocking. Possibly done | Nothing |
+
+1. **On his present memory he cannot say that he carried out any of them.** The prosecutor will put it in one question: "You thought of three ways to make sure you never texted her, and you can't tell us you did one of them?"
+2. **The government's reading.** He kept returning to the problem because he did not trust himself, and each time he left the way open.
+3. **The defense reading.** A man who meant to go back to her would not have thought about any of this. That he did shows what he wanted, and it matches the refusal.
+4. **One record would change the balance.** A deletion of her conversation, dated before 15:49, turns the third row from something he thought about into something he did. It also brings in the second case in 15.2.
+
+### 15.4 Memory and reasoning in these answers
+
+| Answer | What it gives |
+|---|---|
+| 1. Weeks or months before April 30 | A memory, with an estimated date |
+| 2. He had blocked numbers before | A memory |
+| 3. It seemed more effective than blocking | What he thought was the better course |
+| 4. Reinstalling had nothing to do with any one person | Why he reinstalled |
+| 5. Possibly deleted | A possibility |
+| 6. He would not message a number to unblock it | What he would have done |
+
+1. **Four of the six do not say what he did or saw.** Answers 3 and 6 give his reasoning, answer 5 gives a possibility, and answer 4 answers a different question. That is natural. These are points on which he has no memory, and a person asked about something he does not remember will reason his way to an answer.
+2. **It is what a prosecutor presses hardest.** "I did not ask what you would have done. What did you do?" After two or three such exchanges the fact-finder hears a man arguing his case, and not a man remembering.
+3. **His own account of the interview gives the prosecutor the reason.** Section 13.2 records his explanation that what he told the agents came from his usual pattern and not from what he remembered, and that it was wrong. A fact-finder who accepts that will listen for the same thing in his testimony. He has more reason than most witnesses to keep the two apart.
+4. **Reasoned answers produce new versions.** This round produced one. Section 12 had her number in the app as one of several unsaved numbers. Section 13.4 had "I don't recall" on deletion. This round has "possibly deleted." The table in section 13.6 has been updated.
+5. **The remedy is the one in section 13.6.** Where he remembers, he says so. Where he does not, "I don't remember" is the answer, and the records make the point. On these six questions the records can make most of them.
+
+### 15.5 Records to look for, through counsel
+
+These add to section 13.7.
+
+1. **The visit to the provider's page before April 30:** its date, which page it was, and what led to it. It will be in the Google activity if his settings recorded browsing. Nothing in that activity should be deleted.
+2. **Blocks on his account:** any list or history the provider keeps, whether her number was ever blocked, and whether any number was blocked and later messaged.
+3. **Her conversation:** whether it was deleted and when, and what the account held for her number at 15:49 on May 1 (15.2).
+4. **How her number was entered at 15:49,** and which page or app was open in the minutes before.
+5. **The app's behavior** in the two respects listed at the end of 15.2.
+6. **The browser version.** Whether he ever used TextFree in a browser, and on which computer. If he did, its browser history may show sessions and their dates. The examiner should collect it. He should not log in.
+
+### 15.6 What this changes
+
+1. **One correction, to the previous section.** Sections 14.2 and 14.5 treated the deletion as settled and said slide 3 should be withdrawn. On his latest answers it is not settled. Neither slide 3 nor section 12.2 should be relied on until the records show which is right.
+2. **One answer is worth pursuing.** If the Google activity shows the provider's page read before April 30, his knowledge of the app is proved by a record that has nothing to do with her.
+3. **The practice of blocking helps and hurts.** It makes wanting to block her ordinary. It also gives the government, from his own habits, its reading of why he wanted her blocked.
+4. **The first step of the account now has two forms that do not share a mechanism.** That is a larger problem than any single answer, and it is the one to take to counsel first.
+5. **Section 1's three points to accept on his word remain,** with the first reworded to cover both forms.
+6. **Where the next round belongs.** These answers were given without the records, and one of them moved the account. Each written version can later be set beside the next (sections 10.5 and 11.5). The questions noted in 15.1 are better answered with counsel, after the video and the forensic report, than here.
 7. **The order of work is unchanged.** Video first, forensic report second, account third.
