@@ -1,12 +1,12 @@
 # United States v. SSG Saintloth: case feedback analysis
 
-**Basis and limits.** Built from two documents only: the defense slide deck ("Details for DFE with messages") and the Preliminary Hearing Officer (PHO) report of 10 Aug 2026. Not reviewed: the interview video, the full chat extraction, the ad, any forensic report. I am not a lawyer and this is not legal advice. Statements of law are my understanding, and defense counsel should confirm each one.
+**Basis and limits.** Built from three sources: the defense slide deck ("Details for DFE with messages"), the Preliminary Hearing Officer (PHO) report of 10 Aug 2026 and, from section 22 on, the government's 26-page evidence packet, which holds the complete undercover log. Not reviewed: the interview video, the phone extraction, the ad, any forensic report. I am not a lawyer and this is not legal advice. Statements of law are my understanding, and defense counsel should confirm each one.
 
-**Updated 24 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 17: his response on how this text is to be used, with each point sorted by the record that supports it. Section 18: whether hypnosis could be used to recover his memory. Section 19: four objections to this analysis, which lead to three corrections and a restatement of his account in his own terms. Section 20: a fifth point, on his nervousness at the hotel and what it shows about intent, with the reported cases found. Section 21: Spec 3 element by element, with what the government has to prove at a general court-martial and where its proof is strongest and weakest. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
+**Updated 24 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 17: his response on how this text is to be used, with each point sorted by the record that supports it. Section 18: whether hypnosis could be used to recover his memory. Section 19: four objections to this analysis, which lead to three corrections and a restatement of his account in his own terms. Section 20: a fifth point, on his nervousness at the hotel and what it shows about intent, with the reported cases found. Section 21: Spec 3 element by element, with what the government has to prove at a general court-martial and where its proof is strongest and weakest. Section 22: the evidence packet, read directly, with the DPS report, the vehicle inventory and the Army CID report set against the complete log. Section 23: the search for comparable cases, with the outcome of each and whether it was appealed. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
 
 ## 1. Bottom line
 
-*Current as of section 21.*
+*Current as of section 23.*
 
 **The charges**
 
@@ -36,6 +36,9 @@ He says that more than one thing was true at once, and that forcing one answer o
 - Records he describes but has not yet produced: the app installed and removed on earlier dates, earlier image searches, and the provider's page read before April 30 (section 17.2).
 - An inference for counsel: a man who checks photos, looks for signs of a sting and stops at once when told "16" is unlikely to go back to that number knowing whose it was (section 19.3).
 - The room was her proposal. The log shows him wary from the moment she named the hotel, almost an hour before he said he was nervous, and nothing I have seen shows him going to the room (section 20.1).
+- The government's own papers now confirm that he refused because of her age, that the pictures he was sent were of adults, that the room, the second person, the price and the explicit words were the agent's, and that he did not go up (section 22.9).
+- April 30 read in full. The age came after the price, the payment and "Im ready now," and he gave it all up in 37 seconds. The agent did not repeat the age the next day (section 22.2).
+- Military appeals courts have said in terms that in a case with a decoy the government must prove he actually believed she was under 16 (section 23.5).
 
 **What stands against it**
 
@@ -49,6 +52,8 @@ He says that more than one thing was true at once, and that forcing one answer o
 - Three of his answers replace the natural meaning of a message: "100" as a time, "Cash right?" as meant for someone else, and the extra as nothing but a test. The records go against them, and the account does not need them (sections 16.1 and 19.2).
 - The first step of the account has changed again, from a wrong recipient to an unknown one (sections 13.6 and 19.2).
 - Routine and compulsion both concede that he was pursuing paid sex, which is Spec 3 (sections 17.3 and 19.3).
+- "Cash right?" at the hotel follows "Prefer cash or cashapp?" and "cash" in the same conversation the day before. "Awesome" follows the photo he had asked for as proof (section 22.2).
+- In every comparable case found, an accused who refused and then went on was convicted, and entrapment failed. In each of them he knew whom he was going back to (section 23.5).
 
 **What it asks a fact-finder to accept on his word**
 
@@ -63,11 +68,15 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 1. The interview video: the exact words, the form of the questions, what he had been told by then, and whether he told the agents to look at his phone (sections 8.2, 16.5 and 19.2).
 2. How the message came to be sent: whether the same line went to other numbers within minutes, whether her ad was open, what her conversation held and what the screen showed (sections 15.2 and 19.2). The provider's copy may no longer exist (section 14.2).
 3. The exact words of Spec 1 and of Spec 3, and what the examiner says the timestamps record (sections 19.1 and 21.3).
-4. Where he was, and how he moved, while the messages were sent. Also the arrest record: the time, where he was, and what he had with him (sections 19.2 and 20.5).
+4. Where he was, and how he moved, while the messages were sent. The arrest is now fixed at 5:02 pm, in the lot where he had parked, the same minute his timeline gives for the removal of the apps. Which came first, and what he had with him, are still not recorded (sections 19.2, 22.5 and 22.6).
 5. The second photo and the advertisement (sections 11.2 and 11.3).
 6. His earlier conversations and trips: whether May 1 looks like the rest (sections 17.5 and 19.5).
 
-**Texas.** The offense there can rest on what he was told, so the search may not bear on guilt (section 11.4).
+**Texas.** The offense there can rest on what he was told, so the search may not bear on guilt (section 11.4). DPS announced the charge as solicitation of prostitution of a person under 18, which is that offense (section 22.8).
+
+**The evidence packet.** I have now read the government's 26-page packet. The log is complete and matches what this analysis has used. The two police reports say more than the log does, and the "admission" is one second-hand sentence that does not say which day it refers to. The arrest was at 5:02 pm. The inventory does not show what he had with him (section 22).
+
+**Comparable cases.** The case he gave to start with, *United States v. Caroll*, ended two months ago at Fort Hood in conviction on the same two charges and a sentence of 16 years. No court-martial was found with a reverse image search, and no military opinion with a claim like his about memory. Where an accused refused and came back, he was convicted. The nearest cases to his account are civilian, with one court-martial known only from a defense firm's report, and they were decided on records (section 23).
 
 **Urgent.** The provider says a number lapses after 30 days without use, and that message history may not survive long inactivity. Nearly seven months have passed. Counsel should be asked now whether the provider's records were preserved or obtained, by the defense or by the government (section 14.2). The profile and the Google account's activity can also be lost or changed (sections 11.5 and 13.7). So can location data, which Google now keeps on the phone itself and deletes after three months by default (section 19.2).
 
@@ -82,17 +91,21 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 3. **May 1 shows intent to complete a paid encounter.** He offered an Uber, answered "Ok. Where at?" 18 seconds after "2 for 1 tonight 100," sent "Yes" and "Just you….then both," asked for pictures, drove about 20 minutes, asked "Cash right?", asked to be walked upstairs, wrote "I have tinted windows if you can carplay. Ill give extra," and identified his vehicle. Travel to the meeting place is a textbook substantial step. Section 20.3 gives the authorities on travel, and a military decision that went the other way. Section 21 sets out the elements of Spec 3 and where this proof is thinnest.
 4. **Concealment evidence, some of it supplied by the defense deck itself.** Tinted windows, nervousness, the peace-sign verification request, burner-number app searches, removal of the texting app in the parking lot, and a pre-arrival search for sting indicators. He has since said the habit predates these events and has given a reason for the app searches (sections 13.1, 13.5 and 14). Section 20.4 gives a federal decision in which items of this kind were used to show that the accused knew the age.
 5. **A recorded interview after a signed rights waiver.** DPS reports he "admitted to knowingly speaking to a minor," and he admitted prior patronizing. The relayed statement that he "thought the next day she just needed money" supplies the link the texts lack: that on May 1 he knew who he was texting (section 8).
+6. **The complete log.** One conversation, the same two numbers, times to the second. On April 30 he asked "Prefer cash or cashapp?" and was told "cash," and at the hotel on May 1 he wrote "Cash right?" After the photo he had asked for as proof he wrote "Awesome" (section 22.2).
+7. **The reported cases.** Where an accused refused on learning the age and then went on, the conviction was upheld and entrapment rejected (section 23.5).
 
 ### Weaknesses
 
-1. **No ad in the evidence packet.** The government told the PHO he answered an ad for an underage child. The PHO rejected that for lack of evidence and found he did not know the age until told.
+1. **No ad in the evidence packet.** The government told the PHO he answered an ad for an underage child. The PHO rejected that for lack of evidence and found he did not know the age until told. I have now read the packet, and it has no ad (section 22.1).
 2. **Nothing about age on May 1.** The UC never re-confirmed age in the conversation that matters. The PHO found only that he "had reason to believe" she was 15, which is a probable-cause finding and not proof beyond a reasonable doubt of actual belief.
 3. **The April 30 refusal is the government's own exhibit.** It was immediate and moral. The PHO's word "hesitated" undersells it.
 4. **On May 1 the explicit words are the UC's.** His are "Yes," "Just you….then both" and "carplay." "An amazing bj" predates the age disclosure. Spec 1 (indecent language) depends on reading short replies in context.
 5. **The "Yes" timing.** It posted 2 seconds after "on both of us lol" and 24 seconds after "ok u gonna cum," which followed his own "Its 20 min away from me." A "you gonna come?" reading is available. As relayed, Spec 1 rests on this message, and the reading stood for months until he noticed the times. Section 19.1 treats it as an answer to that part of Spec 1 that does not depend on her age.
 6. **The PHO's intent reasoning is thin.** It infers specific intent "because" the conduct was a substantial step, and it treats the $50 agreement as if it came after the age disclosure. It came before, and he withdrew. At trial, intent must be proved on its own.
-7. **The DPS summary of the "admission" is second-hand.** It comes from an agent who was not in the room, and the PHO, who watched the video, cited it only for prior patronizing "but not minors" and for marital status. If nothing on the video says he knew or believed on May 1 that she was 15, the summary overstates. This is a smaller weakness than it first appeared, because the relayed statement lets the government argue the same point from his own words (section 8).
+7. **The DPS summary of the "admission" is second-hand.** It comes from an agent who was not in the room, and the PHO, who watched the video, cited it only for prior patronizing "but not minors" and for marital status. If nothing on the video says he knew or believed on May 1 that she was 15, the summary overstates. This is a smaller weakness than it first appeared, because the relayed statement lets the government argue the same point from his own words (section 8). The packet gives the sentence in full: the writer "was not present" and "was informed," and it does not say which day is meant (section 22.7).
 8. **Polygraph evidence is inadmissible (M.R.E. 707),** which complicates how the interview is presented.
+9. **The police reports overstate the log.** The Army report says that he "believed" she was 15, that he agreed to pay $100 for "two minor females," and that he made statements about ejaculating on both. The log supports none of these in those terms (section 22.3).
+10. **The interview paperwork.** The packet has a Texas waiver and a polygraph consent, with no time on either, and no Army rights form, although the DPS report says that Army CID did the interviewing (section 22.7).
 
 ## 3. Defense
 
@@ -104,6 +117,8 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 4. **Digital corroboration, if it holds.** The image search 11 minutes after the April 30 chat ended; other profiles messaged on May 1 before the UC (the two-day timeline lists five between 13:48 and 15:30, all still awaiting forensic confirmation); hotel lookups in Round Rock and Georgetown at 3:18 PM, half an hour before the UC text; the same stock opener to other numbers ("Are you still in killeen?", "Hi are you still available?").
 5. **An innocent reading of the caution.** Paying an adult for sex is also a crime and a career-ender for an NCO. Nervousness, deletion and tinted windows do not distinguish between the two. Section 20 sets out how reported cases have treated hesitation of this kind, and what would show the reason for his.
 6. **The PHO's recommendation.** A neutral judge advocate recommended a bad-conduct discharge with no confinement. It is non-binding, but it is leverage in negotiation.
+7. **April 30 in full.** The age came last, after a price, a way of paying and "Im ready now. Which hotel?" He gave up a finished arrangement at once. The agent, with that refusal on the screen, did not repeat the age the next day (section 22.2).
+8. **The standard, confirmed.** Three military appeals courts have said that in a case with a decoy the government must prove the accused actually believed the persona was a child (section 23.5).
 
 ### Weaknesses
 
@@ -120,7 +135,7 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 7. **Timestamp errors in a deck that depends on timestamps.** Slide 2 lists the re-contact as 15:47 (log: 15:49:15) and the image searches as 16:42, 16:47 and 16:50 (the screenshot shows 4:54 and 4:58 PM). The two-day timeline corrects both, so slide 2 should be withdrawn. Slide 9 still lists "will be down" as 16:56:57 (log: 16:58:57).
 8. **"Physically impossible" overstates a good point.** "My reply was already on its way" is enough.
 9. **Late arrival.** None of this was presented at the Article 32 hearing. That is his right. But the one interview statement relayed so far says he thought she needed money. Unless the video also has him saying "I thought it was someone else" or "I looked her up and she was 23," expect the argument that the deck's accounts were built afterwards from the phone records.
-10. **Entrapment and voluntary abandonment are weak.** He re-initiated, stayed in the lot and identified his car. Section 20.3 sets out the rule on abandonment.
+10. **Entrapment and voluntary abandonment are weak.** He re-initiated, stayed in the lot and identified his car. Section 20.3 sets out the rule on abandonment. The reported cases bear this out (section 23.5).
 
 ## 4. How a panel or jury is likely to view the evidence
 
@@ -144,6 +159,10 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 | Interview: "thought the next day she just needed money… just giving money and leaving" | He knew on May 1 who she was, and knew he should not be there | He refused and denied wanting sex; he was describing how he usually thinks, not what he remembered | Outweighs anything said later, unless the video shows he was speaking generally or had just been told who she was. The texts undercut the "give money and leave" half (section 13.2) |
 | The account as restated in section 19: no plan, recipients unknown, a scam suspected, compulsion, never a thought of a minor | He knew the number, and the urge beat the refusal; the explanation came after the arrest | One state of mind with several parts, resting on a routine the records can show | Easier to follow than the earlier versions, and it needs fewer special readings. It stands or falls on whether they accept that he did not know whose number it was (section 19.2) |
 | Addiction | Urge beat scruple | Explains carelessness; what he did on May 1 was his routine with adults | As "addiction," little value on findings and some at sentencing. The routine itself can be proved from records and is worth more (section 17.3) |
+| April 30 in full: the age came after the price, the payment and "Im ready now. Which hotel?" | He wanted exactly this until he was told, and he named the act | He gave up a finished arrangement in 37 seconds | Helps him more than the summaries did. It also shows that he read a bare number as a price (section 22.2) |
+| "Cash right?" at the hotel, after "Prefer cash or cashapp?" and "cash" the day before | He remembered what she had told him, so he knew who she was | A question he asks every number | Depends on his other conversations. If they show the same question, it is a habit. If not, it is the one message on May 1 that looks back to April 30 (section 22.2) |
+| "Awesome," after the photo he asked for "so I know real" | He was satisfied that she was real, and came | He still expected a scam | They will read it as satisfied unless something else explains it (section 22.2) |
+| The agents' reports and the "admission" | He believed she was 15 and admitted it | The reports say more than the log, and the admission is second-hand | The panel will not see the reports. It will see the log and the video, and hear the agents cross-examined on the differences (sections 22.3 and 22.7) |
 
 ## 5. If he testifies
 
@@ -169,7 +188,7 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 - "Indifferent" to whether the encounter was genuine.
 - Addiction as the explanation for May 1. His routine is a different matter, and records can prove it (section 17.3).
 - Reading "100" as a time (section 16.1).
-- "Cash right?" as meant for someone else, unless the other conversation shows it (section 16.1).
+- "Cash right?" as meant for someone else, unless the other conversation shows it (section 16.1). The April 30 exchange about cash makes this harder (section 22.2).
 - "It seemed harmless at the time," beside "nervous" and "paralyzed" (section 16.4).
 
 ## 6. Likely cross-examination
@@ -210,6 +229,7 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
 8. **"You drove 20 minutes and asked 'Cash right?'"**
    - Answer: "Yes. To meet an adult."
    - Update: this answer supplies the intent that Spec 3 requires (section 21.5).
+   - Update: on April 30 he asked "Prefer cash or cashapp?" and was told "cash" (section 22.2). Expect: "She told you cash the day before. That is why you wrote 'Cash right?', isn't it?" The answer is whatever is true. His other conversations will show whether he asks every number.
    - If he claims scam testing: "Then why drive there? Why offer extra?"
 9. **"'I'm a little nervous.' Nervous because she was 15."**
    - Answer: "Nervous because buying sex is illegal, could end my career, and could have been a robbery or police."
@@ -223,10 +243,12 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
     - Answer: "I delete that app and those threads out of shame, and had many times before." This needs forensic proof from before April 30 (section 13.1). He has since said the Google activity shows it for the app. On his own answers many conversations from April 30 were still in the list on May 1, so the answer should not describe deleting threads as a routine unless the records show it (sections 14.3 and 15.2).
     - Rebuttal: "But you didn't drive away."
     - Reply: the truth about why.
+    - Update: the arrest was at 5:02 pm, the minute his timeline gives for the removal. His last message was at 17:01:20, so after it he had no time to drive away. The question still stands for the thirteen minutes before (section 22.6).
 12. **"That night you told the agent: 'I refused and thought the next day she just needed money.' 'She' is the girl who told you she was 15?"**
     - Answer only after watching the video, and only the truth. "The question had no time frame" no longer works, because the sentence supplies its own: "the next day."
     - If he says he did not know it was her: "Then who is 'she'? Who 'just needed money'?"
     - If he says he knew but believed she was 23: "Where on this recording do you tell the agent she was 23?"
+    - Update: the DPS report's sentence about an admission was written by an agent who was not present (section 22.7). The video is what matters.
 13. **"You say you thought about just giving her money and leaving. Then why 'Just you….then both'? Why 'Cash right?' Why 'Ill give extra' for the car?"**
     - No answer shape can be offered here. Whatever he says has to fit all three texts.
     - Follow-up: "And why give money and leave at all, unless you knew she was someone you should not touch?"
@@ -237,24 +259,29 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
     - The video controls. If he said either, counsel plays it. If he said neither, this may be the hardest question in the case.
 16. **"The woman in the photos is 23, but you asked for a peace sign 'so I know real.' You thought the photos were fake, so they told you nothing."**
     - This needs one consistent truth about what he believed the photos showed.
+    - Update: the second photo shows a peace sign held across the face, and he answered "Awesome" (section 22.2). Expect: "You asked for proof she was real. You got it. You wrote 'Awesome.'"
 17. **"How many times have you paid for sex?"** (if the judge allows it)
     - Answer: short and truthful. "With adults. Never a minor, and when one came up I refused."
 18. **"You say addiction. So the urge overrode your judgment, as it overrode Thursday's 'no'?"**
     - Answer: "It made me careless about who I was texting. It has never made me want a child."
+19. **"'Im ready now. Which hotel?' That was you on April 30, before she told you her age. And the next day you asked the same number, 'Are you still around?'"**
+    - Answer, if true: "Yes to the first. When she told me, I said no. The next day I did not know whose number it was."
+    - This question comes from the complete log (section 22.2). The reply to the second half is the one in question 2.
 
 ## 7. Before any decision
 
 1. **Watch the full interview with counsel.** Transcribe every statement about age, identity, scam belief and intent. Section 8.2 lists what to look for around the "needed money" statement. Get the Army CID interview record as well; the DPS report says CID questioned him separately.
 2. **Get the forensic report before fixing a theory.** Thread deletion time; app install and uninstall times; how the UC number was entered on May 1; the page viewed at 15:45–15:49; the number of ads contacted April 28 to May 1; exact search queries; the date of the Play Store screenshot. Section 12.2 adds tests for the accident account. Section 13.7 lists records that would support the newer details. Section 15.5 adds to it.
-3. **Demand in discovery:** the ad (text, stated age, photos, site), the operation plan and any age-confirmation protocol, the full UC extraction with metadata, and the arrest inventory (cash on hand). Section 20.3 explains why the inventory matters.
+3. **Demand in discovery:** the ad (text, stated age, photos, site), the operation plan and any age-confirmation protocol, the full UC extraction with metadata, and the arrest inventory (cash on hand). Section 20.3 explains why the inventory matters. Section 22.11 lists what the packet shows is still missing, including the jail's record of his property and money.
 4. **Settle on the one true account and correct the timestamps.**
-5. **Motions for counsel to assess:** suppression of the interview (the DPS report describes a joint DPS–Army operation, which raises an Article 31(b) question), M.R.E. 707, M.R.E. 404(b) on prior patronizing, the rule of completeness for the interview, and speedy trial under R.C.M. 707 (charges were preferred 24 June 2026). Section 21.3 adds points on Spec 3: the wording of the specification, the definition of a sexual act, and proof of the terminal element.
+5. **Motions for counsel to assess:** suppression of the interview (the DPS report describes a joint DPS–Army operation, which raises an Article 31(b) question), M.R.E. 707, M.R.E. 404(b) on prior patronizing, the rule of completeness for the interview, and speedy trial under R.C.M. 707 (charges were preferred 24 June 2026). Section 21.3 adds points on Spec 3: the wording of the specification, the definition of a sexual act, and proof of the terminal element. Section 22.7 sets out what the packet shows about the interview paperwork.
 6. **Coordinate military and Texas counsel.** Testimony or a guilty plea in one forum is usable in the other. The PHO's suggested deal does not say which specifications; a plea to Spec 1 or 2 would almost certainly bring sex-offender registration.
 7. **Ask counsel about a psychosexual evaluation,** which is often used in sting cases for negotiation and sentencing. Section 17.3 notes how the condition is classed.
 8. **Keep work product inside the defense team.** Material shared outside the attorney-client relationship may not be privileged, and anything handed to a testifying expert can reach the prosecutor. Route the forensic examiner through counsel. Section 11.5, point 6, cites a 2026 federal ruling on exchanges with AI tools.
 9. **Secure what can disappear.** The texting provider's records for his account, and a capture of the profile as it stands. Nearly seven months have passed since the events (sections 11.1 and 11.5). The Google account's activity should be preserved as well (section 13.7). The provider's stated policy on unused accounts makes this more urgent (section 14.2). Location data for both days should be traced and preserved as well (section 19.2).
 10. **No hypnosis about these events before counsel has advised.** It does not make recall more accurate, it can change what he remembers, and it gives the government a new line of attack on his testimony (section 18).
-11. **Put each point from the exhibits on one page and give it to counsel.** The exhibit, the lines, the times, and what the government's papers say instead. As relayed, the reading of "Yes" behind Spec 1 stood for months because nobody had done this (section 19.1).
+11. **Put each point from the exhibits on one page and give it to counsel.** The exhibit, the lines, the times, and what the government's papers say instead. As relayed, the reading of "Yes" behind Spec 1 stood for months because nobody had done this (section 19.1). Section 22.3 does it for the Army report.
+12. **Go through the comparable cases with counsel** (section 23): the record in *Caroll*, the other soldiers arrested in the same operation, and the decisions on how a panel is instructed about belief.
 
 ## 8. Addendum, 21 Nov 2026: timeline, interview statement, and the contradiction point
 
@@ -423,7 +450,7 @@ The interview adds a seventh: I knew who she was, felt sorry for her, and though
 | 16:58:19 | "I have tinted windows if you can carplay. Ill give extra" | UC log |
 | 16:58:57 | UC asks what car he is in; he answers "Black suv" | UC log |
 | 17:02 | Texting apps uninstalled | Shown as verified |
-| Not given | Arrest | PHO report |
+| 17:02 | Arrest, by the jail card (section 22.6) | Evidence packet |
 
 On April 30 the timeline shows the app installed at 16:26, the first UC message at 16:33, the conversation ending at 16:43, the image search at 16:54, class work from 18:30, and the phone off until 22:10 (assumed).
 
@@ -443,7 +470,7 @@ On April 30 the timeline shows the app installed at 16:26, the first UC message 
 5. **A search for a new texting app at 14:04.** It is verified, and the timeline does not explain it. Expect to be asked why he wanted another number that afternoon. He has since given a reason (section 13.5).
 6. **Steady movement toward Belton.** Gas stop, hotel search, "20 min away," Walmart, on scene. That is a deliberate trip, and it undercuts "I did not intend to meet anyone." Expect to be asked what he bought at Walmart and whether he took out cash. Receipts and bank records will show it either way. He says there was no plan, and the records before 15:58 fit that (section 19.3).
 7. **The La Quinta at 16:49.** Trying to park at another hotel a minute after arriving reads as watching for police or a set-up. That fits caution about any illegal meeting and says nothing about age. It is not what someone does who has decided not to meet. A federal appeals court has counted watching the meeting place among the signs that an accused knew the persona's age (section 20.4).
-8. **The uninstall at 17:02.** It came about three minutes after the UC asked what car he was in and he answered. The government will call that destroying evidence while waiting for her to come down. "Disengaging" is more persuasive if he was driving away. The arrest report and video will show the time of arrest and whether the vehicle was moving. Section 13.1 covers the habit he says this was part of. Section 14.3 covers the record of it.
+8. **The uninstall at 17:02.** It came about three minutes after the UC asked what car he was in and he answered. The government will call that destroying evidence while waiting for her to come down. "Disengaging" is more persuasive if he was driving away. The arrest report and video will show the time of arrest and whether the vehicle was moving. Section 13.1 covers the habit he says this was part of. Section 14.3 covers the record of it. The jail card gives the arrest as 5:02 pm, the same minute (section 22.6).
 
 ### 9.4 Gaps and inconsistencies to fix
 
@@ -560,7 +587,7 @@ The account needs two things that pull against each other. The UC's number had t
 
 ### 10.4 Step 3: the second photo
 
-As stated, this step does the most damage. Section 11.2 assesses a later detail about what he remembered of the profile.
+As stated, this step does the most damage. Section 11.2 assesses a later detail about what he remembered of the profile. The packet shows the photo itself: a peace sign held across the face, with no face visible, followed by his "Awesome" (section 22.2).
 
 1. **The Twitter profile is in this case for one reason.** He found it at 16:54 on April 30 by searching the photo of the person who had told him, 14 minutes earlier, that she would be 16 in June. If on May 1 he checked a new photo against that profile, he had linked the person he was texting with the April 30 ad. The account says he recognized the face without remembering where he knew it from. Section 8.3 called this remembering the answer and forgetting the question. The new detail makes it concrete.
 2. **It puts the link before the acts that matter most.** From the excerpts, the second photo appears to have arrived after the peace-sign request and before the door photo at 16:48:45. Unless the comparison was made later than that, "Cash right?" and the carplay offer came after it. On the defense's own account, the government can point to a moment when he had reason to know who she was, and to what he did next.
@@ -680,7 +707,7 @@ No answer shapes are offered. Each answer has to be what he remembers. Questions
 
 **What would support it**
 
-1. **The second photo.** Does it show a peace sign, and is it the same woman as the first photo and the profile? A verification photo of the same woman, produced on request, would give anyone a reason to think she was real. Its time is not in the excerpts, and it decides which acts the belief covers.
+1. **The second photo.** Does it show a peace sign, and is it the same woman as the first photo and the profile? A verification photo of the same woman, produced on request, would give anyone a reason to think she was real. Its time is not in the excerpts, and it decides which acts the belief covers. The packet answers this: it arrived at 16:11:48 and shows a peace sign held across the face (section 22.2).
 2. **A record of the comparison.** A search or profile view on his phone on May 1 between 16:02 and 16:48.
 3. **The video.** Any mention of "nurse," "23," or looking her up.
 4. **Whether the ad's picture is the profile's picture.** A reverse image search returns look-alikes as well as copies. Once the ad is produced, the examiner can say which this was.
@@ -804,7 +831,7 @@ No answer shapes are offered.
 
 **Where reasonableness comes in**
 
-- Section 11.3 left open whether an adult belief has to be reasonable or only genuine. *United States v. Binegar*, 55 M.J. 1 (C.A.A.F. 2001), states the general rule: a mistake about an element requiring specific intent need only be honest, and a mistake about a general-intent element must be honest and reasonable. I have not found a decision applying that rule to an attempted Article 120b offense where there was no child. It remains a question for counsel.
+- Section 11.3 left open whether an adult belief has to be reasonable or only genuine. *United States v. Binegar*, 55 M.J. 1 (C.A.A.F. 2001), states the general rule: a mistake about an element requiring specific intent need only be honest, and a mistake about a general-intent element must be honest and reasonable. I have not found a decision applying that rule to an attempted Article 120b offense where there was no child. It remains a question for counsel. Three service courts have since been found that treat the belief as the government's to prove in such a case (section 23.5).
 - If the belief has to be reasonable, the email is among the most useful items the defense has, because it is a document and not his word. But reasonableness is judged on everything he knew. That includes what she had said about her age and where the profile placed its owner.
 - If a genuine belief is enough, reasonableness still matters in practice. A fact-finder decides whether a belief was really held partly by asking whether a sensible person could have held it.
 
@@ -1440,7 +1467,7 @@ The numbers are those of section 6. Each answer is recorded as relayed and then 
 
 **8. He drove 20 minutes and asked "Cash right?"**
 
-*As relayed: the actual duration was 36 minutes, and not directly to the location. "Cash" stems from a separate conversation he had. In a later answer: "Cash right?" was intended for someone else.*
+*As relayed: the actual duration was 36 minutes, and not directly to the location. "Cash" stems from a separate conversation he had. In a later answer: "Cash right?" was intended for someone else.* The complete log has an earlier exchange about cash with this number, on April 30 (section 22.2).
 
 - "20 minutes" is his own figure, from his text at 15:58. I cannot match 36 minutes to the timeline with certainty. It may be the two legs of the drive. The timeline has him leaving the Walmart at 16:23 and on scene at 16:48, which is 25 minutes. The figure should come from the records.
 - The correction helps the prosecutor. A longer trip with a stop gave him more time to turn back. The gas stop was in Killeen, as I understand the address, and Harker Heights lies on the main road from there to Belton. A map is likely to show that the stop was on the way.
@@ -1487,7 +1514,7 @@ The numbers are those of section 6. Each answer is recorded as relayed and then 
 - "Those threads" is still in the answer. On his own answers many of the April 30 conversations were still there on May 1 (sections 14.3 and 15.2). The records support removing the app as a routine. They do not yet support deleting conversations as one.
 - "Out of control" is honest, and it will matter at sentencing. On the findings it is also the government's theme: the urge that overrode Thursday's refusal (section 3).
 - "Paralyzed" has to answer one question: by what? He has said it seemed harmless, that he expected a scam, and that he believed she was an adult. None of those is a reason to freeze. The government will supply one. If his reason was shame at what he was doing at all, that is his answer, and only he can give it.
-- The time of the arrest may make this unnecessary. If he was arrested a minute or two after 17:02, he had no time to drive away. The arrest time is still not in anything I have seen (section 9.1).
+- The time of the arrest may make this unnecessary. If he was arrested a minute or two after 17:02, he had no time to drive away. The arrest time is still not in anything I have seen (section 9.1). It is now known: 5:02 pm (section 22.6).
 
 **12. "I refused and thought the next day she just needed money."**
 
@@ -2313,7 +2340,7 @@ These are my understanding of the rules, for counsel to confirm.
 
 **What I looked for.** A decision in which the accused drove to the meeting place and then said he was nervous, on arriving or on being given a room number, and in which the court said what that showed.
 
-**What I found.** None that matches. The cases below are the nearest. In the sting cases among them the accused was arrested as he arrived, or after he had met the agent. None has what the log shows here: a period of messages sent from the car park, without an approach to the room.
+**What I found.** None that matches. Section 23.3 has since added a court-martial in which the accused stayed in his car near the meeting place, and section 23.5 says what it shows. The cases below are the nearest. In the sting cases among them the accused was arrested as he arrived, or after he had met the agent. None has what the log shows here: a period of messages sent from the car park, without an approach to the room.
 
 **Cases in which hesitation or nervousness was discussed**
 
@@ -2360,7 +2387,7 @@ These add to section 19.5.
 
 1. **The arrest record:** the time, where he was, whether the car had moved, and the inventory of what he had with him, including any cash.
 2. **The operation's own record of the minutes from 16:48:** what the team saw him do, and when and why it moved.
-3. **The log pages between about 16:09 and 16:48,** and her replies between 16:51 and 16:59.
+3. **The log pages between about 16:09 and 16:48,** and her replies between 16:51 and 16:59. These are now in section 22.2.
 4. **His earlier conversations with adults,** for the same cautions (section 17.3).
 5. **The earlier occasion at the same hotel** (section 19.5).
 6. **The search for signs of a sting:** its time and its words (section 9.4).
@@ -2453,7 +2480,7 @@ In an attempt the second list is not a list of things that happened. It is what 
 1. **The element is an intent to engage in a "sexual act" as defined.** A sexual purpose in general is not enough.
 2. **On May 1 he named no act.** His own words that day are "Yes," "Just you….then both" and the message about the car (section 2). None describes an act.
 3. **Her line does not describe one within the definition either,** even on the government's reading of "Yes" (section 19.1).
-4. **What fills the gap is April 30.** Before any age was given, as I noted the log, he asked for "An amazing bj" and $50 was agreed. Oral sex is within the definition. That exchange is in the same conversation, and it will be in evidence in any case, because it holds the age disclosure and the refusal.
+4. **What fills the gap is April 30.** Before any age was given, as the complete log confirms (section 22.2), he asked for "An amazing bj" and $50 was agreed. Oral sex is within the definition. That exchange is in the same conversation, and it will be in evidence in any case, because it holds the age disclosure and the refusal.
 5. **It fills the gap on either account of May 1.** If he knew whose number it was, it shows what he went back for. If he did not, it shows what he asks numbers from ads for, and the government can offer it as evidence of intent (M.R.E. 404(b), for counsel).
 6. **The rest is inference from the setting:** a paid meeting in a hotel room, "2 for 1," and her line about what he would do.
 7. **If the specification names a particular act, the proof has to match it.** Otherwise the fact-finder has to find the specification proved with substitutions, which is allowed only where that does not change the nature of the offense (R.C.M. 918(a)(1)). In *Munn* the fee had been negotiated for a named act (section 20.4).
@@ -2471,7 +2498,7 @@ In an attempt the second list is not a list of things that happened. It is what 
 
 1. **His own words carry this element.** "Extra" assumes a price already understood (section 9.5).
 2. **The price and the proposal were hers.** The element asks whether he "induced, enticed or procured" the act in exchange for money. A federal appeals court has held, under a different statute, that offering money to someone who is already willing counts as inducing her (*Rutgerson*, section 20.4). Whether a court-martial would read these words the same way is for counsel. The message about the car is his own offer in any case.
-3. ***Penaloza* is about this element.** The Army court held that arriving without the means to pay "does not prove an intent to pay" (section 20.4). So the arrest inventory matters more for Spec 3 than for any other charge. Cash in about the amount discussed supports the element. None, or very little, would give counsel that argument. I do not know what the inventory shows.
+3. ***Penaloza* is about this element.** The Army court held that arriving without the means to pay "does not prove an intent to pay" (section 20.4). So the arrest inventory matters more for Spec 3 than for any other charge. Cash in about the amount discussed supports the element. None, or very little, would give counsel that argument. The vehicle inventory in the packet lists no cash, but it is incomplete, and the jail's record is the one to get (section 22.5).
 4. **Bank records for the afternoon bear on the same point** (section 16.1).
 
 **4. The terminal element**
@@ -2569,3 +2596,600 @@ These add to sections 19.5 and 20.5.
 6. **The definition of a sexual act applies to Spec 2 as well.**
 7. **The suggestion in section 5 that the Spec 3 conduct be conceded now has its price stated** (21.5).
 8. **The assessment of Specs 1 and 2 is unchanged,** and so is the order of work: video first, forensic report second, account third.
+
+## 22. Addendum 15, 24 Nov 2026: the evidence packet, with the police report, the inventory and the CID report
+
+**What this covers.** The 26-page evidence packet supplied after section 21 (pages numbered 000001 to 000026). It is the first of the government's evidence that I have read directly. Until now the log and the reports were known to me only from the deck's excerpts and the hearing officer's summary. I read every page and looked at every photograph. People are referred to by their role and not by name. Statements of law are my understanding, for counsel to confirm. The search for comparable cases that was asked for with it is in section 23.
+
+**Short version**
+
+- **The log is complete,** and it is set out in full in 22.2. It confirms the times this analysis has used and fills the gaps: all of April 30, the second photo, "Awesome," "Yes" to "u getting close," her answers at the hotel, and his last message at 17:01:20.
+- **April 30 is stronger for him than the summaries showed.** The age came last. He had agreed a price, settled how to pay, said "Im ready now" and asked which hotel. He was then told the age, and he refused in 37 seconds.
+- **It also gives the government one new point.** On April 30 he asked "Prefer cash or cashapp?" and was told "cash." On May 1 he wrote "Cash right?" The government can say that the second looks back to the first.
+- **The arrest was at 5:02 pm,** by the jail card. His timeline has the apps removed at 17:02. He had no time to drive away after his last message. Which of the two came first is for the video and the phone's own record.
+- **The two reports say more than the log does.** The Army report says that he "believed" she was 15, that he "agreed to pay $100.00" for "two minor females," and that he "made statements concerning ejaculating on both minor females." The log supports none of these in those terms. No age was ever given for the second person, and the words about ejaculating were the agent's.
+- **The Army report also says that he "declined to proceed ... due to their age."** The government's own investigators accept the refusal and the reason for it.
+- **The DPS narrative leaves out two messages on May 1,** and with them the fact that his first proposal that day was a car for one person. It does not mention the sexual lines at all.
+- **The "admission" is one sentence** by an agent who "was not present" and "was informed." It quotes nothing, and it does not say which day it refers to.
+- **The inventory does not settle what he had with him.** It lists no cash, but it is incomplete on its face: it does not list the phone, which was certainly taken. By the coordinates printed on it, the car was inventoried about 1.3 km from the hotel.
+- **The interview paperwork is a Texas waiver and a polygraph consent,** neither with a time on it. There is no Army rights form, and the Army report does not mention the interview that the DPS report says Army CID conducted.
+- **Three documents name three different Texas offenses.** The one in the DPS report is a statute for people who run websites.
+- **What Specs 1 and 2 turn on is unchanged.** The packet weakens the reports as evidence. It does not weaken the log.
+
+### 22.1 What the packet contains
+
+| Pages | Document | Made by, and when | Notes |
+|---|---|---|---|
+| 1 to 3 | Army CID report of investigation, marked "Initial," with one page of narrative | A CID special agent. The report is dated 4 May 2026. The narrative page is dated 30 April | Lists one offense, under Texas law. Names DPS as the lead agency. Names the site the ad was on |
+| 4 to 9 | The conversation log | Printed from the undercover messaging system | Both days in one conversation, with times to the second and a delivery status for the agent's messages |
+| 10 to 12 | Bell County Jail arrest card, transfer checklist and felony screening form | The DPS case agent, by hand | The arrest time and the wording of the charge |
+| 13 to 19 | DPS supplemental report | The DPS case agent. Dated 19 May 2026. Every page is marked DRAFT | A narrative in 22 paragraphs, a list of attachments, and entries for the evidence |
+| 20 | DPS property inventory for the vehicle | A DPS trooper, 1 May 2026 at 17:22 | |
+| 21 to 22 | DPS waiver of rights and polygraph consent | The DPS polygraph examiner, 1 May 2026, no time | Both signed |
+| 23 to 26 | Four photographs | Not stated | Him at the arrest; the vehicle from behind and from the side; the vehicle seen from above |
+
+**Not in the packet:** the advertisement; the interview video, or any report of the interview; any Army rights advisement; the polygraph charts or report; a search warrant for the phone, or anything taken from the phone; the recording of the call at 17:03:24; body-camera and in-car video; any statement by the officers who made the arrest; the operation plan; the jail's record of his property and money; the charge sheet.
+
+**The file itself.** Its own data gives it a creation date of 11 June 2026 and a last change on 30 June 2026. The charges were preferred on 24 June. So as late as June the packet held only a draft of the DPS report, and nothing from the phone.
+
+**The highlights.** Ten passages are highlighted. The file records that the marks were added on 30 June 2026, under a user label of the kind a military account carries. It is not his number, and I do not know whose it is. The marked passages are:
+
+- "An amazing bj";
+- "Are you still around?" and its time;
+- the agent's "ok u gonna cum," "on both of us lol" and "yummy";
+- "Just you….then both";
+- in the DPS report, the sentences about the Army interview, the polygraph, and the admission.
+
+"Yes" is not marked. If the marks are the government's, they show what it relies on: the act he named on April 30, the return, the sexual lines, and the interview. If they are his counsel's, they show where counsel is looking. Either way they fall on the passages that this section finds the reports have overstated (22.3 and 22.7).
+
+### 22.2 The log
+
+**The log in full.** Times are Central, as printed. A status is shown only for the agent's messages.
+
+| Time | From | Message | Status |
+|---|---|---|---|
+| Apr 30, 16:33:25 | Him | "Hi if available I can come. Or Uber you to house. Im looking for 30 minutes or 1hr" | |
+| 16:35:03 | Agent | "what u lookin 4" | Sent |
+| 16:36:46 | Him | "An amazing bj" | |
+| 16:37:04 | Agent | "50" | Delivered |
+| 16:37:20 | Him | "Ok" | |
+| 16:37:45 | Him | "Prefer cash or cashapp?" | |
+| 16:37:56 | Agent | "cash" | Sent |
+| 16:38:33 | Him | "Got it. What time?" | |
+| 16:38:46 | Agent | "whenevr" | Sent |
+| 16:39:04 | Agent | "im at a hotel" | Delivered |
+| 16:39:32 | Him | "Im ready now. Which hotel?" | |
+| 16:40:09 | Agent | "i will be 16 in june is that ok" | Delivered |
+| 16:40:46 | Him | "No. Find a different way of life please" | |
+| 16:42:25 | Him | "Not in rude way." | |
+| 16:43:04 | Agent | "k i get it" | Delivered |
+| May 1, 15:49:15 | Him | "Are you still around?" | |
+| 15:50:52 | Agent | "yes" | Delivered |
+| 15:51:36 | Him | "Can I send a Uber for you?" | |
+| 15:52:10 | Agent | "no im workin wit my girl tonight" | Sent |
+| 15:52:55 | Agent | "we have a room" | Delivered |
+| 15:53:32 | Agent | "2 for 1 tonight 100" | Delivered |
+| 15:53:50 | Him | "Ok. Where st?" | |
+| 15:54:04 | Agent | "belton" | Delivered |
+| 15:54:44 | Him | "Like temple?" | |
+| 15:54:56 | Him | "Or killeen?" | |
+| 15:55:25 | Agent | "idk where temple is lol all i know is belton im not from here" | Delivered |
+| 15:56:39 | Agent | "comfort inn belton" | Delivered |
+| 15:56:50 | Him | "Lol ok." | |
+| 15:58:25 | Him | "Its 20 min away from me" | |
+| 15:58:57 | Agent | "ok u gonna cum" | Delivered |
+| 15:59:19 | Agent | "on both of us lol" | Delivered |
+| 15:59:21 | Him | "Yes" | |
+| 15:59:48 | Agent | "yummy" | Sent |
+| 16:00:22 | Him | "Just you....then both" | |
+| 16:00:42 | Agent | "both if u want" | Delivered |
+| 16:01:35 | Him | "Do guys have pictures?" | |
+| 16:02:14 | Agent | First photo: two women, shown from the mouth down, with their tongues out | Sent |
+| 16:02:46 | Him | "Im convinced lol" | |
+| 16:03:16 | Agent | "lol" | Delivered |
+| 16:03:37 | Agent | "cant wait" | Delivered |
+| 16:09:41 | Agent | "let me know when u pull up ill give u room" | Delivered |
+| 16:11:01 | Him | "Ok. Send a pic with peace sign so I know real" | |
+| 16:11:48 | Agent | Second photo: one person with dark hair and a fringe, holding a peace sign across the face | Sent |
+| 16:15:39 | Him | "Awesome" | |
+| 16:40:46 | Agent | "u getting close" | Delivered |
+| 16:42:45 | Him | "Yes" | |
+| 16:43:23 | Agent | "k" | Delivered |
+| 16:48:28 | Him | "I'm here" | |
+| 16:48:45 | Agent | Photo of a door with the room number | Sent |
+| 16:50:47 | Him | "Ok" | |
+| 16:51:09 | Him | "Cash right?" | |
+| 16:51:25 | Agent | "yes" | Delivered |
+| 16:53:54 | Him | "Im a little nervous" | |
+| 16:54:11 | Agent | "dont b" | Delivered |
+| 16:56:05 | Him | "Can you walk me upstairs?" | |
+| 16:56:41 | Agent | "u being silly the door is open" | Delivered |
+| 16:58:19 | Him | "I have tinted wndows if you can carplay. Ill give extra" | |
+| 16:58:57 | Agent | "ok will be down what car u in" | Delivered |
+| 16:59:33 | Him | "Black suv" | |
+| 17:00:23 | Agent | "we look out the window are yur lights on" | Delivered |
+| 17:01:11 | Agent | "hello" | Sent |
+| 17:01:20 | Him | "Ya" | |
+| 17:03:04 | Agent | "X-Ray Nora Queen" | Sent |
+| 17:03:24 | Agent | An outgoing voice call, recorded | |
+
+Not in the excerpts supplied earlier: his opening message on April 30 and most of what followed it before the age was given; what the two photos show; the times of the peace-sign request and of the second photo; "Awesome"; everything between 16:40:46 and 16:50:47; and the agent's replies at the hotel, apart from "ok will be down what car u in."
+
+**What the complete log shows**
+
+1. **It confirms the messages and times used so far.** Four small differences: the log reads "Ok. Where st?", "tinted wndows" and "Just you....then both," and "Cash right?" is at 16:51:09. The meaning is the same, and the earlier sections have been left as they were.
+2. **It is one conversation.** The header names two numbers. The two days run on with nothing between them but the date: "k i get it" and "Are you still around?" are next to each other on one page. That is how a panel will see it. What his own screen showed is a separate question (sections 12.2 and 15.2).
+3. **Age was stated once.** "i will be 16 in june is that ok," on April 30 at 16:40:09, marked delivered and answered 37 seconds later. The number 15 was never written. Nothing about age was said on May 1, and no age was ever given for the second person. The agent had the refusal in front of him when the conversation resumed, and did not repeat the age.
+4. **On April 30 the age came last.** In under seven minutes he had said what he wanted, accepted "50," asked "Prefer cash or cashapp?", asked what time, written "Im ready now" and asked which hotel. The agent answered that question with the age, and he refused.
+   - For the defense: he gave up an arrangement that was already complete, at once, and told her to find a different way of life. That is strong evidence of how he acts when he believes he is dealing with a minor. One military appeals court has called a refusal of this kind the reaction of a man who is not predisposed, and then held that coming back undid it (section 23.5).
+   - For the government: he read the age and understood it. And the only sexual act he ever named in this conversation is the one he asked for on April 30.
+   - That act was named before any age was mentioned, and withdrawn when it was. On May 1 he named none (section 21.3). This bears on Spec 2 as well as Spec 3.
+5. **His opening lines were the same on both days.** April 30: "I can come. Or Uber you to house." May 1: "Can I send a Uber for you?" April 30: "im at a hotel," then "Which hotel?" May 1: "we have a room," then "Ok. Where st?" This supports what he has said about a routine (section 17.3), and it supports his reading of "Ok. Where st?" as a question about the place (section 9.5).
+6. **"Cash right?" now has an earlier exchange behind it.** On April 30 he asked "Prefer cash or cashapp?" and the agent answered "cash." Payment was not discussed on May 1 until he wrote "Cash right?" at the hotel.
+   - The government can say that "right?" asks her to confirm something he already knew, and that the only place he could have learned it was the April 30 conversation. That would be evidence that he knew whose number it was.
+   - The answer is the routine. If he asks every number how it wants to be paid, and most say cash, the question shows a habit and not a memory. His other conversations would show that. He has said that the question came from a separate conversation (section 16.1), and a prosecutor will say that the separate conversation was this one, the day before.
+   - This is the only message on May 1 that may point back to April 30. It should be dealt with before he gives any account of "Cash right?" This is an observation about fit, not a suggestion about what to say.
+7. **Who raised what on May 1.**
+
+| Subject | Raised by | Message |
+|---|---|---|
+| Meeting that day | Him | "Are you still around?" |
+| How to meet | Him | "Can I send a Uber for you?" |
+| A second person | Agent | "no im workin wit my girl tonight" |
+| A room | Agent | "we have a room" |
+| A price | Agent | "2 for 1 tonight 100" |
+| A sexual act | Agent | "ok u gonna cum," then "on both of us lol" |
+| Photos | Him | "Do guys have pictures?" |
+| Proof that she was real | Him | The peace-sign request |
+| Payment | Him | "Cash right?" |
+| Meeting in the car, and extra money | Him | The message at 16:58:19 |
+
+   The room, the second person, the price and the explicit words were the agent's. Coming back, the payment question, the car and the extra were his. This bears on Spec 1 (section 19.1) and on whether the idea came from the government (section 23.5).
+8. **The photos.** The DPS report says that troopers working undercover "were utilized for the pictures." So the two pictures he was sent on May 1 were of adults, on the government's own account. Neither shows a whole face. The first shows two women from the mouth down. In the second, the hand making the peace sign and a fringe of hair cover the face.
+   - For the defense: nothing he was shown on May 1 was a child, and nothing in either picture suggests one.
+   - For the government: the pictures are cropped so that no age can be judged from them, and he had been told the age the day before.
+   - Section 10 recorded that the second photo "resembled" the woman on the profile. With no face visible, the likeness can only be in hair and general appearance. The prosecutor will put the photo beside the profile and ask what he compared. Sections 10.7 and 11.2 asked what the second photo shows, and this is the answer. It is an observation about fit, not a suggestion about what to say.
+9. **"Awesome."** He sent it 3 minutes 51 seconds after the second photo. The government will say that he asked for proof that she was real, received it, and was satisfied. He has said that he still expected a scam when he reached the hotel (section 16.1). Both can be true, but his account has not yet dealt with this message.
+10. **"Yes" at 16:42:45, and "I'm here" at 16:48:28.** The arrival came 50 minutes after "Its 20 min away from me," with the stop in Harker Heights between.
+11. **Her answers at the hotel.** "dont b," and "u being silly the door is open." Each hesitation was met with encouragement. He did not go up. The DPS report says so in terms (22.4).
+12. **Delivery status.** Ten of the agent's messages are marked "sent" and not "delivered": three short ones on April 30, "no im workin wit my girl tonight," "yummy," all three photos, "hello" and "X-Ray Nora Queen." He replied to several of them, so "sent" does not show that a message failed to arrive. It matters for the last two (22.6), and for what the system's times record (section 19.1).
+
+### 22.3 The Army CID report against the log
+
+| What the report says | What the log shows | Why it matters |
+|---|---|---|
+| He solicited an agent "who he believed was a 15-year-old minor" (summary, page 1) | Nothing on May 1 about age. The report cites no statement of his and no other source for the belief | His belief on May 1 is the contested element of Specs 1 and 2. The report states it as a fact, three days after the arrest and, as far as the packet shows, before anyone had examined the phone |
+| "The UCA stated she was 15 years old but would turn 16 years old soon" | "i will be 16 in june is that ok" | The meaning is the same, and his reply shows that he understood it. The words are not. If a specification or a witness uses the paraphrase, the log corrects it |
+| "Initially, S/SAINTLOTH declined to proceed with the UCA due to their age" | "No. Find a different way of life please," 37 seconds later, then "Not in rude way." | The Army's own report accepts the refusal and its reason. That helps on predisposition (section 23.5). It also shows that he read and understood the age, which the government will use |
+| He "then agreed to pay $100.00 to engage in sexual activities with two minor females" | She wrote "2 for 1 tonight 100." He wrote "Ok. Where st?" He named no price on May 1. No age was given for the second person | "Agreed to pay $100" is a reading of "Ok" (sections 9.5 and 19.2). "Two minor females" has nothing behind it. The hearing officer's finding that he agreed to pay $100 for both matches this sentence and not the log |
+| He "offered to pay for an Uber ... but subsequently agreed to meet at the Comfort Inn" | The offer of a car came first, at 15:51:36, before any second person, room or price was mentioned | The report puts the offer after the agreement. In the log his proposal was a car for one person, and what followed was the agent's counter-proposal |
+| He "made statements concerning ejaculating on both minor females" | The agent wrote "ok u gonna cum" and "on both of us lol." He wrote "Yes" two seconds after the second line, and later "Just you….then both" | The words were the agent's. This sentence is the likely source of what Spec 1 alleges, as relayed (section 19.1) |
+| He "confirmed the cash payment" | He asked "Cash right?" and the agent answered "yes" | He asked and the agent confirmed. No amount was stated |
+| He "stated he was too nervous to go into the hotel and requested the UCA meet in his vehicle" | "Im a little nervous." "Can you walk me upstairs?" Then the message about the car | He did not say that he was too nervous to go in. He asked to be walked up, was told the door was open, and then proposed the car. The report leaves out "walk me upstairs" and "Ill give extra" |
+
+Other points on the Army report:
+
+1. **It is marked "Initial"** and lists one offense, online solicitation of a minor under Texas law. It names no offense under the UCMJ.
+2. **The narrative page is dated 30 April 2026,** and it describes the events of 1 May.
+3. **It says nothing about an interview.** It ends with his being taken to the DPS office. The DPS report says that Army CID interviewed him there (22.7).
+4. **It does not mention "Im convinced lol," "Awesome," or the two-second gap before "Yes."**
+5. **It names the site.** The ad was "posted on SkipTheGames." Nothing else in the packet says where the ad was.
+6. **It calls the operation joint from April 30.** The DPS report describes an operation on May 1 only. A DPS press release of 4 May 2026 calls it a three-day operation by DPS with Army CID and the Bell County District Attorney's Office (22.8). So April 30 was part of it, and the Army's role on that day is something to ask about (22.11).
+
+### 22.4 The DPS report against the log
+
+1. **Paragraph 2: the pictures were of troopers.** Troopers working undercover "were utilized for the pictures and to converse via voice." This is the government's statement that the pictures he was sent were of adults (22.2).
+   - It leaves a question about the ad. He says that his search of the ad's photograph led to the profile of a woman in another state (section 12.1). If the ad's photograph was of a trooper, the search should not have led there. If it was taken from the internet, the report does not say so.
+   - So either the ad used a real person's photograph, or his search matched the wrong person. The ad, and the agents' evidence about where its photographs came from, will settle it. Either way the photograph was of an adult.
+2. **Paragraph 6 is not about him.** It says that "it was clear that the subjects had the intent of meeting a minor to have sexual intercourse in exchange for money." It is in the plural and describes everyone in the operation. It is a conclusion, and it reads like standard wording.
+3. **Paragraph 8 calls the narrative "paraphrases."**
+4. **Paragraph 9: the number "was later confirmed to be being used by" him.** It does not say how (22.6).
+5. **Paragraphs 10 and 11 quote April 30 accurately,** including the refusal, and add: "The conversation then ended for the night."
+6. **Paragraph 12 leaves out two messages.** After "Are you still around?" it goes straight to "no im workin wit my girl tonight." The log has the agent's "yes" and his "Can I send a Uber for you?" in between. As written, the agent's "no" answers a question he did not ask, and the reader never learns that his first proposal was a car for one person.
+7. **It does not say that he agreed to a price.** It quotes "2 for 1 tonight 100" and "Ok. Where st?" and leaves the reader to connect them.
+8. **Paragraphs 13 to 15 skip from 15:54 to the arrival.** The narrative has none of the sexual lines, "Yes," "Just you….then both," the photos, "Im convinced lol," the peace-sign request or "Awesome." The words that Spec 1 rests on do not appear in the Texas narrative at all.
+9. **Paragraph 16 confirms that he did not go up.** "With SAINTLOTH being nervous to come up to the room, SAINTLOTH was taken into custody ... in the parking lot without incident."
+10. **Paragraph 18 is the "admission"** (22.7).
+11. **Paragraph 20: the phone.** The case agent "secured" it and "will obtain a search warrant ... at a later date." The report is dated 19 May, and nothing in the packet shows that a warrant had been obtained by then.
+12. **It is a draft, written 18 days after the arrest.** The entry for the hotel carries a comment naming another man as the person arrested there. The DPS press release lists a man of that surname among the eleven arrested. So the entry was made for someone else's case and reused. That is not an error about him. It does show that the paperwork was shared between the arrests, which is a reason to treat paragraph 6 as standard wording and to ask for the other files (22.11).
+13. **The offense line cites the wrong statute** (22.8).
+
+### 22.5 The inventory and the jail forms
+
+**What the inventory records**
+
+- It was made at 17:22 on May 1 by a trooper. The car went to a towing company at 17:23.
+- Left in the vehicle: on the front seat, "multiple scent sprays, misc items"; on the rear seat, "military stye pouches, white paper bag, sunglasses"; in the trunk, "misc tools and objects."
+- "Items Removed from Vehicle Prior to Inventory" and "Items Taken from Person" are blank.
+
+**What is wrong with it as a record**
+
+1. **The subject's name was never filled in.** The form still reads "Subject Name." Two other fields still hold the form's own prompts. No witness is named, and "Reason Stored" is blank.
+2. **The case number on it is not the case number on the report.**
+3. **It does not list the phone.** The DPS report says that the case agent secured his phone that day. A form that leaves out the one item everyone agrees was taken cannot show that nothing else was.
+4. **It appears to have been made somewhere other than the hotel.** "Location Towed From" is an address whose street number is eight away from the DPS office's, on the same loop road. The coordinates printed on the form are about 1.3 km from the coordinates that the DPS report gives for the hotel. That is my calculation from the two pairs of figures, and counsel should check it on a map. The photographs show the car in a marked space at the hotel. If the figures are right, someone drove it away between 17:02 and 17:22. Nothing in the packet says who, on what authority, or whether it was searched first.
+5. **The report lists the vehicle as "Impounded"** and gives no reason.
+
+**What it means for the question of cash**
+
+1. Sections 20.3 and 21.3 said that what he had with him matters, because of *Penaloza*. The packet does not record any cash, wallet or condoms, on this form or anywhere else.
+2. That is not the same as a record that there were none. The form is incomplete (point 3 above).
+3. The jail's own record should settle it. The transfer checklist in the packet has a stroke against "MONEY/CHECK" and nothing against "PROPERTY." The stroke could mean that money was handed over, or that there was none. The jail's property and money receipt will say.
+4. Until then, the government has "Cash right?" and "Ill give extra" in his words, and no record of money. Whether that gap helps depends on what the jail's record shows, which he and counsel can find out and I cannot.
+
+**Two items the government may mention.** The "white paper bag" on the rear seat: the form does not say what was in it, and section 9.3 already expected a question about what he bought on the way. The "multiple scent sprays" on the front seat: a prosecutor may call them preparation, and they fit an ordinary car just as well.
+
+**The jail forms.** The arrest card gives the arrest as 5:02 pm on May 1 and the release to the jail as 19:03, as far as the handwriting can be read. The charge is written as "Prostitution of a minor < 18 years old," a second-degree felony.
+
+### 22.6 The arrest and the removal of the apps
+
+| Time | Event | Source |
+|---|---|---|
+| 16:48:28 | "I'm here" | Log |
+| 16:59:33 | "Black suv" | Log |
+| 17:00:23 | Agent: "we look out the window are yur lights on" | Log |
+| 17:01:20 | "Ya," his last message | Log |
+| 17:02 | The texting apps are removed | His timeline, shown as verified |
+| 5:02 pm | Arrest | Jail card, in the case agent's handwriting |
+| 17:03:04 | Agent sends "X-Ray Nora Queen," marked "sent" | Log |
+| 17:03:24 | Agent places a recorded voice call | Log |
+| 17:22 and 17:23 | Inventory, then the tow | Inventory form |
+| 19:03, as far as it can be read | Released to the jail | Jail card |
+
+1. **The arrest time is now known.** Sections 9.3, 16.1 and 20.3 said that it would decide how much the removal of the apps shows. The two are recorded in the same minute.
+2. **He had no time to drive away.** His last message was at 17:01:20. That answers the question "then why didn't you drive away?" for the time after the removal. It does not answer it for the thirteen minutes before, in which the log shows him still arranging the meeting.
+3. **Which came first is not in the packet.** Both times are given to the minute, and the arrest time was written on a jail card later that evening. Body-camera video will give the arrest to the second. The phone's own record will give the removal to the second.
+   - If the removal came first, the government will say that he saw the arrest team coming, and the defense will point to the routine (sections 13.1 and 14.3).
+   - If the phone's record puts the removal after the agents had hold of him, a different question arises: who was holding the phone.
+   - Counsel should have both times before anyone says what the removal was.
+4. **The last two messages from the agent are marked "sent" and not "delivered."** That fits the app being gone by 17:03:04. It also fits a phone that was switched off or out of his hands.
+5. **"X-Ray Nora Queen" is the name the system gave this conversation** (DPS report, paragraph 8). I read that message, and the call 20 seconds later, as the team's way of matching the phone in front of them to the conversation. If the app had already been removed, neither would have reached the phone. The report says only that the number "was later confirmed" as his. This is my reading, and the agents can be asked.
+6. **Where he was.** The photograph from above shows the car in a marked space at the edge of the lot, parked nose out, with its headlights on. The photograph of him appears to have been taken beside the same fence. The DPS report says that he was taken into custody "in the parking lot without incident." So he was arrested where he had parked. He had not driven off, and he had not gone to the door.
+
+### 22.7 The interview paperwork
+
+1. **Two forms, both from the DPS polygraph unit.** A waiver of rights, marked page 1 of 2, and a polygraph consent, marked page 2 of 2. Both carry the name of the DPS polygraph examiner, as the person who gave the warning on the first and as the witness on the second. Both are dated May 1 and signed. Neither has a time.
+2. **The waiver gives five warnings.** He may remain silent and any statement may be used at his trial. Any statement may be used as evidence in court. He may have a lawyer present before and during questioning. A lawyer will be appointed if he cannot employ one. He may stop the interview at any time. The waiver does not say what he was suspected of.
+3. **The consent form does.** The examination is "regarding: ONLINE SOLICITATION OF A MINOR." It also says that "this interview and examination will be both audio and video recorded."
+4. **The DPS report describes two things** (paragraph 18). "Army CID conducted an interview with SAINTLOTH." The DPS examiner "also conducted a polygraph examination." "For details of the polygraph examination, review the interview video."
+5. **There is no record of the Army's part.** The packet has no Army rights form and no agent's account of the interview, and the Army report does not mention one (22.3).
+6. **Why that matters, as I understand it.**
+   - Article 31(b) applies to a person subject to the Code who questions a suspect in an official capacity, and to anyone knowingly acting as that person's agent, which is how civilian Army investigators are treated (M.R.E. 305(b)(1)). Before any question, the suspect must be told the nature of the accusation, that he need not make any statement, and that what he says may be used against him in a trial by court-martial. A statement taken without that warning cannot be used at a court-martial (Article 31(d)).
+   - Civilian police who question a soldier for their own purposes need only meet the civilian rules (M.R.E. 305(f)(1)). The exception is where the two investigations have merged, or where the civilian is acting as an instrument of the military.
+   - Here both agencies call the operation joint, Army agents were on the arrest team, and the DPS report says that Army CID did the interviewing.
+   - So the questions are these: who asked the questions; what warning came before them and from whom; and in what order the interview and the polygraph came. The video answers all three.
+   - Section 7 raised this as a possible motion. The packet makes it more concrete. It is for counsel.
+7. **The time available.** About two hours passed between the arrest and the release to the jail. That had to cover the drive to the office, the Army interview, the polygraph with its own interview before the test, and the drive to the jail. The video will show how long each took and in what order.
+8. **The sentence about an admission.** In full: the case agent "was not present during the interview but was informed that SAINTLOTH admitted to knowingly speaking to a minor."
+   - The writer was not there.
+   - It does not say who informed him.
+   - It quotes no words.
+   - It does not say which day. "Knowingly speaking to a minor" describes April 30 on his own account: he was told, and he refused. The sentence does not say that he knew on May 1.
+   - It is in a draft written 18 days later.
+   - The hearing officer watched the video and did not cite it for knowledge of her age (section 2).
+   - At trial the report is not evidence of what he said. The video is, and so is a witness who heard it. Counsel should find out who "informed" the case agent and whether that person wrote anything down.
+9. **The polygraph rule is unchanged** (section 8.2). The examination, its result and any reference to it stay out under M.R.E. 707. What he said during it can come in, if it is otherwise admissible.
+
+### 22.8 Three names for the Texas offense
+
+| Document | Offense named | What it requires about age, as I understand it |
+|---|---|---|
+| Army CID report | Online solicitation of a minor, Texas Penal Code § 33.021 | A "minor" is a person under 17, or a person the actor believes to be under 17. Where the other party is an adult agent, the State has to prove the belief |
+| DPS report, offense line | § 43.031(b)(2), online promotion of prostitution | It applies to a person who "owns, manages, or operates" an online service with intent to promote prostitution. It is not a buyer's offense |
+| DPS report title, jail card and screening form | Solicitation of prostitution of a person under 18. By its description that is § 43.021(b)(2) | A second-degree felony if the person is under 18, was "represented to the actor" as under 18, or was believed by the actor to be under 18. A representation is enough, and belief need not be proved |
+
+1. **What DPS announced.** Its press release of 4 May 2026 says that eleven men were arrested in a three-day operation, four of them active-duty soldiers, and that the people they spoke to "identified themselves as 13, 14, 15, and 16 years of age." It lists nine as charged with solicitation of prostitution of a person under 18, and two with online solicitation of a minor. He is among the nine. So the charge DPS made is the third row of the table, and the Army report's label is not the one Texas used. I read the release in search extracts.
+2. **For Texas, the choice of statute decides whether his belief matters at all.** Under § 33.021 it is the whole case. Under § 43.021 the April 30 message may be enough. Whether a statement made the day before, in a conversation he says he did not connect with this one, counts as a representation is a question for Texas counsel. Sections 4 and 11.4 made this point from the statute, and the packet shows that the agencies themselves did not agree on the offense.
+3. **For the court-martial it matters less.** It is one more sign that the DPS report was assembled from a template. Sections 4 and 19.1 noted the wrong section, and the statute's text confirms it.
+
+### 22.9 What each side gets from the packet
+
+**The prosecution**
+
+1. A complete log, produced by a system, with one conversation, the same two numbers on both days, and times to the second. The undercover agent can introduce it.
+2. An unbroken approach in his own words: "Awesome," "Yes," "I'm here," "Ok," "Cash right?"
+3. The photograph from the window: he was there, parked, with his lights on as asked.
+4. A signed waiver, a signed consent, and a recorded interview.
+5. April 30 in full. She wrote "50." He wrote "Ok" and "Prefer cash or cashapp?" The day before, he read a bare number as a price. That makes "100" as a time harder to maintain (section 16.1), and it supplies the act and the money for Spec 3 (section 21.3).
+6. "Prefer cash or cashapp?" on April 30, behind "Cash right?" on May 1 (22.2).
+7. "Awesome," after the photo he had asked for as proof.
+
+**The defense**
+
+1. The government's own papers confirm four things he has said: he refused because of her age; the pictures were of adults; the room, the second person, the price and the explicit words were the agent's; and he did not go up.
+2. April 30 in full. The age came after everything else had been settled, and he gave the arrangement up in 37 seconds (22.2).
+3. The agent had that refusal on the screen the next day and did not repeat the age. The May 1 record is silent on the one fact Specs 1 and 2 depend on, and that was the agent's choice.
+4. His opening lines were the same on both days, which supports the routine (22.2).
+5. The reports overstate the log in at least five places (22.3). That is material for cross-examining the agents. It also shows where the hearing officer's finding on the $100, and the wording of Spec 1 as relayed, are likely to have come from.
+6. The "admission" is weaker on the page than it sounded as relayed (22.7).
+7. There is no Army rights form, and no time on either DPS form.
+8. No cash is recorded anywhere, though the record is incomplete (22.5).
+9. A draft, a wrong statute, a form with the name not filled in, and another man's name on the hotel entry. Paperwork produced in bulk is a reason to ask for the rest of it: how the same agent handled the age with other subjects, whether the age was repeated when a subject came back, and what happened to others who refused.
+10. There is still no advertisement.
+
+**One thing outside the packet.** The arrests were announced by name on 4 May 2026 and reported by local news. Whether panel members saw that coverage is a subject for counsel's questions to them. It also bears on the terminal element (section 21.3).
+
+**What the packet does not give either side.** It has nothing about the image search, the profile, the other conversations that afternoon, or how the message at 15:49 came to be sent. Those are still his records to produce (section 17), and they are what Specs 1 and 2 turn on.
+
+### 22.10 Corrections to earlier sections
+
+1. **The arrest time.** Sections 9.1, 9.3, 16.1, 17.2, 20.1 and 20.3 said that it was not known. It is 5:02 pm by the jail card (22.6).
+2. **The missing pages of the log.** Sections 17.2, 20.5 and 21.7 listed them as not seen. They are in 22.2. Nothing in them mentions age.
+3. **The second photo.** Sections 10.7 and 11.2 asked what it shows. It shows a peace sign and no face (22.2).
+4. **The inventory.** Sections 7, 20.5 and 21.7 asked for it. The vehicle inventory is in the packet and does not answer the question (22.5). The jail's record is the one to ask for now.
+5. **The DPS sentence about an admission.** Section 2 quoted the phrase. The full sentence shows that the writer was reporting what he had been told (22.7).
+6. **The basis of this analysis.** The note at the top said that it was built from two documents. The packet is now a third, and the note has been changed.
+
+### 22.11 Records to add, through counsel
+
+1. **The interview video, and the Army's record of the interview:** the warning given and by whom, who asked the questions, the order of the interview and the polygraph, and the times.
+2. **Body-camera and in-car video:** the arrest to the second, what he was doing, where the phone was and who handled it.
+3. **The phone:** the record of its seizure and custody, the warrant with its date and scope, the extraction, and the time of the apps' removal to the second.
+4. **The jail's property and money receipt.**
+5. **The vehicle:** who moved it, when and on what authority, whether it was searched before the inventory, the reason for impounding it, and the DPS policy on inventories.
+6. **The advertisement:** its text, stated age and photos, when it was posted, whose photographs they were, and whether any was taken from the internet.
+7. **The rest of the operation's files, for both days:** the plan, any script for stating the age, the Army's part on each day, and the conversations with other subjects.
+8. **The recording of the call at 17:03:24,** and how the number was "later confirmed."
+9. **The final DPS report,** and any later Army reports.
+10. **What "sent" and "delivered" mean in the undercover system,** and what its times record (section 19.1).
+
+### 22.12 What this changes
+
+1. **Specs 1 and 2 turn on the same question as before.** Nothing in the packet shows what he believed on May 1. The one document that says "believed" gives no source for it.
+2. **The log is the government's case, and it is now complete.** The reports add nothing reliable to it and overstate it in several places.
+3. **The arrest time closes one line of cross-examination and opens a question of sequence** (22.6).
+4. **What he had with him is still not known** (22.5).
+5. **The interview is still the most important thing I have not seen.** The Article 31(b) question now has facts behind it (22.7).
+6. **His account of the second photo has to fit a picture with no face in it, and it has to deal with "Awesome"** (22.2).
+7. **"Cash right?" needs an answer that takes April 30 into account** (22.2).
+8. **April 30 is better evidence for him than the summaries made it.** The age came last, and he walked away from a finished arrangement.
+9. **The order of work is unchanged:** the video first, the forensic report second, the account third.
+
+## 23. Addendum 16, 24 Nov 2026: comparable cases
+
+**What this covers.** The second part of the request that came with the packet: an exhaustive search for court-martial cases involving a minor that share at least two features with this one, with the outcome of each and whether it was appealed. The features named were age, a reverse image search, a refusal, a memory lapse, and a reverse image search that identified a real adult's profile, which is to be kept apart from a simple image search. One case was given to start with.
+
+I could not open any court's website from here. Every case below was found by web search and read in the extracts that a search returns, not in full. Where I say what a court held, I saw the court's own words unless I say otherwise. Each case is for counsel to read and check before it is relied on. Statements of law are my understanding.
+
+**Short version**
+
+- **The starting case is confirmed.** *United States v. Caroll*, a general court-martial at Fort Hood, 15 to 18 September 2026. He pleaded not guilty and was convicted by an officer panel of the same two attempts as Specs 1 and 2. The judge sentenced him to 16 years and dismissal. No appeal decision exists yet. On what is public it shares one feature with this case, a stated age.
+- **No court-martial was found with a reverse image search by the accused,** and none in which a search led him to a real adult. No opinion of a military court was found in which the accused said that he did not remember the age, or did not realize he was writing to the same person. One trial of that kind is known from a defense firm's report.
+- **The courts-martial that share two features are of two kinds.** In the first, the accused refused or drew back when told the age and then went on (*Cool*, *Jennings*, *Fulsom*, *Johnston*). In the second, he was told a child's age while what he was shown pointed to an adult (*Reynolds*, *O'Farrell*, *Kerns*, *Kuester*, a Fort Drum case, and two cases with real minors). Every one ended in a conviction, and as far as the extracts show the conviction on the child offense stood on appeal in each.
+- **The only acquittals found are a defense firm's own reports** of five trials. In all five the agents had sent photographs of adults. One of them is the nearest military match to his account: a Marine warrant officer who broke off when told 15 and, months later, answered a different persona from the same operation without realizing it. The firm says the members acquitted him of the charges from the operation.
+- **Split results are common.** In four courts-martial with official records the accused was acquitted of the attempt that rested on the meeting and convicted of an offense that rested on his words.
+- **The cases nearest to his account in a court's own words are not military.** In Ontario a man said he had broken off on learning the age and then texted the same number by mistake, and was not believed. In California a man said he had deleted the first conversation and did not know he was meeting the person who had said she was 14, and his conviction was reversed. In Michigan a man answered an ad on the same site as here, was told 15, wrote "Got to be 16," and searched the phone number, which led to an adult woman. His case was sent back.
+- **What the cases show.** Where the accused knew whom he was going back to, the refusal did not save him, and entrapment failed because the return was his. In none of the military cases was that in dispute. Where it was in dispute, the cases were decided on records: the timing of the messages, the pattern of his other conversations, and what the app showed him.
+- **The law on belief is better for him than the outcomes suggest.** In an attempt with a decoy the government has to prove that he actually believed she was under 16. Three military appeals courts have said so in terms. On the general rule for offenses of specific intent, the belief does not have to be reasonable.
+- **Limits.** Acquittals leave no opinion and most cases end in pleas, so published cases are mostly convictions. The search was wide, and it was a search of what search engines index.
+
+### 23.1 How the search was done, and its limits
+
+1. **The features.** I used five, following the request.
+   - **Age.** An age under 16 was stated to the accused, or what he believed about her age was the contested issue.
+   - **Refusal.** He refused, drew back or broke off on learning the age, and contact later went on.
+   - **Search.** He ran a reverse image search, or otherwise searched online for the person.
+   - **Adult profile.** His search led him to a real adult. I also record a wider form, "adult shown": what he was shown or relied on pointed to an adult, such as the agents' photographs, or an ad or profile giving an adult age. The two are kept apart, as asked.
+   - **Memory.** He said that he did not remember or did not register the age or the earlier conversation, or did not realize it was the same person.
+2. **Where I looked.** Opinions of the Court of Appeals for the Armed Forces and of the Army, Air Force, Navy-Marine Corps and Coast Guard Courts of Criminal Appeals; the Army's public court-martial record and docket; press releases and news reports of trial results for all services; defense firms' published results; and, kept separate, federal, state and Canadian cases.
+3. **How.** Six searches ran in parallel, one for each feature or pair of features and one for acquittals and reversals, and I then checked the leading results again myself. Several hundred differently worded searches were run in all. Late in the work the search tool stopped responding, so some cases could not be checked a second time. They are marked.
+4. **What that can and cannot find.**
+   - It finds opinions that a search engine has indexed. It does not find a case whose opinion uses different words from the ones searched.
+   - An acquittal cannot be appealed and leaves no opinion. Most cases end in guilty pleas, whose opinions say little about the facts. The Army's public record gives the result of a trial and almost nothing about the facts.
+   - So "none found" means none found by these means. It does not mean that none exists.
+5. **How each case is marked.**
+   - Nothing added: the court's own words were seen in the extracts, and I checked the case again myself. Where a full opinion was available from a public mirror of court opinions, I read it there. That was possible for *Johnston*, *McKenzie*, *Medina-Ortiz*, *Felder*, *Debevec* and *Miller*.
+   - "Not re-checked by me": one of the parallel searches quoted the court's words, and I did not see them a second time.
+   - "As reported": the detail comes from a summary, a brief, a blog or a press release, and not from the court's own words.
+   - "Firm's report": a defense firm's account of its own case.
+
+### 23.2 The starting case: *United States v. Caroll*
+
+The name is printed "Caroll" on the Army's docket and in its press release, and "Carroll" in the result text of the Army's public court-martial record.
+
+| Item | Detail |
+|---|---|
+| Court | General court-martial, Fort Hood, Fifth Judicial Circuit, 15 to 18 September 2026 |
+| Accused | A chief warrant officer 2, aged 42, with 22 years of service |
+| Facts, from the Army's press release | From 1 September 2025 he exchanged messages with an Austin police detective posing as a 14-year-old girl on a social media site. He "began sending sexual messages and lewd communications which continued for several days." A meeting was arranged in Austin. A local news report adds that he drove there from Temple and was arrested on arriving |
+| Charges | Two specifications under Article 80: attempted sexual abuse of a child and attempted sexual assault of a child |
+| Plea and forum | Not guilty. Officer panel |
+| Findings | Guilty of both |
+| Sentence | By the military judge: confinement for 16 years and dismissal |
+| Prosecution | The Army Office of Special Trial Counsel, Fifth Circuit |
+| Appeal | No decision found. The trial ended two months ago. As I understand it, a sentence of this kind goes to the Army Court of Criminal Appeals automatically (Article 66(b)(3)) |
+| Features shared | Age, on what is public. Nothing public shows a refusal, a search, an adult profile or a claim about memory. The defense he ran is not reported |
+
+**Why it matters to this case**
+
+1. **It is the same court, the same two charges and, most likely, the same prosecuting office.** It is two months old. It is the best public evidence of what a contested trial on Specs 1 and 2 can cost at Fort Hood.
+2. **Its facts were worse.** The persona was a child from the first message. The exchange was sexual and went on for days. Nothing public suggests that he refused. An accused who wrote "No. Find a different way of life please" and came back a day later to a conversation in which age was not mentioned is in a different position, and the sentence in *Caroll* does not predict his.
+3. **The record of that trial is worth having.** It would show what the defense was, how the panel was instructed on belief, and what the judge said in sentencing. Counsel can ask for it or speak to the defense counsel in that case.
+
+### 23.3 Courts-martial that share two or more features
+
+**Refused or drew back on learning the age, and then went on**
+
+| Case | What happened | Features shared | Trial | Appeal |
+|---|---|---|---|---|
+| *United States v. Cool*, No. ACM 39714 (A.F. Ct. Crim. App. 26 Oct. 2020, unpublished) | On Kik he opened with a sexual picture. The agent's persona said she was 14. He wrote: "Oh, nevermind. I appreciate you telling me you are underage. I apologize." The agent accepted that and said goodbye. He "did not stay away," the court said, and went on messaging her with no urging from the government. He asked more than once whether she was real, and for pictures to prove it. He later told investigators that he "never thought that she was real" | Age. Refusal | Officer members, not-guilty pleas. Guilty of two attempts at sexual abuse of a child. A bad-conduct discharge and reduction to E-1 | Affirmed, and entrapment rejected. The court said that he had "reacted as one who is not predisposed," and that the return was his own. It read his requests for proof as a way "to goad her into sending him more" pictures. No further appeal found |
+| *United States v. Jennings*, No. 201700241 (N-M. Ct. Crim. App. 4 Feb. 2019) | An NCIS agent's persona said she was 15. He voiced concern about "getting in trouble" because she was a "minor." Contact stopped for nearly three months, and the agent restarted it. It stopped again after a week and resumed. Each time the persona reminded him that she was 15. His messages then became sexual, and he arranged to meet her. He told agents that he had been "fishing" | Age. Refusal, in the form of drawing back twice. The persona had told him at once that she was younger than her profile indicated | Officer members, not-guilty pleas. Guilty of attempted sexual assault of a child, attempted sexual abuse and related offenses. As reported: three years, a dishonorable discharge and reduction to E-1 | As reported, entrapment was rejected and the convictions upheld. No further appeal found |
+| *United States v. Fulsom*, No. 202500166 (N-M. Ct. Crim. App. 29 May 2026) (section 20.4) | The persona was listed as 18 on an adult dating app and said by text that she was "almos 15." As reported, he refused at first and came back within minutes. He asked for a photo "at the moment" and for video calls, and traveled 45 minutes with condoms | Age. Refusal. Adult shown, by the listed age | Officer members, not-guilty pleas. Guilty of attempted sexual assault of a child and attempted sexual abuse. As reported: a dishonorable discharge, 45 days and reduction to E-1 | Affirmed. Entrapment rejected: he had ignored the "off-ramps" he was offered. No further appeal found |
+| *United States v. Johnston*, 75 M.J. 563 (N-M. Ct. Crim. App. 21 Jan. 2016) | A real girl of 14 told him she was 17. Weeks later she "informed the appellant she was in fact 14 years old. He reacted with what she interpreted to be anger. Communication ... stopped for a few days. But the appellant resumed the texting and sexting" | Age. Refusal, in the form of breaking off and resuming. A real minor | Members with enlisted representation, not-guilty pleas. Guilty of four specifications of sexual abuse of a child and one of indecent exposure. Eight months and a bad-conduct discharge | The exposure finding, which covered the time before she told him, was set aside: the government "essentially conceded that the appellant reasonably believed" she was 17 then. The rest was affirmed |
+
+**Told a child's age while what he was shown pointed to an adult**
+
+| Case | What happened | Features shared | Trial | Appeal |
+|---|---|---|---|---|
+| *United States v. Reynolds*, ARMY 20200473 (Army Ct. Crim. App. 2022; exact date not seen) | Two agents on Whisper posed as 13-year-olds and sent him photographs of clothed adult female agents. The government said the photographs had been altered to look younger. He testified that he did not believe they were 13, and thought they were adults misrepresenting their age. He bought condoms and went to the address | Age. Adult shown, by the photographs | Enlisted panel, not-guilty pleas. Guilty of attempted sexual assault of a child and two attempts at sexual abuse. As reported: five years, a dishonorable discharge and reduction to E-1 | No relief, as far as the extracts show. The court said the panel had been told that the government must prove he "actually believed" they were under 16. If the panel had credited him, he "was not guilty because of a failure of the government's proof, without having to resort to any affirmative defenses" |
+| *United States v. O'Farrell*, No. ACM 37630 (A.F. Ct. Crim. App. 18 June 2013, unpublished) | A detective posed as a girl of 15 in a chat room listed for adults only. He told the members that he knew she was an adult, from the context and from the room | Age. Adult shown, by the adults-only site | Officer members, not-guilty pleas. Guilty of three attempts at an indecent act and one attempt at indecent language with a person he believed was under 16. As reported: a bad-conduct discharge, one year and reduction to E-1 | The court upheld the refusal of a mistake-of-fact instruction: "the Government bore the burden of proving beyond a reasonable doubt that the appellant believed the persona ... was a minor," so the members either believed him or they did not. Affirmed |
+| *United States v. Kerns*, ARMY 20250019 (Army Ct. Crim. App. 2026; exact date not seen) | An Army CID agent made a profile on a dating app for adults, with a listed age of 31, and made the first contact by "liking" his profile. He asked her age and was told 14. He told her that she should not be on a dating app. As reported, the conversation later became sexual | Age. Adult shown, by the listed age. A weak form of refusal | Enlisted panel, not-guilty pleas. Guilty of attempted sexual abuse of a child by indecent communication, and of soliciting child pornography. 42 and 48 months, to run together | The court held the solicitation finding insufficient. As reported, the attempt stood |
+| *United States v. Kuester*, No. 202100322 (N-M. Ct. Crim. App., unpublished; date not seen). Not re-checked by me | An agent's profile on a dating app for adults used a filtered photograph of an adult agent and a listed age of 68. In the chat the persona wrote "B 14 soon." He said that "when he learned Alyssa was underage the conversation pretty much stopped," and that the agents then pursued him. He testified: "I carried on the conversation. As soon as I found out [her age] I should've stopped. I knew better." After a polygraph he made further admissions | Age. Adult shown, by the photograph, the listed age and the site. A weak form of refusal | Members, not-guilty pleas. Guilty of attempted sexual assault and attempted sexual abuse of a child. The full sentence was not seen | No relief. The judge had given no instruction on mistake of fact as to age. The court assumed that was error and held it harmless, because the instructions on the elements "required the members to find" beyond a reasonable doubt "that Appellant believed that Alyssa was under the age of sixteen" |
+| A Fort Drum case, name not found (Army Ct. Crim. App., no. 1532 in the court's online library, 2026) | He answered a SkipTheGames post that law enforcement had made with photographs of an adult agent. The agent said the ad was for her 14-year-old "stepdaughter," for a fee. He wrote: "Im nervous because I'm going to have sex with a 14 yr old lol." He sat in his car near the cabins, asked whether she was the police, wrote "If you are legit, I am so sorry," started his car and was arrested | Age. Adult shown, by the ad's photographs. Also hesitation at the scene (section 20) | Judge alone, not-guilty pleas. Guilty of attempted sexual assault, attempted sexual abuse and attempted forcible pandering of a minor. A dishonorable discharge, 48 months and reduction to E-1 | Affirmed. The court held that the government had disproved voluntary abandonment beyond a reasonable doubt |
+| *United States v. Allen*, No. ACM 39043 (A.F. Ct. Crim. App., unpublished; date not seen). Not re-checked by me | An AFOSI persona said she was 14. He testified that he believed she was an adult interested in role play. At her building he asked her to come out on the balcony, and an adult agent did. He said that it was dark and he did not see her. He sent a message that he was "making the leap" and was arrested on the stairs | Age. Adult shown. A statement that he did not see something | Officer members, not-guilty pleas. Guilty of two attempts at a lewd act upon a child. A dishonorable discharge, three years and reduction to E-1 | The court rejected his challenges, and said that he "never abandoned his plan" |
+| *United States v. Axe* (N-M. Ct. Crim. App. 27 July 2020). Not re-checked by me | An AFOSI persona "on numerous occasions expressed that she was 14 years old." He argued on appeal that the agent had given no age in the profile and "sent him images that were in fact of adults." He arrived at a park with condoms | Age. Adult shown, by the photographs | Officer members. Guilty of attempted sexual assault of a child and two attempts at sexual abuse. A dishonorable discharge, 60 months and reduction to E-1 | The court's ruling on that argument was not seen. The convictions appear to have stood |
+
+**Real minors, where the accused relied on a profile that showed an adult**
+
+| Case | What happened | Features shared | Trial | Appeal |
+|---|---|---|---|---|
+| *United States v. Thompson*, 83 M.J. 1 (C.A.A.F. 21 Nov. 2022) | A girl of 15 whose dating profile "portrayed her as a nineteen-year-old college student." They met four times. He lied to investigators | Age, as a defense of mistake of fact. Adult shown, by the profile | Judge alone. Guilty of sexual assault of a child and other offenses. As reported: twelve months and a dishonorable discharge | The highest military court set the Air Force court's decision aside, because its opinion suggested that it had required "direct evidence" of what he believed, and sent the case back. As reported, the Air Force court then affirmed, with one judge dissenting |
+| *United States v. Scott* (Army Ct. Crim. App. 27 Oct. 2023, with a later version dated 14 Mar. 2024; docket number not seen) | A girl of 15, met through online gaming. She and another soldier testified that they had told him she was 15. He said that they had only called her "underage," and that the birthdate on her Facebook profile would have made her 18 | Age, as a defense of mistake of fact. Adult shown, by the profile | Judge alone, not-guilty plea. Guilty of sexual abuse of a child. As reported: a dishonorable discharge, reduction to E-1, restriction and hard labor without confinement | Affirmed. "It was negligent for appellant not to inquire as to her specific age," and a reasonable person seeing the conflict "would have been on notice that he needed to confirm her age" |
+
+**Trial results reported by a defense firm**
+
+These come from one firm's website, the Bilecki Law Group. They are the firm's accounts of its own cases. They are included because they are the only acquittals the search found, because all of them turn on photographs of adults, and because the first is the nearest military match to his account. A firm reports its wins, and the dates in the web addresses may not be reliable.
+
+| Trial, as the firm reports it | What happened | Features shared | Result |
+|---|---|---|---|
+| Okinawa, about 2016 or 2017. A Marine chief warrant officer 2. Not re-checked by me | An NCIS persona said she was 15 while sending photographs of herself, a woman over 21. He questioned her age, found her story unrealistic and "broke off all communications." Months later he sent a group message, and a different NCIS persona answered, with another name and photographs of a woman in her twenties and no stated age. He drove to the house and was arrested. The firm says he "did not realize he was chatting with the individual whom he earlier broke contact with," and told agents that he did not believe she was a minor | Age. Adult shown. Refusal. Memory, in the form of not knowing it was the same person | Acquitted by members of the charges from the operation. Guilty only of conduct unbecoming an officer |
+| Joint Base Pearl Harbor-Hickam, 2017. An Air Force staff sergeant | He answered an ad. The agent said she was 15. He "did not believe the person he was chatting with and thought he might be getting 'catfished.'" The agents sent pictures of an adult woman, and he asked to meet first to be sure she was an adult. A 28-year-old sergeant met him. He was arrested at a hotel room | Age. Adult shown. A check of his own | Not guilty of attempted sexual assault of a minor. Guilty of indecent language, for messages sent before he had seen the decoy. A bad-conduct discharge and no confinement |
+| Schofield Barracks, 2017. A soldier | The agents sent "several pictures of an adult even though the persona was supposed to be of a minor" | Age. Adult shown | Not guilty, on an entrapment defense |
+| Yokosuka, 2017. A Navy lieutenant. Not re-checked by me | The agent "stated that her age was 14 years old but sent a picture of a 22-year-old adult female," and then twenty more | Age. Adult shown | Not guilty of all charges |
+| Malmstrom Air Force Base, 2026. An Air Force technical sergeant | The persona was 13. The photographs were "overwhelmingly photographs of a 31-year-old woman." The firm says that the lead interviewer "admitted she implanted the age during the interrogation," and that after three hours of questioning he was still asking whether the persona was a real person | Age. Adult shown. A dispute about what was said in the interview | Not guilty of all charges |
+
+One of these has an official record that fits it. An Air Force opinion, *United States v. Postell*, No. ACM 39340, records a general court-martial at the same base with a sentence adjudged in June 2017: an agent "sent Appellant an image of a female adult that had been digitally manipulated to make her appear younger"; he "was acquitted of a separate specification of attempted sexual assault of a child"; he was convicted of attempted sexual abuse by indecent communication; and the sentence was a bad-conduct discharge and reduction to E-4. That is probably the Hickam trial in the table. Neither source names the other. I did not re-check it.
+
+### 23.4 Courts-martial that share one feature
+
+**Results that went the accused's way, wholly or in part.** In each of these a child's age was stated. None shows a search or a claim about memory, and only *Kerns* shows any drawing back.
+
+| Case | What happened | Result |
+|---|---|---|
+| *United States v. Penaloza*, ARMY 20230473 (Army Ct. Crim. App. 28 Feb. 2025) (section 20.4) | Attempted sex trafficking of a child. He arrived without cash | Held insufficient. As reported, the order reads: "The finding of guilty and the sentence are SET ASIDE." No later appeal found |
+| *United States v. Marsden*, No. 202100259 (N-M. Ct. Crim. App. 2023, unpublished). Not re-checked by me | An FBI agent posed as a girl of 13. The defense was that the accounts could not be tied to him | As reported, all findings were set aside as insufficient |
+| *United States v. Postell*, No. ACM 39340 (A.F. Ct. Crim. App.). Not re-checked by me | Set out under the last table in 23.3 | Acquitted of attempted sexual assault of a child. Guilty of attempted sexual abuse by indecent communication. A bad-conduct discharge and reduction to E-4 |
+| *United States v. McDaniel*, No. ACM 39608 (A.F. Ct. Crim. App. 2020). Not re-checked by me | Charged with attempted sexual assault of a child and indecent language. Whether an agent was involved was not seen | Not guilty of the attempt. Guilty of indecent language. A bad-conduct discharge and reduction to E-1 |
+| An Army officer, name not seen (Army Ct. Crim. App., older opinion no. 210 in the court's online library). Not re-checked by me | A persona believed to be 15. Judge alone | Guilty of an attempted lewd act by indecent language. Not guilty of an attempted sexual act and of attempted enticement. Dismissal and ten months |
+| *United States v. Rachels*, No. ACM 38594 (A.F. Ct. Crim. App. 25 June 2015). Not re-checked by me | A persona of 13 on Facebook, over about two months. Judge alone | Guilty of attempted enticement. Not guilty of the specification alleging attempted intercourse. Entrapment rejected on appeal |
+| *United States v. Dioguardi*, No. 202200223 (N-M. Ct. Crim. App. 30 Oct. 2023). Not re-checked by me | A persona on an app for adults said she was 14. Her profile gave an age of 113 | He pleaded guilty to indecent communication only. The specifications for attempted sexual assault and attempted abuse by contact were withdrawn. Eighteen months and a dishonorable discharge. Affirmed |
+| *United States v. Munn*, ARMY 20250252 (Army Ct. Crim. App. 2026) (section 20.4) | A hotel operation. As reported, the court-martial was at Fort Hood in May 2025 | A plea to attempted patronizing at a special court-martial. The child specification was dismissed. A Fort Hood results notice, as reported, gives the sentence as a bad-conduct discharge |
+| *United States v. Delisfort*, ARMY MISC 20240488 (Army Ct. Crim. App. 2025) | An Army CID operation with a persona of 14 | The judge dismissed the charges without prejudice for failures in discovery. The government's appeal was denied |
+| *United States v. Kerns* (23.3) | Set out in 23.3 | The solicitation finding was set aside. As reported, the attempt stood |
+
+Four of these have the same shape: not guilty of the attempt that rests on the meeting, and guilty of an offense that rests on the words. In this case the words on May 1 were mostly the agent's (section 22.2).
+
+Other defense firms report three more results of the same kind, without court records: a soldier tried on Okinawa after "the conversations started as adult-to-adult interactions" and the agent then claimed to be under 16, whom enlisted members sentenced to no punishment; a Marine who pleaded guilty to indecent exposure and indecent language and not guilty to attempted sexual assault; and a sailor acquitted of the charges tied to one persona and convicted of those tied to another.
+
+**Convictions and pleas where a child's age was stated and nothing else matches.** They are listed so that counsel need not look for them again. Apart from *Miller* and *Jungklaus-Dadona*, I did not re-check them.
+
+- With a request for proof that the persona was real: *Jungklaus-Dadona*, No. ACM 39202 (A.F. Ct. Crim. App. 2018), where he wrote "And dang .. You are really young" and went on; *Moreno*, No. ACM 40511 (A.F. Ct. Crim. App. 2025), where he testified that he "just wanted to meet her and see if she was 'real,'" and received a dishonorable discharge and three months.
+- With a statement drawing back: *United States v. Miller*, 67 M.J. 87 (C.A.A.F. 2008), where he "told her at the end of the conversation that he could not have sex with her because she was fourteen" and was convicted on other messages; *Bickford*, No. 202000250 (N-M. Ct. Crim. App. 2021), where he stopped answering, and his statement to agents was held voluntary.
+- Entrapment rejected: *Kaczkowski*, No. 202300045 (N-M. Ct. Crim. App. 2024); *Smith*, No. ACM 39116 (A.F. Ct. Crim. App.); *Johnson*, No. ACM 39911 (A.F. Ct. Crim. App.).
+- Others: *Ingram* (Army Ct. Crim. App. 2026); *Zbranek*, No. 202500202 (N-M. Ct. Crim. App. 2026); *Brockenborough*, No. 202400476 (N-M. Ct. Crim. App. 2026); *Hamlin*, No. 202200007 (N-M. Ct. Crim. App. 2023), a real minor whose profile said 18; *Whitman* (Army Ct. Crim. App.); *Duran*, No. ACM 38404 (A.F. Ct. Crim. App.); *Dorrbecker*, 79 M.J. 558 (N-M. Ct. Crim. App. 2019); *Brinkman-Coronel*, No. 24-0159 (C.A.A.F. 2025); *Pierce*, 70 M.J. 391 (C.A.A.F. 2011); *Payne*, *Ozbirn* and *Winckelmann* (sections 20 and 21); and guilty pleas reported in Army press releases in 2025 and 2026 at Wheeler Army Airfield and Fort Bragg, with sentences of two to four years.
+
+**How often contested cases end in acquittal.** I found no figure for operations with decoys. One website that compiles the Army's published results reports that, of 78 contested Army trials for sexual offenses against children that reached a verdict between 2021 and 2025, 25 ended in full acquittal. I could not check its method, and the figure covers every kind of child offense. It is here only to show that acquittals happen and leave no opinions behind.
+
+### 23.5 What the cases show
+
+1. **The return is what convicts.** In every case found in which the accused refused or drew back and then went on, he was convicted: *Cool*, *Jennings*, *Fulsom* and *Johnston* in the military, and *Baylis*, *McKenzie*, *Medina-Ortiz* and *Petersen* outside it (23.6 and section 20.4). The courts read the refusal as proof that he understood the age, and the return as his own choice. In *Cool* the court went as far as saying that he had "reacted as one who is not predisposed to commit lewd acts with a child." It did not help him. In *Medina-Ortiz* the court noted that he came back "despite having time to consider his actions during the communication pause."
+2. **In each of those cases he knew whom he was going back to.** That was never in dispute.
+   - In *Cool* he went on in the same conversation, and the court noted that he was "not put off by" her stated age.
+   - In *Jennings* the persona reminded him of her age each time contact resumed.
+   - In *Fulsom*, as reported, he acknowledged her age in his own messages.
+   - In *Baylis* he wrote "Damn why you have to be a minor" and at the hotel called her "a young thing."
+   - So these cases answer one question: what happens if the fact-finder decides that he knew whose number it was. The refusal then counts against him and the return convicts. They do not answer the question his case turns on, which is whether he knew (section 1).
+   - *Johnston* shows the other half. For the weeks before the girl told him her real age, the government conceded that he reasonably believed she was older, and the finding for that period was set aside. What a man believed before he was told is treated differently from what he did after.
+3. **Where that was the question, the cases found went different ways, and each was decided on records.**
+   - In *Premanathan* the account was the one in his slide 3: he had broken off on learning the age, and the later messages were meant for a different escort. The judge did not believe it. Twelve seconds separated the messages, which was too short to have found and contacted someone else. And his other conversations with escorts all began in one way, while this one began in another.
+   - In *Ismaiel* the account was close to sections 12 to 15: he had deleted the first conversation, which held the name and the age, and did not know that the person he arranged to meet was the same one. An expert testified that the app could behave as he said. The jury convicted after being told that a mistake had to be reasonable. The appeal court reversed: an actual mistake is enough for an offense of specific intent, and a juror who believed him would probably have acquitted.
+   - The Okinawa trial that the defense firm reports is the only military result of this kind, and the firm says the members acquitted. There the second persona had a different name and different photographs and gave no age, so nothing on the screen connected the two. Here the number and the conversation were the same. I have only the firm's account of it.
+   - The courts tested these accounts against the same things: the time between the messages, the pattern of his other conversations, and what the app would have shown him. Those are the records this analysis has asked for since section 9.
+   - Here the gap was 23 hours and not 12 seconds, which helps. The pattern cuts both ways until it is seen. His opening on April 30 was "Hi if available I can come." His opening on May 1 was "Are you still around?" A prosecutor will say, as the Ontario judge did, that the second is not how he begins with a new number. The deck showed lines of the same kind sent to other numbers, such as "Are you still in killeen?" and "Hi are you still available?" (section 3). Those conversations are the equivalent of the ones the Ontario judge compared, and they need to be in evidence in a form that can be checked (sections 9.2 and 19.2).
+4. **Belief is the government's to prove.** This goes to a question left open in sections 8.2, 11.3 and 12.1.
+   - In *O'Farrell* the Air Force court said that "the Government bore the burden of proving beyond a reasonable doubt that the appellant believed the persona ... was a minor."
+   - In *Reynolds* the Army court said that if the panel credited his evidence that he thought he was talking to adults, he "was not guilty because of a failure of the government's proof, without having to resort to any affirmative defenses."
+   - In *Kuester* the Navy-Marine Corps court said that the instructions on the elements "required the members to find" beyond a reasonable doubt "that Appellant believed" the persona was under 16.
+   - None of these is a published decision of the highest military court, and none says in so many words that an unreasonable belief is enough. That follows from the general rule that a mistake about an element of specific intent "need only have existed in the mind of the accused" (R.C.M. 916(j)(1); *Binegar*, section 12.1). The defense firm says that the judge at Malmstrom in 2026 told the members that a mistake, "no matter how unreasonable," was a complete defense. That is the firm's account of an instruction I have not seen.
+   - The cases with real minors are different. There the accused has to prove a mistake that was both honest and reasonable (Article 120b(d)(2)), and in *Scott* it was enough to defeat him that he was "negligent" not to ask. That reasoning belongs to completed offenses. Specs 1 and 2 are attempts with no child, and on these decisions "he should have realized" is not the test.
+   - *Ismaiel* shows what is at stake in the instruction. Counsel will want the panel told that the question is what he actually believed.
+   - The government's possible answer is an instruction on deliberately avoiding knowledge (section 11.3). I found no military decision applying it to age in an operation with a decoy. One federal court has accepted reckless disregard of age for a different offense, attempted sex trafficking (*McKenzie*). For counsel.
+5. **A belief can be proved by circumstances.** In *Thompson* the highest military court set a decision aside because the court below appeared to have required "direct evidence" of what the accused believed. The same is true in both directions. He can point to the search, the profile and the photographs as circumstances. The government can point to "Cash right?", "Awesome" and the interview (section 22.2). In *Felder* the court noted what was "conspicuously absent" from a hundred pages of messages: any sign of the belief the accused later claimed. On May 1 his messages say nothing about age either way.
+6. **Photographs of adults have not won an appeal, and they appear in every acquittal found.**
+   - In *Reynolds*, the Fort Drum case, *Kerns*, *Kuester* and *Fulsom* the pictures, the ad or the profile showed an adult, and the convictions stood. Civilian courts have reasoned the same way: what he was told and what he said outweigh what the pictures showed (*Baylis*, *Martinez*, and others in 23.6).
+   - The acquittals reported by the defense firm all rested on adult photographs, with entrapment or disbelief of the stated age. They are one firm's accounts, and firms report their wins. They show that members can be persuaded. They show nothing about how often.
+   - In this case the DPS report says that the pictures were of troopers (section 22.4). The reported acquittals suggest what to ask the agents: what their training says about sending adult photographs for a child persona, and about repeating the age.
+   - The 2017 result at Hickam is the nearest in shape to Specs 1 and 2. The members acquitted of the attempted sexual assault and convicted of indecent language. The sentence was a bad-conduct discharge with no confinement.
+7. **A search that found an adult appears in one case, and it settled nothing.** In *Jade* the accused searched the decoy's phone number and found it registered to a 34-year-old woman. The police later ran the same search, found the same woman, and found "multiple other people" linked to the number as well. The Michigan Supreme Court recorded the search and sent the case back on other grounds. No case found says what weight such a search has. Two cases show the other edge. In *Felder* the accused's searches for the persona were used as proof that he believed she was a minor, and in *Perales* the State used the accused's search history against him. His searches will be read as a whole, including those for second-number apps and for signs of a sting (sections 2 and 9.3).
+8. **Requests for proof have been read against the accused.** In *Cool* the accused argued that his repeated requests for pictures showed that he thought she was a program or a scammer. The court answered that this was "not the only reasonable conclusion," and that the same messages could show an attempt "to goad her into sending him more." In *Fulsom* the request for a photo "at the moment" was treated as going ahead with open eyes (section 20.4). In *Felder* he asked for photos to "prove to me you're not a cop or this isn't a setup," and was convicted. The peace-sign request will be put the same way. What is different here is that the request was about whether she was real, and that nothing in it or around it mentions her age.
+9. **Entrapment has failed on appeal wherever the accused came back unprompted.** *Cool*, *Jennings* and *Fulsom* in the military; *Medina-Ortiz*, *Petersen* and others outside it. The defense requires that the idea came from the government and that he was not predisposed (R.C.M. 916(g)). On May 1 the first message was his.
+   - That the room, the second person, the price and the explicit words were the agent's (section 22.2) therefore goes less to entrapment than to Spec 1, where it matters who said what, and to sentence.
+   - *Jennings* gives one useful contrast. There the agent repeated the age every time contact resumed. Here the agent did not.
+   - *Jade* was sent back on whether the police had escalated the offense. Michigan's test looks at the conduct of the police. The military test looks at the accused's predisposition, so the case is of limited use.
+10. **Hesitation at the scene has not helped.** Section 20 asked for a case in which the accused drove to the place and then held back. There is now one from a court-martial. In the Fort Drum case he stayed in his car near the cabins, asked whether she was the police, wrote "If you are legit, I am so sorry," and started the engine. He was convicted, and the Army court held that voluntary abandonment had been disproved. In *McKenzie* the accused wrote "Im out I'm just really suspicious of this whole thing," asked for the address sixteen seconds later, and was convicted. Both men had been told the age in the same conversation, and the Fort Drum accused had tied his nervousness to it in his own words. He has not (section 20.4).
+11. **What he said to investigators decided more than what he said later.** In *Cool* the members could find that he had lied when he said he never thought she was real. In *Kuester* admissions after a polygraph were used against him. In *McKenzie* the accused testified that he had gone to the hotel only to talk to the girl and help her, and after three days the jury convicted. The Malmstrom report is the one result going the other way: the firm says the interviewer admitted that she had put the age into the interview herself. That is the question section 22.7 raises about "admitted to knowingly speaking to a minor."
+12. **Verdicts are often split, and the sentences vary widely.**
+   - In four courts-martial with official records, and in the Hickam trial, the accused was acquitted of the attempt that rested on the meeting and convicted of an offense that rested on his words (23.4). In *Medina-Ortiz* a federal jury acquitted on one count and convicted on the other.
+   - That pattern does not map neatly onto this case. Here the explicit words on May 1 were the agent's, and the only act he named was named before he was told the age (section 22.2).
+
+| Case | Convicted of | Sentence |
+|---|---|---|
+| *Caroll* (2026, Fort Hood) | Attempted sexual assault and attempted sexual abuse of a child, after a contested trial | 16 years and dismissal |
+| *Reynolds* | The same, with two abuse specifications | As reported, five years and a dishonorable discharge |
+| The Fort Drum case | The same, with attempted pandering | 48 months and a dishonorable discharge |
+| *Jennings* | The same, with further offenses | As reported, three years and a dishonorable discharge |
+| *Fulsom* | The same | As reported, 45 days and a dishonorable discharge |
+| *Cool* | Two attempts at sexual abuse by indecent communication only | A bad-conduct discharge and no confinement |
+| *Postell* and the Hickam report | Indecent communication only | A bad-conduct discharge and no confinement |
+| *Munn* (section 20.4) | Attempted patronizing, on a plea at a special court-martial. The child specification was dismissed | As reported, a bad-conduct discharge |
+
+   These are single cases and predict nothing. They do show that the result has depended far more on which specifications survived than on anything else. A dishonorable discharge followed every conviction for attempted sexual assault of a child, as the statute requires (section 20.4).
+
+### 23.6 The closest cases outside military law
+
+None of these binds a court-martial. They are here because the nearest matches to his account are among them.
+
+| Case | What happened | Features shared | Result and appeal |
+|---|---|---|---|
+| *R. v. Premanathan*, 2019 ONCA 780 (Ont. C.A. 1 Oct. 2019). Canada | An escort's ad gave her age as 18 and offered a "young friend." An officer posing as the friend texted that she was 15. They settled acts, price and place by text, and he went to the hotel. He testified that "he mistakenly texted the wrong number, thinking he had already broken off the conversation with the escort once he learned that she was 15 years old," and that he had meant to contact a different escort | Age. Refusal, on his account. Memory, in the form of a wrong recipient | Convicted. The judge found him not credible: 12 seconds between the messages was too short to have contacted another escort, and all his other conversations with escorts began differently. Appeal dismissed. As reported, the Supreme Court of Canada refused leave in March 2020 |
+| *People v. Ismaiel*, No. A168277 (Cal. Ct. App. 15 Dec. 2025) | An officer on a messaging app said in the first exchange that she was "Lizzy," aged 14. Neither the name nor the age was repeated. He testified that he had deleted that conversation early, that the later messages did not show it, and that he "did not know the person he was meeting up with was the 'Lizzy' who said she was 14 years old." A defense expert said the app could behave in that way. He was arrested when he arrived | Age. Memory, in the form of not knowing it was the same person | Convicted by a jury, which had been told that a mistake of fact had to be reasonable. Reversed. The State conceded the error, and the court held that it mattered: "if a juror believed appellant's testimony, it is highly likely that the juror would have found appellant not guilty." What happened afterwards was not found |
+| *People v. Jade*, No. 167920 (Mich. 31 July 2026) | He answered an ad on SkipTheGames that showed an adult woman. The decoy asked whether he was "cool with younger chicks" and said she was 15. He wrote "Got to be 16." She repeated "actually 15." He asked to talk by phone, the call was not recorded, and the conversation went on. He searched the decoy's phone number, and the result "indicated that it was registered to a 34-year-old, unmarried woman with no children" | Age. Refusal. Search, of the number and not of a photograph. Adult profile, in the strict form | He pleaded guilty to accosting a child, keeping his entrapment claim. The Court of Appeals affirmed. The Michigan Supreme Court vacated that decision and sent the case back to the trial court to reconsider entrapment. The outcome there was not found |
+| *Martinez v. State*, No. 86842 (Nev. 2024). Not re-checked by me | A test ad on an adult escort site, with photographs of an adult and an advertised age of 21. He texted the number and discussed rates and services. The detective then "claimed to be 17 instead of 21." The court said that he "initially made the offer for commercial sex before being told the sex worker's age was 17," and that he "reached out a second time after being told" | Age. Adult shown, by the ad. Refusal, in a weak form | Convicted by a jury. Affirmed. The court noted that he had been able to show the jury that the woman in the photographs was an adult |
+| *State v. Baylis*, No. E2023-00886-SC-R11-CD (Tenn. 9 Oct. 2026) | An ad for an escort said to be 22. By text the agent said she was 16. He wrote "I can't do no underage love," and a few minutes later "Damn why you have to be a minor." The agent told him to let her know if he changed his mind. He arranged to meet, brought payment, and at the hotel called her "a young thing" | Age. Refusal. Adult shown, by the ad | Convicted by a jury. The Tennessee Supreme Court held the evidence sufficient |
+| *United States v. McKenzie*, No. 24-2087 (1st Cir. 12 June 2026) | An agent's ad on a commercial-sex site showed two adult women and gave an age of 99. By text the agent offered two girls, aged 14 and 12, together or singly. He wrote "I'm not into anything under 18." The agent told him to get in touch if he changed his mind. Within a minute he was writing again. He wrote "Feds," said he had only $100, and chose the 14-year-old. He asked for a picture as proof, wrote "Im out I'm just really suspicious of this whole thing," and sixteen seconds later asked for the address. He drew cash on the way and met the agent in the hotel parking lot. He testified that he had not believed the girl was a minor and had gone only to talk to her and help her | Age. Refusal. Adult shown, by the ad's photographs. Also a two-girl offer, a request for a photo as proof, and suspicion at the scene | Convicted of attempted sex trafficking of a child, after the jury had been out for three days. 126 months. Affirmed. The court held that reckless disregard of the age was enough for that offense |
+| *United States v. Medina-Ortiz*, No. 24-1233 (1st Cir. 24 Nov. 2025). This is not the *Medina* of section 20.4 | An agent wrote "I am 14yo ... Is that okay?" He answered that he did not "go out with minors." He wrote "Hi" to her a couple of hours later. Sexual messages and plans to meet followed | Age. Refusal | The jury convicted him of attempted transportation of a minor and acquitted him of attempted enticement. Affirmed: no entrapment instruction was required, because he had gone on after being told the age |
+| *People v. Moses*, 10 Cal. 5th 893 (2020), and on remand (Cal. Ct. App. 2021). Not re-checked by me | A profile on a site for adults gave her age as 21. She then said she was 17. He "expressed reluctance, but ultimately agreed" | Age. Refusal. Adult shown, by the profile | Reversed on remand, because the jury had been told that a mistake about age did not matter |
+| *R. v. Ramelson*, 2022 SCC 44. Canada. Not re-checked by me | Police posted ads in the escort section of a classifieds site. After a transaction was agreed, the officer revealed that she and her "young friend" were 14 | Age, disclosed after the agreement, as on April 30 | The Supreme Court of Canada held that he was not entrapped |
+| *Perales v. State*, 622 S.W.3d 575 (Tex. App. 2021) (section 11.3) | The profile said 18. He said the photographs made him think she was about 23. She told him by text that she was 16 | Age. Adult shown | Convicted of online solicitation of a minor. Affirmed. His own internet searches were used against him |
+| *State v. Kent* (Utah Ct. App. 2026), *United States v. Williams*, No. 24-5792 (9th Cir. 13 Apr. 2026), *State v. Qayum* (Utah Ct. App. 2025), *United States v. Debevec*, No. 25-1843 (8th Cir. 2 June 2026). I read *Debevec* in full. The other three were not re-checked by me | In each the profile or the photographs showed an adult, the persona stated a child's age, and the accused said he had believed she was an adult | Age. Adult shown | All affirmed. In *Kent*: "Regardless of Jen's photos, voice, or claimed sexual experiences," what he said was "strong evidence" that he believed her |
+| *United States v. Felder*, No. 25-30290 (5th Cir. 31 Mar. 2026) | The persona on an app for adults said she was 15. He asked her for photos to "prove to me you're not a cop or this isn't a setup." He searched online for her by the name, school and age she had given. He testified that he believed he was role-playing with a woman of "25 to 35" | Age. Search, of a different kind | Affirmed. The searches were used as proof that he believed she was a minor |
+
+Two notes on cases cited in section 20.4. *Medina* came from the same operation as *McKenzie*. It is now reported at 155 F.4th 11, and the Supreme Court declined to review it in January 2026, as *McKenzie* records. *Puff*, as reported, is an unpublished decision.
+
+An English decision, as reported, deals with what the defense is entitled to know about a decoy's photograph. In *Hoare v R* [2023] EWCA Crim 1242 the court said that where the image is an unaltered photograph of a real person aged 16 or over, "the true age of the person, at the time when the photograph was taken, should be disclosed to the defence." A Nevada court refused a similar request in *Martinez*. This bears on the request for the advertisement and its photographs (section 22.11).
+
+### 23.7 What was not found
+
+1. **A court-martial in which the accused ran a reverse image search.** None, in any form. Outside the military there is none either. The nearest are a search of a phone number (*Jade*) and searches about the persona that were used against the accused (*Felder*, *Perales*).
+2. **A court-martial in which a search led the accused to a real adult.** None.
+3. **An opinion of a military court in which the accused said he did not remember the age, or did not know it was the same person.** None. The Okinawa trial in 23.3 is a firm's report. The nearest in the courts' own records are a pending Army appeal in which, according to a defense lawyer's summary of the brief, the accused says he did not hear the age during a telephone call while driving, and *Allen*, where the accused said he did not see who came out.
+4. **A court-martial in which a price was agreed, the age came afterwards, and the accused refused and returned.** None. *Martinez*, *Baylis*, *Jade* and *Ramelson* are the civilian cases with that order.
+5. **Any case, military or civilian, with all five features.** Two have four. *Jade* has age, refusal, a search and an adult found. The Okinawa trial, on a defense firm's report, has age, refusal, photographs of an adult and not knowing it was the same person.
+6. **A decision of the highest military court on entrapment in an online operation of this kind.**
+7. **An appeal in *Caroll*,** or any account of the defense run there.
+8. **Further review** in *Cool*, *Jennings*, *Fulsom*, *Kerns*, *Reynolds*, *Kuester* or the Fort Drum case. I found none. That is not proof that none was sought.
+9. **Court records for the acquittals** the defense firm reports, apart from *Postell*.
+10. **The name of the Fort Drum case, and exact dates** for *Reynolds*, *Kerns*, *Kuester* and *Allen*.
+11. **Results for the other soldiers arrested in the same operation** (section 22.8). I did not search for anyone by name.
+
+### 23.8 For counsel to check
+
+1. **Each case, in full.** I read extracts. Counsel can pull every one from the docket number or citation given.
+2. **The record in *Caroll*:** the defense, the instructions on belief, and the judge's reasons.
+3. **The other soldiers arrested in the same operation.** They are the nearest comparison of all: the same agents, the same hotel and the same script. Their cases can be followed on the Army's public docket, and discovery can ask how each conversation handled the age.
+4. **The instruction on belief.** *Reynolds*, *O'Farrell* and *Kuester* support an instruction that the government must prove he actually believed she was under 16. *Ismaiel* shows what happens when a jury is told that the belief had to be reasonable.
+5. **An expert on the app.** In *Ismaiel* the account stood or fell on evidence of what the app showed after a conversation was deleted. Sections 14.2 and 15.2 set out what the provider's own pages say.
+6. **His other conversations.** In *Premanathan* they sank the account. Here they could support it or sink it, and they carry the cost noted in section 9.4.
+7. **The agents' training.** The reported acquittals turned on departures from it: adult photographs for a child persona, and who introduced the sexual talk. The operation plan and the standards the agents were trained to are in the discovery list (section 22.11).
+8. **Whether the government will seek an instruction on deliberate avoidance of knowledge.**
+
+### 23.9 What this changes
+
+1. **Nothing in the assessment of the charges.** Specs 1 and 2 turn on whether he knew whose number it was. The cases confirm that this is the right question, and that on it the law favors him: the government must prove what he actually believed.
+2. **If the fact-finder decides that he knew, the cases are against him on everything else.** The refusal will be read as understanding. The return will be read as his choice. Entrapment will fail. The photographs of adults and the hesitation at the hotel will not rescue him. Section 3 lists the refusal first among his strengths, and it belongs there. But it works only together with not knowing.
+3. **An account like his has been tested in court elsewhere.** In Ontario the judge rejected it. In California the conviction was reversed because the jury had not been allowed to act on it. At a court-martial on Okinawa, by a defense firm's report, the members acquitted. Each time it was decided on records of the kind listed in sections 9.6, 13.7 and 15.5.
+4. **The open question about belief is narrower.** Three service courts treat the belief as the government's to prove. That an unreasonable belief is enough follows from the general rule, and no military decision found says so in terms (sections 8.2, 11.3 and 12.1). For counsel.
+5. **Section 20 now has a military case on hesitation at the scene,** and it went against the accused. His position differs from that man's in one respect that matters: nothing I have seen has him saying that he was nervous because of her age. The video will show what he said about it.
+6. **The requests for proof have an adverse precedent** in *Cool* (23.5). Section 16.4 dealt with his own version of that argument.
+7. ***Caroll* shows the cost of losing a contested trial on these two charges at Fort Hood.** *Munn* shows the other end (section 20.4). That belongs in the conversation with counsel described in sections 8.4 and 21.5. The decision is his.
+8. **The order of work is unchanged:** the video first, the forensic report second, the account third.
