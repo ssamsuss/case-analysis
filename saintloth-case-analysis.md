@@ -2,15 +2,15 @@
 
 **Basis and limits.** Built from two documents only: the defense slide deck ("Details for DFE with messages") and the Preliminary Hearing Officer (PHO) report of 10 Aug 2026. Not reviewed: the interview video, the full chat extraction, the ad, any forensic report. I am not a lawyer and this is not legal advice. Statements of law are my understanding, and defense counsel should confirm each one.
 
-**Updated 24 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 17: his response on how this text is to be used, with each point sorted by the record that supports it. Section 18: whether hypnosis could be used to recover his memory. Section 19: four objections to this analysis, which lead to three corrections and a restatement of his account in his own terms. Section 20: a fifth point, on his nervousness at the hotel and what it shows about intent, with the reported cases found. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
+**Updated 24 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 17: his response on how this text is to be used, with each point sorted by the record that supports it. Section 18: whether hypnosis could be used to recover his memory. Section 19: four objections to this analysis, which lead to three corrections and a restatement of his account in his own terms. Section 20: a fifth point, on his nervousness at the hotel and what it shows about intent, with the reported cases found. Section 21: Spec 3 element by element, with what the government has to prove at a general court-martial and where its proof is strongest and weakest. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
 
 ## 1. Bottom line
 
-*Current as of section 20.*
+*Current as of section 21.*
 
 **The charges**
 
-- **Spec 3** (attempted patronizing, as amended) is strong for the government, and age is irrelevant to it. **Spec 4** should fall away: the PHO found no probable cause and the government said it would dismiss.
+- **Spec 3** (attempted patronizing, as amended) is strong for the government, and age is irrelevant to it. It is strongest on the acts and the money. It is least proved on the kind of act he intended, on how firm the intent was, on what he had with him and on the terminal element. Those are points for counsel, and his testimony would probably close them (section 21). **Spec 4** should fall away: the PHO found no probable cause and the government said it would dismiss.
 - **Specs 1 and 2** turn on one question: on May 1, did he believe the person he was texting was under 16? There was no real child, so these are attempts, and an attempt is judged on the facts as the accused believed them. "Should have realized" is not the test. In the excerpts provided, age is never mentioned on May 1.
 - **Part of Spec 1 has an answer that does not depend on her age.** As relayed, the specification alleges that he communicated a wish to ejaculate on her, and that rests on his "Yes." The log shows "Yes" arriving two seconds after the line it is said to answer. That reading stood for months, until he was given the log and noticed the times (section 19.1).
 
@@ -62,7 +62,7 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 
 1. The interview video: the exact words, the form of the questions, what he had been told by then, and whether he told the agents to look at his phone (sections 8.2, 16.5 and 19.2).
 2. How the message came to be sent: whether the same line went to other numbers within minutes, whether her ad was open, what her conversation held and what the screen showed (sections 15.2 and 19.2). The provider's copy may no longer exist (section 14.2).
-3. The exact words of Spec 1, and what the examiner says the timestamps record (section 19.1).
+3. The exact words of Spec 1 and of Spec 3, and what the examiner says the timestamps record (sections 19.1 and 21.3).
 4. Where he was, and how he moved, while the messages were sent. Also the arrest record: the time, where he was, and what he had with him (sections 19.2 and 20.5).
 5. The second photo and the advertisement (sections 11.2 and 11.3).
 6. His earlier conversations and trips: whether May 1 looks like the rest (sections 17.5 and 19.5).
@@ -79,7 +79,7 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 
 1. **Age was disclosed and understood.** "i will be 16 in june is that ok" drew "No. Find a different way of life please." He cannot claim he missed it.
 2. **He initiated the return.** Same UC number, same thread, about 23 hours later. Nobody lured him back. On the defense's present account he opened that thread by mistake, which still puts the April 30 exchange in front of him (section 12.2). If the thread had been deleted, as he now says is possible, the number was entered some other way (section 15.2).
-3. **May 1 shows intent to complete a paid encounter.** He offered an Uber, answered "Ok. Where at?" 18 seconds after "2 for 1 tonight 100," sent "Yes" and "Just you….then both," asked for pictures, drove about 20 minutes, asked "Cash right?", asked to be walked upstairs, wrote "I have tinted windows if you can carplay. Ill give extra," and identified his vehicle. Travel to the meeting place is a textbook substantial step. Section 20.3 gives the authorities on travel, and a military decision that went the other way.
+3. **May 1 shows intent to complete a paid encounter.** He offered an Uber, answered "Ok. Where at?" 18 seconds after "2 for 1 tonight 100," sent "Yes" and "Just you….then both," asked for pictures, drove about 20 minutes, asked "Cash right?", asked to be walked upstairs, wrote "I have tinted windows if you can carplay. Ill give extra," and identified his vehicle. Travel to the meeting place is a textbook substantial step. Section 20.3 gives the authorities on travel, and a military decision that went the other way. Section 21 sets out the elements of Spec 3 and where this proof is thinnest.
 4. **Concealment evidence, some of it supplied by the defense deck itself.** Tinted windows, nervousness, the peace-sign verification request, burner-number app searches, removal of the texting app in the parking lot, and a pre-arrival search for sting indicators. He has since said the habit predates these events and has given a reason for the app searches (sections 13.1, 13.5 and 14). Section 20.4 gives a federal decision in which items of this kind were used to show that the accused knew the age.
 5. **A recorded interview after a signed rights waiver.** DPS reports he "admitted to knowingly speaking to a minor," and he admitted prior patronizing. The relayed statement that he "thought the next day she just needed money" supplies the link the texts lack: that on May 1 he knew who he was texting (section 8).
 
@@ -153,7 +153,7 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 
 **Points to make, in this order, if they are true**
 
-1. **Own the bad fact first.** "I was trying to pay an adult for sex. It was wrong and I knew it was illegal." Counsel should weigh conceding the Spec 3 conduct; it buys credibility for the fight that matters.
+1. **Own the bad fact first.** "I was trying to pay an adult for sex. It was wrong and I knew it was illegal." Counsel should weigh conceding the Spec 3 conduct; it buys credibility for the fight that matters. Section 21.5 sets out what the concession gives up.
 2. **April 30, plainly.** He answered an ad showing an adult. When told "16 in June," he said no and meant it.
 3. **The image search.** What he did and the one real reason he did it. That includes how much of the profile he looked at (section 12.1).
 4. **May 1.** How many ads he contacted, where this number came from, what was on the screen when he typed, and what he truly believed about who he was texting. The first draft of this point had him say he did not know it was the person from the day before. The relayed interview statement points the other way. If he did know, that line cannot be used, and his testimony has to start from what he told the interviewer (section 8). The defense position is now that the message was meant for a woman he had texted earlier that day (section 10). If that is what happened, this is where he says it, and the phone records have to carry it. He has since said that he does not know how the message came to be sent, and thinks an ad or a round of messages more likely (section 19.2).
@@ -209,6 +209,7 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
    - Update: as relayed, Spec 1 rests on this exchange. Section 19.1 sets out what the timing removes and what it leaves.
 8. **"You drove 20 minutes and asked 'Cash right?'"**
    - Answer: "Yes. To meet an adult."
+   - Update: this answer supplies the intent that Spec 3 requires (section 21.5).
    - If he claims scam testing: "Then why drive there? Why offer extra?"
 9. **"'I'm a little nervous.' Nervous because she was 15."**
    - Answer: "Nervous because buying sex is illegal, could end my career, and could have been a robbery or police."
@@ -247,7 +248,7 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
 2. **Get the forensic report before fixing a theory.** Thread deletion time; app install and uninstall times; how the UC number was entered on May 1; the page viewed at 15:45–15:49; the number of ads contacted April 28 to May 1; exact search queries; the date of the Play Store screenshot. Section 12.2 adds tests for the accident account. Section 13.7 lists records that would support the newer details. Section 15.5 adds to it.
 3. **Demand in discovery:** the ad (text, stated age, photos, site), the operation plan and any age-confirmation protocol, the full UC extraction with metadata, and the arrest inventory (cash on hand). Section 20.3 explains why the inventory matters.
 4. **Settle on the one true account and correct the timestamps.**
-5. **Motions for counsel to assess:** suppression of the interview (the DPS report describes a joint DPS–Army operation, which raises an Article 31(b) question), M.R.E. 707, M.R.E. 404(b) on prior patronizing, the rule of completeness for the interview, and speedy trial under R.C.M. 707 (charges were preferred 24 June 2026).
+5. **Motions for counsel to assess:** suppression of the interview (the DPS report describes a joint DPS–Army operation, which raises an Article 31(b) question), M.R.E. 707, M.R.E. 404(b) on prior patronizing, the rule of completeness for the interview, and speedy trial under R.C.M. 707 (charges were preferred 24 June 2026). Section 21.3 adds points on Spec 3: the wording of the specification, the definition of a sexual act, and proof of the terminal element.
 6. **Coordinate military and Texas counsel.** Testimony or a guilty plea in one forum is usable in the other. The PHO's suggested deal does not say which specifications; a plea to Spec 1 or 2 would almost certainly bring sex-offender registration.
 7. **Ask counsel about a psychosexual evaluation,** which is often used in sting cases for negotiation and sentencing. Section 17.3 notes how the condition is classed.
 8. **Keep work product inside the defense team.** Material shared outside the attorney-client relationship may not be privileged, and anything handed to a testifying expert can reach the prosecutor. Route the forensic examiner through counsel. Section 11.5, point 6, cites a 2026 federal ruling on exchanges with AI tools.
@@ -747,7 +748,7 @@ No answer shapes are offered. Each answer has to be what he remembers. Questions
 
 1. **How to use the search.** Not as a disclosure that cancels the text. As a dated, pre-arrest reason to doubt that he believed she was under 16, proved by the examiner and argued by counsel.
 2. **The belief defense has a core that depends on neither step.** The one time he believed she was a minor, he refused. Everything he was shown afterwards was an adult. Age was not mentioned on May 1. The accident, if proved, adds an explanation for the whole afternoon. Point 3, if it is what he remembers, adds one for the period after the second photo.
-3. **A plea.** A military judge will accept a guilty plea only if the accused admits under oath the facts that make him guilty. There is no plea that maintains innocence (Article 45, UCMJ; R.C.M. 910). If his position is that he never believed she was under 16, he cannot plead guilty to Spec 1 or 2. Spec 3 is different, because age is not part of it. So the disposition the PHO suggested depends on which specifications it would cover. Texas does allow a no-contest plea, which is a matter for Texas counsel.
+3. **A plea.** A military judge will accept a guilty plea only if the accused admits under oath the facts that make him guilty. There is no plea that maintains innocence (Article 45, UCMJ; R.C.M. 910). If his position is that he never believed she was under 16, he cannot plead guilty to Spec 1 or 2. Spec 3 is different, because age is not part of it. So the disposition the PHO suggested depends on which specifications it would cover. Section 21.5 notes what a plea to Spec 3 would involve. Texas does allow a no-contest plea, which is a matter for Texas counsel.
 4. **Two urgent steps, both through counsel.**
    - The texting provider's records (11.1).
    - A capture of the profile as it stands, and any archived copy from about April 30. Profiles are edited and deleted. He should not contact the account holder.
@@ -1549,7 +1550,7 @@ No answer was given. His answers to questions 8 and 9 make this one harder (16.4
 ### 16.3 Which charge the answers defend
 
 1. **Most of the answers deny that he agreed to pay for sex.** "Ok" answered the room. "100" was a time. "Cash right?" was for someone else. The extra was a test. He expected a scam.
-2. **That is Spec 3.** It is the charge the government can prove without her age, and this analysis has called it strong from the first draft. If every one of these answers were accepted, Specs 1 and 2 would still turn on the same question: whom did he believe he was dealing with?
+2. **That is Spec 3.** It is the charge the government can prove without her age, and this analysis has called it strong from the first draft. Section 21 goes through its elements. If every one of these answers were accepted, Specs 1 and 2 would still turn on the same question: whom did he believe he was dealing with?
 3. **His other answers concede the conduct.** He asks where and checks the distance as a habit. "Just you….then both" was his answer to the proposition. He has paid adults for sex. He drove there, waited and described his car.
 4. **The cost falls on the charges that matter.** The only evidence that he believed she was an adult is his own word (section 8.3). A fact-finder who decides he is not being straight about "100" or "Cash right?" will not then take his word on the one point where his word is all there is.
 5. **Section 5 put it the other way round,** and that is still my assessment. If it is true that he went to Belton to pay an adult for sex, that one fact explains "Ok. Where at?", "Just you….then both", "Cash right?", the nervousness and the extra. It needs no misreading and no second mistake, and it leaves his credibility for the question of age. Habit as the explanation leads the same way (section 17.3).
@@ -2288,8 +2289,8 @@ These are my understanding of the rules, for counsel to confirm.
 2. **The act has to show a firm intent.** It must be "strongly corroborative of the firmness of the defendant's criminal intent" (*United States v. Byrd*, 24 M.J. 286 (C.M.A. 1987)). It must "unequivocally" show that the crime will take place unless independent circumstances interrupt it (*United States v. Winckelmann*, 70 M.J. 403 (C.A.A.F. 2011)). This is the legal form of his point. Evidence that he would not go to the room is evidence about firmness.
 3. **Travel usually satisfies it.** *Winckelmann* said that courts agree that travel is a substantial step in enticement cases. *United States v. Hale*, 78 M.J. 268 (C.A.A.F. 2019), said that a substantial step can be something as ordinary as travel, arranging a meeting or booking a hotel. Service courts have treated the journey to meet the persona as enough for attempted sexual assault of a child (20.4).
 4. **But not always.** In *Byrd* the accused took money to buy marijuana for an undercover agent, rode in a taxi to the place where it was sold, and bought liquor there. The court held that the ride was not strongly corroborative of a firm intent. In *Penaloza* the Army court held in 2025 that arriving at the meeting place was not a substantial step where the accused had no cash, and cash was the only payment the persona would accept (20.4).
-5. **What that means here.** *Penaloza* turned on what the accused had with him. On the same reasoning the arrest inventory matters more than the message about being nervous. Cash in the amount discussed would point one way, as "Cash right?" and "Ill give extra" already do. No cash, or too little, would point the other. Section 7 already asks for the inventory, and section 16.1 asks whether he drew cash on the way.
-6. **The specification will name the act relied on.** If it is the drive, the question is what he intended as he drove. What he did on arrival is evidence of that, in both directions. He can say that for thirteen minutes nothing outside him stopped him from going to the room, and he did not go. The government can say that by 16:59 she was on her way down to his car.
+5. **What that means here.** *Penaloza* turned on what the accused had with him. On the same reasoning the arrest inventory matters more than the message about being nervous. Cash in the amount discussed would point one way, as "Cash right?" and "Ill give extra" already do. No cash, or too little, would point the other. Section 7 already asks for the inventory, and section 16.1 asks whether he drew cash on the way. Section 21.3 applies this to Spec 3.
+6. **The specification may not name the act relied on.** An earlier version of this point said that it would, and section 21.1 corrects it. If the act is the drive, the question is what he intended as he drove. What he did on arrival is evidence of that, in both directions. He can say that for thirteen minutes nothing outside him stopped him from going to the room, and he did not go. The government can say that by 16:59 she was on her way down to his car. The government may also rely on what he did at the hotel as an act in itself.
 
 **The court-martial: voluntary abandonment**
 
@@ -2365,7 +2366,7 @@ These add to section 19.5.
 6. **The search for signs of a sting:** its time and its words (section 9.4).
 7. **Bank records for that afternoon** (section 16.1).
 8. **The video:** whether he gave a reason for being nervous, and what he said about the car.
-9. **The charge sheet:** the act each specification relies on.
+9. **The charge sheet:** the act each specification relies on, if it names one (section 21.1).
 
 ### 20.6 What this changes
 
@@ -2378,3 +2379,193 @@ These add to section 19.5.
 7. **Voluntary abandonment is still weak.** The rule is now set out.
 8. ***Munn* is a reference for how a case with these charges has ended.**
 9. **The assessment of the charges is unchanged.** Spec 3 is strong. Specs 1 and 2 turn on whether he knew whose number it was. The order of work is the same: video first, forensic report second, account third.
+
+## 21. Addendum 14, 24 Nov 2026: Spec 3, element by element
+
+**What this covers.** Two questions, supplied after section 20. This analysis has said repeatedly that Spec 3 is the strongest charge for the prosecution: which of its elements are strongest, and which are weakest? And what does the prosecution have to prove at a general court-martial?
+
+I have not seen the charge sheet. The hearing officer's report said that this specification was to be amended, and I do not know how. What follows works from the offense as named, an attempt to patronize a prostitute. The elements come from the Manual for Courts-Martial as quoted in appellate opinions and in secondary sources, and from the standard instructions as reproduced online. Each statement of law is my understanding, for counsel to confirm.
+
+**Short version**
+
+- For any attempt the government has to prove four things: an overt act, a specific intent to commit the offense, that the act went beyond preparation, and that it tended to bring the offense about.
+- The intent has to cover every element of the offense attempted. For patronizing, those are a sexual act with someone not his spouse, obtained in exchange for money, wrongfully, in circumstances that discredit the service or prejudice good order and discipline.
+- The government does not have to prove her age, what he believed about it, that she existed, that anything was agreed, or that money changed hands.
+- **Strongest:** the act and the money. The drive, the arrival and the messages are in the government's exhibits and are not disputed. "Ill give extra" is his own offer.
+- **Weakest:** the kind of act he intended, because the law defines "sexual act" narrowly and on May 1 he named none; how firm the intent was, since he suspected a scam and did not go to the room; the terminal element, which needs evidence; and what he had with him, which I do not know. The wording of the specification is a fifth unknown.
+- "Strong" still stands. A fact-finder is likely to fill the first two gaps by inference. His own account fills them as well: a routine of paying adults from ads is the intent this charge requires.
+- So the weak points are for counsel to press, from the charge sheet, the arrest inventory and the government's own witnesses. His testimony cannot help with them, and would probably close them.
+
+### 21.1 What the government has to prove
+
+**Spec 3 has two layers.** It is charged as an attempt under Article 80. The offense attempted is patronizing a prostitute, which is one of the offenses listed under Article 134.
+
+*The attempt* (Manual for Courts-Martial, pt. IV, ¶ 4.b; *United States v. Payne*, 73 M.J. 19 (C.A.A.F. 2013)):
+
+1. He did a certain overt act.
+2. He did it with the specific intent to commit the offense.
+3. The act amounted to more than mere preparation.
+4. The act apparently tended to bring the offense about.
+
+*The offense attempted* (pt. IV, ¶ 106, as quoted in *Baldwin* (21.6) and in secondary sources):
+
+1. He engaged in a sexual act with another person who was not his spouse.
+2. He compelled, induced, enticed or procured that person to engage in it in exchange for money or other compensation.
+3. The act was wrongful.
+4. Under the circumstances his conduct was prejudicial to good order and discipline, or of a nature to bring discredit on the armed forces, or both. This is called the terminal element.
+
+In an attempt the second list is not a list of things that happened. It is what he must have intended.
+
+**How the two fit together**
+
+1. **The standard instruction.** Members are told that the offense need not have been completed, but that "it must be proved beyond a reasonable doubt that, at the time of the act(s), the accused intended every element" of the offense attempted. The judge may describe that offense in summary and need not list each element.
+2. **"Sexual act" has a defined meaning.** The paragraph on prostitution adopts the definition in Article 120(g)(1): penetration of the vulva, anus or mouth by the penis, however slight; contact between the mouth and the penis, vulva, scrotum or anus; or penetration of the vulva, penis or anus by any part of the body or any object, with an intent to arouse or gratify sexual desire, or to abuse, humiliate, harass or degrade. Other sexual touching is not a "sexual act."
+3. **"More than preparation" means a substantial step.** The instruction describes it as a step that is "strongly corroborative of the accused's criminal intent" and shows his "resolve to commit the offense." Section 20.3 gives the cases.
+4. **The specification may be short.** The Manual's model says only that the accused attempted the offense, described in enough detail to include every element expressly or by necessary implication. It need not set out each element of the offense attempted (*United States v. Norwood*, 71 M.J. 204 (C.A.A.F. 2012)). It need not name the overt act either: the members are told of the act or acts "alleged or raised by the evidence." So the government is not tied to one act unless it has pleaded one, or is made to say which it relies on by a bill of particulars (R.C.M. 906(b)(6)). Section 20.3 said that the specification would name the act. That was wrong, and it has been corrected.
+5. **The standard and the vote.** Each element has to be proved beyond a reasonable doubt. A general court-martial has a military judge and eight members, and a finding of guilty needs three-fourths of the members, so six of eight (Articles 16 and 52). He may ask to be tried by the judge alone. In either case the judge decides any sentence, for offenses committed after 27 December 2023.
+
+**What the government does not have to prove on Spec 3**
+
+- Her age, or what he believed about it.
+- That a real person, or a prostitute, was at the other end. Where the conduct would have been the offense if the facts had been as he believed, impossibility is not a defense (¶ 4.c.(3)).
+- That anything was agreed, or that a price was fixed (section 20.2).
+- That money changed hands, or that any sexual act took place.
+- A plan (section 19.3).
+- That anyone outside learned of it, if discredit to the service is what is alleged (21.3).
+
+### 21.2 The elements, from strongest to weakest
+
+| Element | What the government has | What stands against it | Assessment |
+|---|---|---|---|
+| An overt act | His messages in the log. The drive and the arrival, from location records and whatever the arrest team saw | Nothing | Strongest. Not disputed |
+| The other person was not his spouse | The persona was a stranger | Nothing | Not disputed |
+| Wrongfulness | No justification or excuse has been suggested | Nothing | Not disputed |
+| The act tended to bring the offense about | He was at the hotel, in contact with her, and had described his car | That nobody real was there is not a defense | Strong |
+| In exchange for money | "Ill give extra," which is his own offer. "Cash right?" Her price, followed by "Ok. Where at?" The $50 on April 30. What he said in the interview about earlier occasions, if it is admitted. Any cash found on him | He stated no price on May 1, and the proposal was hers. "Ok" may have answered the room (section 9.5). His answers on "100," "Cash right?" and the extra (section 16.1). What he had with him is not known | Strong on his own words. The arrest inventory could add to it or take from it |
+| More than preparation | The drive, the arrival, about fourteen minutes on scene, the request that she come to the car, "Black suv" | He did not go to the room (section 20.1). *Penaloza* and *Byrd* (section 20.3) | Strong. Travel to the place usually satisfies it |
+| The terminal element | A noncommissioned officer, a hotel in the civilian community, and an operation that the DPS report describes as joint with the Army | It has to be proved like any other element. If only prejudice to good order is alleged, the government needs evidence of an effect | Usually found where discredit to the service is alleged. Weaker for the government if only prejudice to good order is alleged |
+| A specific intent to engage in a sexual act, as the law defines it, held when he did the act | The purpose of the contact. His request on April 30, in the same conversation. "Just you….then both." The message about the car. The drive itself | He named no act on May 1, and the explicit words that day were hers. He suspected a scam and did not go to the room. As relayed, he told the agents he had thought about "just giving money and leaving" | The least proved on the May 1 messages. A fact-finder is still likely to infer it |
+
+### 21.3 The weak points
+
+**1. The kind of act he intended**
+
+1. **The element is an intent to engage in a "sexual act" as defined.** A sexual purpose in general is not enough.
+2. **On May 1 he named no act.** His own words that day are "Yes," "Just you….then both" and the message about the car (section 2). None describes an act.
+3. **Her line does not describe one within the definition either,** even on the government's reading of "Yes" (section 19.1).
+4. **What fills the gap is April 30.** Before any age was given, as I noted the log, he asked for "An amazing bj" and $50 was agreed. Oral sex is within the definition. That exchange is in the same conversation, and it will be in evidence in any case, because it holds the age disclosure and the refusal.
+5. **It fills the gap on either account of May 1.** If he knew whose number it was, it shows what he went back for. If he did not, it shows what he asks numbers from ads for, and the government can offer it as evidence of intent (M.R.E. 404(b), for counsel).
+6. **The rest is inference from the setting:** a paid meeting in a hotel room, "2 for 1," and her line about what he would do.
+7. **If the specification names a particular act, the proof has to match it.** Otherwise the fact-finder has to find the specification proved with substitutions, which is allowed only where that does not change the nature of the offense (R.C.M. 918(a)(1)). In *Munn* the fee had been negotiated for a named act (section 20.4).
+8. **Assessment.** A gap on paper, and a small one in the room. Its use is to hold the government to the definition: in the instructions, in cross-examination of the agent about what was and was not discussed on May 1, and in a motion at the close of the government's case (R.C.M. 917), where the standard favors the government (section 19.1).
+
+**2. How firm the intent was, and when**
+
+1. **The intent has to exist when the act is done.** The government may rely on more than one act (21.1). For the drive, the question is what he intended between about 15:58 and 16:48. For the messages from the car park, it is what he intended then.
+2. **For him.** He was wary from 15:56:50 (section 20.1). He did not go to the room. He had no plan (section 19.3). And, as relayed, he told the agents that he had thought about "just giving money and leaving."
+3. **Against him.** An intent that depends on a condition is probably still an intent (section 19.3). If he meant to go ahead should she prove real, that is enough. At 16:58 he proposed the car and offered more, and when she agreed he described his vehicle.
+4. **The interview statement has a use here, and a cost.** A thought of giving money and leaving is not an intent to obtain a sexual act. If the government plays the first half of that sentence for Specs 1 and 2, the defense can have the rest played (M.R.E. 304(h)(2), section 8.2). The government will then have put before the fact-finder a statement that denies the intent Spec 3 requires. But he has since said that the statement was a general version and not what he had thought (sections 13.2 and 16.5). It cannot be inaccurate for Specs 1 and 2 and accurate for Spec 3. This is an observation about fit, not a suggestion about what to say.
+5. **The test.** He has said that the extra was offered to expose a scam (section 16.1). In the court-martial, unlike Texas (section 20.3), an offer made with no intention of going through with it would not be the intent this charge requires. The difficulty is the one section 16.1 recorded: she agreed, and he described his car.
+
+**3. The money, and what he had with him**
+
+1. **His own words carry this element.** "Extra" assumes a price already understood (section 9.5).
+2. **The price and the proposal were hers.** The element asks whether he "induced, enticed or procured" the act in exchange for money. A federal appeals court has held, under a different statute, that offering money to someone who is already willing counts as inducing her (*Rutgerson*, section 20.4). Whether a court-martial would read these words the same way is for counsel. The message about the car is his own offer in any case.
+3. ***Penaloza* is about this element.** The Army court held that arriving without the means to pay "does not prove an intent to pay" (section 20.4). So the arrest inventory matters more for Spec 3 than for any other charge. Cash in about the amount discussed supports the element. None, or very little, would give counsel that argument. I do not know what the inventory shows.
+4. **Bank records for the afternoon bear on the same point** (section 16.1).
+
+**4. The terminal element**
+
+1. **It is an element, and it has to be proved beyond a reasonable doubt.** It cannot be conclusively presumed from the conduct (*United States v. Phillips*, 70 M.J. 161 (C.A.A.F. 2011)).
+2. **Discredit to the service is the easier branch for the government.** The fact-finder may infer it from the conduct and the circumstances, and the public need not have known of it (*Phillips*; reaffirmed in *United States v. Wells*, No. 23-0219 (C.A.A.F. 2024)).
+3. **Prejudice to good order and discipline needs evidence of an effect.** Where the government offered none, the Court of Appeals for the Armed Forces held the evidence insufficient (*United States v. Richard*, 82 M.J. 473 (C.A.A.F. 2022)).
+4. **How it works in an attempt is a question for counsel.** The instruction says that he must have "intended every element." For attempts to violate a regulation, the Manual says that the accused need not have intended to violate the regulation, only to do the prohibited thing (¶ 4.c.(7)). A court may treat the terminal element in the same way. In *Baldwin* the specifications alleged that the conduct was service discrediting (21.6).
+5. **Here.** The government can point to a noncommissioned officer, a hotel in the civilian community, and a police operation that the DPS report describes as joint with the Army. A fact-finder will usually find discredit on facts like those. Counsel should see which branch the specification alleges, and what evidence the government has for it.
+
+**5. The specification**
+
+1. **I have not seen it.** The hearing officer's report said that it was to be amended.
+2. **What to read it for.** The date or dates. Whether it names a sexual act, an amount or an overt act. Which branch of the terminal element it alleges. What was changed, and when. Before referral a specification can be changed. After it, a major change cannot be made over his objection (R.C.M. 603, section 19.1).
+3. **A short specification is not defective for being short** (21.1). A bill of particulars is the way to make the government commit.
+4. **If the dates include April 30.** That day's exchange had no travel and no meeting arranged. The Court of Appeals for the Armed Forces has held that a chat with neither was not a substantial step (*Winckelmann*, section 20.3). He also ended it himself, with a refusal that reads as a moral one, which is the reason the abandonment rule requires (section 20.3). So April 30 is unlikely to support this charge on its own. Its use to the government is as evidence of what he intended on May 1.
+
+### 21.4 Why it has been called strong
+
+1. **It does not depend on her age.** Everything in sections 8 to 20 about what he believed is beside the point for this charge.
+2. **Most of its proof is his own words and movements,** in the government's own exhibits.
+3. **His own account supplies the intent.** He has said that he texts numbers from adult ads, that he has paid adults for sex for years, and that an urge took him to the hotel (sections 17.3 and 19.2). The exhibits the defense has built for Specs 1 and 2 show the same purpose: the other numbers messaged that day, the hotel searches and the stock lines. The better the routine is proved, the better this element is proved.
+4. **The defenses are weak.**
+   - Impossibility is not one (21.1).
+   - Voluntary abandonment requires a reason he does not give (section 20.3).
+   - Entrapment requires that the suggestion came from the government and that he had no predisposition (R.C.M. 916(g)). He opened the May 1 conversation. Raising the defense would also invite the government to prove predisposition with the earlier occasions.
+5. **What "strong" meant.** It was a comparison with Specs 1 and 2, and it was made without the charge sheet, the inventory or the video. It meant that the charge is likely to be proved, and that nothing in his account about her age answers it. It did not mean that every element is proved on the papers. Section 21.3 is the more exact statement.
+
+### 21.5 How it can be contested, and by whom
+
+1. **The weak points are legal and documentary.** Counsel can press each one without him:
+   - the wording of the specification, and a bill of particulars;
+   - the arrest inventory;
+   - cross-examination of the agents on what was discussed on May 1, and on the terminal element;
+   - the instructions on the definition of a sexual act and on a substantial step;
+   - a motion at the close of the government's case;
+   - on appeal, review of whether the evidence was sufficient. The Army court may also weigh the evidence itself, and set aside a finding that it is clearly convinced was against the weight of the evidence (the statute as quoted in *Penaloza*).
+2. **His testimony cannot help with them.** If he testifies and says what section 5 describes, if it is true, that he was trying to pay an adult for sex, he supplies the intent himself and the gaps in 21.3 close. If he denies the purpose, he contradicts his own routine, and he spends credibility that he needs for Specs 1 and 2 (section 16.3).
+3. **He probably cannot testify about Specs 1 and 2 alone.** As I understand the rule, an accused who testifies about some offenses may not be cross-examined on his guilt of the others, unless the questions are relevant to an offense he has testified about (M.R.E. 301(c)). All three specifications rest on the same messages. Questions about the money and the meeting are relevant to what he intended and believed, so they would probably be allowed.
+4. **So there are three courses.**
+
+   | Course | What it gives up | What it costs or gains |
+   |---|---|---|
+   | He concedes the conduct, as section 5 suggested if it is true | The points in 21.3 | A finding of guilty on Spec 3 becomes close to certain. It gains credibility on Specs 1 and 2 |
+   | He contests it with his own explanations of the messages | Nothing | It costs credibility on Specs 1 and 2, where his word is all there is (section 16.3) |
+   | Counsel contests it on the elements, and he offers no explanation of the messages | Nothing | Little. If he testifies he will still be asked about the money and the meeting, and truthful answers may concede it |
+
+5. **A plea of guilty to Spec 3 alone, with Specs 1 and 2 contested, is a form of the first course.** It would require him to admit each element under oath (section 11.5). How those admissions could be used on the contested specifications, and in Texas, is for counsel.
+6. **Which course is right depends on things I have not seen:** the specification, the inventory and the video. The decision is his and counsel's.
+
+### 21.6 The other specifications, and what Spec 3 alone would carry
+
+**The three specifications side by side.** The four elements of an attempt are the same for each. What differs is the offense attempted.
+
+| | Spec 1 | Spec 2 | Spec 3 |
+|---|---|---|---|
+| Offense attempted | Sexual abuse of a child by indecent language (Article 120b(c)) | Sexual assault of a child (Article 120b(b)) | Patronizing a prostitute (Article 134) |
+| What he must have intended | To communicate indecent language to a child under 16, in order to arouse or gratify sexual desire, or to abuse, humiliate or degrade | A sexual act upon a child who had reached 12 but not 16 | A sexual act with a person not his spouse, obtained for money |
+| A belief that she was under 16 | Required | Required | Not required |
+| What it turns on | Whether he knew whose number it was. Which words are alleged, and the timing of "Yes" (section 19.1) | Whether he knew whose number it was | The inference about the act, the inventory, and the wording |
+
+The elements of the first two are as the service courts state them in *Fulsom* and *Ozbirn* (section 20.4). Section 11.3 sets out why a belief about her age is required when no real child was involved.
+
+1. **"Sexual act" has the same definition in Spec 2.** So the first weak point in 21.3 applies there as well. The government has to show that he intended an act within the definition, with someone he believed was under 16, and on May 1 he named none. The point about the interview statement applies there too.
+2. **Spec 4** is the one the hearing officer found unsupported (section 1).
+3. **Spec 2 and Spec 3 rest on the same intended meeting.** If he were found guilty of both, whether they should be treated as one for sentencing is a motion for counsel to consider.
+
+**What Spec 3 alone would carry**
+
+1. **The maximum is that of the offense attempted** (¶ 4.d). For patronizing, as secondary sources give it: a dishonorable discharge, forfeiture of all pay and allowances, and confinement for one year. No discharge is mandatory for this offense. The mandatory discharge applies to offenses like Spec 2 (section 20.4).
+2. **The judge would decide the sentence.** As one secondary source gives it, patronizing is in the lowest sentencing category, with a confinement range of 0 to 12 months.
+3. **Two reference points.**
+   - *United States v. Baldwin*, ARMY 20250141 (Army Ct. Crim. App. 2026). An officer used sites associated with sex workers to arrange meetings with women advertising sexual services. A panel at a general court-martial found him guilty, against his pleas, of three attempts to patronize a prostitute and one attempt at extramarital sexual conduct. It also found him guilty of conduct unbecoming an officer, which the appeals court held duplicated the attempts. The sentence was thirty days of confinement and a reprimand. The court also held that attempted patronizing and attempted extramarital conduct each require proof of something the other does not.
+   - *United States v. Munn* (section 20.4). A plea to attempted patronizing at a special court-martial. I did not see the sentence.
+4. **These are single cases and predict nothing.** They say nothing about administrative consequences or about Texas. For counsel.
+
+### 21.7 Records to add, through counsel
+
+These add to sections 19.5 and 20.5.
+
+1. **The charge sheet as it now stands.** For Spec 3: the dates, any sexual act, amount or overt act it names, the branch of the terminal element, and what was amended and when.
+2. **The arrest inventory,** and bank records for the afternoon (sections 16.1 and 20.5).
+3. **Her replies after "Cash right?"** (section 20.5).
+4. **The government's evidence on the terminal element:** which witness, and what that witness will say.
+5. **Any notice of other acts the government means to offer** (M.R.E. 404(b), section 7).
+6. **The video:** what he said about earlier occasions, about money, and about what he meant to do at the hotel.
+
+### 21.8 What this changes
+
+1. **The assessment stands, and now has its reasons.** Spec 3 is the strongest charge because it does not need her age, and because most of it is proved in his own words.
+2. **Its weak points are named:** the kind of act, the firmness of the intent, what he had with him, the terminal element, and the wording. None is a defense. Each is something the government has to prove and may not have covered.
+3. **They are counsel's to press.** His testimony would probably close them.
+4. **The arrest inventory and the charge sheet matter more than they did.**
+5. **One correction.** Section 20.3 said that the specification would name the act relied on. It may not.
+6. **The definition of a sexual act applies to Spec 2 as well.**
+7. **The suggestion in section 5 that the Spec 3 conduct be conceded now has its price stated** (21.5).
+8. **The assessment of Specs 1 and 2 is unchanged,** and so is the order of work: video first, forensic report second, account third.
