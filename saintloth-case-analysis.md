@@ -2,11 +2,11 @@
 
 **Basis and limits.** Built from two documents only: the defense slide deck ("Details for DFE with messages") and the Preliminary Hearing Officer (PHO) report of 10 Aug 2026. Not reviewed: the interview video, the full chat extraction, the ad, any forensic report. I am not a lawyer and this is not legal advice. Statements of law are my understanding, and defense counsel should confirm each one.
 
-**Updated 24 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 17: his response on how this text is to be used, with each point sorted by the record that supports it. Section 18: whether hypnosis could be used to recover his memory. Section 19: four objections to this analysis, which lead to three corrections and a restatement of his account in his own terms. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
+**Updated 24 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 17: his response on how this text is to be used, with each point sorted by the record that supports it. Section 18: whether hypnosis could be used to recover his memory. Section 19: four objections to this analysis, which lead to three corrections and a restatement of his account in his own terms. Section 20: a fifth point, on his nervousness at the hotel and what it shows about intent, with the reported cases found. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
 
 ## 1. Bottom line
 
-*Current as of section 19.*
+*Current as of section 20.*
 
 **The charges**
 
@@ -35,6 +35,7 @@ He says that more than one thing was true at once, and that forcing one answer o
 - Everything he was shown was an adult: the ad's photos, and the profile they traced to, which states an age of 23 and carries a 2021 college email (sections 12.1 and 13.3).
 - Records he describes but has not yet produced: the app installed and removed on earlier dates, earlier image searches, and the provider's page read before April 30 (section 17.2).
 - An inference for counsel: a man who checks photos, looks for signs of a sting and stops at once when told "16" is unlikely to go back to that number knowing whose it was (section 19.3).
+- The room was her proposal. The log shows him wary from the moment she named the hotel, almost an hour before he said he was nervous, and nothing I have seen shows him going to the room (section 20.1).
 
 **What stands against it**
 
@@ -43,7 +44,8 @@ He says that more than one thing was true at once, and that forcing one answer o
 - On his own account he had picked out her number in order to block it, perhaps that same afternoon (sections 13.5 and 19.2).
 - He has said that the second photo resembled the profile he had found the day before, or possibly the ad (section 10.4).
 - Compulsion is the government's explanation too: the urge that overrode the refusal (sections 3 and 19.2).
-- What he did at the hotel, and the removal of the apps minutes after he described his car (sections 9.3 and 14.3).
+- What he did at the hotel, and the removal of the apps minutes after he described his car (sections 9.3 and 14.3). After he said he was nervous, each message moved toward a meeting on his own terms, and the offer about the car was his (section 20.2).
+- In the reported cases found, hesitation in a sting was read against the accused wherever a court discussed it. None of them matches his facts (section 20.4).
 - Three of his answers replace the natural meaning of a message: "100" as a time, "Cash right?" as meant for someone else, and the extra as nothing but a test. The records go against them, and the account does not need them (sections 16.1 and 19.2).
 - The first step of the account has changed again, from a wrong recipient to an unknown one (sections 13.6 and 19.2).
 - Routine and compulsion both concede that he was pursuing paid sex, which is Spec 3 (sections 17.3 and 19.3).
@@ -61,7 +63,7 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 1. The interview video: the exact words, the form of the questions, what he had been told by then, and whether he told the agents to look at his phone (sections 8.2, 16.5 and 19.2).
 2. How the message came to be sent: whether the same line went to other numbers within minutes, whether her ad was open, what her conversation held and what the screen showed (sections 15.2 and 19.2). The provider's copy may no longer exist (section 14.2).
 3. The exact words of Spec 1, and what the examiner says the timestamps record (section 19.1).
-4. Where he was, and how he moved, while the messages were sent (section 19.2).
+4. Where he was, and how he moved, while the messages were sent. Also the arrest record: the time, where he was, and what he had with him (sections 19.2 and 20.5).
 5. The second photo and the advertisement (sections 11.2 and 11.3).
 6. His earlier conversations and trips: whether May 1 looks like the rest (sections 17.5 and 19.5).
 
@@ -77,8 +79,8 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 
 1. **Age was disclosed and understood.** "i will be 16 in june is that ok" drew "No. Find a different way of life please." He cannot claim he missed it.
 2. **He initiated the return.** Same UC number, same thread, about 23 hours later. Nobody lured him back. On the defense's present account he opened that thread by mistake, which still puts the April 30 exchange in front of him (section 12.2). If the thread had been deleted, as he now says is possible, the number was entered some other way (section 15.2).
-3. **May 1 shows intent to complete a paid encounter.** He offered an Uber, answered "Ok. Where at?" 18 seconds after "2 for 1 tonight 100," sent "Yes" and "Just you….then both," asked for pictures, drove about 20 minutes, asked "Cash right?", asked to be walked upstairs, wrote "I have tinted windows if you can carplay. Ill give extra," and identified his vehicle. Travel to the meeting place is a textbook substantial step.
-4. **Concealment evidence, some of it supplied by the defense deck itself.** Tinted windows, nervousness, the peace-sign verification request, burner-number app searches, removal of the texting app in the parking lot, and a pre-arrival search for sting indicators. He has since said the habit predates these events and has given a reason for the app searches (sections 13.1, 13.5 and 14).
+3. **May 1 shows intent to complete a paid encounter.** He offered an Uber, answered "Ok. Where at?" 18 seconds after "2 for 1 tonight 100," sent "Yes" and "Just you….then both," asked for pictures, drove about 20 minutes, asked "Cash right?", asked to be walked upstairs, wrote "I have tinted windows if you can carplay. Ill give extra," and identified his vehicle. Travel to the meeting place is a textbook substantial step. Section 20.3 gives the authorities on travel, and a military decision that went the other way.
+4. **Concealment evidence, some of it supplied by the defense deck itself.** Tinted windows, nervousness, the peace-sign verification request, burner-number app searches, removal of the texting app in the parking lot, and a pre-arrival search for sting indicators. He has since said the habit predates these events and has given a reason for the app searches (sections 13.1, 13.5 and 14). Section 20.4 gives a federal decision in which items of this kind were used to show that the accused knew the age.
 5. **A recorded interview after a signed rights waiver.** DPS reports he "admitted to knowingly speaking to a minor," and he admitted prior patronizing. The relayed statement that he "thought the next day she just needed money" supplies the link the texts lack: that on May 1 he knew who he was texting (section 8).
 
 ### Weaknesses
@@ -100,7 +102,7 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 2. **The legal standard.** The government must prove what he believed, and its proof for May 1 is inference. Section 11.3 sets out the standard and one open question about it.
 3. **Everything he saw was adult.** By his own search, the photos trace to a 23-year-old's account, and the PHO found his history was with adults, "not minors." The profile also carried a posted college email from 2021 (section 12.1).
 4. **Digital corroboration, if it holds.** The image search 11 minutes after the April 30 chat ended; other profiles messaged on May 1 before the UC (the two-day timeline lists five between 13:48 and 15:30, all still awaiting forensic confirmation); hotel lookups in Round Rock and Georgetown at 3:18 PM, half an hour before the UC text; the same stock opener to other numbers ("Are you still in killeen?", "Hi are you still available?").
-5. **An innocent reading of the caution.** Paying an adult for sex is also a crime and a career-ender for an NCO. Nervousness, deletion and tinted windows do not distinguish between the two.
+5. **An innocent reading of the caution.** Paying an adult for sex is also a crime and a career-ender for an NCO. Nervousness, deletion and tinted windows do not distinguish between the two. Section 20 sets out how reported cases have treated hesitation of this kind, and what would show the reason for his.
 6. **The PHO's recommendation.** A neutral judge advocate recommended a bad-conduct discharge with no confinement. It is non-binding, but it is leverage in negotiation.
 
 ### Weaknesses
@@ -118,7 +120,7 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 7. **Timestamp errors in a deck that depends on timestamps.** Slide 2 lists the re-contact as 15:47 (log: 15:49:15) and the image searches as 16:42, 16:47 and 16:50 (the screenshot shows 4:54 and 4:58 PM). The two-day timeline corrects both, so slide 2 should be withdrawn. Slide 9 still lists "will be down" as 16:56:57 (log: 16:58:57).
 8. **"Physically impossible" overstates a good point.** "My reply was already on its way" is enough.
 9. **Late arrival.** None of this was presented at the Article 32 hearing. That is his right. But the one interview statement relayed so far says he thought she needed money. Unless the video also has him saying "I thought it was someone else" or "I looked her up and she was 23," expect the argument that the deck's accounts were built afterwards from the phone records.
-10. **Entrapment and voluntary abandonment are weak.** He re-initiated, stayed in the lot and identified his car.
+10. **Entrapment and voluntary abandonment are weak.** He re-initiated, stayed in the lot and identified his car. Section 20.3 sets out the rule on abandonment.
 
 ## 4. How a panel or jury is likely to view the evidence
 
@@ -135,6 +137,7 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 | "Ok. Where at?", "Cash right?", the drive | Agreed and acted | "Ok" answered "we have a room," not the price; "100" read as a time; "Cash right?" meant for someone else | Reads as intent to buy sex. The room reading is arguable for "Ok" alone (section 9.5). The two newer readings are likely to cost more than they gain (section 16.1) |
 | "Yes" / "Just you….then both" | Agreed to the act; chose the 15-year-old | "Yes" answered "are you coming?" and arrived two seconds after her second line; "Just you" answered the offer of two | The timing should defeat the charged reading of "Yes," if someone presses it (section 19.1). "Just you" reads as sexual interest in that persona |
 | "tinted windows… carplay… Ill give extra" | Hidden sex with a child, for more money | Afraid of the room; a test to expose a scam | Most damaging text. A bluff or test will not be believed unless he can say what he meant to do once she agreed; "afraid to go in" might (section 16.1) |
+| "Im a little nervous", "Can you walk me upstairs?", no approach to the room | Nervous because he knew she was 15; watching for the police | The room was her idea; he was wary from the moment the hotel was named, and he would not go in | They will accept that he was afraid of the room. They will also see that he then asked her to come to the car. It says little about her age unless the reason is shown (section 20) |
 | Image search to an adult profile that states an age of 23, with a posted 2021 college email | Still focused on her after "15"; the owner is in Rhode Island, so the photos were borrowed | All he saw was an adult, by her own stated age | They will accept that the owner is an adult. The question is whether he took her to be the person texting (sections 11.3, 12.1 and 13.3) |
 | Other recipients, stock phrases, hotel lookups | Prolific buyer | Lost track | Makes a mix-up plausible; costs sympathy |
 | Deleted threads, searches for second-number apps, app removal | Consciousness of guilt | Removing the app was his routine before April 30; the app searches were to avoid texting her number by accident; adult prostitution is illegal too | If the records show the routine, the removals stop looking like a reaction to her, though the timing at 17:02 still draws questions. The reason given for the app searches cuts both ways (sections 13.5, 14 and 15.1) |
@@ -211,6 +214,7 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
    - Answer: "Nervous because buying sex is illegal, could end my career, and could have been a robbery or police."
    - Rebuttal: "You searched for stings and burner apps that day."
    - Reply: "For the same reason." He must know the exact search terms before trial. He has since given a different reason for the app search (section 13.5), so this reply now fits only the sting search. He has since changed the answer above it to a scam, which changes what this reply says (section 16.1).
+   - Update: section 20.4 gives the one reported case found in which nervousness was used to show knowledge of age. The accused there had said so himself, and had said he was not nervous with adults.
 10. **"You offered a 15-year-old extra money for sex in a car with tinted windows."**
     - Answer, if true: "I was afraid to go into that room, so I asked her to come to the car. I believed she was an adult."
     - The bluff version draws: "A bluff with more money? And when she agreed, you described your car."
@@ -241,7 +245,7 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
 
 1. **Watch the full interview with counsel.** Transcribe every statement about age, identity, scam belief and intent. Section 8.2 lists what to look for around the "needed money" statement. Get the Army CID interview record as well; the DPS report says CID questioned him separately.
 2. **Get the forensic report before fixing a theory.** Thread deletion time; app install and uninstall times; how the UC number was entered on May 1; the page viewed at 15:45–15:49; the number of ads contacted April 28 to May 1; exact search queries; the date of the Play Store screenshot. Section 12.2 adds tests for the accident account. Section 13.7 lists records that would support the newer details. Section 15.5 adds to it.
-3. **Demand in discovery:** the ad (text, stated age, photos, site), the operation plan and any age-confirmation protocol, the full UC extraction with metadata, and the arrest inventory (cash on hand).
+3. **Demand in discovery:** the ad (text, stated age, photos, site), the operation plan and any age-confirmation protocol, the full UC extraction with metadata, and the arrest inventory (cash on hand). Section 20.3 explains why the inventory matters.
 4. **Settle on the one true account and correct the timestamps.**
 5. **Motions for counsel to assess:** suppression of the interview (the DPS report describes a joint DPS–Army operation, which raises an Article 31(b) question), M.R.E. 707, M.R.E. 404(b) on prior patronizing, the rule of completeness for the interview, and speedy trial under R.C.M. 707 (charges were preferred 24 June 2026).
 6. **Coordinate military and Texas counsel.** Testimony or a guilty plea in one forum is usable in the other. The PHO's suggested deal does not say which specifications; a plea to Spec 1 or 2 would almost certainly bring sex-offender registration.
@@ -437,7 +441,7 @@ On April 30 the timeline shows the app installed at 16:26, the first UC message 
 4. **The number was the same on both days.** The UC log is one thread, so the May 1 messages came from the April 30 account. Many texting apps keep conversations on their servers and restore them at login. If this one does, reinstalling at 13:11 would have brought the April 30 exchange back, unless he had deleted that thread. The examiner should identify the app and how it behaves. Section 12.2 takes this further. The provider's help pages have since answered both questions (section 14.2).
 5. **A search for a new texting app at 14:04.** It is verified, and the timeline does not explain it. Expect to be asked why he wanted another number that afternoon. He has since given a reason (section 13.5).
 6. **Steady movement toward Belton.** Gas stop, hotel search, "20 min away," Walmart, on scene. That is a deliberate trip, and it undercuts "I did not intend to meet anyone." Expect to be asked what he bought at Walmart and whether he took out cash. Receipts and bank records will show it either way. He says there was no plan, and the records before 15:58 fit that (section 19.3).
-7. **The La Quinta at 16:49.** Trying to park at another hotel a minute after arriving reads as watching for police or a set-up. That fits caution about any illegal meeting and says nothing about age. It is not what someone does who has decided not to meet.
+7. **The La Quinta at 16:49.** Trying to park at another hotel a minute after arriving reads as watching for police or a set-up. That fits caution about any illegal meeting and says nothing about age. It is not what someone does who has decided not to meet. A federal appeals court has counted watching the meeting place among the signs that an accused knew the persona's age (section 20.4).
 8. **The uninstall at 17:02.** It came about three minutes after the UC asked what car he was in and he answered. The government will call that destroying evidence while waiting for her to come down. "Disengaging" is more persuasive if he was driving away. The arrest report and video will show the time of arrest and whether the vehicle was moving. Section 13.1 covers the habit he says this was part of. Section 14.3 covers the record of it.
 
 ### 9.4 Gaps and inconsistencies to fix
@@ -1452,6 +1456,7 @@ The numbers are those of section 6. Each answer is recorded as relayed and then 
 - The test has a logic. A real person will come down to the car, and a scammer will make excuses. The money is what makes it worth her while.
 - On that logic she passed. She wrote "ok will be down what car u in," and he answered "Black suv." So the test told him that someone real was coming. Section 6 asked what follows: "And when she agreed, you described your car." No answer has been given to that. It is the part that matters, because it goes to what he intended at 16:59.
 - Section 4 said a bluff would not be believed and that fear of going into the room might be. That is still my assessment. "Can you walk me upstairs?" and the request to come to the car both fit a man who wanted to see who was there before he went in.
+- In Texas the offer may be the offense whether or not he meant to keep it (section 20.3).
 
 **9. "Im a little nervous."**
 
@@ -1463,6 +1468,7 @@ The numbers are those of section 6. Each answer is recorded as relayed and then 
   - The app search was at 14:01 to 14:04. On his account the suspicion began when she named Belton, after 15:54.
   - He has given the app search a different reason, her number (section 13.5). This is the third.
   - A sting is the police, and a scam is not (section 10.3, point 5). A search for signs of a police operation shows that he thought the police might be at the other end. The government will say that a man who thinks so and goes anyway has decided to take the chance.
+- Section 20 takes up his further point, that nervousness at the door does not fit a settled agreement, and gives the reported cases found.
 
 **10. "You offered a 15-year-old extra money for sex in a car with tinted windows."**
 
@@ -2118,7 +2124,7 @@ As relayed, several officers had this log, and the reading that he had said yes 
 **What "no plan" does help with**
 
 1. **The return.** The government's account is that he decided to go back to her. If nothing that afternoon was decided in advance, the message to her number was not a decision either. This is the point about habit in section 17.3.
-2. **Resolve.** The standard description of a substantial step is an act that strongly corroborates the intent and shows resolve to commit the offense. Evidence that he was not resolved goes to that: the car park next door, sitting in the car, asking her to come down, removing the app. The government reads the same facts as caution. The location data and the arrest record matter here.
+2. **Resolve.** The standard description of a substantial step is an act that strongly corroborates the intent and shows resolve to commit the offense. Evidence that he was not resolved goes to that: the car park next door, sitting in the car, asking her to come down, removing the app. The government reads the same facts as caution. The location data and the arrest record matter here. Section 20.3 gives the authorities.
 
 **"A man with years of experience would not have been caught"**
 
@@ -2190,3 +2196,185 @@ These add to sections 13.7, 15.5, 16.7 and 17.5.
 6. **The assessment of the charges is unchanged.** Spec 3 is strong, and his account concedes most of it. Specs 1 and 2 turn on what he believed.
 7. **On hypnosis the assessment in section 18 stands.**
 8. **The order of work is unchanged.** Video first, forensic report second, account third.
+
+## 20. Addendum 13, 24 Nov 2026: nervousness at the hotel, and what it shows about intent
+
+**What this covers.** A fifth point, supplied after section 19 and recorded as relayed. I have not seen the full log, the arrest record or the video. The cases cited here were found by search and read in summaries and extracts, not in full. Each is for counsel to check before it is relied on.
+
+5. On intent. The room was proposed by the undercover agent, early in the May 1 exchange. If the "plan" had stayed the same, why would he suddenly become nervous after driving there, when there was an "agreement on solicitation"? His explanation is that the premise was not genuine, or that he thought the arrangement was a scam, as he has said. He asks for references to any earlier case in which an accused drove to the location and then said he was nervous, on being given the room number or on arriving.
+
+I read "the premise" as the agreement the government says was reached at 15:53:50.
+
+**Short version**
+
+- The facts in the point are right, and the log supports them better than the point does. The room was her proposal. He was wary from the moment she named the hotel, almost an hour before he said he was nervous. Nothing I have seen shows him going to the room.
+- The conclusion does not follow as he puts it. A man who says he is nervous expects to meet someone. The message does not show that nothing had been agreed, or that he would not have gone ahead. What he did next was ask her to come to his car, for more money.
+- I found no reported case that matches his facts, and none in which nervousness on arrival was accepted as showing that the accused lacked intent. In the cases I found where a court discussed hesitation in a sting, it was read against the accused: as fear of being caught, and in one case as knowledge of the persona's age. In that case the accused had said so himself.
+- That says less than it seems to. Acquittals leave no written opinions. In one case on the question of what the accused believed, the first jury could not agree.
+- The argument does have a place in the law. It is the point section 19.3 called resolve. A military appeals court held in 2025 that arriving at the meeting place was not enough to show a firm intent. That case turned on what the accused had with him, not on what he felt.
+- For Specs 1 and 2 the nervousness is neutral. The question is still who he believed she was.
+
+### 20.1 What is right in the point
+
+**The room was her proposal.** His first suggestion, at 15:51:36, was to send a car to bring her to him. She declined, and wrote "we have a room" at 15:52:55, less than four minutes after his first message. Section 9.5 sets out the exchange.
+
+**The wariness was not sudden.** The log and the timeline show it building for almost an hour.
+
+| Time on May 1 | What the log or the timeline shows | Note |
+|---|---|---|
+| 15:51:36 | He offers to send a car for her | Sent before any room or hotel was mentioned |
+| 15:52:55 | She answers "we have a room" | The room is her proposal |
+| 15:56:39 | She names the hotel | From the log |
+| 15:56:50 | "Lol ok." | Eleven seconds later. He says his suspicion came from an earlier experience at the same hotel (section 19.2) |
+| 16:01:35 to 16:02:46 | He asks for pictures, then writes "Im convinced lol" | He says the second was sarcasm (section 10) |
+| After 16:09:41 | He asks for a photo with a peace sign "so I know real" | From the log |
+| Before he arrived | A search for signs of a sting | Slide 8. Its time and its words are not known |
+| 16:48:45 | The photo of the door, with the room number, reaches him | He is on scene at 16:48 |
+| 16:49 | He tries the car park of the hotel next door | From the timeline |
+| 16:51:08 | "Cash right?" | He says this was meant for someone else (section 16.1) |
+| 16:53:54 | "Im a little nervous" | Five minutes after the room number |
+| 16:56:05 | "Can you walk me upstairs?" | From the log |
+| 16:58:19 | He asks her to come to the car, and offers extra | From the log |
+| 16:58:57 | She agrees and asks what car he is in. He answers "Black suv" | From the log |
+| 17:02 | The texting apps are removed | The arrest time is not in anything I have seen |
+
+**Three things follow**
+
+1. **"Suddenly" undersells his point.** The first sign comes eleven seconds after she named the hotel. That fits what he has said about an earlier experience there. A fear that appeared only at the door would be easier for the government to explain.
+2. **He tried three times to have the meeting somewhere other than the room:** the car he offered to send at the start, the request to be walked up, and his own car at the end. The first was sent before any room or hotel was mentioned, so it was not a reaction to this hotel.
+3. **He had the room number from 16:48:45.** As far as the log and the timeline show, he did not go to the door in the thirteen minutes before the apps were removed. I do not know where he was when he was arrested.
+
+**What it costs.** The same table shows a man who was wary for an hour and kept going. He drove there, stayed, and went on writing to her. His explanation is compulsion (section 19.2). The government's is that he had decided to take the risk.
+
+### 20.2 What nervousness can and cannot show
+
+**The argument at its best.** The government describes a man carrying out a settled agreement to pay for sex with two girls in a hotel room. The man in the log never wanted the room. He did not go to it when he had the number, he said he was nervous, and he asked twice for her to come to him. A settled arrangement does not look like that.
+
+**Why a fact-finder is unlikely to take it as far as he does**
+
+1. **People are nervous about what they are about to do.** Nobody is nervous about a meeting he has decided not to attend, or about a person he thinks does not exist. The message assumes that someone was there and that he might go up. Section 16.1 made a related point: people do not tell a suspected scammer that they are nervous.
+2. **Nervousness has several possible causes, and the message names none.**
+
+   | Cause | Does it fit an intent to go ahead? | Does it bear on her age? |
+   |---|---|---|
+   | He believed she was 15 (the government's reading) | Yes | Yes |
+   | Buying sex is illegal, and the police might be there (his answer in section 6) | Yes | No |
+   | A robbery or a set-up (his answer in section 16.1) | Yes, if she turned out to be real | No |
+   | Second thoughts about doing it at all | No | No |
+   | Nobody real was there | No | No |
+
+   Only he knows which it was, and more than one can be true (section 19.2). The last two are the only ones that do not fit an intent to go ahead. They are also the two that his next messages make hardest to maintain.
+3. **What he did next.** Two minutes later he asked her to walk him upstairs. Two minutes after that he asked her to come to the car, and offered extra. When she agreed, he described his car. Each step moved toward a meeting, on terms he felt safer with. The room was her idea. The car was his.
+4. **An agreement is not what the government has to prove in the court-martial.** It has to prove an intent and an act (20.3). So showing that nothing was firmly agreed at 15:53:50 does not answer the charge. Section 19.1 already records that the finding of an agreement at that moment says more than the log does. The log is better evidence for that than the nervousness is.
+5. **The arrangement did change, and that is worth saying.** What she proposed at 15:53 was two girls in a room. What he proposed at 16:58 was a meeting in his car. Whatever he intended at the end, it was not the arrangement the government says he accepted at the start.
+6. **One detail leans his way.** A man afraid of being seen with a 15-year-old is unlikely to ask her to come down and walk him through a hotel. That request fits fear of what was in the room better than it fits fear of being seen with her. It is a small point, and it is for counsel.
+
+**Which charge it reaches**
+
+| Charge | What the government must show | What the nervousness does |
+|---|---|---|
+| Spec 3 | An intent to obtain a sexual act for money, and an act that strongly corroborates it | It goes to how firm the intent was. It does not remove an intent that depended on her being real (section 19.3). The message about the car is a new offer |
+| Spec 2 | An intent to commit a sexual act with her, an act that strongly corroborates it, and a belief that she was under 16 | The same on firmness. Nothing on what he believed, unless the reason for the nervousness is shown |
+| Spec 1 | That he sent indecent words to someone he believed was under 16 | Nothing on the words. The message about the car is one of those relied on (section 19.1) |
+| Texas | A knowing offer or agreement to pay for sexual conduct | Nothing, if an offer or agreement was made (20.3) |
+
+### 20.3 Where the argument fits in the law
+
+These are my understanding of the rules, for counsel to confirm.
+
+**The court-martial: how firm the intent was**
+
+1. **The elements of an attempt.** An overt act; a specific intent to commit the offense; an act that is more than preparation; and an act that apparently tends to bring the offense about (*United States v. Payne*, 73 M.J. 19 (C.A.A.F. 2013), as quoted in *Penaloza*, below). No agreement is required.
+2. **The act has to show a firm intent.** It must be "strongly corroborative of the firmness of the defendant's criminal intent" (*United States v. Byrd*, 24 M.J. 286 (C.M.A. 1987)). It must "unequivocally" show that the crime will take place unless independent circumstances interrupt it (*United States v. Winckelmann*, 70 M.J. 403 (C.A.A.F. 2011)). This is the legal form of his point. Evidence that he would not go to the room is evidence about firmness.
+3. **Travel usually satisfies it.** *Winckelmann* said that courts agree that travel is a substantial step in enticement cases. *United States v. Hale*, 78 M.J. 268 (C.A.A.F. 2019), said that a substantial step can be something as ordinary as travel, arranging a meeting or booking a hotel. Service courts have treated the journey to meet the persona as enough for attempted sexual assault of a child (20.4).
+4. **But not always.** In *Byrd* the accused took money to buy marijuana for an undercover agent, rode in a taxi to the place where it was sold, and bought liquor there. The court held that the ride was not strongly corroborative of a firm intent. In *Penaloza* the Army court held in 2025 that arriving at the meeting place was not a substantial step where the accused had no cash, and cash was the only payment the persona would accept (20.4).
+5. **What that means here.** *Penaloza* turned on what the accused had with him. On the same reasoning the arrest inventory matters more than the message about being nervous. Cash in the amount discussed would point one way, as "Cash right?" and "Ill give extra" already do. No cash, or too little, would point the other. Section 7 already asks for the inventory, and section 16.1 asks whether he drew cash on the way.
+6. **The specification will name the act relied on.** If it is the drive, the question is what he intended as he drove. What he did on arrival is evidence of that, in both directions. He can say that for thirteen minutes nothing outside him stopped him from going to the room, and he did not go. The government can say that by 16:59 she was on her way down to his car.
+
+**The court-martial: voluntary abandonment**
+
+1. **Military law allows the defense even after a substantial step.** "It is a defense to an attempt offense that the person voluntarily and completely abandoned the intended crime, solely because of the person's own sense that it was wrong, prior to the completion of the crime" (Manual for Courts-Martial, pt. IV, ¶ 4.c.(4); *United States v. Rios*, 33 M.J. 436 (C.M.A. 1991)). At least one federal appeals court does not allow it once the attempt is complete (*United States v. Young*, 20.4).
+2. **The reason has to be the right one.** The same paragraph says the defense "is not allowed if the abandonment results, in whole or in part, from other reasons, for example, the person feared detection or apprehension, decided to await a better opportunity for success, was unable to complete the crime, or encountered unanticipated difficulties or unexpected resistance."
+3. **Fear of a scam is not that reason.** It is a difficulty, and not a sense that the thing was wrong. So the nervousness he describes cannot support this defense.
+4. **It has to be complete.** In *Rios* the accused gave up one robbery and went on to try another, and the defense was not available. Here the only act that points away from the meeting is the removal of the apps at 17:02, and he stayed where he was (section 16.1). The arrest time decides how much that shows.
+5. **It pulls against his account.** A man who says he gave something up is saying that there was something to give up. Counsel can argue in the alternative. Whether he had decided anything at 17:02 is a fact only he knows. This is a statement of what the rule requires, and not a suggestion about what to say. Section 3 called this defense weak, and that is still my assessment.
+
+**Who proposed the room.** It matters for what "Ok" answered (section 9.5). It is not entrapment. Offering a place is an opportunity, and he had opened the conversation.
+
+**Texas: the offer is the offense**
+
+1. **The statute.** A person commits solicitation of prostitution if he "knowingly offers or agrees to pay a fee to another person for the purpose of engaging in sexual conduct with that person or another" (Penal Code § 43.021(a)). Nothing more has to happen. If an offer or agreement was made, what he felt afterwards does not undo it.
+2. **The message about the car came after the nervousness.** On its face it is an offer.
+3. **A test may not be an answer there.** Under the earlier prostitution statute, the Court of Criminal Appeals held that a person can knowingly offer or agree without intending to go through with it, and that intent to consummate is not an element (*Mattias v. State*, 731 S.W.2d 936 (Tex. Crim. App. 1987)). That case concerned the seller. The buyer's statute has the words "for the purpose of engaging in sexual conduct," and whether an offer made as a test is such an offer is a question for his Texas counsel. Until it is answered, his statement that the extra was offered to expose a scam (section 16.1) should be treated as one that could admit the Texas offense.
+4. **Texas has a renunciation defense for attempts,** with a similar limit on motive (Penal Code § 15.04). The charge as described is not an attempt.
+
+### 20.4 The reported cases
+
+**What I looked for.** A decision in which the accused drove to the meeting place and then said he was nervous, on arriving or on being given a room number, and in which the court said what that showed.
+
+**What I found.** None that matches. The cases below are the nearest. In the sting cases among them the accused was arrested as he arrived, or after he had met the agent. None has what the log shows here: a period of messages sent from the car park, without an approach to the room.
+
+**Cases in which hesitation or nervousness was discussed**
+
+| Case | Facts | How the court read it | How this case differs |
+|---|---|---|---|
+| *United States v. Puff*, No. 23-4457 (4th Cir. 17 Mar. 2025) | He answered an ad on a prostitution site, using a number from a second-number app. He was told by text that the girl was 13. He asked more than once whether she was the police. He watched the hotel before the meeting. He paid an agent $60. He deleted the app and at first lied about it. He told agents that he knew she was 13, that he was nervous because of her age, and that he had not been nervous in that way with adults | Convictions affirmed. The questions about the police, the watching, the deletion and his own account of his nervousness were evidence that he knew her age | He said it himself. He was told the age in the same conversation and went on. He paid |
+| *United States v. Fulsom*, No. 202500166 (N-M. Ct. Crim. App. 29 May 2026) | The persona was listed as 18 and said by text that she was "almos 15." He refused at first and came back within minutes. He spoke of the risk to his career. He asked for a photo "at the moment" and for video calls. He traveled 45 minutes with condoms | Convictions affirmed. His hesitation "stemmed from fear of apprehension, not the lack of predisposition." The requests for proof were counted as showing that he went on knowingly. The journey was a "clear" substantial step | His refusal ended the conversation. Nothing was said about age the next day and, as far as the excerpts show, he was offered no way out then (section 11.3) |
+| *United States v. Petersen*, No. 25-13589 (11th Cir. 13 Nov. 2026) | He answered an ad for a 19-year-old and was told she was 14. He asked to meet the next day instead. The agent wrote "u playing." He drove to a gas station and was arrested | Conviction affirmed. His messages showed that he "only wished to avoid detection by police" | The issue was an entrapment instruction. He had been told the age and went on |
+
+**Cases on arriving at the place**
+
+| Case | Facts | Result |
+|---|---|---|
+| *United States v. Penaloza*, ARMY 20230473 (Army Ct. Crim. App. 28 Feb. 2025) | He arranged to meet a persona he believed was under 18, and to pay cash. He was arrested on arriving. No cash was found on him or in the car | The court held the evidence insufficient. Travel "must be accompanied by evidence of a firm intent to complete the offense," and there was "a fair and rational hypothesis" that he did not intend to pay. I did not see the final order, or check for any later appeal |
+| *United States v. Byrd*, 24 M.J. 286 (C.M.A. 1987) | Set out in 20.3 | Riding to the place of sale was not strongly corroborative of a firm intent |
+| *State v. Duke*, 709 So. 2d 580 (Fla. Dist. Ct. App. 1998), and *State v. Kemp*, 753 N.E.2d 47 (Ind. Ct. App. 2001) | Each accused arranged sex online with a supposed child and drove to the car park agreed. One flashed his lights as arranged. The other brought condoms | Not enough for an attempt at the sexual offense itself. These are older state decisions and the minority view. They bind no court that will hear this case, and I did not check whether they are still followed |
+| *United States v. Ozbirn*, No. ACM 39556 (A.F. Ct. Crim. App.), affirmed on another point, 81 M.J. 38 (C.A.A.F. 2021) | He arranged sex with a supposed 12-year-old and drove to meet her | The journey was a substantial step toward sexual assault of a child |
+| *United States v. Rutgerson*, 822 F.3d 1223 (11th Cir. 2016) | He answered an ad and was told she was 15. He tried first to have her come to him. He then drove to her hotel and was arrested | Conviction affirmed. The court noted that he did not hesitate after learning her age |
+| *United States v. Young*, 613 F.3d 735 (8th Cir. 2010) | He drove to a motel to meet a supposed minor | Travel was a substantial step. "A defendant cannot abandon an attempt once it has been completed" |
+| *State v. Dickerson*, No. 20230751-CA (Utah Ct. App. 2025) | He drove to the place agreed. He argued that many steps remained before any contact | The argument was rejected and the convictions affirmed |
+
+**Two cases close to his in other ways**
+
+| Case | Facts | Result |
+|---|---|---|
+| *United States v. Medina*, No. 24-1609 (1st Cir. 9 Sept. 2025) | He answered an ad for commercial sex. The agent's texts described girls of 14 and 12. He came to the hotel with $200 and condoms and was given a room key. At booking he was surprised by the charge and denied speaking to any minor. His defense was that his English was limited and that he believed he was arranging to meet an adult | The first jury could not agree. The second convicted. Affirmed |
+| *United States v. Munn*, ARMY 20250252 (Army Ct. Crim. App. 2026) | A website sting. He agreed a fee with an officer posing as a sex worker and was arrested on arriving at the hotel. He was charged with attempted patronizing and attempted sexual assault of a child | By agreement with the special trial counsel the case went to a special court-martial. He pleaded guilty to attempted patronizing, and the child specification was dismissed |
+
+**What the cases show**
+
+1. **Courts ask what the accused was afraid of.** In *Fulsom* and *Petersen* the answer was the police. In *Puff* it was her age, in his own words. In each the accused had just been told the age, so a fear of being caught was evidence that he knew what he could be caught for.
+2. **His record differs on both points.** Nothing was said about age on May 1. When it was said on April 30 he did not hesitate. He refused. And most of his checks were on whether she was real and whether the room was safe: the pictures, the sign, the request to be walked up. On the deck's own account a check for the police is among them too (slide 8).
+3. **The government has a pattern to follow, and *Puff* is that pattern.** A second-number app, a check for police, a look at the hotel, nervousness, an app removed. Each has a counterpart in this case (sections 2 and 9.3).
+4. **The answer to *Puff* is in his records.** That accused said he had not been nervous with adults. If his earlier conversations with adults show the same caution, with the pictures, the request to come down, the remark about being nervous and the app removed afterwards, then the caution was his routine and says nothing about her age. Section 17.3 called this the test. The earlier occasion at the same hotel would do the same for the reason he gives (section 19.5). Both are records of other occasions, with the cost noted in section 9.4.
+5. **What he said that night matters more than what is said now.** *Puff* was decided on the accused's own statements, and in *Medina* the jury heard what he said at booking. If the video has him giving a reason for being nervous, that is the reason a fact-finder will use.
+6. **Requests for proof have been read as going ahead with open eyes.** That is how *Fulsom* treated the photo "at the moment." The request for a photo with a sign will be put the same way. His answer is what he says he compared it with (section 10.4).
+7. **Asking the persona to come out to the car has not been treated as drawing back.** *Rutgerson* began with the accused trying to have her come to him.
+8. **Reported decisions are a one-sided sample.** An acquittal cannot be appealed and leaves no opinion, and most cases end in pleas. So the absence of a favorable case does not show that the argument fails at trial. *Medina*'s first jury is the nearest evidence. On the question of what he believed, it could not agree.
+9. ***Munn* shows one way such a case has ended.** The same pair of charges, from the same kind of operation, ended in a plea to attempted patronizing. The opinion does not say what age the persona gave, or why the government agreed. As I understand it, an attempted sexual assault of a child can be tried only by a general court-martial (Article 18(c)), and a conviction carries a dishonorable discharge unless a plea agreement provides otherwise (Articles 56(b) and 53a). If that is right, the outcome the hearing officer recommended, a bad-conduct discharge with no confinement, is not open to the court on a conviction of Spec 2 after a contested trial. Counsel should confirm this. It belongs in the conversation section 8.4 describes.
+
+### 20.5 Records to add, through counsel
+
+These add to section 19.5.
+
+1. **The arrest record:** the time, where he was, whether the car had moved, and the inventory of what he had with him, including any cash.
+2. **The operation's own record of the minutes from 16:48:** what the team saw him do, and when and why it moved.
+3. **The log pages between about 16:09 and 16:48,** and her replies between 16:51 and 16:59.
+4. **His earlier conversations with adults,** for the same cautions (section 17.3).
+5. **The earlier occasion at the same hotel** (section 19.5).
+6. **The search for signs of a sting:** its time and its words (section 9.4).
+7. **Bank records for that afternoon** (section 16.1).
+8. **The video:** whether he gave a reason for being nervous, and what he said about the car.
+9. **The charge sheet:** the act each specification relies on.
+
+### 20.6 What this changes
+
+1. **The facts in the point are accepted.** The room was her proposal. He was wary from the moment the hotel was named, and nothing I have seen shows him going to the room. Sections 1 and 4 now say so.
+2. **The inference is not accepted as he puts it.** Nervousness does not show that there was no intent. It shows that he was afraid of the room, and the message about the car shows what he did about it.
+3. **The argument's place is firmness of intent,** and there is military authority for it. *Penaloza* makes the arrest inventory more important than it was.
+4. **No reported case matches his facts.** Those that discuss hesitation went against the accused, for reasons that do not all apply to him. Reported cases are a one-sided sample.
+5. ***Puff* is the pattern the government is likely to follow.** The answer is his routine with adults, from records.
+6. **The Texas position is unchanged, with one caution.** The answer that the extra was a test needs Texas counsel's advice before it is given anywhere.
+7. **Voluntary abandonment is still weak.** The rule is now set out.
+8. ***Munn* is a reference for how a case with these charges has ended.**
+9. **The assessment of the charges is unchanged.** Spec 3 is strong. Specs 1 and 2 turn on whether he knew whose number it was. The order of work is the same: video first, forensic report second, account third.
