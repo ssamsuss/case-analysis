@@ -2,11 +2,11 @@
 
 **Basis and limits.** Built from three sources: the defense slide deck ("Details for DFE with messages"), the Preliminary Hearing Officer (PHO) report of 10 Aug 2026 and, from section 22 on, the government's 26-page evidence packet, which holds the complete undercover log. Not reviewed: the interview video, the phone extraction, the ad, any forensic report. I am not a lawyer and this is not legal advice. Statements of law are my understanding, and defense counsel should confirm each one.
 
-**Updated 24 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 17: his response on how this text is to be used, with each point sorted by the record that supports it. Section 18: whether hypnosis could be used to recover his memory. Section 19: four objections to this analysis, which lead to three corrections and a restatement of his account in his own terms. Section 20: a fifth point, on his nervousness at the hotel and what it shows about intent, with the reported cases found. Section 21: Spec 3 element by element, with what the government has to prove at a general court-martial and where its proof is strongest and weakest. Section 22: the evidence packet, read directly, with the DPS report, the vehicle inventory and the Army CID report set against the complete log. Section 23: the search for comparable cases, with the outcome of each and whether it was appealed. Section 24: whether the removal of the texting apps reads as abandonment or as destruction of evidence, with the rule, the cases and a correction to the account of one federal case. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
+**Updated 24 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 17: his response on how this text is to be used, with each point sorted by the record that supports it. Section 18: whether hypnosis could be used to recover his memory. Section 19: four objections to this analysis, which lead to three corrections and a restatement of his account in his own terms. Section 20: a fifth point, on his nervousness at the hotel and what it shows about intent, with the reported cases found. Section 21: Spec 3 element by element, with what the government has to prove at a general court-martial and where its proof is strongest and weakest. Section 22: the evidence packet, read directly, with the DPS report, the vehicle inventory and the Army CID report set against the complete log. Section 23: the search for comparable cases, with the outcome of each and whether it was appealed. Section 24: whether the removal of the texting apps reads as abandonment or as destruction of evidence, with the rule, the cases and a correction to the account of one federal case. Section 25: what the texting account may show, what each finding would be worth depending on whether it comes through counsel or from a look of his own, and what follows if one message there differs from the log. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
 
 ## 1. Bottom line
 
-*Current as of section 24.*
+*Current as of section 25.*
 
 **The charges**
 
@@ -66,7 +66,7 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 **What will decide it**
 
 1. The interview video: the exact words, the form of the questions, what he had been told by then, and whether he told the agents to look at his phone (sections 8.2, 16.5 and 19.2).
-2. How the message came to be sent: whether the same line went to other numbers within minutes, whether her ad was open, what her conversation held and what the screen showed (sections 15.2 and 19.2). The provider's copy may no longer exist (section 14.2).
+2. How the message came to be sent: whether the same line went to other numbers within minutes, whether her ad was open, what her conversation held and what the screen showed (sections 15.2 and 19.2). The provider's copy may no longer exist (section 14.2). Section 25 sets out how it should be looked for, and by whom.
 3. The exact words of Spec 1 and of Spec 3, and what the examiner says the timestamps record (sections 19.1 and 21.3).
 4. Where he was, and how he moved, while the messages were sent. The arrest is now fixed at 5:02 pm, in the lot where he had parked, the same minute his timeline gives for the removal of the apps. Which came first, and what he had with him, are still not recorded (sections 19.2, 22.5 and 22.6). Section 24 sets out what turns on the order.
 5. The second photo and the advertisement (sections 11.2 and 11.3).
@@ -79,6 +79,8 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 **Comparable cases.** The case he gave to start with, *United States v. Caroll*, ended two months ago at Fort Hood in conviction on the same two charges and a sentence of 16 years. No court-martial was found with a reverse image search, and no military opinion with a claim like his about memory. Where an accused refused and came back, he was convicted. The nearest cases to his account are civilian, with one court-martial known only from a defense firm's report, and they were decided on records (section 23). One of them, a federal case since read in full, is closer to his account than first reported, and the jury rejected the account (section 24.6).
 
 **The removal of the apps.** It can be argued as a change of mind and as getting rid of evidence, and neither argument is strong. As abandonment it does not meet the rule on what is known: he stayed, he sent her nothing, and his own account has reasons that the rule excludes if they played a part. As destruction of evidence it is weaker than it sounds: the messages survived with the provider and the government, and the removal did not single out her conversation. A federal court has still counted the deletion of a whole app as evidence that the accused knew the age. His routine is the reading that records can test, and the records of what followed earlier removals will show what it is worth. The order of the removal and the arrest is still unknown (section 24).
+
+**The texting account.** He has asked what follows if the account shows that her April 30 conversation had been deleted before May 1, or if it is there and one line differs from the log. A deletion that is proved and dated would be the strongest record he could have on the first step of his account, which is the step Specs 1 and 2 turn on. Most of that worth depends on how it is found: produced by the provider, or captured by an examiner working for counsel. Found by him, against counsel's advice, it could not be dated by looking, and he would be the only person known to have opened the account since the arrest. If the April 30 lines are still in his list, they were in his app on May 1 and, unless the app hid earlier messages, on his screen. He recalls writing "nah.....just one...maybe two ..later". I take that to be the line the log has at 16:00:22 as "Just you....then both"; he did not say which. It is recorded, and nothing should rest on it until a record supports it (section 25).
 
 **Urgent.** The provider says a number lapses after 30 days without use, and that message history may not survive long inactivity. Nearly seven months have passed. Counsel should be asked now whether the provider's records were preserved or obtained, by the defense or by the government (section 14.2). The profile and the Google account's activity can also be lost or changed (sections 11.5 and 13.7). So can location data, which Google now keeps on the phone itself and deletes after three months by default (section 19.2).
 
@@ -129,7 +131,7 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
    - "The photos showed an adult" conflicts with "I knew the photos were fake." Fake photos say nothing about who is texting.
    - "I did not intend to meet anyone" conflicts with the drive, "Cash right?", "Can you walk me upstairs?" and "Ill give extra."
    - Three separate misreadings ("on" as "or," "will" as "we'll," "Ok" answering only "we have a room") look contrived when stacked.
-2. **The linchpin is unproven.** The deck says he "can't definitively remember" deleting the April 30 thread. If the extraction shows the thread was still there at 15:49:15 on May 1, the refusal exchange sat directly above the box he typed in. Uninstalling the app cannot explain the mistake either, since the UC log shows the May 1 text arriving in the same thread from the same sender. The defense now says the thread was in the app's list and he opened it by mistake (section 12.2). That makes what the screen showed the central forensic question. The provider says a deleted conversation cannot be recovered (section 14.2). He has since said the thread was possibly deleted, which would change how the number was reached (section 15.2).
+2. **The linchpin is unproven.** The deck says he "can't definitively remember" deleting the April 30 thread. If the extraction shows the thread was still there at 15:49:15 on May 1, the refusal exchange sat directly above the box he typed in. Uninstalling the app cannot explain the mistake either, since the UC log shows the May 1 text arriving in the same thread from the same sender. The defense now says the thread was in the app's list and he opened it by mistake (section 12.2). That makes what the screen showed the central forensic question. The provider says a deleted conversation cannot be recovered (section 14.2). He has since said the thread was possibly deleted, which would change how the number was reached (section 15.2). Section 25 sets out what each possible finding would be worth, and why it matters how it is found.
 3. **His diligence cuts against him.** A man who reverse-searches photos, demands verification and checks for stings is hard to believe when he says he did not notice a number from 23 hours earlier. This has less force if, as now relayed, the conversations were listed by number only (section 12.2).
 4. **The image search began within minutes of the age disclosure.** Expect: "You were checking whether she was really 15, looking for a reason to say yes." He now says it was started during the conversation (section 13.4).
 5. **"Compulsion" serves the government's story too:** the urge overrode Thursday's "no." It is mitigation for sentencing, not a defense to intent. Section 17.3 separates addiction from habit, which records can prove.
@@ -228,6 +230,7 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
    - Rebuttal: "Then you wrote 'Just you….then both.' You never corrected it."
    - Reply: "By then I understood she meant both of them. I was saying who I wanted to see." That concedes intent toward an adult, not knowledge of age.
    - Update: as relayed, Spec 1 rests on this exchange. Section 19.1 sets out what the timing removes and what it leaves.
+   - Update: he has since said that he recalls writing different words. I take them to be the line quoted in the rebuttal above (section 25.5). Nothing should rest on that until a record supports it.
 8. **"You drove 20 minutes and asked 'Cash right?'"**
    - Answer: "Yes. To meet an adult."
    - Update: this answer supplies the intent that Spec 3 requires (section 21.5).
@@ -276,6 +279,9 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
     - If he says that it was his routine: "So you do it while you are still going ahead?"
     - If he says that he feared a scam: "Afraid enough to clear your phone, and not afraid enough to leave?"
     - The time of the arrest answers part of the first rebuttal (section 22.6). Section 24 covers the rest.
+21. **"You have had this log since your lawyer gave it to you. When did you first remember that one of your messages was worded differently?"**
+    - No answer shape is offered. Section 25.5 sets out what the question tests, and which record would answer it.
+    - Follow-up: "Have you opened that account since May 1?" The answer is a fact. Section 25.4 explains what turns on it.
 
 ## 7. Before any decision
 
@@ -292,6 +298,7 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
 11. **Put each point from the exhibits on one page and give it to counsel.** The exhibit, the lines, the times, and what the government's papers say instead. As relayed, the reading of "Yes" behind Spec 1 stood for months because nobody had done this (section 19.1). Section 22.3 does it for the Army report.
 12. **Go through the comparable cases with counsel** (section 23): the record in *Caroll*, the other soldiers arrested in the same operation, and the decisions on how a panel is instructed about belief.
 13. **Have the two times before anyone describes the removal of the apps:** the phone's record of the removal and the video of the arrest, each to the second. The reason for the removal is for counsel first (sections 24.3 and 24.7).
+14. **Leave the texting account closed, and take three requests to counsel:** the provider's records for his account, with his consent and by whatever process counsel chooses; a capture by an examiner working for the defense; and whether the government already has the provider's records. What he recalls of the line that differs goes to counsel in a dated note before any record is seen (section 25.7).
 
 ## 8. Addendum, 21 Nov 2026: timeline, interview statement, and the contradiction point
 
@@ -696,7 +703,7 @@ No answer shapes are offered. Each answer has to be what he remembers. Questions
 3. **The phone may no longer hold the conversations.** Removing an app from an Android phone normally removes the data it stored there, and the timeline shows the apps removed at 17:02 on May 1. The conversation he says he meant to continue may now exist only with the provider, or in a copy the government made.
 4. **Time matters.** Nearly seven months have passed. Services of this kind commonly delete inactive accounts and reassign their numbers. This provider says a number lapses after 30 days without use (section 14.2). Two questions for counsel:
    - Has a preservation letter gone to the provider?
-   - Can the account's records be requested with his written consent? The Stored Communications Act lets a provider release the contents of a message with the consent of its sender or recipient (18 U.S.C. § 2702(b)(3)). Whether to do that, or to go through the court-martial or the Texas court, is counsel's decision.
+   - Can the account's records be requested with his written consent? The Stored Communications Act lets a provider release the contents of a message with the consent of its sender or recipient (18 U.S.C. § 2702(b)(3)). Whether to do that, or to go through the court-martial or the Texas court, is counsel's decision. Sections 25.3 and 25.7 add how the provider can be reached and what to ask it for.
 
 ### 11.2 Point 3: what he remembered of the profile
 
@@ -1090,6 +1097,7 @@ Sorted from everything relayed so far.
 | That the second photo matched the woman on the profile | | |
 | That some conversations in the list were from the previous day | | |
 | Sending the other woman something like "I was on the way" | | |
+| Writing "nah.....just one...maybe two ..later" on May 1 (section 25.5) | | That this was the message the log has at 16:00:22 as "Just you....then both" |
 
 1. **The pattern.** Most of the first column helps him. Most of the second would hurt if he remembered it the other way. A cross-examiner will say that his memory fails where he needs it to.
 2. **It may be how memory works.** People remember what they meant to do and what struck them. They do not remember what was on a screen, or whether they pressed delete. A fact-finder can accept that. It is easier to accept from a witness who also remembers things that do not help him, and the intention to block her is one.
@@ -1107,6 +1115,7 @@ Sorted from everything relayed so far.
 | "Give money and leave" | Slide 9: a thought he had at the hotel | The interview statement was a generalization (13.2). An answer to a question he took as hypothetical (section 16.5) |
 | "2 for 1 tonight 100" | Slide 5: "2 for 1" did not make sense until later | The same position, as he explains it: the offer was not overtly accepted. The reading of "100" as a time was added in section 16.1 (section 19.2) |
 | "Cash right?" | The deck, as section 4 recorded it: scam testing | Meant for someone else (section 16.1) |
+| The words of one message on May 1 | Section 16.1: the line at 16:00:22 was his answer to the repeated proposition. Its words were not disputed | He recalls writing "nah.....just one...maybe two ..later", which I take to be that line (section 25.5) |
 | What he believed at the hotel | Slide 9: he did not intend to meet anyone. Section 11.2 added that he took her for the woman on the profile. That was my inference, and he says it is misleading | Several things at once: a scam suspected, nothing decided, the recipient unknown, no thought of a minor (section 19.2) |
 
 Some of these are refinements and not contradictions, and the newer version is usually the more specific and the easier to check. Each is still a "which is it?" question, and the deck is a written record of the earlier versions. Section 8.3 explains the cost. Counsel should settle which slides are withdrawn before anything more is disclosed.
@@ -1196,6 +1205,7 @@ As relayed, the provider is TextFree, which is made by Pinger. That allows three
 3. **If the conversation was in the list, the April 30 exchange was in it.** That is what section 12.2 said, and the provider's pages bear it out.
 4. **It bears on the habit.** A habit of deleting conversations does not fit a list that still held the previous day's. A habit of removing the app does, because removal leaves the conversations with the provider (14.3).
 5. **It sharpens a question in section 13.5.** Deleting her conversation would have taken her number out of the list for good, in one step. On his account he saw the risk and looked for a way to remove it. For a number that is not a saved contact, the provider's article describes the block as set from the conversation itself, by swiping on it. If he got that far, her conversation was in front of him. If it was still in the list at 15:49, he will be asked why. No answer shape is offered.
+6. **A later correction.** The provider's page on saving conversations says that the result of a Personal Information Request "may include deleted messages, if they are still available." So a deletion removes a conversation from what the user sees, and not necessarily from the provider's systems. Section 25.1 takes this up.
 
 **The expiry point**
 
@@ -1206,7 +1216,7 @@ As relayed, the provider is TextFree, which is made by Pinger. That allows three
    - Whether a preservation request went to the provider, and when (section 11.1).
    - Whether the government obtained the provider's records for his account. It had both numbers from May 1. If it did, the other conversations should be in discovery.
    - Whether the government's extraction of the phone recovered anything from the app.
-5. **He should not log in to see what is left.** Counsel's instruction stands. Logging in would add activity to the account's record, and I do not know what else it would change.
+5. **He should not log in to see what is left.** Counsel's instruction stands. Logging in would add activity to the account's record, and I do not know what else it would change. Section 25.4 sets out what has since been found about that, and what a look by him would cost.
 
 ### 14.3 The record of the habit
 
@@ -1347,6 +1357,7 @@ I read this as: her conversation was possibly deleted, and many other conversati
    - The government's extraction of his phone, and whatever it recovered from the app.
    - His Google activity for the minutes before 15:49 on May 1: which page or app was open. Section 7 has asked for this since the first draft. If her ad was open, it was the second case.
    - The examiner's tests of the app: what a message arriving after a deletion produces, and whether the app suggests numbers that are no longer in the list.
+   - Section 25 sets out what each possible finding would be worth, and why it matters how it is found.
 
 ### 15.3 What he did about her number
 
@@ -1474,6 +1485,7 @@ The numbers are those of section 6. Each answer is recorded as relayed and then 
 - The timing is the strongest point he has on any single message. It is in the log, and it does not depend on his word. As relayed, Spec 1 rests on this message (section 19.1).
 - The reply does not meet the rebuttal, which was that he never corrected "Yes." It says what "Just you….then both" was: his answer to the proposition. That concedes that by 16:00:22 he understood what was offered and answered it.
 - Whom "you" meant is then the question, and it is the question of Specs 1 and 2.
+- He has since said that he recalls writing "nah.....just one...maybe two ..later". I take that to be this line (section 25.5).
 
 **8. He drove 20 minutes and asked "Cash right?"**
 
@@ -1570,7 +1582,7 @@ No answer was given. His answers to questions 8 and 9 make this one harder (16.4
 | "Are you still around?" | A return to her | Meant for another woman | Wrong recipient |
 | "Ok. Where at?" after "2 for 1 tonight 100" | Going along with the offer | He was answering "we have a room"; "100" read as a time | Reading of the text |
 | "Yes" | Agreeing to the act | He was answering "are you coming?" | Reading of the text, supported by the timing |
-| "Just you….then both" | Choosing her, then both | His answer to the repeated proposition | Not disputed |
+| "Just you….then both" | Choosing her, then both | His answer to the repeated proposition | Not disputed at the time. He has since recalled different words, which I take to be this line (section 25.5) |
 | "Im convinced lol" | Satisfied by the photo | Sarcasm | Tone |
 | "Cash right?" | Confirming how he would pay | Meant for someone else | Wrong recipient |
 | "Im a little nervous" | Said to the person he was about to meet | He expected a scam | Scam |
@@ -2008,7 +2020,7 @@ As relayed, several officers had this log, and the reading that he had said yes 
 
 **What it does not remove**
 
-1. **"Just you….then both."** It was sent a minute later, when her second line had been in front of him for some time. The government will read it as his answer to "on both of us." He says it answered the offer of two women, which he took her to be repeating (section 16.1). On either reading he wrote it after seeing her line.
+1. **"Just you….then both."** It was sent a minute later, when her second line had been in front of him for some time. The government will read it as his answer to "on both of us." He says it answered the offer of two women, which he took her to be repeating (section 16.1). On either reading he wrote it after seeing her line. He has since said that he recalls different words, which I take to be this line (section 25.5).
 2. **"ok u gonna cum" taken alone.** The agent spelled it the sexual way, and the government may say that "Yes" agreed to that line by itself. The answer is the message about distance just before it, and the way people spell in texts.
 3. **The message about the car at 16:58,** which the hearing officer also relied on for Spec 1 (section 8.2).
 4. **Short replies can carry this charge.** Words that are chaste one by one can be indecent as a whole, particularly when said to a child. In *United States v. French*, 31 M.J. 57 (C.M.A. 1990), asking a stepdaughter under 16 whether he could climb into bed with her was enough. The court there worked from the principle that where language is not indecent on its face, the specification itself has to make the indecency clear. So the exact words of Spec 1 matter, and counsel should read them against the log line by line.
@@ -2077,7 +2089,7 @@ As relayed, several officers had this log, and the reading that he had said yes 
 | Her conversation opened from the list, and already deleted | No. A fact (section 15.2) |
 | Not knowing whose number it was, and knowing | No. This is the one that decides Specs 1 and 2 |
 
-1. **An explanation that sits beside the natural meaning of a message costs little. One that replaces it costs a great deal.** Section 16.2 counted ten messages and acts that had been given another meaning. Several belong to the first kind. Two more are supported by the log itself: the timing of "Yes," and the request for another photo that followed "Im convinced lol." So the count overstated the problem. The second kind, with nothing in the records behind it, is a short list: "100" as a time, "Cash right?" as meant for someone else, and the extra as nothing but a test.
+1. **An explanation that sits beside the natural meaning of a message costs little. One that replaces it costs a great deal.** Section 16.2 counted ten messages and acts that had been given another meaning. Several belong to the first kind. Two more are supported by the log itself: the timing of "Yes," and the request for another photo that followed "Im convinced lol." So the count overstated the problem. The second kind, with nothing in the records behind it, is a short list: "100" as a time, "Cash right?" as meant for someone else, and the extra as nothing but a test. Section 25.5 records a further claim, of a different kind: that the words of one message were not those in the log.
 2. **A mixture is not the same as a change.** A mixture is the same description every time it is given. What a cross-examiner uses is a different answer on a different day (section 13.6). If the truth has five parts, each telling has to have all five.
 3. **Where he does not know which of two facts happened, "I do not know" is the accurate answer.** "Both" is not available for a fact.
 
@@ -2943,6 +2955,7 @@ Other points on the Army report:
 8. **The recording of the call at 17:03:24,** and how the number was "later confirmed."
 9. **The final DPS report,** and any later Army reports.
 10. **What "sent" and "delivered" mean in the undercover system,** and what its times record (section 19.1).
+11. **The undercover system's own record of the conversation,** in its original form, with its history of access (section 25.9).
 
 ### 22.12 What this changes
 
@@ -3396,3 +3409,302 @@ Section 20.4 described *United States v. Puff*, No. 23-4457 (4th Cir. 17 Mar. 20
 7. **Most of the cases that section 23 marked as not checked a second time have now been checked.** The marks have been changed, and two rows corrected (*Allen* and the Fort Drum case).
 8. **Section 6 has a new question, 20, and section 7 a new item, 13.**
 9. **The order of work is unchanged:** the video first, the forensic report second, the account third. The first two will also give the order of events at 17:02.
+
+## 25. Addendum 18, 24 Nov 2026: what the texting account may show, and who finds it
+
+**What this covers.** A question supplied after section 24, recorded as relayed.
+
+*As relayed: for analysis only. Counsel has advised him not to reinstall the app or to view the messages through a cloud login. What are the scenarios if (A) the account shows that the April 30 conversation had been deleted and was not available on May 1, and this is discovered (1) by the forensic examiner or (2) by him, against counsel's advice; or (B) the April 30 conversation is present, but one message differs from the undercover log? He remembers texting "nah.....just one...maybe two ..later".*
+
+I have not seen the account, the provider's records, the forensic report or the video. This section takes the question as put, for analysis, and assumes that he has not opened the account since May 1. I could not open the provider's support site from here, so what follows about its pages rests on what a web search returns from them (section 14). Ten decisions are used here that earlier sections did not set out. Seven were read in full, in a public copy of the courts' opinions: *Lubich*, *Turner*, *Toledo*, *Lanzon*, *Gagliardi*, *Tank* and *Barrios*. *Strong*, *Warfield* and the California decision in 25.3 were read in extracts of the courts' own words. Statements of law are my understanding, for counsel to confirm.
+
+**Short version**
+
+- **The same finding is worth very different amounts, depending on how it is found.** Produced by the provider, or captured by an examiner working for counsel, it is a record. Found by him, it rests largely on his word, and the account then carries a login that only he made.
+- **Scenario A, proved and dated, would be the strongest record the defense could have on the first step of his account,** which is the step Specs 1 and 2 turn on. It would take the April 30 exchange off his screen at 15:49. It would not take away what he was told on April 30. It would move the question to her ad, and it would leave the interview where it is.
+- **The date of the deletion matters as much as the deletion.** After the refusal on April 30, it matches the refusal. On the afternoon of May 1, it shows that he picked her conversation out a few hours before he texted her number. After 15:49, it is not scenario A.
+- **By looking, he could confirm the worst case and could not prove the best one.** If the April 30 lines are in his list today, they were never deleted. If they are not, that alone shows little. The number will normally have lapsed, the provider warns that history may be gone, and a login by him would be the only known access since the arrest.
+- **Scenario B has two halves, and the first is bad news that the question does not mention.** If the April 30 lines are still in his list, they were in his app when he wrote to her on May 1 and, unless the app hid earlier messages, on his screen.
+- **The line he recalls has the same shape as a line in the log.** As things stand, the likeliest explanation of the difference is memory, and the likeliest result of any check is the words in the log. If a record of his account really did show different words, memory would not explain that. There would be two messages, or an error in one of the records.
+- **A dispute about the words of the log needs a record.** Courts have admitted chat logs that officers had pasted into documents, where the accused "offered no evidence" that they had been altered. His own best points come from this log too.
+- **His recollection is worth most if the order can be shown: the recollection first, the record after.** That is a reason to put it in a dated note to counsel before anyone looks, and for the first look to be one that is recorded.
+- **The provider may still hold what he deleted.** Its own page says that a data request "may include deleted messages, if they are still available." That corrects section 14.2. It is a reason to ask the provider and not the app.
+- **The way to find out is through counsel:** the provider's records, with his consent and by whatever process counsel chooses, and a capture by an examiner working for the defense. As I understand it, the defense in a court-martial cannot issue a subpoena of its own, which makes his consent the important thing. The time limit noted in section 14.2 still applies.
+
+### 25.1 What can be known, and from where
+
+| Source | What it could show | Limits |
+|---|---|---|
+| The provider's own records, produced by the provider | What the account held for her number, with times. Possibly messages he had deleted. Possibly logins and deletions | What the provider keeps, and for how long, is not published. Its page for investigators says that it "requires formal legal process for the release of user records." The statute allows release with his consent and does not require it (25.7) |
+| Records the government has already had from the provider | The same, as they stood when it asked | I do not know whether it asked. The DPS report says that his number was "later confirmed," which may mean a request to the provider or may mean the phone (section 22.11) |
+| His list as it stands today, opened in the app | What the user is shown now | It needs the app reinstalled and a login. It shows today, not May 1 |
+| The provider's download, and its "Personal Information Request" | A text file of one conversation. Or a copy of account data that "may include deleted messages, if they are still available" | Both need a login. The request can be made twice in 12 months, and its result omits "the date, time, or recipient's phone number" |
+| The phone the government holds | Which app or page was open, minute by minute, before 15:49. Perhaps remnants of the app | Removing an app normally removes what it stored (section 11.1) |
+| The undercover system | Every message it sent and received, and when | Nothing about what his screen showed |
+| His Google account | Searches, pages and app use by time (section 13.7) | Nothing from inside the app |
+
+1. **Today's account is not the account of May 1.** The provider says that a number expires after 30 days without an outgoing message or call, and that the app then "prompts you to choose a new one." It says that call and message history "may not be available after any long period of inactivity," and that messages "may still show in the inbox when you reopen your TextFree account, depending on how long it's been." Nearly seven months have passed. Unless a paid plan kept the number, it will have lapsed (section 14.2).
+2. **Viewing "through the cloud" now runs through the app.** The provider's pages say that the browser version no longer takes a password directly: "you'll now use a QR code and your mobile app to verify your login." So, on the provider's present description, opening the account in a browser means reinstalling the app on a phone and logging in there first. The two things counsel advised against are, in practice, one.
+3. **Deleting is permanent for the user. It may not be for the provider.** The provider says that deleting messages "is a permanent action that cannot be reversed." Its page on saving conversations also says that the result of a Personal Information Request "may include deleted messages, if they are still available." So the provider's systems may hold a deleted message for some time. Section 14.2 treated a deleted conversation as gone, and that went too far. The provider may be able to show both that the April 30 exchange existed in his account and that he deleted it. Whether it records when is a question to put through counsel.
+4. **So two things have to be kept apart: what his list shows, and what the provider holds.**
+   - In his list, presence proves presence and absence proves little. A message that is in the list now was never deleted, so on the provider's description it was in the account on May 1. A message that is not in the list may have been deleted on April 30, deleted later, or dropped when the account went unused.
+   - In the provider's own records the caution runs the other way. A message that the provider still holds may be one that he deleted. A production has to say which messages were deleted, and when if it can.
+5. **Single messages can probably be deleted in the phone app.** The provider's page says that the browser version has "no option to delete individual messages" from within a conversation. That implies that the phone app has one, and a third-party guide from 2019 describes it. The examiner should confirm it for his version. It matters because a conversation with its April 30 lines missing could be produced by deleting those lines one at a time, at any later date.
+6. **The provider's own request is a poor way to get evidence.** It is made "by logging into your TextFree account." It can be made twice in 12 months, so a request made by him would use up one of the two. Its result leaves out dates, times and the other party's number. "Only active accounts can request information." The same page offers a request to delete the account's data. Nobody should use that.
+7. **A message can fail to arrive.** The provider's pages describe an "Unable to deliver message" error. They say that, once a daily limit is passed, some messages "may not be delivered if the receiving carrier prevents them." This bears on scenario B.
+
+### 25.2 Scenario A: the April 30 conversation was gone before 15:49 on May 1
+
+This is the second case in section 15.2.
+
+**What it would show**
+
+1. **The April 30 exchange was not on his screen when he typed.** That answers the point section 3 calls the linchpin, and the prosecutor's line "Your 'No' was on the screen above it" (section 6, question 2). In the plain case, his side of the conversation on May 1 began with "Are you still around?"
+2. **The two of them were not looking at the same thing.** On the agent's screen the two days were one conversation, with the age in it. On his, the conversation began that afternoon. The panel will be shown the agent's version (section 22.2). An examiner may be able to show what his looked like.
+3. **An act before the arrest that matches the refusal.** Section 15.1 said that a deletion of her conversation alone would be the third such record, and the first that concerns only her.
+4. **He said it before it was checked.** "It seemed more effective than blocking" and "possibly deleted" are on record in section 15.1, as I read them. As with the app's rule on blocking (section 14.1), being right before the check counts.
+5. **It would narrow how the first message was sent.** A conversation that has been deleted in full is not in the list to be opened by mistake. He entered her number some other way, and the likeliest source is her ad. That is one of the two ways he now thinks most likely (section 19.2).
+6. **It is the account in *Ismaiel* with a record behind it.** There the accused testified that he had deleted the first conversation, and an expert said that the app could behave as he described. The conviction was reversed, because the jury had been told that a mistake had to be reasonable (section 23.6). Here the deletion would be shown by the provider's record and not by his word.
+
+**When it was deleted decides what it shows**
+
+| The deletion was | What it shows | Who gains |
+|---|---|---|
+| On April 30, of the whole conversation, after her last message at 16:43:04 | An act that matches the refusal, made before any return. It also explains the mistake: after it, nothing in the app marked her number | Him. This is the strongest form |
+| On April 30, in part, or before her last message arrived | The third case in section 15.2. Her number was still in the list and could be opened from it. Everything turns on which lines were left, and the record has to show that | Him, if the lines about her age were gone. Otherwise it changes little |
+| On May 1, between the reinstall at 13:11 and 15:49 | He picked her conversation out of the list that afternoon, and within hours he texted her number (section 13.5) | Both. The defense: the same wish to be rid of her. The government: he cleared the record and then went back |
+| On May 1, after 15:49, including single lines | Not scenario A. The April 30 lines were still in the conversation at 15:49. It would resemble *Fulsom*, where the extraction showed that the one deleted message was the one that gave the age (section 24.3) | The government |
+| After the arrest | It could not have been done on the phone, which had been taken. It could have been done only through a later login | The government, if there has been one (25.4) |
+
+**What it brings with it**
+
+1. **What he was told on April 30 does not go away.** The deletion takes the exchange off his screen. It does not take it out of his memory. The government will still point to the 23 hours and to the same number, and will say that he knew whom he was writing to without being reminded.
+2. **"Then where did you get her number?"** The likely answer on this scenario is her ad, and he had searched that ad's photograph the day before. So one of the two things section 1 says were in front of him goes, and the other stays. What the ad showed and what age it gave are still unknown, because the ad is not in the packet (section 22.1). The page open on his phone just before 15:49 would show whether it was the ad (section 7). The examiner can also test whether the app offers numbers that are no longer in the list (section 15.2).
+3. **"Still."** "Are you still around?" would have been sent to a number with nothing on the screen behind it. A prosecutor will ask what "still" meant. He points to lines of the same kind sent to other numbers (section 3). Those conversations have to be in evidence for that answer to work (section 23.5).
+4. **One deletion is not a routine.** On his own answers the other conversations from April 30 were still in the list (section 14.3). The government will say that he deleted the one conversation with an age in it. A deletion can be read as what a man does when he is finished with someone. It can also be read as getting rid of something he did not want kept. The date of the deletion, set against the refusal, is what tells them apart.
+5. **It strains section 13.5.** He has said that he looked at other apps because he feared texting her by accident. If her conversation had been gone since April 30, there was nothing in the app to text by accident, and the search at 14:01 to 14:04 on May 1 is left without that reason. If he deleted it on May 1 after looking at the other apps, the third row of the table applies.
+6. **The interview and the second photo are untouched.** As relayed, he told the agents that "the next day" he thought "she" needed money, and he has said that the second photo resembled the profile. Scenario A explains neither (section 1).
+7. **The account holds everything else.** The record that proves the deletion comes from an account that also holds his other conversations, on that afternoon and on earlier days. Once the defense relies on the account, the government can be expected to ask for the rest. Some of that helps him (sections 9.2 and 23.5). All of it is other occasions (section 9.4).
+8. **A federal jury has rejected a claim of this kind.** In *Puff* the accused said that he did not know he was continuing the earlier conversation "because he regularly deleted all his conversations." The court answered that "there is significant contrary evidence in the conversation itself" (section 24.6). Here the candidates for such evidence are "Are you still around?" and "Cash right?" The opinion does not mention any record of those deletions. On scenario A he would have one.
+9. **Texas is unchanged.** The offense there can rest on what he was told (section 11.4). Whether what he was told on April 30 counts, if he did not know on May 1 that it was the same person, is a question for his Texas counsel.
+
+**What proof of it would look like**
+
+1. **The provider's record of her conversation as his account held it:** the May 1 messages beginning at 15:49:15, and the April 30 messages either absent or marked as deleted.
+2. **Best, the provider's own record of when the deletion was made,** if it keeps one.
+3. **Failing that, two things together.**
+   - The shape of what is left. A conversation that starts at 15:49:15 on May 1, with nothing before it, is what deleting the whole conversation between the two days would leave. To produce the same result later, someone would have had to pick out the April 30 lines one at a time.
+   - A record that nobody has used the account since the arrest, if the provider keeps one. The app came off the phone at 17:02 and the phone was taken. With no access after that, from any device, any deletion was made before 17:02 on May 1.
+   - Neither is as good as a date. Together they still leave open a deletion between 15:49 and 17:02. The second is lost if he logs in.
+4. **Support from the phone:** what was open in the minute or two before 15:49. Her ad in the browser would fit this scenario.
+
+### 25.3 Scenario A, found by an examiner
+
+1. **It matters whose examiner.**
+   - **The government's.** As I understand R.C.M. 701(a)(2)(B), the defense is entitled on request to the reports of examinations in the government's hands, and evidence that tends to negate guilt has to be disclosed (R.C.M. 701(a)(6)). A deletion before 15:49 found by the government's own examiner would be the strongest form of this scenario, because nobody could say that the defense had made it. The phone alone probably cannot show it (25.1), so it would have to come from records that the government obtained from the provider.
+   - **The defense's.** An examiner has to be brought into the defense through counsel. As I read R.C.M. 703(d), a request for the government to pay goes to the convening authority and, if refused, to the military judge. How defense experts are funded has been changing, and counsel will know the present route. Counsel can also engage one privately. The Court of Military Appeals has held that an expert assigned to the defense as a consultant is "the lawyer's representative" under M.R.E. 502, so that "the prosecutor was not free to interview him" (*United States v. Turner*, 28 M.J. 487 (C.M.A. 1989)). In *United States v. Toledo*, 25 M.J. 270 (C.M.A. 1987), which concerned a psychologist, it said that if the defense had obtained its expert "at its own expense," the communications with him would have been "within the attorney-client relationship," subject to an exception that does not arise here. It added that an accused "has no right simply to help himself to government experts and bring them into the attorney-client relationship, bypassing the proper appointing authorities." The same opinion noted what a request to the government costs: it tells the government what the defense is looking at. Section 7 has said since the first draft that the examiner should come through counsel.
+2. **How the provider's records are reached.** As I understand R.C.M. 703, defense counsel in a court-martial cannot issue a subpoena. A subpoena is issued by the trial counsel or the military judge, and a defense request for evidence ordinarily goes to the trial counsel. So the government will normally know what has been asked for, and may see what comes back. After referral the rule lets the defense ask the military judge directly for a subpoena for a witness, and to do so without the government present. Whether a request for records can be made in that way is for counsel. The rule on warrants and orders to providers is written for the government: the application is made by "a federal law enforcement officer, trial counsel, or other authorized counsel for the Government" (R.C.M. 703A). In the California case cited next, the providers argued that the Stored Communications Act "contains no exception for criminal defense subpoenas." What opens the door for the defense is his consent, as the sender of the messages and the holder of the account (25.7). The California Supreme Court held that where the consent exception applies, "a provider must disclose any such communication pursuant to a subpoena that is authorized under state law" (*Facebook, Inc. v. Superior Court*, No. S230051 (Cal. 24 May 2018)). That is one state court, and the messages there were ones that their authors had made public. Which route to use, and in which forum, is for counsel. His Texas counsel may have means that military counsel does not.
+3. **What a defense examiner finds can usually stay inside the defense.** As I understand R.C.M. 701(b)(4), the defense has to show the government an examiner's report only where it has asked for the government's own reports, and then only if it means to use the report in its case or to call the person who prepared it on that subject. R.C.M. 701(f) protects the working papers of "counsel's assistants and representatives." So a consulting examiner's bad news need not be handed over. That can change if the same examiner is called as a witness. It does not apply to what the government's own examiner finds, or to records that reach the defense through the trial counsel. What is disclosed, and when, is counsel's decision.
+4. **An answer that hurts still has consequences.** Counsel cannot knowingly offer evidence that is false, and he cannot honestly say what he then knows to be untrue. An examiner's finding is not the last word, and counsel can test it. The gain is that the defense would be deciding with the facts, and not guessing at them.
+5. **It can be proved without him.** The examiner and the provider can put the record in, and how that is done is for counsel. He does not have to take the stand to establish what his account held. Section 6 sets out what his testimony costs, and this point would not need it (section 19.1).
+6. **How it should be done.** The Scientific Working Group on Digital Evidence publishes guidance on collecting from cloud accounts. Where the provider is able to supply the data in a common file format, the guidance calls that "the preferred option due to the fact that the collector will be receiving the data directly from the provider." It tells collectors to compute hash values and to keep "all notes, including screenshots, photographs, and logs generated during acquisition." A production by the provider does not touch the account. A capture does. If the account itself has to be opened, the examiner does it, with his written consent, and records each step and the state of the account before and after. An examiner's login has the same effects on the account as his would. The differences are that it is recorded, and that it is made by someone other than the accused, who can be questioned about how it was done. The provider's records and a capture answer different questions, and counsel and the examiner may want both. The choice is theirs.
+7. **What the examiner may find instead.**
+   - Nothing in the list, because the history has gone. Then the question passes to whatever the provider still holds on its own systems, and to what the government obtained.
+   - An absence with no date. That is worth less than a dated one, and how much less depends on the two things in 25.2.
+   - Both days in his list. That is the first case in section 15.2, and "possibly deleted" stops being available to him. The defense would know it privately, and before deciding whether he should testify.
+   - Both days in the provider's own records. That is a different finding. The provider may hold lines that he deleted, so the production has to be read for which lines were deleted (25.1).
+8. **What follows if scenario A is found and dated.**
+   - On Specs 1 and 2 the mistake has a record. The government could no longer say that the April 30 exchange was on his screen. It could still rely on what he was told that day, on the 23 hours, on the same number, on the May 1 messages, on the ad and on the interview.
+   - The instruction that the panel must find an actual belief matters more (section 23.5).
+   - Section 1 lists three things that his account asks a fact-finder to accept on his word. The first would be narrowed to the ad. The second and third would be unchanged.
+   - It is the kind of record to put, in writing, in front of whoever decides what goes to trial (section 19.1).
+   - Spec 3 is unaffected.
+
+### 25.4 Scenario A, found by him against counsel's advice
+
+**What he would have to do.** Reinstall the app on a phone and log in (25.1). On the provider's description the app would then prompt him to choose a new number.
+
+**What he could learn**
+
+| What he sees | What it shows | What it does not show |
+|---|---|---|
+| An empty list, or a new number and nothing else | That the history is no longer shown to the user | Anything about April 30. The provider may still hold more |
+| Her conversation with both days in it | That it was never deleted. This is the first case in section 15.2 | |
+| Her conversation beginning at 15:49 on May 1 | That the April 30 lines are not in the list now | When they went, or how |
+| A line that differs from the log | See 25.5 | |
+
+A look can settle one thing outright, and it is the case against him: both days in the list means that the conversation was never deleted. Anything in his favor would still have to be proved from the provider's records, and those can be sought without his looking. After nearly seven months, an empty list may well be all that he would see.
+
+**Why it is tempting, and what answers that.** The record may be disappearing, and he cannot see that anyone has secured it. That concern is legitimate, and section 14.2 has called it urgent. The answer to it is to press counsel now on preservation and on the provider's records (25.7). It is not to open the account.
+
+**What it would cost**
+
+1. **It leaves a record.** An install from the Play Store is normally recorded in the Google account used (section 14.3). That is the same kind of data the defense wants to use to prove the habit. A login is the kind of event a provider records, though I could not confirm what this one keeps.
+2. **It weakens the proof of when.** If the provider logged the deletion with a time, his login changes little on that point. If it did not, the argument that the lines went before the arrest rests on nobody having had access since (25.2). His login would end that. Single lines can probably be deleted, so the government would not have to prove that he removed anything. It would only have to point out that he could have.
+3. **It makes him the obvious witness.** A screenshot or a downloaded file is something he made. It needs evidence of what it is (M.R.E. 901), and the natural source of that evidence is him, with everything in section 6. Counsel might prove it another way, for example from the provider's records. But if those can be had, his own copy adds nothing to them.
+4. **It may change the account.** At the least it adds a login and, on the provider's description, a prompt for a new number. I could not confirm what else it changes, or whether choosing a new number affects the old conversations.
+5. **It may use up what the examiner needs.** The provider's data request can be made twice in 12 months (25.1).
+6. **A message could be sent by accident.** In this app a message lifts a block (section 14.1). If the list still holds anything, it holds her number, which is a police number, and the numbers of women he should not contact (section 14.2). An accidental message is the thing he says he feared on May 1.
+7. **It puts the order of memory and record in question.** Section 25.5 explains why that order has value, and how it can be fixed beforehand.
+8. **Anything changed now would be changed with charges pending.**
+   - I know of no rule that makes it an offense to look at his own account. Whether a condition of his release, or an order, restricts what he may install or use is something only he and counsel know.
+   - A deletion or alteration is different. Article 131b covers conduct in a case where the accused "had reason to believe there were or would be" proceedings. On May 1 that was a question (section 24.3). Now it is not. The Texas offense covers a person who acts "knowing that an investigation or official proceeding is pending or in progress." The federal statute under which the accused in *Puff* was convicted covers anyone who "knowingly alters, destroys, mutilates, conceals, covers up, falsifies, or makes a false entry in any record" with intent to impede an investigation (18 U.S.C. § 1519).
+   - Each of these requires intent, and I do not suggest that he would do any such thing. The point is narrower. He would be alone with the account, and nobody could later show that nothing was changed.
+   - What an accused does with an account after an arrest or a seizure is traced. In *United States v. Strong*, No. 23-0107/AR (C.A.A.F. 22 Aug. 2024), a soldier "remotely reset her Apple iPhone to the original factory settings" after agents had seized it. The opinion records that the investigators then obtained information from the phone's maker and from her carrier, by warrants under 18 U.S.C. § 2703. The court upheld her conviction for preventing an authorized seizure (Article 131e). In *United States v. Barrios*, No. 24-1941 (8th Cir. 19 Aug. 2025), the opinion records that within a day of his release the accused "blocked Stella's Facebook account and deleted some of the messages he had previously sent her." The court made no ruling on it. In *Kerns* a soldier was charged with obstruction for deleting his messages with the agent, though the charge failed (section 24.3).
+   - Those accused deleted things. Looking is not deleting. The cases show only that what is done with an account after an arrest gets examined, and that the provider's records are where it is found.
+9. **It puts counsel in a difficult position.** Counsel can stand behind a capture that counsel arranged. Counsel cannot do that for one he made alone, and would have to deal with the login in everything that followed.
+10. **What he finds cannot be unlearned.** If he sees both days in the list, "possibly deleted" is no longer an answer he can honestly give. That is true whoever finds it. Through the examiner, the news comes with counsel's advice on what it means.
+
+**If it ever did happen.** He has put the question as analysis, and this section takes it so. This document is also the wrong place to say otherwise (section 11.5). The steps would be these. Stop. Change nothing and delete nothing, including the app and anything saved from it. Tell counsel at once, exactly: the date and time, the device, what was done and what was seen. Counsel can still send the examiner, and the sooner the better. The worst course would be to say nothing. Counsel might then present the account as untouched since the arrest, and a record of the login could show otherwise.
+
+**The same finding, by the two routes**
+
+| | Through counsel: produced by the provider to the defense, or captured by the defense's examiner | Found by him |
+|---|---|---|
+| Who can prove it | The examiner and the provider | He can. Others can only if the provider's records show the same |
+| Whether he must testify to it | No | Probably, unless the provider's records show the same |
+| If it hurts | It can usually stay inside the defense (25.3) | He knows it, and a login is on record |
+| What the government can say | It can test the method | He had the account to himself |
+| What it does to the account | Nothing, if the provider produces it. If the examiner opens the account, a login that is recorded step by step | A login that nobody recorded |
+
+### 25.5 Scenario B: the conversation is there, and one message differs
+
+**First, what "there" means.** If the April 30 lines are in his list, the conversation was never deleted. That is the first case in section 15.2. Unless the app hid earlier messages, the end of the April 30 exchange was above the box when he typed "Are you still around?" or came into view as soon as the message was sent. The four lines were her statement of her age, his refusal, "Not in rude way." and "k i get it" (section 12.2). On Specs 1 and 2 that is the worst version of the first step, and it is part of this scenario whatever else the conversation shows. The examiner can test what that version of the app shows when such a conversation is opened. What his screen actually showed, and for how long, may never be known exactly (section 12.2). If the April 30 lines appear only in the provider's own records, they may be lines that he deleted, and scenario A is still open (25.1).
+
+**The message.** He did not say which message he means. I take it to be the one the log has at 16:00:22, because the two have the same shape. That is my inference.
+
+| Time on May 1 | From | In the log | As he recalls it |
+|---|---|---|---|
+| 15:58:57 | Agent | "ok u gonna cum" | |
+| 15:59:19 | Agent | "on both of us lol" | |
+| 15:59:21 | Him | "Yes" | |
+| 15:59:48 | Agent | "yummy" | |
+| 16:00:22 | Him | "Just you....then both" | "nah.....just one...maybe two ..later" |
+| 16:00:42 | Agent | "both if u want" | |
+
+**This is a new kind of statement**
+
+1. **Until now he has disputed what messages meant, and not what they said.** Section 16.1 records his answer about the line at 16:00:22: it was his reply to the proposition for two, which he took her to be repeating. Section 16.2 listed the line as not disputed. He has had the log since his counsel gave it to him (section 19.1).
+2. **The sense he gives the line has not changed.** Then and now, he says that the line was his answer to the proposition for two. Only the words are new, and the new words decline it more plainly.
+3. **He will be asked when he first remembered them.** The government will say that the memory came after he had had the log for some time, and on a line that it relies on.
+4. **The two lines have the same shape.** Each begins with one person and goes on to two. Each uses "just," and each is broken up with dots. That is what a memory of the sense of a message looks like when the words have gone. It is also what two similar messages would look like.
+5. **Memory keeps the sense and loses the words.** The results of a well-known experiment "suggest that the original form of the sentence is stored only for the short time necessary for comprehension to occur," after which "the meaning is stored" (Sachs, *Perception & Psychophysics* (1967)). That study was of sentences people heard, and not of messages they had written. From the inside, a wording that has been rebuilt can feel the same as one that is recalled. Section 13.2 makes the same point about reasons.
+6. **The agent's reply fits either wording.** "both if u want" answers a man who has put one first. So the log itself does not settle it.
+
+**What the words would change, if they were his**
+
+1. **The opening "nah" would read as a no,** sent a minute after "Yes," to the line that "Yes" is said to answer. Question 7 in section 6 has the prosecutor say "You never corrected it." On these words there was a correction.
+2. **"Just one" does not single anyone out.** The log's line says "you," the person texting. The government reads that as choosing her (section 4), which bears on Spec 2. The recalled line does not say it.
+3. **The ending puts the second person off.** It does not agree to her. That supports his position that the proposition for two was never accepted (section 19.2), and it goes against the Army report's sentence that he agreed to pay for two (section 22.3).
+4. **It would matter most for Spec 1.** Section 19.1 said that the timing of "Yes" does not remove "Just you....then both," which the government can read as his taking up her line. The recalled words would largely answer that reading, though "maybe two" still leaves the second person open. That is why the claim will be tested hard, and why it needs a record.
+5. **What they would not change.** The line would still be an answer about how many, from a man arranging a paid meeting. Spec 3 is untouched. Nothing in it concerns her age, so the question that decides Specs 1 and 2 is untouched.
+
+**Why his recollection may differ from the log**
+
+1. **Memory.** He may be remembering what he meant, or what he began to type and then changed, and not what he sent. On what is known this is the likeliest.
+2. **Two messages.** He may have sent both. One may have failed to arrive, which the provider's pages say can happen (25.1). Or the recalled line may have been sent in another conversation that afternoon.
+3. **The government's printout is wrong or incomplete.** The log in the packet appears to be printed from the undercover system, with times to the second and a delivery status (section 22.1). It does not look like a typed copy. That makes an error in the words unlikely. It does not make one impossible. Only the system's own records, with their history of access and changes, could show one.
+4. **Not the journey.** A text does not change its words between one phone and another. At most a character is shown differently, as with the dots in this line (section 22.2).
+
+**If a record of his account did show different words.** That is scenario B as put, and memory would no longer explain it.
+
+1. **First, whether it is the same message.** The time, the conversation and the status of the line in his account have to be set against the log.
+2. **If it is a second message,** his account holds a line that the log does not. Either it never arrived, and both records are right, or it arrived and the printout is incomplete. The second would be a serious matter for the exhibit.
+3. **If it is the same message with different words,** one of the two records is wrong. I know of no way for a user of this app to change a message once it is sent, and the examiner should confirm that. If that is right, the question would be put to the government's printout, and it would reach every line of it.
+4. **The government's answer** would be that the copy from his side is the one that is wrong. That is why it matters where his copy comes from.
+
+**How courts treat a dispute about a log**
+
+1. **The log is very likely to be admitted.** Authentication "requires only a prima facie showing." Once that is made, the item should be admitted if it meets the other rules of evidence, and flaws in the authentication "go to the weight of the evidence instead of its admissibility" (*United States v. Lubich*, 72 M.J. 170 (C.A.A.F. 2013), the second passage quoting a treatise). Evidence that describes the system that produced a record is one accepted way of doing it (M.R.E. 901(b)(9)).
+2. **Courts have admitted weaker records than this one.**
+
+| Case | The record | The objection | Result |
+|---|---|---|---|
+| *United States v. Lanzon*, 639 F.3d 1293 (11th Cir. 2011) | A detective copied his chats with the accused into a word-processing file and kept no originals. A defense expert said that, without metadata, "it could not be determined whether" he had altered them | That the transcripts could have been changed, and that the originals had been destroyed | Admitted, and the conviction affirmed. The accused "offered no evidence showing that the transcripts were edited or altered" |
+| *United States v. Gagliardi*, 506 F.3d 140 (2d Cir. 2007) | Chats and e-mails that had been cut and pasted into word-processing files | That they "could have been subject to editing by the government," or even fabricated | Admitted. A juror could find them genuine "notwithstanding that the e-mails and online chats were editable" |
+| *United States v. Tank*, 200 F.3d 627 (9th Cir. 2000) | Chat logs from which another member of the group had deleted material | That they were incomplete and could have been altered | Admitted. The deletions went "to the weight of the evidence, not to its admissibility," and nothing had stopped the accused from recovering the deleted data to show an alteration |
+| *State v. Warfield*, No. 2014AP2992-CR (Wis. Ct. App. 1 Dec. 2015). Extracts | A detective's typed version of a text exchange in a prostitution case. It was wrong in at least one respect: it showed the accused's first name, which the detective's phone could not have displayed | Raised only after trial, as a complaint that trial counsel had not objected. Trial counsel "admitted he never saw the original messages to know if other parts of the transcribed messages were inaccurate" | The appeal failed for want of prejudice: "other, overwhelming evidence linked Warfield to the phone number and text messages at issue" |
+
+3. **What the cases show.** A printed log is admitted on the word of the agent who took part, or on evidence of how the system works. The argument is then about weight, and the accused needs something concrete. In these cases a bare claim that a log might have been changed got nowhere. *Warfield* shows the other half: a copy can be wrong, and the way to find out is to see the original.
+4. **Two rules to ask counsel about.** As I understand M.R.E. 1002 and 1004, which follow the federal rules, what a writing says is proved by the writing where it can be had. Other evidence of its content is allowed where the originals are lost or cannot be obtained, and not where the party offering it destroyed them in bad faith. As I understand M.R.E. 1008, where there is a real dispute about what a writing said, the members decide it. So he would probably not be stopped from saying what he recalls. It would be his memory against a system's record, and while the provider's record might still be obtained, his memory is a poor substitute for it.
+
+**Who finds it matters even more than in scenario A**
+
+1. **Produced by the provider, or captured by the defense's examiner.** A record from outside the defense that differs from the government's printout would be evidence of real weight. Counsel would ask for the undercover system's own records, question the agent on it, and ask what else in the log might differ.
+2. **Found by him.** It would be a screenshot or a text file made by the accused, contradicting the government's system on a line the government relies on. The government would go to the provider. If the provider's record matched his copy, his login would have added only risk. If it matched the log, the first task would be to find out whether the two were the same message and the same state of the account. He should also expect the government to suggest that his copy was not genuine. That suggestion would need more behind it than the difference. It would still be made, and it would color everything else he said.
+
+**It cuts against his own exhibits**
+
+1. **His best points come from this log:** the refusal and its 37 seconds, the two seconds before "Yes," the absence of any mention of age on May 1, and who raised what (section 22.2).
+2. **A fact-finder will not accept that the log is exact where it helps him and wrong where it hurts,** unless a record shows it. So the claim should not be made on recollection.
+3. **With a record, the position changes.** A proved difference on one line would be a reason to test the whole log against the system's own records. The lines that help him would be tested in the same way. If the provider's record has them as the log does, they stand on two records and not one.
+
+**What his recollection is worth as it stands**
+
+1. **It has been stated before any access to the account.** That order is the valuable thing about it.
+2. **If a record later shows those words,** he will have recalled a line correctly that the government's printout has differently. That would be some support for his memory on points where there is no record. It would be hard to call an invention, because he gave it before he could have seen it. The argument is strongest if the order can be shown: a dated note first, and no login before it.
+3. **If the record shows the words in the log,** he will have learned, privately, that his memory supplied a line that helped him more than the real one. That is worth knowing before he testifies to anything from memory alone, such as how he read "100," or whom "Cash right?" was meant for (section 16.1). It would bear on the decision whether to testify, which is his and counsel's (section 5).
+4. **Either way the route is the same.** The recollection goes to counsel, in writing and dated, before anyone looks. Then the record is obtained. A note to counsel is privileged, and this document is not (sections 11.5 and 19.1). Whether such a note could ever be used is for counsel. Its first purpose is to fix the order.
+
+### 25.6 The outcomes, set side by side
+
+| What is found | Through counsel: produced by the provider to the defense, or captured by the defense's examiner | Found by him |
+|---|---|---|
+| His list holds May 1 only, and the April 30 lines went before 15:49 (scenario A) | The strongest record available on the first step of his account, if it can be dated. Usable without his testimony | It cannot be dated by looking. He becomes the obvious witness, and the person who could have removed the lines |
+| The provider still holds the April 30 lines, marked as deleted | Scenario A, shown by the provider. The date of the deletion still matters | He could not see this by looking |
+| His list holds both days, with one line different from the log (scenario B) | On the first step, the worst case. On the line, a record that would reach the whole log | On the first step, the worst case. On the line, his own copy against the government's system, until the provider's record is obtained |
+| His list holds both days, the same as the log | The first case in section 15.2. It can usually stay inside the defense (25.3) | The same knowledge, with a login on record |
+| Nothing | Nothing about April 30. The inquiry moves to the provider's own systems | The same, with a login and perhaps a new number on the account |
+
+1. **In no row is he better off for having looked himself.** The only advantage his own look could have is speed. That is a reason to press counsel now, and not a reason to look (25.4).
+2. **In the first row the difference can be most of the value of the finding.**
+3. **The second row is the one that his looking cannot reach at all.**
+4. **In the last two rows the route through counsel costs him nothing, and his own costs something.**
+
+### 25.7 What to take to counsel
+
+1. **The reason for the advice, and the plan.** Counsel may already have done some of what follows.
+2. **Preservation.** Whether a request to preserve the account went to the provider, when, and what the provider answered (section 14.2).
+3. **What the government has.** Whether it sent the provider a preservation request or legal process, and what came back. A provider must preserve records on a government request for 90 days, and for 90 more if the request is renewed (18 U.S.C. § 2703(f)). A request made in early May would have run out by about the start of August, or by about the end of October if it was renewed, unless legal process followed it. If legal process did follow, what the provider produced is in the government's file. How the number was "later confirmed" is already on the list in section 22.11.
+4. **The provider's records, with his consent.** The Stored Communications Act lets a provider release the contents of a message "with the lawful consent of the originator," and other records "with the lawful consent of the customer or subscriber" (18 U.S.C. § 2702(b)(3) and (c)(2)). The statute allows the provider to release them. It does not oblige it to, and the provider's page for investigators speaks of formal legal process. How to combine his consent with process, and in which forum, is counsel's decision (25.3 and section 11.1).
+5. **What to ask the provider for.** Her number's conversation as his account held it, with times; any messages marked as deleted, and when; the logins to the account since April 30; and, for 15:59 to 16:01 on May 1, every message his account sent, with its status.
+6. **An examiner working for the defense** (25.3), and what that examiner should capture, and how.
+7. **The undercover system's own record of the message at 16:00:22,** with whatever shows who has opened or changed it, and what "sent" and "delivered" mean in that system (section 22.11).
+8. **What he recalls of the line, in a dated note to counsel,** before any record is seen (25.5).
+9. **Any condition of his release, or any order, about apps and accounts.**
+
+### 25.8 Questions these scenarios will draw
+
+No answer shapes are offered.
+
+1. "Have you opened that account since May 1?"
+2. "When did you first remember that one of your messages was worded differently?"
+3. "You have had this log since your lawyer gave it to you. Before now, did you tell anyone that this line was wrong?"
+4. "You deleted one conversation out of all of them. Was it the one in which she told you her age?"
+5. "If her conversation was gone, where did you get her number at 3:49?"
+6. "Whose photograph was on that ad?"
+7. "If the screen was blank, what did 'still' mean?"
+
+### 25.9 Records to add, through counsel
+
+These add to sections 15.5 and 22.11.
+
+1. **The provider's production for his account:** the items in 25.7, point 5.
+2. **Whether the provider records the time of a deletion, and the logins to an account,** and for how long it keeps either.
+3. **Anything the government obtained from the provider,** and any preservation request it made.
+4. **The undercover system's own record of the conversation,** in its original form, with its history of access.
+5. **From the phone:** which page or app was open between 15:45 and 15:49 on May 1, and whether any trace of the app's own data survived.
+6. **The examiner's tests of the app:** whether single messages can be deleted; whether a sent message can be changed; what a failed message looks like in a conversation; and what the screen shows when a conversation with earlier messages is opened and a new message is sent.
+7. **His other conversations between 15:55 and 16:05 on May 1,** for any line like the one he recalls.
+
+### 25.10 What this changes
+
+1. **Counsel's advice is supported by this analysis, and for his own sake.** On every outcome the same finding is worth at least as much through counsel. On the outcome he hopes for, most of its worth depends on that.
+2. **Scenario A is worth pursuing, and it is urgent.** If it can be proved and dated, it takes the April 30 exchange off his screen. It does not take away what he was told that day, the ad, the interview or the second photo.
+3. **One correction, to section 14.2.** The provider may still hold messages that he deleted. So the provider's records may be able to show a deletion, and not only an absence. A note has been added there.
+4. **Scenario B has two halves.** The first, that the conversation is still in his list, is bad for him on the step that matters most. The second, a line that differs, would help him on Spec 1 and would reach the whole exhibit, if a record from outside the defense proved it. On what is known, the first half is much the likelier to be found.
+5. **What he recalls of the line is recorded, and nothing rests on it yet.** It should not be put forward as fact until a record supports it. Section 13.6 has been updated.
+6. **A dispute about the log's words is not to be started on memory.** It would put at risk the exhibit his best points come from.
+7. **The defense's route to the provider runs through his consent.** As I understand the rules, defense counsel in a court-martial cannot issue a subpoena, and a request made through the trial counsel is seen by the government. Whether the military judge can be asked directly is for counsel (25.3).
+8. **Section 6 has a new question, 21, and section 7 a new item, 14.**
+9. **The order of work is unchanged:** the video first, the forensic report second, the account third. The provider's records belong with the second.
