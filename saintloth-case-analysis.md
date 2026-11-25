@@ -2,11 +2,11 @@
 
 **Basis and limits.** Built from three sources: the defense slide deck ("Details for DFE with messages"), the Preliminary Hearing Officer (PHO) report of 10 Aug 2026 and, from section 22 on, the government's 26-page evidence packet, which holds the complete undercover log. Not reviewed: the interview video, the phone extraction, the ad, any forensic report. I am not a lawyer and this is not legal advice. Statements of law are my understanding, and defense counsel should confirm each one.
 
-**Updated 24 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 17: his response on how this text is to be used, with each point sorted by the record that supports it. Section 18: whether hypnosis could be used to recover his memory. Section 19: four objections to this analysis, which lead to three corrections and a restatement of his account in his own terms. Section 20: a fifth point, on his nervousness at the hotel and what it shows about intent, with the reported cases found. Section 21: Spec 3 element by element, with what the government has to prove at a general court-martial and where its proof is strongest and weakest. Section 22: the evidence packet, read directly, with the DPS report, the vehicle inventory and the Army CID report set against the complete log. Section 23: the search for comparable cases, with the outcome of each and whether it was appealed. Section 24: whether the removal of the texting apps reads as abandonment or as destruction of evidence, with the rule, the cases and a correction to the account of one federal case. Section 25: what the texting account may show, what each finding would be worth depending on whether it comes through counsel or from a look of his own, and what follows if one message there differs from the log. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
+**Updated 25 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 17: his response on how this text is to be used, with each point sorted by the record that supports it. Section 18: whether hypnosis could be used to recover his memory. Section 19: four objections to this analysis, which lead to three corrections and a restatement of his account in his own terms. Section 20: a fifth point, on his nervousness at the hotel and what it shows about intent, with the reported cases found. Section 21: Spec 3 element by element, with what the government has to prove at a general court-martial and where its proof is strongest and weakest. Section 22: the evidence packet, read directly, with the DPS report, the vehicle inventory and the Army CID report set against the complete log. Section 23: the search for comparable cases, with the outcome of each and whether it was appealed. Section 24: whether the removal of the texting apps reads as abandonment or as destruction of evidence, with the rule, the cases and a correction to the account of one federal case. Section 25: what the texting account may show, what each finding would be worth depending on whether it comes through counsel or from a look of his own, and what follows if one message there differs from the log. Section 26: four statements about opening the account, tested against the fact that the seized phone has been in airplane mode since the interview, and the provider's stated limit of six months for message content on inactive accounts. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
 
 ## 1. Bottom line
 
-*Current as of section 25.*
+*Current as of section 26.*
 
 **The charges**
 
@@ -82,7 +82,9 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 
 **The texting account.** He has asked what follows if the account shows that her April 30 conversation had been deleted before May 1, or if it is there and one line differs from the log. A deletion that is proved and dated would be the strongest record he could have on the first step of his account, which is the step Specs 1 and 2 turn on. Most of that worth depends on how it is found: produced by the provider, or captured by an examiner working for counsel. Found by him, against counsel's advice, it could not be dated by looking, and he would be the only person known to have opened the account since the arrest. If the April 30 lines are still in his list, they were in his app on May 1 and, unless the app hid earlier messages, on his screen. He recalls writing "nah.....just one...maybe two ..later". I take that to be the line the log has at 16:00:22 as "Just you....then both"; he did not say which. It is recorded, and nothing should rest on it until a record supports it (section 25).
 
-**Urgent.** The provider says a number lapses after 30 days without use, and that message history may not survive long inactivity. Nearly seven months have passed. Counsel should be asked now whether the provider's records were preserved or obtained, by the defense or by the government (section 14.2). The profile and the Google account's activity can also be lost or changed (sections 11.5 and 13.7). So can location data, which Google now keeps on the phone itself and deletes after three months by default (section 19.2).
+**The seized phone, and four statements about the account.** As relayed, he put the phone in airplane mode at an official's request directly after the interview, and the government has held it since. Nothing done from outside can change it while it stays offline, and the app was already off it. So the risk in a login is to the provider's record of the account, and not to the phone. Of the four statements he was given, the one about keeping a second device offline is right. The one that calls a request to the provider premature is wrong for this app: the provider says that it stores message content on its servers, and says for how long. A login is likely to be recorded whether or not anyone is waiting for it. Nothing should be sent toward the seized phone from his Google account (section 26).
+
+**Urgent.** The provider says a number lapses after 30 days without use, and that message history may not survive long inactivity. Nearly seven months have passed. Counsel should be asked now whether the provider's records were preserved or obtained, by the defense or by the government (section 14.2). The provider's privacy policy, found since, gives six months for message content on inactive accounts. Counted from May 1, that ended about 1 November 2026. Counted from the lapse of the number, it ends about the end of November 2026. How the provider counts, and whether anything is left, is not known. A request to preserve the account should go to counsel at once (section 26.4). The profile and the Google account's activity can also be lost or changed (sections 11.5 and 13.7). So can location data, which Google now keeps on the phone itself and deletes after three months by default (section 19.2).
 
 **Hypnosis.** He has asked whether a hypnotherapist could help him recall the events. A court could not refuse to hear him for that reason alone. But hypnosis does not make recall more accurate, it would open his testimony about what he believed to a new attack, and it cannot be undone. He should have no session about these events before counsel has advised (section 18). He has since said that its purpose would be to show honesty. It would show sincerity, which nobody would doubt, and not accuracy (section 19.4).
 
@@ -299,6 +301,7 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
 12. **Go through the comparable cases with counsel** (section 23): the record in *Caroll*, the other soldiers arrested in the same operation, and the decisions on how a panel is instructed about belief.
 13. **Have the two times before anyone describes the removal of the apps:** the phone's record of the removal and the video of the arrest, each to the second. The reason for the removal is for counsel first (sections 24.3 and 24.7).
 14. **Leave the texting account closed, and take three requests to counsel:** the provider's records for his account, with his consent and by whatever process counsel chooses; a capture by an examiner working for the defense; and whether the government already has the provider's records. What he recalls of the line that differs goes to counsel in a dated note before any record is seen (section 25.7).
+15. **Put the request to preserve the texting account in front of everything else.** The provider's privacy policy gives six months for message content on inactive accounts, and on one reading that runs out at the end of November 2026 (section 26.4). Then: send nothing toward the seized phone from his Google account; tell counsel of any second device on which the account was opened, and keep it offline and unopened; and ask counsel who had him put the phone in airplane mode, who holds it now, and when its contents were copied (section 26.8).
 
 ## 8. Addendum, 21 Nov 2026: timeline, interview statement, and the contradiction point
 
@@ -1132,7 +1135,7 @@ These add to the lists in sections 7, 9.6, 10.7 and 12.2. Section 14 adds the pr
 6. **The conversation list at about 14:00 and at 15:49:** the order, and the date shown on each entry (13.4, answer 2, and 13.5).
 7. **Any view of the profile on May 1** between the second photo and 16:48 (13.2).
 8. **The video:** what he was told before the "needed money" statement, whether he hedged, and whether a mistake, a search or a profile is mentioned anywhere (13.2).
-9. **The Google account's activity.** It is the source of the two best defense records, and he controls the account. Nothing in it should be deleted or changed. Counsel should say how to preserve it. A complete export through Google Takeout, made once, is the usual way. If the account is set to delete activity automatically after a period, counsel should know now.
+9. **The Google account's activity.** It is the source of the two best defense records, and he controls the account. Nothing in it should be deleted or changed. Counsel should say how to preserve it. A complete export through Google Takeout, made once, is the usual way. If the account is set to delete activity automatically after a period, counsel should know now. The account can also send commands to the seized phone, and none should be sent (section 26.1).
 
 ### 13.8 What this changes
 
@@ -1210,7 +1213,7 @@ As relayed, the provider is TextFree, which is made by Pinger. That allows three
 **The expiry point**
 
 1. **The number has almost certainly lapsed.** The apps were removed at 17:02 on May 1, and he has rightly not logged in since. On the provider's stated policy the number expired about a month later, unless a paid plan kept it.
-2. **The conversations may have gone with it.** The provider warns that history may not be available after long inactivity. That statement is about what a user sees. What the provider keeps on its own systems, and for how long, is not published. Only a request through counsel will find out.
+2. **The conversations may have gone with it.** The provider warns that history may not be available after long inactivity. That statement is about what a user sees. What the provider keeps on its own systems, and for how long, is not published. Only a request through counsel will find out. A later correction: its privacy policy does give a period for message content, which is six months on inactive accounts (section 26.4).
 3. **Why this matters more than anything else in this section.** The conversation with the other woman is held only by his account and by hers, and he should not try to reach her. The undercover side holds only its own conversation. Removing the app normally removes what it stored on the phone (section 11.1). If the provider's copy is gone, the mistake may never be shown by the messages themselves. It would then rest on indirect records, such as the hotel searches, and on his word.
 4. **What to ask counsel now.**
    - Whether a preservation request went to the provider, and when (section 11.1).
@@ -1400,7 +1403,7 @@ These add to section 13.7.
 3. **Her conversation:** whether it was deleted and when, and what the account held for her number at 15:49 on May 1 (15.2).
 4. **How her number was entered at 15:49,** and which page or app was open in the minutes before.
 5. **The app's behavior** in the two respects listed at the end of 15.2.
-6. **The browser version.** Whether he ever used TextFree in a browser, and on which computer. If he did, its browser history may show sessions and their dates. The examiner should collect it. He should not log in.
+6. **The browser version.** Whether he ever used TextFree in a browser, and on which computer. If he did, its browser history may show sessions and their dates. The examiner should collect it. He should not log in. Section 26.5 sets out how such a device should be kept in the meantime.
 
 ### 15.6 What this changes
 
@@ -1631,7 +1634,7 @@ No answer was given. His answers to questions 8 and 9 make this one harder (16.4
 1. **If it is on the video, it is worth having.** A man who tells the agents to look at his phone is not behaving like a man who thinks it will convict him. The record of the search and the profile could be reached from it.
 2. **It has an obvious answer.** He had removed the texting apps from that phone at 17:02. The prosecutor will say that he invited them to look once the conversations were off it.
 3. **It is not an account.** Asked what had happened, he sent them to the phone. As relayed, he did not say what they would find.
-4. **What to look for on the video:** the exact words, the question that drew them, whether he said what the phone would show, and whether he consented to a search. If he consented, the government has an extraction, and counsel should have it (section 14.2).
+4. **What to look for on the video:** the exact words, the question that drew them, whether he said what the phone would show, and whether he consented to a search. If he consented, the government has an extraction, and counsel should have it (section 14.2). He has since said that he put the phone in airplane mode at an official's request after the interview (section 26.1).
 5. **It was said after the arrest,** so it does little to support his later account as a statement (section 13.2, on M.R.E. 801(d)(1)(B)). Its value is as conduct: he invited scrutiny.
 
 **What he did not say.** He now says that at no time did he tell the agents she was 23. Section 6 said of question 15 that the video controls, and that if he said neither thing it may be the hardest question in the case. On his own recollection the video will not contain it. His recollection of the interview is, on his own account, poor, so the video still has to be watched for it.
@@ -2865,7 +2868,7 @@ Other points on the Army report:
    - If the removal came first, the government will say that he saw the arrest team coming, and the defense will point to the routine (sections 13.1 and 14.3).
    - If the phone's record puts the removal after the agents had hold of him, a different question arises: who was holding the phone.
    - Counsel should have both times before anyone says what the removal was. Section 24 sets out what each reading requires in law.
-4. **The last two messages from the agent are marked "sent" and not "delivered."** That fits the app being gone by 17:03:04. It also fits a phone that was switched off or out of his hands.
+4. **The last two messages from the agent are marked "sent" and not "delivered."** That fits the app being gone by 17:03:04. It also fits a phone that was switched off or out of his hands. He has since said that the phone was put in airplane mode only after the interview. If it was switched on and connected until then, the first reading is the likelier (section 26.1).
 5. **"X-Ray Nora Queen" is the name the system gave this conversation** (DPS report, paragraph 8). I read that message, and the call 20 seconds later, as the team's way of matching the phone in front of them to the conversation. If the app had already been removed, neither would have reached the phone. The report says only that the number "was later confirmed" as his. This is my reading, and the agents can be asked.
 6. **Where he was.** The photograph from above shows the car in a marked space at the edge of the lot, parked nose out, with its headlights on. The photograph of him appears to have been taken beside the same fence. The DPS report says that he was taken into custody "in the parking lot without incident." So he was arrested where he had parked. He had not driven off, and he had not gone to the door.
 
@@ -2947,7 +2950,7 @@ Other points on the Army report:
 
 1. **The interview video, and the Army's record of the interview:** the warning given and by whom, who asked the questions, the order of the interview and the polygraph, and the times.
 2. **Body-camera and in-car video:** the arrest to the second, what he was doing, where the phone was and who handled it.
-3. **The phone:** the record of its seizure and custody, the warrant with its date and scope, the extraction, and the time of the apps' removal to the second.
+3. **The phone:** the record of its seizure and custody, the warrant with its date and scope, the extraction, and the time of the apps' removal to the second. Section 26.8 adds the request to put it in airplane mode, and how it has been kept since.
 4. **The jail's property and money receipt.**
 5. **The vehicle:** who moved it, when and on what authority, whether it was searched before the inventory, the reason for impounding it, and the DPS policy on inventories.
 6. **The advertisement:** its text, stated age and photos, when it was posted, whose photographs they were, and whether any was taken from the internet.
@@ -3435,11 +3438,11 @@ I have not seen the account, the provider's records, the forensic report or the 
 
 | Source | What it could show | Limits |
 |---|---|---|
-| The provider's own records, produced by the provider | What the account held for her number, with times. Possibly messages he had deleted. Possibly logins and deletions | What the provider keeps, and for how long, is not published. Its page for investigators says that it "requires formal legal process for the release of user records." The statute allows release with his consent and does not require it (25.7) |
+| The provider's own records, produced by the provider | What the account held for her number, with times. Possibly messages he had deleted. Possibly logins and deletions | What the provider keeps, and for how long, is not published. A later correction: its privacy policy gives six months for message content on inactive accounts (section 26.4). Its page for investigators says that it "requires formal legal process for the release of user records." The statute allows release with his consent and does not require it (25.7) |
 | Records the government has already had from the provider | The same, as they stood when it asked | I do not know whether it asked. The DPS report says that his number was "later confirmed," which may mean a request to the provider or may mean the phone (section 22.11) |
 | His list as it stands today, opened in the app | What the user is shown now | It needs the app reinstalled and a login. It shows today, not May 1 |
 | The provider's download, and its "Personal Information Request" | A text file of one conversation. Or a copy of account data that "may include deleted messages, if they are still available" | Both need a login. The request can be made twice in 12 months, and its result omits "the date, time, or recipient's phone number" |
-| The phone the government holds | Which app or page was open, minute by minute, before 15:49. Perhaps remnants of the app | Removing an app normally removes what it stored (section 11.1) |
+| The phone the government holds | Which app or page was open, minute by minute, before 15:49. Perhaps remnants of the app | Removing an app normally removes what it stored (section 11.1). As relayed since, it has been in airplane mode from the evening of May 1 (section 26.1) |
 | The undercover system | Every message it sent and received, and when | Nothing about what his screen showed |
 | His Google account | Searches, pages and app use by time (section 13.7) | Nothing from inside the app |
 
@@ -3494,7 +3497,7 @@ This is the second case in section 15.2.
 2. **Best, the provider's own record of when the deletion was made,** if it keeps one.
 3. **Failing that, two things together.**
    - The shape of what is left. A conversation that starts at 15:49:15 on May 1, with nothing before it, is what deleting the whole conversation between the two days would leave. To produce the same result later, someone would have had to pick out the April 30 lines one at a time.
-   - A record that nobody has used the account since the arrest, if the provider keeps one. The app came off the phone at 17:02 and the phone was taken. With no access after that, from any device, any deletion was made before 17:02 on May 1.
+   - A record that nobody has used the account since the arrest, if the provider keeps one. The app came off the phone at 17:02 and the phone was taken. With no access after that, from any device, any deletion was made before 17:02 on May 1. He has since said that he handled the phone once more that evening, to put it in airplane mode. The app was no longer on it (section 26.1).
    - Neither is as good as a date. Together they still leave open a deletion between 15:49 and 17:02. The second is lost if he logs in.
 4. **Support from the phone:** what was open in the minute or two before 15:49. Her ad in the browser would fit this scenario.
 
@@ -3535,11 +3538,11 @@ This is the second case in section 15.2.
 
 A look can settle one thing outright, and it is the case against him: both days in the list means that the conversation was never deleted. Anything in his favor would still have to be proved from the provider's records, and those can be sought without his looking. After nearly seven months, an empty list may well be all that he would see.
 
-**Why it is tempting, and what answers that.** The record may be disappearing, and he cannot see that anyone has secured it. That concern is legitimate, and section 14.2 has called it urgent. The answer to it is to press counsel now on preservation and on the provider's records (25.7). It is not to open the account.
+**Why it is tempting, and what answers that.** The record may be disappearing, and he cannot see that anyone has secured it. That concern is legitimate, and section 14.2 has called it urgent. The answer to it is to press counsel now on preservation and on the provider's records (25.7). It is not to open the account. Section 26.4 has since found a period stated by the provider, which may run out within days, and sets out what counsel can do at once.
 
 **What it would cost**
 
-1. **It leaves a record.** An install from the Play Store is normally recorded in the Google account used (section 14.3). That is the same kind of data the defense wants to use to prove the habit. A login is the kind of event a provider records, though I could not confirm what this one keeps.
+1. **It leaves a record.** An install from the Play Store is normally recorded in the Google account used (section 14.3). That is the same kind of data the defense wants to use to prove the habit. A login is the kind of event a provider records, though I could not confirm what this one keeps. Section 26.6 adds what its privacy policy says, and that such records can be obtained afterwards by subpoena.
 2. **It weakens the proof of when.** If the provider logged the deletion with a time, his login changes little on that point. If it did not, the argument that the lines went before the arrest rests on nobody having had access since (25.2). His login would end that. Single lines can probably be deleted, so the government would not have to prove that he removed anything. It would only have to point out that he could have.
 3. **It makes him the obvious witness.** A screenshot or a downloaded file is something he made. It needs evidence of what it is (M.R.E. 901), and the natural source of that evidence is him, with everything in section 6. Counsel might prove it another way, for example from the provider's records. But if those can be had, his own copy adds nothing to them.
 4. **It may change the account.** At the least it adds a login and, on the provider's description, a prompt for a new number. I could not confirm what else it changes, or whether choosing a new number affects the old conversations.
@@ -3664,7 +3667,7 @@ A look can settle one thing outright, and it is the case against him: both days 
 ### 25.7 What to take to counsel
 
 1. **The reason for the advice, and the plan.** Counsel may already have done some of what follows.
-2. **Preservation.** Whether a request to preserve the account went to the provider, when, and what the provider answered (section 14.2).
+2. **Preservation.** Whether a request to preserve the account went to the provider, when, and what the provider answered (section 14.2). The provider's stated period for message content may make this a matter of days (section 26.4).
 3. **What the government has.** Whether it sent the provider a preservation request or legal process, and what came back. A provider must preserve records on a government request for 90 days, and for 90 more if the request is renewed (18 U.S.C. § 2703(f)). A request made in early May would have run out by about the start of August, or by about the end of October if it was renewed, unless legal process followed it. If legal process did follow, what the provider produced is in the government's file. How the number was "later confirmed" is already on the list in section 22.11.
 4. **The provider's records, with his consent.** The Stored Communications Act lets a provider release the contents of a message "with the lawful consent of the originator," and other records "with the lawful consent of the customer or subscriber" (18 U.S.C. § 2702(b)(3) and (c)(2)). The statute allows the provider to release them. It does not oblige it to, and the provider's page for investigators speaks of formal legal process. How to combine his consent with process, and in which forum, is counsel's decision (25.3 and section 11.1).
 5. **What to ask the provider for.** Her number's conversation as his account held it, with times; any messages marked as deleted, and when; the logins to the account since April 30; and, for 15:59 to 16:01 on May 1, every message his account sent, with its status.
@@ -3708,3 +3711,220 @@ These add to sections 15.5 and 22.11.
 7. **The defense's route to the provider runs through his consent.** As I understand the rules, defense counsel in a court-martial cannot issue a subpoena, and a request made through the trial counsel is seen by the government. Whether the military judge can be asked directly is for counsel (25.3).
 8. **Section 6 has a new question, 21, and section 7 a new item, 14.**
 9. **The order of work is unchanged:** the video first, the forensic report second, the account third. The provider's records belong with the second.
+
+## 26. Addendum 19, 25 Nov 2026: four statements about the texting account, the seized phone, and a six-month limit
+
+**What this covers.** A new detail and four statements supplied after section 25, recorded as relayed. The source of the statements was not given.
+
+*As relayed: the original phone was seized and is in airplane mode. Directly after the interview, another representative asked him to place the phone in airplane mode. With that in mind, how accurate are these four statements?*
+
+*1. Accessing or handing over credentials creates a significant risk of altering metadata or local app state, which the prosecution could use to claim evidence tampering.*
+
+*2. Subpoenaing the provider directly is premature at this stage. Most modern messaging services utilize end-to-end encryption or strict retention schedules, meaning providers rarely hold readable message bodies on their servers, only raw metadata (such as timestamps and connection logs), while the actual chat text resides exclusively on the physical devices.*
+
+*3. [If he] accessed or synced this messaging app on a secondary device that was not seized by law enforcement (such as a tablet or desktop computer), [it] should be left offline (in Airplane Mode or powered off) and preserved in its current state without opening it.*
+
+*4. Logging in creates risk that law enforcement would predict the move by (already having subpoenaed provider) waiting for user to login thereby establishing ownership of account (or this gives law enforcement too much credit).*
+
+The four statements are in the words supplied, with two changes: a dash in the second has become a comma, and the words in brackets have been added to the third.
+
+I have not seen the phone, the video or any record of the request. I do not know who made the request, or for which agency. I could not open the provider's sites from here, so what follows about its support pages and its privacy policy rests on what a web search returns from them (section 14). Counsel should read the policy itself. *United States v. Mitchell* was read in full. *Riley v. California*, the rules and statutes, and the technical guidance were read in extracts. Statements of law are my understanding, for counsel to confirm. If any of the four statements came from counsel or from an examiner, it may rest on information that I do not have, and the right course is to ask what it rests on.
+
+**Short version**
+
+- **First, a date.** Checking statement 2 turned up the provider's privacy policy. It says that message content is kept "Indefinitely for active account and 6 months for inactive accounts." He says that he has not used the account since May 1. If the six months ran from that day, they ended about 1 November. If they run from the lapse of his number, they end about the end of November. I cannot tell which, or whether anything is left. Today is the day before Thanksgiving. A request to preserve the account should be put to counsel today (26.4).
+- **The new detail settles one thing.** Nothing done from outside can alter the seized phone while it stays offline, and the app was already off it. So the risk in a login was never to that phone. It is to the provider's record of the account.
+- **Statement 1 has the right conclusion and partly the wrong reasons.** "Local app state" does not apply to the seized phone. A login would add to the provider's record, and would make later findings harder to date (section 25.4). "Handing over credentials" depends on who receives them. Given to an examiner working for counsel, they are part of the proper route. Given to the government, they may amount to consent to a search, which is a decision for counsel.
+- **Statement 2 is mostly wrong for this app, and wrong on the point that matters.** It describes services like Signal. This provider's policy speaks of "message content stored on our servers," and says for how long. The app was removed from the seized phone, so that phone is the place where the text is least likely to be. A short retention period is a reason to ask now.
+- **One part of statement 2 is right, for a different reason.** The defense cannot issue a subpoena, and counsel may have sound tactical reasons to hold back formal process. Neither applies to a request to preserve, or to a request for his own records made with his consent.
+- **Statement 3 is right, if such a device exists.** It should go offline, unopened, and counsel should be told. A second device that last synced before the arrest could hold a copy of his conversation list with a date of its own, which is what section 25.2 said was missing. Keeping it safe is not the same as keeping it from anyone.
+- **Statement 4 gives law enforcement too much credit, as he suspects, and names the wrong risk.** Nobody disputes whose account it is, and nobody needs to be waiting. A login is likely to be recorded anyway, and records of that kind can be obtained later. What it would show is access after the arrest.
+- **One new caution.** Airplane mode is a setting, and it lasts until someone changes it. Nothing should be sent toward that phone from his Google account: no erase, no lock, no sign-out, no removal from the account's list of devices. A soldier who reset a seized phone remotely was convicted for it (section 25.4).
+- **The request itself raises questions for counsel:** who asked, whether he had to unlock the phone, what else was done while it was in his hands, and when the government copied what the phone holds.
+
+### 26.1 The new detail: the phone, and the request
+
+*As relayed: the phone was seized. Directly after the interview, another representative asked him to put it in airplane mode, and he did.*
+
+1. **What airplane mode does.** It takes the phone off the cellular network. The Supreme Court has said: "Remote wiping can be fully prevented by disconnecting a phone from the network" (*Riley v. California*, 573 U.S. 373 (2014)). The guide on mobile device forensics published by the National Institute of Standards and Technology says: "Isolating a mobile device from all radio networks (e.g. WiFi, Cellular and Bluetooth) is important to keep new traffic, such as SMS messages, from overwriting existing data" (Special Publication 800-101, revision 1). So the request was an ordinary step to preserve the phone.
+2. **What it does not do.** It is a setting and not a seal. The guide names Wi-Fi and Bluetooth as well as the cellular network, and whether those were off is not known. The setting lasts until someone changes it, and the phone is in the government's hands. In *Strong* the agents had put the phone in a "Faraday-labeled bag," and the soldier was still able to reset it from outside (section 25.4).
+3. **The phone was not isolated until then.** The arrest was at 5:02 pm. The request came after the interview, and he was released to the jail at about 19:03 (section 22.6). The request shows that the phone was switched on, and not yet in airplane mode, when it was made. It does not show what state the phone was in at 17:03:04, when the agent's code-name message was marked "sent" and not "delivered." Section 22.6 said that this status fitted the app being gone, and also fitted a phone that was switched off. If the phone was on and connected from the arrest until the request, the first explanation is the likelier. The video, the record of who held the phone and the phone's own data may show whether it was. It is a small point either way. What "sent" and "delivered" mean in that system is not known, and he replied to several messages that were marked "sent" (section 22.2).
+4. **He handled the phone after the arrest, at someone's request.** If the phone shows activity that evening, this is one explanation for it. An examiner may also find a record of when airplane mode was switched on. Whether the phone keeps one, and for how long, I could not confirm. If it does, that gives a time for the end of the interview, and a check on what else was done in the same minutes. The guide says that switching it on "requires interaction with the mobile device using the keypad, which poses some risk," and less risk if the person "documents the actions taken (e.g., on paper or on video)." Here the person who did it was the accused. Whether anyone recorded it is a question for the video and the reports.
+5. **It does not change the reasoning in section 25.2.** That section said that the app came off the phone at 17:02 and the phone was taken. He had the phone in his hands once more. The app was no longer on it, and an examination may be able to show that nothing was installed or opened in those minutes.
+6. **Some of what the phone holds is cleared with age.** Two examples:
+   - Android keeps a record of which app was in use, event by event. That is the record that could show what was open in the minutes before 15:49 (section 7). Android's documentation says of it: "Events are only kept by the system for a few days."
+   - Google's location timeline is kept on the phone, and by default it deletes entries after three months (section 19.2).
+
+   I could not confirm how either behaves on a phone that is offline or switched off, and an examiner has other sources. So the date on which the government copied the phone matters. If it has not been copied, the examiner should know this before the phone is next switched on.
+7. **Questions for counsel.**
+   - Who asked, for which agency, and on what authority the phone was then held. The DPS report says that the case agent secured it that day (section 22.5).
+   - Whether he had to unlock the phone, and whether he was asked for its passcode or for consent to search it. As relayed, he told the agents to look at his phone (section 16.5).
+   - Whether he had asked for a lawyer by then. In *United States v. Mitchell*, 76 M.J. 413 (C.A.A.F. 2017), agents asked a soldier to unlock his phone after he had invoked his right to counsel, and the court held that "the contents of the phone must therefore be suppressed." He signed a waiver (section 22.7), so that case may have no application. The video will show what was said.
+   - Whether the phone has been kept switched on, when it was examined, and whether a copy of its contents was made soon after May 1.
+8. **What the phone is good for, and how the defense gets it.** If it has stayed offline since that evening, nothing he has done since can have changed it. What the defense needs is a copy of the government's examination (section 25.9). Who holds the phone decides how that is asked for. As I understand R.C.M. 701(a)(2)(A), the defense may inspect data "within the possession, custody, or control of military authorities." If the Texas agency holds the phone, the request may have to run through the Texas case as well. For counsel.
+9. **What he should not do.** Nothing from his Google account that is aimed at that phone. Google's help page says that the owner of a lost Android device can "find, secure or erase it remotely." Whether a command sent while the phone is offline would take effect when it next connects is something I could not confirm, and it is not something to find out. Ordinary use of the account on another phone is a different thing from sending an erase or a lock, and he can hardly avoid it. It is not without effect. In a synced account, a change or a deletion made on one device is normally carried to the others when they next connect. Section 13.7 already says that nothing in the account should be deleted. If he has changed the account's password or its list of devices since May 1, counsel should be told, so that nothing the examiner finds comes as a surprise.
+10. **One possible sign of whether the phone has been online.** His Google account has a page that lists the devices signed in to it. Google says that the times on that page "represent the last time there was communication between the device or session and Google's systems." If the seized phone is listed, the time against it is worth knowing. A time later than the evening of May 1 would suggest that the phone has been connected while in the government's hands. Its absence would prove nothing, because the page is described as showing devices signed in now or "in the last few weeks." Counsel or the examiner should confirm which entry is the seized phone, and read it with the record of who has held the phone. Reading the page sends no command. The same page can sign a device out, and that should not be used on this phone. Whether to look, and how to record what is there, is for counsel.
+
+### 26.2 Statement 1: accessing the account, or handing over credentials
+
+*As relayed: Accessing or handing over credentials creates a significant risk of altering metadata or local app state, which the prosecution could use to claim evidence tampering.*
+
+**How accurate.** The conclusion is right. Two of its three reasons need correcting, and it treats two different acts as one.
+
+1. **"Local app state" does not apply to the seized phone.** The app was removed from it at 17:02 on May 1. Android's documentation says: "When the user uninstalls your app, the files saved in app-specific storage are removed." The phone has been offline since that evening. A login on another device cannot reach it.
+2. **The only app data a login would create is on the new device.** It would be made on the day of the login. It says nothing about May 1, and it is not evidence that anyone could be said to have altered.
+3. **"Metadata" is the real point, and it is on the provider's side.** A login now would probably do these things to the provider's record of the account:
+   - add a login, with its time, device and network address (26.6);
+   - bring up the prompt for a new number, because the old one will have lapsed (section 25.4);
+   - show, on the new device, whatever reached the account after 17:02 on May 1 and has never been opened. The agent's message at 17:03:04 would be one such item, if it reached the provider. Replies from the other numbers he had written to that afternoon would be others. If the provider records whether a message has been passed to a device, or read, that record bears on when the app left the phone and on who was still writing to him. I do not know whether it keeps one. A login could change it;
+   - end the argument that nobody has had access since the arrest (section 25.2).
+4. **"Tampering" is too strong for what a login is.** As I understand the offenses set out in sections 24.3 and 25.4, each needs an intent to obstruct the proceedings or to impair evidence, and the Texas and federal ones also need something to be altered, destroyed or concealed. A look at his own account, made without that intent and changing nothing, meets none of them. The accurate version is narrower. After a login that only he made, it may be hard to show that nothing was changed. How hard depends on what the provider logs (section 25.4). The government could raise it against any finding that helped him.
+5. **"Handing over credentials" depends on who receives them.**
+   - **Counsel, or an examiner working for counsel.** This is the route that sections 7 and 25.3 recommend. The examiner is "the lawyer's representative" (*Turner*, section 25.3). An examiner's login has the same effects on the account as his own would. The differences are that it is recorded, and that it is made by someone who can be questioned about it. That is why production by the provider comes first and a capture second.
+   - **The government.** Giving credentials voluntarily may be treated as consent to a search of the account. It could put every conversation in the account in the government's hands, including those with other people on other days (section 9.4). Whether there is valid consent, and how far it goes, are questions for counsel. So is the answer to any request for a password, or for the phone's passcode. He is represented, and a request of that kind should reach him through counsel.
+   - **Anyone else.** A friend or a relative who logs in for him is his own login with a second witness to it. Nothing said to that person is privileged.
+6. **What the credential is.** The provider's page on its browser version speaks of signing in "with Apple, Google, or email." If he signed in with Google, the credential for this account may be the credential for his Google account, which holds his searches, his locations and his mail. That is one more reason for the provider to produce the records, and for a password to go only to someone who needs it.
+7. **Credentials should not be written down here,** or in a message or an email. Counsel will say how to pass them, if they are needed at all.
+
+### 26.3 Statement 2: whether asking the provider is premature
+
+*As relayed: Subpoenaing the provider directly is premature at this stage. Most modern messaging services utilize end-to-end encryption or strict retention schedules, meaning providers rarely hold readable message bodies on their servers, only raw metadata (such as timestamps and connection logs), while the actual chat text resides exclusively on the physical devices.*
+
+**How accurate.** For this provider it is mostly wrong, and wrong in the direction that matters. The one thing it gets right, a retention schedule, points the other way.
+
+1. **The general statement describes other services.** Signal has answered a federal subpoena by saying that "the only information we can produce in response to a request like this is the date and time a user registered with Signal and the last date of a user's connectivity to the Signal service." WhatsApp is reported as saying that it "cannot and does not produce the content of its user's messages." Both are as quoted by other sites. For services built in that way the statement is right.
+2. **This provider is not built in that way, on its own description.**
+   - Its support page says: "TextFree does not support end-to-end encryption of text messages, however, our servers are encrypted."
+   - Its privacy policy says that it uses "key words gathered from outbound message content stored on our servers" for advertising. A provider that can take key words from messages holds them in a form it can read.
+   - "Reinstalling the app will not cause you to lose your number or any messages" (section 14.2). Messages that come back after an app has been removed were not kept only on the phone.
+   - It offers a download of conversation history, and says that a data request "may include deleted messages, if they are still available" (section 25.1).
+   - His own answers describe the same thing. After the reinstall at 13:11 on May 1, conversations from April 30 were in his list (section 13.4).
+3. **"Exclusively on the physical devices" is the reverse of the position here.** The app was removed from the seized phone, and removal takes the app's stored data with it (26.2). That phone is the place where the text is least likely to be. The text existed in three places: the provider's systems, the undercover system, and the phones of the other people he wrote to.
+4. **"Strict retention schedules" is right, and it is why the conclusion is wrong.** This provider has a schedule, and it is short (26.4). A short period is a reason to ask at once. It is not a reason to wait.
+5. **"Only raw metadata" undersells what that would be worth.** A record of which numbers his account wrote to, and when, would show:
+   - whether he was writing to other numbers in the minutes around 15:49, which is the center of his account of the first message (section 19.2);
+   - whether his account sent a second message near 16:00 (section 25.5);
+   - whether anything reached the account after 17:02;
+   - whether anyone has logged in since.
+
+   The privacy policy lists, among the data the provider collects, "information about those messages (date, duration, recipients, size, attachments)." One row of its table, whose heading the search did not return, gives "2 years account activity." So records of that kind may outlast the text. That is for counsel to confirm with the provider.
+6. **"Subpoenaing" is the wrong word, for a reason the statement does not give.** As I understand it, the defense in a court-martial cannot issue a subpoena (section 25.3). The process in the Stored Communications Act is written for the government. For content that has been stored for 180 days or less, a "governmental entity" needs a warrant, and the statute gives other means for older content (18 U.S.C. § 2703(a)). A subpoena reaches records such as "records of session times and durations" (§ 2703(c)(2)). The defense's way in is his consent (section 25.7), and before that a request to preserve.
+7. **What may be right about "premature."** Counsel may have reasons to hold back formal process that have nothing to do with encryption.
+   - Before referral there may be no judge to ask.
+   - A request through the trial counsel tells the government what the defense is looking at, and may put the answer in the government's hands (section 25.3).
+   - The government may already have the provider's records. If so, they come in discovery.
+   - What the defense obtains can become something it has to show. Under R.C.M. 701(b)(3), once the government has complied with a defense request for its documents, the trial counsel may ask to inspect items in the defense's hands, if "the defense intends to use the item in the defense case-in-chief at trial."
+
+   These are reasons about formal process. None is a reason to put off a request that the provider preserve the account, or a request for his own records made with his consent. That subparagraph, as I read it, reaches only what the defense intends to use in its own case. Whether any other duty to disclose applies is for counsel.
+8. **If the statement is counsel's or an examiner's,** he should ask what it rests on, and show counsel the lines of the provider's policy quoted here and in 26.4.
+
+### 26.4 The six months
+
+1. **What the policy says.** As a web search returns it, the provider's privacy policy has a table of how long each kind of information is kept. One row is headed "Message Content," which it describes as "Text messages you send and receive" and "Voicemails." The period given is: "Indefinitely for active account and 6 months for inactive accounts, with automated implementation of this process to be completed in Q1 of 2024." The search returned that row twice, in the same words. I could not open the page, and counsel should read it.
+2. **What it does not say, in what I could see.** When an account becomes "inactive," and from what day the six months are counted. The provider's page on numbers uses "inactivity" to mean that the user has "not sent a message nor made an outgoing phone call in TextFree within 30 days." Whether the policy uses the word in the same way, I do not know.
+3. **The dates.** His last message from the account was at 17:01:20 on May 1, and the app was removed a minute later. On his account, nothing has been done with it since.
+
+| If the six months are counted from | They end about |
+|---|---|
+| The last use, on May 1 | 1 November 2026. That has passed |
+| The lapse of the number, 30 days later | 27 to 30 November 2026. That is within days |
+
+If the provider's process runs late, or counts in some other way, there may be more time. If a paid plan kept the number (section 14.2), the account may not count as inactive at all. I cannot tell. Today is Wednesday 25 November, and tomorrow is Thanksgiving.
+4. **What is at stake.** The words of every conversation in the account:
+   - her conversation as his account held it (section 25.2);
+   - the conversations with other numbers that afternoon, which are the only direct record of whom he says he meant to write to (section 14.2);
+   - the line he recalls (section 25.5).
+
+   The undercover log would remain. So might the provider's records of activity, if "2 years account activity" covers them (26.3). The words would not.
+5. **It cuts both ways.** Preserving the account keeps all of it, including what does not help him, and what is kept the government can later obtain (section 25.2). On his own account of May 1, what the account holds helps him. If he has any doubt about that, it is something to tell counsel before the request goes, and not to write here. That is one more reason for the choice to be counsel's.
+6. **What earlier sections said, and what is different.** Sections 14.2 and 25 said that preservation was urgent, and that the way to deal with it was to press counsel. Both stand. What is new is a stated period, which on one reading runs out within days. Sections 14.2 and 25.1 also said that the provider does not publish how long it keeps messages. For message content that was wrong, and both have been corrected.
+7. **What can be done in a day.** These are for counsel to choose among, and more than one can be done.
+   - **A letter from counsel to the provider.** It would ask the provider to keep everything in the account, identify the account by its sign-in and by the number it had on May 1, and say that it is sent for the account holder. As I understand the statute, a provider is obliged to preserve only on the request of a "governmental entity," so a letter from the defense may not bind it. It is still the account holder asking the provider not to delete his own data. It costs little, it changes nothing in the account, and it does not go through the government. Either of his lawyers can send it.
+   - **A preservation request from the government.** That one binds. On the request of "trial counsel, or other authorized counsel for the Government," a provider "shall take all necessary steps to preserve records and other evidence in its possession," for 90 days and for 90 more if the request is renewed (R.C.M. 703A; 18 U.S.C. § 2703(f)). The cost is that the trial counsel learns that the defense wants the account kept, and that the account is then kept for the government as well. Against that, the government already knows of the account, holds its own side of this conversation, and may have asked the provider months ago.
+   - **Asking whether the government already has the records.** If it obtained them in May or since, the text is not lost (section 25.7).
+   - **Making the account active again.** If the policy uses "inactive" as the page on numbers does, that would take a message sent or a call made, and, with the number lapsed, the choice of a new number first. I could not confirm that this would stop a deletion, or that anything is left for it to save. It would change the account more than a look would, with every cost in section 25.4. If it is done at all, it is done on counsel's decision, by the examiner or in counsel's presence, with each step recorded.
+8. **Why the request should be in writing, with its date.** As I understand R.C.M. 703(e)(2), a party is not entitled to the production of evidence that has been destroyed or lost. There is an exception where the evidence is "of such central importance to an issue that it is essential to a fair trial" and there is "no adequate substitute." The judge then grants a continuance or other relief, or abates the proceedings, "unless the unavailability of the evidence is the fault of or could have been prevented by the requesting party." Whether that rule could apply to records that a provider deleted on its own schedule is for counsel. Either way, a dated request shows what the defense did to prevent the loss, and when.
+9. **How this bears on section 25.4.** That section set the costs of a look by him against a benefit that could be had through counsel anyway. It assumed that there was time. A letter does not act as fast as a login. Someone at the provider has to read it and act on it, and it would arrive on the eve of a holiday. If the choice really were between a recorded step that kept the account alive and the loss of the text, the comparison would come out differently, because a record with a login against it is worth more than a record that no longer exists. I cannot tell from here whether that is the choice. The text may already be gone, or it may be safe for months. It is a decision for counsel, with these dates in front of counsel, and it should be made now and not after the weekend.
+10. **What he should not do meanwhile.**
+   - Open the account on his own. If the text has gone, that saves nothing and costs what section 25.4 says. If it has not, the step that might save it is one for counsel to decide on and to record.
+   - Tell the provider anything about the events or the case. What he writes to its support desk is a statement to a third party, with none of the protection of a note to counsel (section 11.5). Point 11 describes the only kind of request that says none of that.
+   - Follow a link in any email from the provider. The provider says that it sends a warning "to your verified email address" when a number is near expiry. Any such email dates the lapse, and a later one may say more. He can read them without touching the account, and he should pass them to counsel. A link in one of them may act on the account.
+11. **If counsel cannot be reached today.** He should leave the message by telephone and in writing, with the line from the policy and the dates in point 3. He should keep trying both of his lawyers, and the office that his military counsel works in. A message sent today is itself a record of when he raised it. If no lawyer answers before the weekend, there is one step short of a login. It is a short written request to the provider, from him as the account holder, to keep everything in the account and to delete nothing, saying that his lawyer will follow. It would identify the account and say nothing else: nothing about the events, the case or his reasons. It changes nothing in the account, and it is a dated record that he asked. It is not confidential, and it is not free of risk. It is a statement by him that the account is his, the provider could pass it on if it were ever asked, and I do not know how the provider would answer. If the answer is a request to log in, or to give a password, that goes to counsel and is not acted on. A copy of whatever he sends should go to counsel the same day. It is a fallback. A letter from counsel carries more weight, and a request from the government binds.
+
+### 26.5 Statement 3: a second device
+
+*As relayed: [If he] accessed or synced this messaging app on a secondary device that was not seized by law enforcement (such as a tablet or desktop computer), [it] should be left offline (in Airplane Mode or powered off) and preserved in its current state without opening it.*
+
+**How accurate.** Right as a first step, if such a device exists. It leaves out what comes next.
+
+1. **Why it is right.** An app that is opened while online normally brings itself up to date with the provider. If the provider has dropped his history, or drops it later, the copy on that device may be dropped as well. A device that stays offline and unopened keeps whatever it held when it last connected.
+2. **What such a copy would be worth.** It is a picture of his account on the day that the device last connected. Depending on the day, it could show whether her April 30 conversation was in his list before 15:49 on May 1. That is the date that section 25.2 said was missing, and it would come from a device and not from his word. It could equally show the April 30 lines still in place.
+3. **Whether there is one, only he knows.** Section 15.5 asked whether he had ever used the app in a browser, and on which computer. The same question applies to a tablet or an old phone.
+4. **What to add to the statement.**
+   - Tell counsel now, and let the examiner copy the device. He should make no copies or screenshots of his own.
+   - Check that Wi-Fi is off as well. The forensic guide lists it separately from the cellular network (26.1).
+   - Do not open the app, update it or remove it.
+   - If the device has been online since May 1 with the app on it, the advice comes late and still applies. Counsel should be told how the device has been used since. It bears on the argument in section 25.2 that nobody has had access since the arrest.
+5. **A computer is harder, and the examiner should say what to do with it.** If the account was ever opened in a browser, that browser may hold more than a record of visits: stored site data, cached pages and a saved session. Ordinary use can overwrite these, and a restored tab can reconnect to the site without anyone meaning it to. So he should not open the provider's site, clear the browser's history or stored data, or run a cleaning tool. Counsel should get the examiner's advice quickly on whether the computer should be disconnected, left as it is or shut down. One part of the record ages by design. Google says of Chrome: "Your history lists the pages that you've visited on Chrome in the last 90 days." Visits in April and May may already have gone from the computer's own list. They may still be in the Google account's activity (section 13.7).
+6. **Keeping it safe is not keeping it from anyone.** The device must not be wiped, altered, lent or thrown away. If the government ever comes for it with a warrant, he must not get in the way (section 25.4, on *Strong*). Whether and when the defense tells the government about it is counsel's decision, under the discovery rules (26.3).
+7. **Counsel may prefer that the examiner copy it where it is.** There are professional rules about a lawyer who takes possession of an item of evidence, and counsel will know them.
+
+### 26.6 Statement 4: a login as a trap
+
+*As relayed: Logging in creates risk that law enforcement would predict the move by (already having subpoenaed provider) waiting for user to login thereby establishing ownership of account (or this gives law enforcement too much credit).*
+
+**How accurate.** His second thought is probably the better one. Nothing supplied suggests that anyone is waiting for a login, and the risk as described is not the one that matters. A different risk is.
+
+1. **Ownership is not in doubt, and proving it needs no login.** He was arrested at the place the messages named, in the car they described, with the phone. The DPS report says that the number "was later confirmed" as his (section 22.6). His own case depends on the account being his: the image search, the routine and the other conversations are all his records.
+2. **Waiting for a login is a different thing from asking for records.** A subpoena returns the records that exist when it is answered. To be told of a login as it happens, the government would need something more, which looks forward. The statute I know of is the one on pen registers. It defines a pen register as a device or process that records "dialing, routing, addressing, or signaling information," and says that, with exceptions, "no person may install or use a pen register or a trap and trace device without first obtaining a court order." What authority would be needed here is for counsel. I can see no purpose that such an order would serve in this case. Nothing rules it out.
+3. **Nothing in the packet suggests that kind of attention.** Eleven men were arrested in three days (section 22.8). The DPS report is a draft, with a statute that does not fit, a form with the name not filled in, and another man's name on the hotel entry (section 22.9). Whether the government asked the provider for anything at all is not known (section 25.1).
+4. **The real point is simpler. A login may be recorded whether or not anyone is waiting.** The provider's policy lists "IP addresses," "unique device identifiers" and "date/time stamp" among the data it collects, and one row of its table gives "2 years account activity" (26.3). That does not say that every login is logged, or for how long. The statute lets the government obtain by subpoena "records of session times and durations" and "any temporarily assigned network address" (18 U.S.C. § 2703(c)(2)). So he should assume that a login made this month could be read from the provider's records next year.
+5. **What it would show is access, and not ownership.** If it is recorded, it would show that the account was opened on a certain day, after his arrest and with charges pending, and perhaps from which network. Section 25.4 sets out what the government could do with that.
+6. **So the conclusion stands, and the reason should change.** He should assume that anything done with the account since May 1 can be reconstructed later. He need not assume that anyone is watching.
+
+### 26.7 The four statements, side by side
+
+| Statement | How accurate | What is right in it | What is wrong, or missing |
+|---|---|---|---|
+| 1. A login, or a handover of credentials, risks altering metadata or app state, and a claim of tampering | Partly | He should not log in. A login changes the provider's record of the account | The seized phone cannot be affected. A look is not tampering. Credentials given to counsel's examiner are part of the proper route |
+| 2. Asking the provider is premature, because providers hold only metadata | Mostly wrong for this provider | Other services work that way. The defense cannot issue a subpoena. Counsel may have reasons to hold back formal process | This provider stores message content and says for how long. That time may be nearly up, or past. A request to preserve is overdue |
+| 3. A second device should go offline and stay unopened | Right | All of it, as a first step | Counsel should be told, and the examiner should copy it. Wi-Fi should be off as well. It must not be wiped or hidden |
+| 4. Law enforcement may be waiting for a login, to prove ownership | Mostly wrong | A login is likely to be recorded, and records of that kind can be obtained later | Ownership is not disputed. Nobody needs to be waiting. What a login shows is access after the arrest |
+
+### 26.8 What to take to counsel
+
+**Today**
+
+1. **The provider's six months** (26.4): the line from its privacy policy, the two dates, and the request that the account be preserved. Ask which of the steps in 26.4, point 7, counsel will take, and when.
+2. **Whether the government has the provider's records,** or has asked for them to be preserved (section 25.7).
+3. **Any email from the provider since May 1,** passed on as it is, with no link in it followed.
+
+**Soon**
+
+4. **The request to put the phone in airplane mode:** who made it, when, whether he unlocked the phone, whether he gave a passcode or consent, and whether it is on the video (26.1).
+5. **The phone since then:** who holds it, whether it has been kept switched on, whether Wi-Fi was off, and when its contents were copied.
+6. **Any second device** on which the account was ever opened, and how it has been used since May 1 (26.5).
+7. **The Google account:** any change since May 1 to its password or its list of devices, and whether the seized phone appears on that list with a recent time (26.1).
+8. **Any request by the government** for a password, a passcode or consent. The answer comes from counsel.
+9. **If any of the four statements came from counsel or from an examiner:** what it rests on.
+
+**Records to add.** These add to sections 22.11 and 25.9.
+
+1. The phone's log for the evening of May 1: the time airplane mode was switched on, and anything else done in those minutes.
+2. The record of who has held the phone, and of each time it has been switched on or connected.
+3. The date and method of the government's copy of the phone.
+4. The provider's privacy policy and help pages as they stand now, saved with their dates by counsel or the examiner.
+5. From the provider: its record of when the account became inactive, of any deletion of message content under its policy, and of account activity since April 30.
+
+### 26.9 What this changes
+
+1. **Counsel's advice not to open the account still stands, with better reasons than the four statements give.** The seized phone is not at risk. The provider's record is.
+2. **Statement 2 is the one that could do harm.** It tells him that the provider has nothing to give and that there is time. The provider's own pages say that it stores message content, and they give a period that may be running out.
+3. **Preservation now has a date on it.** Sections 14.2 and 25 called it urgent. The provider's stated period may make it a matter of days, and it may already be too late. Only the provider can say.
+4. **Two corrections.** Sections 14.2 and 25.1 said that the provider does not publish how long it keeps messages. Its privacy policy gives six months for message content on inactive accounts. Notes have been added in both places.
+5. **Section 25.4 assumed that there was time.** Its comparison holds as long as the same result can be had through counsel. Whether a recorded step to keep the account alive is now worth its cost is for counsel (26.4).
+6. **The "sent" status at 17:03 may be better explained by the removal of the app** than by a phone that was switched off, if the phone was on and connected until the request (26.1). Section 22.6 has a note.
+7. **The phone raises its own questions:** who had him handle it, whether he unlocked it, and when it was copied. Some of what it holds is cleared with age.
+8. **Nothing is to be sent toward the phone from his Google account.**
+9. **Section 1 has been updated, and section 7 has a new item, 15.**
+10. **The order of work has one thing put in front of it:** the request to preserve the account, because it is the only item with a date on it. After that it is as before: the video, the forensic report, and the account.
