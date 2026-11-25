@@ -2,11 +2,11 @@
 
 **Basis and limits.** Built from three sources: the defense slide deck ("Details for DFE with messages"), the Preliminary Hearing Officer (PHO) report of 10 Aug 2026 and, from section 22 on, the government's 26-page evidence packet, which holds the complete undercover log. Not reviewed: the interview video, the phone extraction, the ad, any forensic report. I am not a lawyer and this is not legal advice. Statements of law are my understanding, and defense counsel should confirm each one.
 
-**Updated 25 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 17: his response on how this text is to be used, with each point sorted by the record that supports it. Section 18: whether hypnosis could be used to recover his memory. Section 19: four objections to this analysis, which lead to three corrections and a restatement of his account in his own terms. Section 20: a fifth point, on his nervousness at the hotel and what it shows about intent, with the reported cases found. Section 21: Spec 3 element by element, with what the government has to prove at a general court-martial and where its proof is strongest and weakest. Section 22: the evidence packet, read directly, with the DPS report, the vehicle inventory and the Army CID report set against the complete log. Section 23: the search for comparable cases, with the outcome of each and whether it was appealed. Section 24: whether the removal of the texting apps reads as abandonment or as destruction of evidence, with the rule, the cases and a correction to the account of one federal case. Section 25: what the texting account may show, what each finding would be worth depending on whether it comes through counsel or from a look of his own, and what follows if one message there differs from the log. Section 26: four statements about opening the account, tested against the fact that the seized phone has been in airplane mode since the interview, and the provider's stated limit of six months for message content on inactive accounts. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
+**Updated 25 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 17: his response on how this text is to be used, with each point sorted by the record that supports it. Section 18: whether hypnosis could be used to recover his memory. Section 19: four objections to this analysis, which lead to three corrections and a restatement of his account in his own terms. Section 20: a fifth point, on his nervousness at the hotel and what it shows about intent, with the reported cases found. Section 21: Spec 3 element by element, with what the government has to prove at a general court-martial and where its proof is strongest and weakest. Section 22: the evidence packet, read directly, with the DPS report, the vehicle inventory and the Army CID report set against the complete log. Section 23: the search for comparable cases, with the outcome of each and whether it was appealed. Section 24: whether the removal of the texting apps reads as abandonment or as destruction of evidence, with the rule, the cases and a correction to the account of one federal case. Section 25: what the texting account may show, what each finding would be worth depending on whether it comes through counsel or from a look of his own, and what follows if one message there differs from the log. Section 26: four statements about opening the account, tested against the fact that the seized phone has been in airplane mode since the interview, and the provider's stated limit of six months for message content on inactive accounts. Section 27: the reasons not to log in to the texting account, stated one by one and set against the risk that the messages are lost, with the new detail that a paid plan kept the number until 26 July 2026. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
 
 ## 1. Bottom line
 
-*Current as of section 26.*
+*Current as of section 27.*
 
 **The charges**
 
@@ -84,7 +84,9 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 
 **The seized phone, and four statements about the account.** As relayed, he put the phone in airplane mode at an official's request directly after the interview, and the government has held it since. Nothing done from outside can change it while it stays offline, and the app was already off it. So the risk in a login is to the provider's record of the account, and not to the phone. Of the four statements he was given, the one about keeping a second device offline is right. The one that calls a request to the provider premature is wrong for this app: the provider says that it stores message content on its servers, and says for how long. A login is likely to be recorded whether or not anyone is waiting for it. Nothing should be sent toward the seized phone from his Google account (section 26).
 
-**Urgent.** The provider says a number lapses after 30 days without use, and that message history may not survive long inactivity. Nearly seven months have passed. Counsel should be asked now whether the provider's records were preserved or obtained, by the defense or by the government (section 14.2). The provider's privacy policy, found since, gives six months for message content on inactive accounts. Counted from May 1, that ended about 1 November 2026. Counted from the lapse of the number, it ends about the end of November 2026. How the provider counts, and whether anything is left, is not known. A request to preserve the account should go to counsel at once (section 26.4). The profile and the Google account's activity can also be lost or changed (sections 11.5 and 13.7). So can location data, which Google now keeps on the phone itself and deletes after three months by default (section 19.2).
+**Whether to log in.** He has asked for the reasons not to open the account himself, set against the risk that the messages are lost. The answer is still not to. A look cannot prove what he hopes to see, because it cannot show when the April 30 lines went, and his own login would become the government's answer to it. It can confirm what he fears outright, and he would be alone when it did. It may well show nothing. The provider's pages do not say that a look would keep the messages, and what they say about keeping a number points the other way. The same look made by an examiner or in counsel's office, and recorded, would give him what he wants and keep its value, and he should ask for it in writing with a date for an answer. Both days in his list would close one possibility that helps him. It would not be new evidence for the government, and it would not show what he read or believed. The distress he describes needs help now, and that does not have to wait for any lawyer (section 27).
+
+**Urgent.** The provider says a number lapses after 30 days without use, and that message history may not survive long inactivity. Nearly seven months have passed. Counsel should be asked now whether the provider's records were preserved or obtained, by the defense or by the government (section 14.2). The provider's privacy policy, found since, gives six months for message content on inactive accounts. Counted from May 1, that ended about 1 November 2026. Counted from the lapse of the number, it ends about the end of November 2026. How the provider counts, and whether anything is left, is not known. He has since said that a paid plan kept the number until 26 July 2026. If the six months run from then, they end about 26 January 2027. The provider's wording leaves the earlier dates open (section 27.1). A request to preserve the account should go to counsel at once (section 26.4). The profile and the Google account's activity can also be lost or changed (sections 11.5 and 13.7). So can location data, which Google now keeps on the phone itself and deletes after three months by default (section 19.2).
 
 **Hypnosis.** He has asked whether a hypnotherapist could help him recall the events. A court could not refuse to hear him for that reason alone. But hypnosis does not make recall more accurate, it would open his testimony about what he believed to a new attack, and it cannot be undone. He should have no session about these events before counsel has advised (section 18). He has since said that its purpose would be to show honesty. It would show sincerity, which nobody would doubt, and not accuracy (section 19.4).
 
@@ -302,6 +304,7 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
 13. **Have the two times before anyone describes the removal of the apps:** the phone's record of the removal and the video of the arrest, each to the second. The reason for the removal is for counsel first (sections 24.3 and 24.7).
 14. **Leave the texting account closed, and take three requests to counsel:** the provider's records for his account, with his consent and by whatever process counsel chooses; a capture by an examiner working for the defense; and whether the government already has the provider's records. What he recalls of the line that differs goes to counsel in a dated note before any record is seen (section 25.7).
 15. **Put the request to preserve the texting account in front of everything else.** The provider's privacy policy gives six months for message content on inactive accounts, and on one reading that runs out at the end of November 2026 (section 26.4). Then: send nothing toward the seized phone from his Google account; tell counsel of any second device on which the account was opened, and keep it offline and unopened; and ask counsel who had him put the phone in airplane mode, who holds it now, and when its contents were copied (section 26.8).
+16. **Do not open the texting account alone.** Ask counsel in writing, with a day named for the answer, for three things: a letter to the provider to preserve the account, whether the government has the provider's records, and a recorded capture of the account by an examiner or in counsel's office. Keep the provider's emails and the records of the paid plan, and follow no link in them. If no answer comes, section 27.6 lists who else can be asked. The distress itself needs help now, and section 27.7 lists who can give it.
 
 ## 8. Addendum, 21 Nov 2026: timeline, interview statement, and the contradiction point
 
@@ -1212,7 +1215,7 @@ As relayed, the provider is TextFree, which is made by Pinger. That allows three
 
 **The expiry point**
 
-1. **The number has almost certainly lapsed.** The apps were removed at 17:02 on May 1, and he has rightly not logged in since. On the provider's stated policy the number expired about a month later, unless a paid plan kept it.
+1. **The number has almost certainly lapsed.** The apps were removed at 17:02 on May 1, and he has rightly not logged in since. On the provider's stated policy the number expired about a month later, unless a paid plan kept it. He has since said that a paid plan did keep it, and that the number expired on 26 July 2026 (section 27.1).
 2. **The conversations may have gone with it.** The provider warns that history may not be available after long inactivity. That statement is about what a user sees. What the provider keeps on its own systems, and for how long, is not published. Only a request through counsel will find out. A later correction: its privacy policy does give a period for message content, which is six months on inactive accounts (section 26.4).
 3. **Why this matters more than anything else in this section.** The conversation with the other woman is held only by his account and by hers, and he should not try to reach her. The undercover side holds only its own conversation. Removing the app normally removes what it stored on the phone (section 11.1). If the provider's copy is gone, the mistake may never be shown by the messages themselves. It would then rest on indirect records, such as the hotel searches, and on his word.
 4. **What to ask counsel now.**
@@ -1233,7 +1236,7 @@ As relayed, the provider is TextFree, which is made by Pinger. That allows three
 6. **The same records test the blocking detail.** They will show whether looking at other texting apps was part of the routine.
    - If on earlier dates he reinstalled the same app each time and looked at no others, May 1 was different, and his reason (13.5) explains the difference.
    - If he had looked at other apps before, the search at 14:01 to 14:04 was routine. It then needs no special reason, and the government will say he has chosen the one that helps.
-7. **A regular cycle means he had seen old conversations come back before.** If he logged back in to the same account each time, as he did on May 1, each reinstall brought back the list. That supports the mechanism: a list of old, unsaved numbers after every reinstall. It supports the worry in 13.5 as well. It also means he had no reason to expect a clean list on May 1, and had reason to know her conversation would be in it unless he had deleted it.
+7. **A regular cycle means he had seen old conversations come back before.** If he logged back in to the same account each time, as he did on May 1, each reinstall brought back the list. That supports the mechanism: a list of old, unsaved numbers after every reinstall. It supports the worry in 13.5 as well. It also means he had no reason to expect a clean list on May 1, and had reason to know her conversation would be in it unless he had deleted it. He has since said that a paid plan kept the number (section 27.1).
 8. **Each earlier cycle is another occasion.** The record that proves the habit also shows how often he did this. Counsel has to weigh that against the rules on other acts and against the Texas case before it is disclosed (section 7, point 5, and section 9.4, point 6).
 9. **The rule.** With a run of dated cycles, a habit argument under M.R.E. 406 has something to rest on (13.1, point 5). Whether to make it is for counsel.
 
@@ -3303,7 +3306,7 @@ The Army court has put the whole of it in one sentence: "The person must experie
 3. **His account supplies reasons of the excluded kind.** A suspected scam is a difficulty that he did not expect when he set out. That is the situation in *Rios*, where the accused had said of the first store that "they weren't going to respond the way I had anticipated." The search for signs of a sting (slide 8), the attempt to park at another hotel, which the timeline marks "scam," and the requests for proof that she was real are the counterparts of the Fort Drum accused's questions and his watching of the area. Section 20.3 said that fear of a scam is not the reason the rule requires. The cases bear that out.
 4. **Shame is the one reason he has given that could fit the rule.** *As relayed: he removes the app out of shame, and has done so many times before, because he felt out of control (section 16.1).* Shame can be a person's "own sense that it was wrong." It can also be embarrassment, or fear of being found out, and those are not what the rule means. Only he knows which it was. The word "solely" then matters. His other concerns that afternoon, the scam and the sting, defeat the defense if they helped cause the removal. Having had them does not by itself show that they did.
 5. **Having had no time to leave does not complete it.** *Byrd* and *Rios* both quote the drafters of the Model Penal Code: the defense is "unavailable if the actor's purposes were frustrated by external forces before he had an opportunity to abandon his effort." So the short time between "Ya" and the arrest answers the question "why didn't you drive away?" (section 22.6). It does not turn the removal into an abandonment.
-6. **Removing the app has not meant that he was finished.** On the timeline he removed it after April 30 and was writing to other numbers by 13:48 the next day (24.1). So the removal by itself is weak evidence that he had given anything up for good. In *Rios* the court said that the accused "hardly had renounced the sin of robbery if he proceeded to rob a second store." The Code's test is whether the giving up was a decision to postpone, or to move the effort "to another but similar objective." Nothing shows what he would have done after 17:02, because he was arrested. The earlier cycle does not prove that he had made such a decision at 17:02. The government would still point to it. A return the next day may show a purpose that never changed, or a new decision after a sincere one, and the records do not yet tell the two apart. He describes his conduct as compulsive (section 19.2). The government uses the same description (section 3).
+6. **Removing the app has not meant that he was finished.** On the timeline he removed it after April 30 and was writing to other numbers by 13:48 the next day (24.1). So the removal by itself is weak evidence that he had given anything up for good. He has since said that a paid plan kept the number while the app was off the phone. The government may say that this points the same way, though a subscription renews by itself (section 27.1). In *Rios* the court said that the accused "hardly had renounced the sin of robbery if he proceeded to rob a second store." The Code's test is whether the giving up was a decision to postpone, or to move the effort "to another but similar objective." Nothing shows what he would have done after 17:02, because he was arrested. The earlier cycle does not prove that he had made such a decision at 17:02. The government would still point to it. A return the next day may show a purpose that never changed, or a new decision after a sincere one, and the records do not yet tell the two apart. He describes his conduct as compulsive (section 19.2). The government uses the same description (section 3).
 7. **"Before law enforcement was involved."** They were involved from the first message. What matters is what he knew. If the phone's record puts the removal before the team moved, nobody can say that the sight of the police prompted it. That helps on the first condition. It does not help on the second or the third.
 8. **It pulls against his account.** A man who says he gave something up is saying that there was something to give up (section 20.3). Raising the defense is not an admission. As I understand it, counsel can argue it in the alternative without conceding that the government has proved an attempt. It fits Spec 3 best: he came to pay an adult, and stopped. For Spec 2 the argument would be that he never intended it and that, in any case, he gave it up. A panel may believe neither half.
 9. **Its better use is as one fact about how firm his intent was,** with the nervousness and the room he did not go to (section 20.3). That use does not need the rule's conditions. It has a limit. Intent is judged at the time of the acts, and the acts came first. In *Rios* the Army court below said of a robber who lost his nerve: "The key is intent, not resolve. The appellant was weak and unable to carry through with his plan. His intent was, at the time, no less criminal despite his lack of will." The higher court set that passage out and did not disturb it.
@@ -3446,7 +3449,7 @@ I have not seen the account, the provider's records, the forensic report or the 
 | The undercover system | Every message it sent and received, and when | Nothing about what his screen showed |
 | His Google account | Searches, pages and app use by time (section 13.7) | Nothing from inside the app |
 
-1. **Today's account is not the account of May 1.** The provider says that a number expires after 30 days without an outgoing message or call, and that the app then "prompts you to choose a new one." It says that call and message history "may not be available after any long period of inactivity," and that messages "may still show in the inbox when you reopen your TextFree account, depending on how long it's been." Nearly seven months have passed. Unless a paid plan kept the number, it will have lapsed (section 14.2).
+1. **Today's account is not the account of May 1.** The provider says that a number expires after 30 days without an outgoing message or call, and that the app then "prompts you to choose a new one." It says that call and message history "may not be available after any long period of inactivity," and that messages "may still show in the inbox when you reopen your TextFree account, depending on how long it's been." Nearly seven months have passed. Unless a paid plan kept the number, it will have lapsed (section 14.2). He has since said that a paid plan kept it until 26 July 2026 (section 27.1).
 2. **Viewing "through the cloud" now runs through the app.** The provider's pages say that the browser version no longer takes a password directly: "you'll now use a QR code and your mobile app to verify your login." So, on the provider's present description, opening the account in a browser means reinstalling the app on a phone and logging in there first. The two things counsel advised against are, in practice, one.
 3. **Deleting is permanent for the user. It may not be for the provider.** The provider says that deleting messages "is a permanent action that cannot be reversed." Its page on saving conversations also says that the result of a Personal Information Request "may include deleted messages, if they are still available." So the provider's systems may hold a deleted message for some time. Section 14.2 treated a deleted conversation as gone, and that went too far. The provider may be able to show both that the April 30 exchange existed in his account and that he deleted it. Whether it records when is a question to put through counsel.
 4. **So two things have to be kept apart: what his list shows, and what the provider holds.**
@@ -3525,7 +3528,7 @@ This is the second case in section 15.2.
 
 ### 25.4 Scenario A, found by him against counsel's advice
 
-**What he would have to do.** Reinstall the app on a phone and log in (25.1). On the provider's description the app would then prompt him to choose a new number.
+**What he would have to do.** Reinstall the app on a phone and log in (25.1). On the provider's description the app would then prompt him to choose a new number. Section 27 sets out the reasons against a look one by one, and weighs them against the risk that the messages are lost.
 
 **What he could learn**
 
@@ -3829,7 +3832,7 @@ I have not seen the phone, the video or any record of the request. I do not know
 | The last use, on May 1 | 1 November 2026. That has passed |
 | The lapse of the number, 30 days later | 27 to 30 November 2026. That is within days |
 
-If the provider's process runs late, or counts in some other way, there may be more time. If a paid plan kept the number (section 14.2), the account may not count as inactive at all. I cannot tell. Today is Wednesday 25 November, and tomorrow is Thanksgiving.
+If the provider's process runs late, or counts in some other way, there may be more time. If a paid plan kept the number (section 14.2), the account may not count as inactive at all. I cannot tell. He has since said that a paid plan kept the number until 26 July 2026. Section 27.1 sets out the dates again. Today is Wednesday 25 November, and tomorrow is Thanksgiving.
 4. **What is at stake.** The words of every conversation in the account:
    - her conversation as his account held it (section 25.2);
    - the conversations with other numbers that afternoon, which are the only direct record of whom he says he meant to write to (section 14.2);
@@ -3897,7 +3900,7 @@ If the provider's process runs late, or counts in some other way, there may be m
 
 1. **The provider's six months** (26.4): the line from its privacy policy, the two dates, and the request that the account be preserved. Ask which of the steps in 26.4, point 7, counsel will take, and when.
 2. **Whether the government has the provider's records,** or has asked for them to be preserved (section 25.7).
-3. **Any email from the provider since May 1,** passed on as it is, with no link in it followed.
+3. **Any email from the provider since May 1,** passed on as it is, with no link in it followed. He has since described one, about the expiry of the number (section 27.1).
 
 **Soon**
 
@@ -3928,3 +3931,204 @@ If the provider's process runs late, or counts in some other way, there may be m
 8. **Nothing is to be sent toward the phone from his Google account.**
 9. **Section 1 has been updated, and section 7 has a new item, 15.**
 10. **The order of work has one thing put in front of it:** the request to preserve the account, because it is the only item with a date on it. After that it is as before: the video, the forensic report, and the account.
+
+## 27. Addendum 20, 25 Nov 2026: the reasons not to log in, set against the risk of losing the messages
+
+**What this covers.** Two things supplied after section 26, recorded as relayed.
+
+*As relayed: the number expired on July 26, with an email stating that he had 30 days to reclaim it. It was from a paid plan.*
+
+*As relayed: state clearly and specifically the reasons not to log in to the texting account. Put simply, he is losing his mind waiting. If there is a glimmer of hope, however small, he is looking for it. He has no plan to delete, alter or modify any message or thread. Seeing, at a minimum, that the April 30 thread was removed before May 1, or before the May 1 chat began, would reassure him that it was a mistake. Waiting for lawyers who have already missed many details to see this through is uncomfortable. On the other side, seeing that the April 30 thread was still there might bring about a psychotic break. For now only the undercover log has been entered, and that has been the working position. By reasons he means such things as strife with his military defense counsel, acknowledging that he did not follow instructions, though for a good reason, the emotional toll, and the eventual record of a new login. These are to be weighed against the prospect that the messages become inaccessible when the account is deactivated.*
+
+I read the first item to mean that a paid plan had kept the number, and that the number expired on 26 July 2026. If either reading is wrong, the dates in 27.1 change. I have not seen the email, the plan's records or the account. I could not open the provider's sites from here, so what follows about its pages rests on what a web search returns from them (section 14). Statements of law are my understanding, for counsel to confirm. This section explains counsel's advice and tests it. It does not replace it.
+
+**Short version**
+
+- **The answer is still not to log in, and the reason is not that looking is wrong.** He means to change nothing, and I take that as true. A look that changes nothing is not tampering (section 26.2). The reasons are about what a look can and cannot do.
+- **It cannot give him what he hopes for.** A thread that begins at 15:49 on May 1 would show that the April 30 lines are not in his list now. It would not show when they went. From then on the government could point to the one person known to have been in the account since the arrest.
+- **It can give him what he fears, outright.** Both days in the list would mean that the thread was never deleted. He would learn that alone, on a holiday, with nobody there to say what it does and does not mean.
+- **It may well give him nothing.** After nearly seven months, with the number expired since July, an empty list or a prompt for a new number may be all that there is. That ends nothing.
+- **It may not save the messages.** The provider's pages do not say that a login resets its six months. What they do say is that keeping a number takes a message sent or a call made, and not a look. If the text has already been deleted, a login saves nothing. If the deletion is months away, there is time to do this properly. A login could help only if the deletion is days away, and then only if things that I could not confirm go its way. A written request to preserve the account addresses the same risk without those costs, though it cannot promise that the provider acts in time.
+- **The costs are specific:** a reinstall, on record, of a second-number texting app while he awaits trial; a login record; a changed account; a harder relationship with the lawyer who has to stand behind whatever is found; and knowledge that cannot be unlearned.
+- **What he fears would not be new evidence for the government, and it would not show what he knew.** The government's log already shows the two days as one conversation, and this analysis has worked from that possibility since section 12. Both days in his list would close one possibility that helps him, and that would be a real loss. It would not show what he read or believed, which the government still has to prove.
+- **What he wants can be asked for in another form:** the same look, made by an examiner or in counsel's office, and recorded from start to finish. He would see what is there. He would not be alone when he saw it, and what he saw could be used. He should ask for it in writing, with a date for an answer (27.6). I cannot promise that counsel will agree, or how soon.
+- **The distress needs help now, and that does not have to wait for any lawyer.** 27.7 lists who can help. If it becomes an emergency, the Military Crisis Line is 988, then 1.
+
+### 27.1 The new detail: the paid plan, and the expiry of the number
+
+*As relayed: a paid plan kept the number. The number expired on July 26, and an email gave him 30 days to reclaim it.*
+
+1. **What the provider says about its paid plan.** Its support page lists as one benefit: "Keep your TextFree number even if your account is inactive." Another of its pages says that the plan "prevents your TextFree phone number from expiring after 30 days due to inactivity." The support page adds: "Uninstalling TextFree does not cancel your subscription." Google's help page says the same of a subscription bought through the Play Store: "When you uninstall the app, your subscription won't cancel."
+2. **What that explains.** The number was the same on April 30 and May 1, and it lasted through each removal of the app. It also outlived the arrest by nearly three months. The plan went on after the app came off the phone, until it was cancelled or a payment failed. I do not know which, or when.
+3. **The number is gone, and a login would not bring it back.** The 30 days to reclaim it ended about 25 August. The provider's page says that if the app does not offer an expired number "when it prompts you to choose a new one," the number "is not available to use at this time." Its page on changing numbers says that to "retrieve a number you had previously" a user should contact support. So section 25.4 was right that a login would meet a prompt for a new number. By now the old number may belong to someone else.
+4. **What it does to the dates in section 26.4.** That section counted the provider's six months from May 1, or from 30 days later, and said that a paid plan might change the count. The plan does not settle it. The provider's own words are that the plan keeps the number "even if your account is inactive." On those words an account can be inactive while the plan runs. So the six months may have started in May all the same.
+
+| If the account became "inactive" | The six months end about |
+|---|---|
+| At the last use, on May 1 | 1 November 2026. That has passed |
+| 30 days after the last use | 30 November 2026 |
+| When the plan ended, if that was 30 days before the number expired | 26 December 2026 |
+| When the number expired, on July 26 | 26 January 2027 |
+| When the 30 days to reclaim it ran out | 25 February 2027 |
+
+I cannot tell which row applies, or whether the provider deletes on the day. The new detail adds the later dates. It does not remove the earlier ones.
+5. **What it does establish.** On July 26 the provider was still writing to him about the number. That dates the expiry. It does not show what the provider held then, or holds now.
+6. **The plan and the emails are records.**
+   - If the plan was bought through the Play Store, the order history there and the receipts in his mail should show when it began, each payment, and when and how it ended. The date it began helps to show how long he had had this number, though a number can be changed while a plan runs.
+   - How it ended matters. If he cancelled it after May 1, that was something done about the account after the arrest. It is not a login, and it is an ordinary thing to do. Counsel should still know of it before anyone says that the account has been left alone since the arrest (section 25.2).
+   - The provider's emails date the expiry. He should keep them, pass them to counsel as they are, and follow no link in them (section 26.4).
+   - Nothing in the order history or the mailbox should be deleted (section 13.7).
+7. **It may be argued both ways on the habit.** A plan that holds the number fits long use of one number, and breaks of more than 30 days. The short cycle of removing and reinstalling the app did not need it, because on the provider's pages a number lasts 30 days without use in any case (section 14.2). The government may say that the plan shows that removing the app did not mean giving the number up, and may use that against any reading of the removal at 17:02 as a change of mind (section 24.2). An inference of that kind has to allow for the way subscriptions work. One that renews by itself goes on until someone cancels it, whatever he intended.
+
+### 27.2 What a look could show
+
+| What he would see | What it would mean | What it would not do |
+|---|---|---|
+| An empty list, or only a prompt to choose a new number | That the history is no longer shown to him | Tell him anything about April 30, or end the waiting |
+| Her thread with both days in it | That it was never deleted | Show that he read the April 30 lines on May 1 |
+| Her thread beginning at 15:49 on May 1 | That the April 30 lines are not in his list now | Show when they went, or prove anything that the provider's records would not prove better |
+
+1. **The first is a real possibility, and after this long it may be the most likely.** Nearly seven months have passed, the number has expired, and the provider warns that history "may not be available after any long period of inactivity" (section 25.1). The sources do not let me put odds on any of the three.
+2. **Between the other two, I cannot say that the one he hopes for is the likelier.** He does not recall deleting the thread. He has said that it was possibly deleted. He has also said that on the afternoon of May 1 he was worried about texting her number by accident, which suggests that her number was still in the app at about 14:00 (section 25.2). None of that settles it.
+3. **Only the second can be settled by looking.** Both days in the list means that the thread was never deleted. The third still needs the provider's records to show when the lines went, and those records can be asked for without his looking (section 25.4).
+
+### 27.3 The reasons not to log in
+
+**What a look cannot do**
+
+1. **It cannot prove the thing he hopes to see.** A list shows what is there today. It does not show what was there at 15:49 on May 1 (section 25.1).
+2. **It could turn the best finding against him.** If the April 30 lines are gone, and the provider kept no record of when they went, the argument that they went before the arrest rests on nobody having been in the account since (section 25.2). After a login by him, the government need not prove that he removed them in November. It need only say that he could have. He intends nothing of the kind. The record would not show his intent. It would show the login. If the provider did record the time, his login changes little on this point, and nobody yet knows which it is.
+3. **It may not keep the messages from being lost.** Whether a login resets the provider's clock is not known. 27.5 sets this out.
+
+**What it would put on the record**
+
+4. **A reinstall.** The first thing the records would show is not that he looked at one thread. It is that, with charges pending, he reinstalled the second-number texting app that the charges are about. An install from the Play Store is normally recorded in his Google account (section 25.4). He would have a reason. The record does not carry the reason.
+5. **A login,** probably with its time, the device and the network. The provider's policy gives "2 years account activity," and records of that kind can be obtained later by subpoena (section 26.6). What exactly the provider logs is not confirmed.
+6. **A changed account.** There would be a prompt for a new number, and he might have to take one in order to see anything. Messages that reached the account after 17:02 on May 1 may be fetched, and the provider's record of whether they were delivered or read may change. I could not confirm how the app behaves (section 26.2).
+7. **Possibly a breach of a condition.** If a condition of his bond in Texas, or an order from his command, limits what he may install or use, a reinstall could breach it. Only he and his lawyers know whether there is one. It has to be checked before anything else, because the consequence would be immediate.
+8. **The risk of a message.** If the list still holds anything, it holds a police number and the numbers of women he should not contact. A message sent by accident is the thing he says he feared on May 1 (section 25.4).
+
+**What it would do with counsel**
+
+9. **He would have to tell counsel, and at once.** If he did not, counsel might tell the government or the court that the account has been left alone since the arrest, and the provider's record would show otherwise. That would damage counsel's standing with the court, and his own.
+10. **Counsel could not vouch for how it was made.** A capture that counsel arranged comes with a witness other than the accused. One that he made alone may be harder to prove and to date, and the natural witness to it is him (section 25.4). It would not be unusable for that reason alone.
+11. **It may make counsel think twice about relying on the account.** A login does not stop counsel from asking for the provider's records. But once those records would show a login in November, counsel has to weigh that before putting them forward.
+12. **It weakens his position in the disagreement.** As things are, the record shows that he raised preservation, and when. If the messages are lost, that may matter. The rule on lost evidence asks, among other things, whether the loss was "the fault of or could have been prevented by the requesting party" (section 26.4). A login against advice would not decide that question. It would give the government something to say about it, and counsel something to explain.
+13. **It would not end the representation.** As far as I know, detailed counsel carries on. A login against advice could strain how the two of them work together, at the point when he most needs to be heard. He would still be entitled to be kept informed about his case (27.6).
+
+**How "for a good reason" would be heard**
+
+14. **By counsel,** as the client doing what he was advised not to do. The reason would be understood. The act would still be the thing counsel had to deal with.
+15. **By a prosecutor, if it ever became relevant.** If he testifies, he can be asked whether he has opened the account since the arrest (section 25.8), and the answer would be yes. A login against advice would prove nothing about May 1. A prosecutor might still try to use it to show how he acts under pressure, which is close to how the government reads that day (section 3). Whether that would be allowed is for counsel.
+16. **By himself.** A good reason does not change what a look can show.
+
+**What it would do to him**
+
+17. **The result he fears would come with nobody there.** He has said what it might do to him. This week it would come on a holiday, with his lawyers out of reach, and with no one to tell him what 27.7 says about what it would and would not mean.
+18. **An empty list would relieve nothing.** It would leave him where he is, with a login on record and a new fear that the text is gone.
+19. **Even the result he hopes for would not end the waiting.** It would still have to be dated, and that needs the provider's records. He would go on waiting for the same lawyers, with something to explain to them.
+20. **It cannot be undone.** A login may leave a record that he cannot remove and that could later be obtained. What he sees cannot be unseen. If he saw both days in the list, "possibly deleted" would no longer be an answer that he could honestly give (section 25.4).
+21. **It would be a decision made in order to stop a feeling.** That is not a criticism. The distress is real, and it needs help now (27.7). The decision about the evidence is a separate thing. It can wait for a day when there is someone to ask, and the distress should not wait at all.
+
+### 27.4 What can be said for looking
+
+These are real, and they should be stated as plainly as the reasons against.
+
+1. **It is his account.** I know of no rule against his looking at it, subject to any condition or order (27.3, point 7). A look that changes nothing is not tampering (section 26.2).
+2. **If her thread is there, he would know at once what his list holds today.** A thread with only May 1 in it would still leave open when the earlier lines went.
+3. **A thread that began at 15:49 on May 1 would mean more to him than it would prove.** He knows what he has and has not done with the account since the arrest. A fact-finder does not. It would also give him something to press counsel with.
+4. **His own careful reading has already found what others missed.** As relayed, it was he who saw the two seconds (section 19.1).
+5. **Waiting has a cost.** If the text is lost while he waits, that cannot be undone either.
+6. **His own copy, made before a deletion, would be better than no copy.**
+
+**Why the balance still comes down against**
+
+1. Points 2 and 3 need something to be there, and need it to be the result he hopes for. It may be that nothing is there. If something is, I cannot say that the result he hopes for is the likelier one (27.2).
+2. Points 5 and 6 are about the risk of loss. A look could do more about that risk than a written request in one row of the table in 27.5, and only if several things that are not known go its way. In the other three rows it does nothing that a request does not do better.
+3. Point 4 is a reason to press counsel harder, and in writing. It is not a reason to do alone the one thing whose value depends on a witness.
+
+### 27.5 Set against the risk of losing the messages
+
+| If the position is | What a login by him would do now | What a written request to preserve would do |
+|---|---|---|
+| The text has already been deleted | Nothing for the text. All of the costs in 27.3 | Nothing for the text. It records that he asked, and it finds out |
+| The text is still there, and due to go within days | It might keep the text, if a login alone resets the provider's clock, which is not known. It would let him make his own copy | It might keep the text, if the provider acts on it in time, which cannot be promised. A request made by the government binds the provider |
+| The text is still there, and not due to go for weeks or months | Nothing that could not be done properly in the time left. How much time that is, nobody knows | It keeps the text if the provider acts on it, and there may be time to follow it up |
+| The government already obtained the account's records | Nothing | The text is not lost. Counsel should confirm what the records cover |
+
+1. **A login is the better course in one row at most,** and there only if things that I could not confirm go its way.
+2. **On the provider's pages, keeping a number takes use, and a look is not use.** Its instruction is: "Send a text or place an outgoing phone call to a non-TextFree contact within 30 days." That is about numbers. Whether the six months for message content work in the same way, the pages I could read do not say. If they do, keeping the account alive would take a new number, and a message or a call from it. That is using the app again, and it is far more than the look he has in mind. It is a question to put to the provider through counsel, and not one for him to test.
+3. **The strongest argument for a look is the copy.** If the text is there and about to go, a copy made by him is worth more than nothing. It is worth less than the same copy made in front of counsel or by an examiner (27.3, points 2 and 10).
+4. **So the choice is narrower than it feels.** Only in the second row is his own copy tonight set against a copy made properly some days later, with the risk that the text goes in between. I cannot promise that counsel will act within days, or that the provider will. 27.6 is about how to press for it.
+5. **A request to preserve needs no login.** Section 26.4 lists the forms it can take: a letter from either of his lawyers, a request from the government, which binds, and as a last resort a short written request of his own.
+6. **If the text is lost in spite of a dated request,** the rule on lost evidence may be worth raising (section 26.4). Relief under it depends on how important the evidence is, on whether there is a substitute, and on whether the defense could have prevented the loss. Whether it would apply is for counsel.
+7. **This analysis cannot tell him that waiting is free.** It is not. It can tell him that a look alone is an uncertain remedy for the thing he is afraid of losing, and that a request which needs no login can be started today.
+
+### 27.6 The same look, with its value kept
+
+1. **What to ask counsel for.** A capture of the account by an examiner working for counsel or, failing that, in counsel's office with counsel or a paralegal present. It would be made on a device that has never held the app, and recorded on video from before the app is installed until after it is closed. He would give written consent. Nothing would be sent and nothing deleted, and the state of the account would be noted before and after (section 25.3).
+2. **It would give him what he wants.** He would see what is there, on that day.
+3. **He would not be alone when he saw it.** Someone would be there to say what it means for the case.
+4. **What is found could be used.** If it hurts, it can usually stay inside the defense (section 25.3).
+5. **It still leaves a login on the provider's record.** The difference is that counsel arranged it and someone other than the accused can describe it. A production by the provider leaves no login at all, which is why section 25.3 puts it first. Both can be asked for.
+6. **How to ask.** In writing, on one page, with the line from the provider's policy and its email about the number attached. Three requests: a letter to the provider to preserve the account; whether the government already has the provider's records; and a recorded capture. Then a named day for an answer, yes or no, with the reason if it is no.
+7. **He can ask for the reason.** The Army's rules of professional conduct require a lawyer to "keep the client reasonably informed about the status of the matter" and to "promptly comply with reasonable requests from the client for information" (AR 27-26, Rule 1.4). Counsel may have a reason that he has not been told: discovery that is on its way, or a judgment that no login of any kind should be made yet. A reason he can weigh is better than an instruction he cannot.
+8. **If no answer comes by that day.**
+   - His Texas counsel can send a letter to the provider for the Texas case, without waiting for anyone.
+   - The Army's Trial Defense Service says of its own structure: "The Senior Defense Counsel is the direct supervisor of all Trial Defense Counsel within a field office." Asking that officer for help is an ordinary step. It is better to tell his own counsel first that he means to.
+   - The statute gives him two other choices. He "may be represented by civilian counsel if provided by him," or "by military counsel of his own selection if that counsel is reasonably available" (Article 38(b), UCMJ). Whether either is practical, and what it would cost in time, I cannot say.
+   - The short written request of his own to the provider, described in section 26.4, involves no login and stays open throughout.
+9. **If the answer is no, or there is none.** A refusal, or a day that passes without an answer, does not change the reasons in 27.3, and it is not a reason to open the account alone. If counsel refuses, he should ask for the reason and weigh it, because it may be one that this analysis cannot see. If nobody answers, the steps in point 8 are still open. The text may be at risk in the meantime, which is the reason to take them at once. The decision is his, and nothing written here can make it for him. The answer of this analysis stays the same: not alone. If it has already happened, section 25.4 says what to do: stop, change nothing, and tell counsel at once and exactly.
+
+### 27.7 The waiting
+
+1. **What he describes is serious in its own right.** Nearly seven months of waiting for this to be decided would wear on anyone. It is not only a legal problem, and the lawyers are not the only people who can help with it. Getting that help does not have to wait for any lawyer's answer.
+2. **Who can help, and what is protected.**
+   - **The Military Crisis Line.** Military OneSource describes it as "a free, confidential resource for all service members," with counselors "available 24/7, 365." The number is 988, then 1, or a text to 838255. It answers on a holiday, and it is there for a night that is too much.
+   - **An emergency.** If he cannot keep himself safe, or fears that he might harm himself or anyone else, or feels that he is losing touch with what is real, that is an emergency. He should call 911 or go to the nearest emergency room, and tell someone who can stay with him.
+   - **A chaplain.** The military rule protects "a confidential communication by the person to a clergy member or to a clergy member's assistant, if such communication is made either as a formal act of religion or as a matter of conscience" (M.R.E. 503). As I understand it, Texas has a rule of the same kind (Tex. R. Evid. 505).
+   - **A licensed mental health professional.** He should seek that help now, and he does not need counsel's leave to do it. How he is can be said freely. The facts of the case are a different matter. The military privilege for what is said in treatment has exceptions (section 18.6), and as I understand the Texas rules there is no physician-patient privilege in a criminal case (Tex. R. Evid. 509(b)). So he can ask the clinician what is kept confidential, and ask counsel what is protected in each court. Neither question should delay urgent care. A look of any kind, including one made in counsel's office, is better left until he has that support.
+3. **What is not protected.** Friends and family can be told how he is, and can be asked to keep him company over the holiday. They should not be told the facts of the case, because nothing said to them is privileged. This document is not privileged either (section 11.5). What he hopes or fears the evidence will show is better said to counsel or a chaplain than written here.
+4. **What the result he fears would and would not mean.**
+   - It would close one possibility that helps him: that the April 30 lines were gone before he wrote on May 1. That would be a real loss. If it were later proved from the provider's records, it would support the government's argument that the refusal was in front of him (section 12.2).
+   - It would not be new to this analysis, which first assumed it in section 12.2 and has kept it in view since. The government's log already shows the two days as one conversation, and the government already argues from that.
+   - It would not show what he read or believed. A thread that was in the app is not, by that fact alone, a thread that was read. On his account he was writing to several numbers that afternoon, and he does not recall seeing his own words (sections 13.4 and 19.2). The government has to prove what he believed beyond a reasonable doubt, and it has to do that from circumstances (section 23.5).
+   - The core of his defense does not depend on it. The one time he was told that she was a minor, he refused. Everything he was shown afterward was an adult. Age was not mentioned on May 1 (section 11.5).
+5. **What stays, whatever the account shows.** These are points for the defense. They are not assurances of an outcome, and section 23 records that accused who refused and then came back have been convicted.
+   - He gave up a finished arrangement 37 seconds after he was told her age (section 22.2).
+   - As relayed, his Google activity records the image search that led to an adult's profile, and it was made before the arrest (sections 11.3 and 13.3).
+   - "Yes" came two seconds after the line it is said to answer (section 19.1).
+   - Nothing in the government's packet states what he believed on May 1. The government has to prove it from circumstances (section 22.12).
+   - The provider may still hold the text, and its page says that a data request "may include deleted messages, if they are still available." On some readings of its policy there are weeks or months left (27.1).
+   - The phone may still show what was open in the minutes before 15:49, depending on when its contents were copied (sections 25.2 and 26.1).
+
+   None of these is certain. Each is real, and none needs him to open the account.
+
+### 27.8 What to take to counsel
+
+**Now**
+
+1. **The written request in 27.6, point 6,** with a day named for the answer.
+2. **The provider's email about the number,** and any others from it, as they are.
+3. **The paid plan:** when it began, each payment, and when and how it ended (27.1).
+4. **Any condition of his bond, or order from his command,** about phones, apps or accounts (27.3, point 7).
+5. **That he is finding the wait very hard, and is thinking of looking.** Counsel should hear that from him, and before the event and not after it.
+
+**Records to add.** These add to sections 25.9 and 26.8.
+
+1. The Play Store's order history and the receipts for the plan.
+2. The provider's emails about the number: any warning, the notice of expiry, and the offer to reclaim it.
+3. From the provider: when the plan ended, when the number expired, whether and when the number was given to someone else, what "inactive" means in its policy, and from what day it counted.
+
+### 27.9 What this changes
+
+1. **The advice not to open the account alone stands,** and the reasons for it are now in one place (27.3).
+2. **The strongest reason is not the login record.** It is that a look cannot date what it finds, and that his own login would become the answer to the finding he hopes for.
+3. **The risk of losing the messages is real, and a look is an uncertain remedy for it.** The provider's pages do not say that a look would keep them. A written request to preserve needs no login, though it cannot promise that the provider acts in time.
+4. **The dates in section 26.4 are wider than they were.** As relayed, a paid plan kept the number until 26 July 2026. Later dates are now possible. The earlier ones are not excluded. Notes have been added to sections 14.2, 25.1 and 26.4.
+5. **The plan is a new record, and it cuts both ways** (27.1).
+6. **Waiting is no longer the only thing asked of him.** There is a request to make, a day to name, and people to take it to (27.6).
+7. **What he fears would close one possibility that helps him.** It would not be new to this analysis, and it would not show what he read or believed (27.7).
+8. **His own state matters for its own sake, and help with it should not wait.** 27.7 lists who can help and what is protected.
+9. **Section 1 has been updated, and section 7 has a new item, 16.**
+10. **The order of work is unchanged:** the request to preserve the account, then the video, the forensic report, and the account.
