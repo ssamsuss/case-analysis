@@ -2,11 +2,11 @@
 
 **Basis and limits.** Built from three sources: the defense slide deck ("Details for DFE with messages"), the Preliminary Hearing Officer (PHO) report of 10 Aug 2026 and, from section 22 on, the government's 26-page evidence packet, which holds the complete undercover log. Not reviewed: the interview video, the phone extraction, the ad, any forensic report. I am not a lawyer and this is not legal advice. Statements of law are my understanding, and defense counsel should confirm each one.
 
-**Updated 25 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 17: his response on how this text is to be used, with each point sorted by the record that supports it. Section 18: whether hypnosis could be used to recover his memory. Section 19: four objections to this analysis, which lead to three corrections and a restatement of his account in his own terms. Section 20: a fifth point, on his nervousness at the hotel and what it shows about intent, with the reported cases found. Section 21: Spec 3 element by element, with what the government has to prove at a general court-martial and where its proof is strongest and weakest. Section 22: the evidence packet, read directly, with the DPS report, the vehicle inventory and the Army CID report set against the complete log. Section 23: the search for comparable cases, with the outcome of each and whether it was appealed. Section 24: whether the removal of the texting apps reads as abandonment or as destruction of evidence, with the rule, the cases and a correction to the account of one federal case. Section 25: what the texting account may show, what each finding would be worth depending on whether it comes through counsel or from a look of his own, and what follows if one message there differs from the log. Section 26: four statements about opening the account, tested against the fact that the seized phone has been in airplane mode since the interview, and the provider's stated limit of six months for message content on inactive accounts. Section 27: the reasons not to log in to the texting account, stated one by one and set against the risk that the messages are lost, with the new detail that a paid plan kept the number until 26 July 2026. Section 28: his replies to section 27, with three corrections to it, and what a login does and does not change. Section 29: his doubts about his two lawyers, what the advice to wait does and does not cover, and questions for each lawyer with answers that can be checked. Section 30: his clarification that his military counsel is not in doubt, what a government-funded examiner can and cannot get from the phone, and why a login is not a last resort. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
+**Updated 26 Nov 2026.** Later sections take further material in the order it was supplied. Section 8: the deck's timeline slide and one interview statement, as relayed and not as heard on the video. Section 9: the two-day timeline and the "Ok. Where at?" point. Section 10: the single account of May 1 the defense then put forward. Section 11: three further points, and whether the image search counts as a disclosure that she was an adult. Section 12: a college email posted on the profile, and how the undercover number appeared in the texting app. Section 13: his responses to points in this analysis, including that he had meant to block the number. Section 14: the provider's help pages, and the record of the habit. Section 15: his answers to the questions in 14.4, which reopen whether her conversation had been deleted. Section 16: his answers to the cross-examination questions in section 6. Section 17: his response on how this text is to be used, with each point sorted by the record that supports it. Section 18: whether hypnosis could be used to recover his memory. Section 19: four objections to this analysis, which lead to three corrections and a restatement of his account in his own terms. Section 20: a fifth point, on his nervousness at the hotel and what it shows about intent, with the reported cases found. Section 21: Spec 3 element by element, with what the government has to prove at a general court-martial and where its proof is strongest and weakest. Section 22: the evidence packet, read directly, with the DPS report, the vehicle inventory and the Army CID report set against the complete log. Section 23: the search for comparable cases, with the outcome of each and whether it was appealed. Section 24: whether the removal of the texting apps reads as abandonment or as destruction of evidence, with the rule, the cases and a correction to the account of one federal case. Section 25: what the texting account may show, what each finding would be worth depending on whether it comes through counsel or from a look of his own, and what follows if one message there differs from the log. Section 26: four statements about opening the account, tested against the fact that the seized phone has been in airplane mode since the interview, and the provider's stated limit of six months for message content on inactive accounts. Section 27: the reasons not to log in to the texting account, stated one by one and set against the risk that the messages are lost, with the new detail that a paid plan kept the number until 26 July 2026. Section 28: his replies to section 27, with three corrections to it, and what a login does and does not change. Section 29: his doubts about his two lawyers, what the advice to wait does and does not cover, and questions for each lawyer with answers that can be checked. Section 30: his clarification that his military counsel is not in doubt, what a government-funded examiner can and cannot get from the phone, and why a login is not a last resort. Section 31: what a record of arranging a meeting, driving to it and not meeting would be worth on each charge, and what it would cost. Section 1 gives the current position. Sections 2 to 7 have been revised where later material changes them.
 
 ## 1. Bottom line
 
-*Current as of section 30.*
+*Current as of section 31.*
 
 **The charges**
 
@@ -88,6 +88,8 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 
 **His lawyers.** He has said that he doubts both: that his Texas firm is drawing the case out for its fee, and that his military counsel started from an assumption of guilt and has reservations about a trial. I have heard neither lawyer. The reasons for leaving the account closed do not depend on trusting them. The firm's own site describes a flat fee, under which delay earns it nothing more. A slow Texas case may be in his interest, which is for his two lawyers to judge together. Waiting for the crime lab is sound for the forensic report. It does not preserve the provider's records, which are a separate source. As relayed, his military counsel changed position when shown records, and whether to go to trial is his decision. Each doubt can be tested by questions in writing with answers that can be checked. His safety comes before the case (section 29). He has since said that his military counsel is competent and fierce, and that the limit is the process for a government-funded examiner. That process governs one step. A letter to the provider, a question to the prosecutor and a recorded capture arranged through counsel need no funding and no approval, and they are the steps that guard against the provider's deletion (section 30).
 
+**A pattern of not meeting.** He asks what it would be worth if records showed that he has arranged meetings with adults, driven to them and left without meeting. If they show occasions on which the meeting was there to be had and he left of his own accord, that would be the first evidence from outside the day itself on the element of Spec 3 that is least proved: a firm intent to go through with a sexual act. It would give Spec 2 a second answer, and it would weaken the inferences about her age that are drawn from his nervousness and from the interview. Not meaning to meet is no answer to Spec 1, and probably none in Texas. Its limits are that intent is judged when he acts, that an intent with a condition is probably still an intent, and that on his own account the pattern is mixed. Its cost is that the other occasions come with it, and that it cannot be combined with a plea to Spec 3. Section 31.6 takes up a further possibility that he raises, which is his alone to decide on (section 31).
+
 **Urgent.** The provider says a number lapses after 30 days without use, and that message history may not survive long inactivity. Nearly seven months have passed. Counsel should be asked now whether the provider's records were preserved or obtained, by the defense or by the government (section 14.2). The provider's privacy policy, found since, gives six months for message content on inactive accounts. Counted from May 1, that ended about 1 November 2026. Counted from the lapse of the number, it ends about the end of November 2026. How the provider counts, and whether anything is left, is not known. He has since said that a paid plan kept the number until 26 July 2026. If the six months run from then, they end about 26 January 2027. The provider's wording leaves the earlier dates open (section 27.1). A request to preserve the account should go to counsel at once (section 26.4). The profile and the Google account's activity can also be lost or changed (sections 11.5 and 13.7). So can location data, which Google now keeps on the phone itself and deletes after three months by default (section 19.2).
 
 **Hypnosis.** He has asked whether a hypnotherapist could help him recall the events. A court could not refuse to hear him for that reason alone. But hypnosis does not make recall more accurate, it would open his testimony about what he believed to a new attack, and it cannot be undone. He should have no session about these events before counsel has advised (section 18). He has since said that its purpose would be to show honesty. It would show sincerity, which nobody would doubt, and not accuracy (section 19.4).
@@ -135,7 +137,7 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 1. **Too many theories, and they fight each other.** A panel that hears all of them is likely to believe none. Section 8.3 explains this in full. Section 10 tests the single account the defense has since put forward. His answers to the cross-examination questions bring several of them back (section 16.2). Section 19.2 records his objection that several of them can be true together, and sorts them.
    - "I didn't realize it was the same person" conflicts with "my image search told me she was an adult." The second means he recognized the ad he had researched right after being told 15.
    - "The photos showed an adult" conflicts with "I knew the photos were fake." Fake photos say nothing about who is texting.
-   - "I did not intend to meet anyone" conflicts with the drive, "Cash right?", "Can you walk me upstairs?" and "Ill give extra."
+   - "I did not intend to meet anyone" conflicts with the drive, "Cash right?", "Can you walk me upstairs?" and "Ill give extra." Section 31 sets out what records of earlier occasions would have to show to change this.
    - Three separate misreadings ("on" as "or," "will" as "we'll," "Ok" answering only "we have a room") look contrived when stacked.
 2. **The linchpin is unproven.** The deck says he "can't definitively remember" deleting the April 30 thread. If the extraction shows the thread was still there at 15:49:15 on May 1, the refusal exchange sat directly above the box he typed in. Uninstalling the app cannot explain the mistake either, since the UC log shows the May 1 text arriving in the same thread from the same sender. The defense now says the thread was in the app's list and he opened it by mistake (section 12.2). That makes what the screen showed the central forensic question. The provider says a deleted conversation cannot be recovered (section 14.2). He has since said the thread was possibly deleted, which would change how the number was reached (section 15.2). Section 25 sets out what each possible finding would be worth, and why it matters how it is found.
 3. **His diligence cuts against him.** A man who reverse-searches photos, demands verification and checks for stings is hard to believe when he says he did not notice a number from 23 hours earlier. This has less force if, as now relayed, the conversations were listed by number only (section 12.2).
@@ -191,7 +193,7 @@ Each is possible. Needing all three is the difficulty. The first is the only poi
 
 **Claims that will cost credibility.** Keep one only if it is a real memory, and expect it to be attacked.
 
-- "I did not intend to meet anyone."
+- "I did not intend to meet anyone." Section 31 sets out the records that could stand behind it.
 - "Physically impossible."
 - Reading "on" as "or."
 - Carplay as a "bluff test."
@@ -309,6 +311,7 @@ Each entry gives the question, an honest shape for the answer, the prosecutor's 
 16. **Do not open the texting account alone.** Ask counsel in writing, with a day named for the answer, for three things: a letter to the provider to preserve the account, whether the government has the provider's records, and a recorded capture of the account by an examiner or in counsel's office. Keep the provider's emails and the records of the paid plan, and follow no link in them. If no answer comes, section 27.6 lists who else can be asked. The distress itself needs help now, and section 27.7 lists who can give it. Section 28.5 sets out what raises and lowers the cost of a look, and section 28.3 why no text should be sent from the account.
 17. **Put the questions in section 29.5 to each lawyer in writing, with a day named for the answers.** They include whether the provider has been asked to preserve the account, whether the phone's data has been copied, whether a defense examiner has been requested, and where the speedy-trial count stands. If the answers do not come, section 29.6 lists the next steps.
 18. **Put one page in front of his military counsel:** the provider's policy and dates, three requests that need no funding, two questions about the phone, and a day for an answer (section 30.4).
+19. **Ask counsel whether his earlier occasions should be traced.** For each: what was arranged, whether he arrived, whether the other person was there, who ended it, and what he did next. An examiner working for counsel can do this inside the privilege, and what is found can usually stay there. Nothing should be deleted, and nobody from an earlier conversation should be contacted (section 31).
 
 ## 8. Addendum, 21 Nov 2026: timeline, interview statement, and the contradiction point
 
@@ -363,7 +366,7 @@ As relayed: "I refused and thought the next day she just needed money so the nex
 **What it gives the government**
 
 1. **Identity.** "She" is one person across both days. The government no longer has to prove that the April 30 thread was still on his screen.
-2. **Belief, by inference.** A man who thinks he is meeting an adult escort has little reason to hand over money and leave, and nobody feels sorry for a scammer. The thought fits best with someone he believed he should not touch.
+2. **Belief, by inference.** A man who thinks he is meeting an adult escort has little reason to hand over money and leave, and nobody feels sorry for a scammer. The thought fits best with someone he believed he should not touch. A record that he has left adults in the same way would answer this inference (section 31.2).
 3. **Continuity with his own text.** "Find a different way of life please" on April 30 and "she just needed money" in the interview show the same concern for the same person. That makes the statement look like memory, not confusion.
 4. **Timing.** He said it the same day, before he had a lawyer and before he had seen the evidence. Fact-finders trust that kind of statement over a later one.
 5. **A half they can disprove.** "Just giving money and leaving" runs into "Just you….then both," "Cash right?" and "Ill give extra." The government will ask the panel to accept the half that hurts him and reject the half that helps, and the texts allow it.
@@ -1815,7 +1818,7 @@ These are statements about what he was thinking. They can come only from him, an
 
 **What it costs**
 
-1. **It is an account of a man arranging to pay for sex.** If May 1 was his routine, a fact-finder will take it that he read "100" as a price and asked about cash because that is how he pays. Habit cannot be combined with the answers in section 16 that deny he agreed to pay, or with slide 9's statement that he did not intend to meet anyone. Section 16.3 said those answers defend the wrong charge. Habit is another reason to let them go.
+1. **It is an account of a man arranging to pay for sex.** If May 1 was his routine, a fact-finder will take it that he read "100" as a price and asked about cash because that is how he pays. Habit cannot be combined with the answers in section 16 that deny he agreed to pay, or with slide 9's statement that he did not intend to meet anyone. Section 16.3 said those answers defend the wrong charge. Habit is another reason to let them go. Section 31 considers a different pattern, of arranging a meeting and not going through with it, which would support slide 9 if the records showed it.
 2. **It brings in the other occasions.** The records that prove the routine show how often he did this (section 14.3, point 8). Counsel has to weigh that for both forums.
 3. **It does not reach the three points in section 1.** Sending a message to her number, remembering the profile without the reason for the search, and what he told the agents are not habits. The mistake still has to be shown.
 4. **Routine cuts both ways on the mistake.** A practiced routine is carried out without much attention, which is how a message goes to the wrong number. It is also the routine of an experienced man, and the prosecutor will say that he knew how to keep his numbers apart.
@@ -2137,7 +2140,7 @@ As relayed, several officers had this log, and the reading that he had said yes 
 1. **What he describes.** Driving to a hotel without a good reason, or against reason, while expecting a scam. He compares it with obsessive-compulsive behavior. The World Health Organization's description of compulsive sexual behaviour disorder includes going on with the behavior "despite adverse consequences or deriving little or no satisfaction from it." Whether that or any diagnosis fits him is for an evaluator (section 17.3).
 2. **What it can do on the question of guilt.** The government reasons from what he did to what he thought: he drove there, so he believed she was real and meant to go through with it. Compulsion answers that step. If he goes whether or not it makes sense, the fact that he went shows less.
 3. **What it cannot do.** A man acting on a compulsion still means to do each thing he does. It does not remove intent, and for Spec 3 it is close to an admission. It is also the government's explanation: the urge that took him back to someone he had refused (section 3). It helps him only if he did not know whose number it was.
-4. **It needs more than his word.** An evaluation, and records of earlier trips that ended in nothing.
+4. **It needs more than his word.** An evaluation, and records of earlier trips that ended in nothing. Section 31 sets out what those records would have to show, and what they would be worth on each charge.
 5. **Offering it at trial has consequences.** As I understand the rules, a mental condition short of a lack of mental responsibility is not a defense, but evidence of it may be admitted on whether he had the state of mind an offense requires. The defense has to give notice before trial of expert testimony on his mental condition (R.C.M. 701(b)(2) and the discussion to R.C.M. 916(k)(2)). Once he offers evidence of his own mental condition, the privilege for what he has told a therapist is subject to an exception (M.R.E. 513(d)(7)), and the government may ask for its own examination. These are counsel's decisions.
 
 **The earlier scam at the same hotel**
@@ -2434,7 +2437,7 @@ These add to section 19.5.
 2. **The inference is not accepted as he puts it.** Nervousness does not show that there was no intent. It shows that he was afraid of the room, and the message about the car shows what he did about it.
 3. **The argument's place is firmness of intent,** and there is military authority for it. *Penaloza* makes the arrest inventory more important than it was.
 4. **No reported case matches his facts.** Those that discuss hesitation went against the accused, for reasons that do not all apply to him. Reported cases are a one-sided sample.
-5. ***Puff* is the pattern the government is likely to follow.** The answer is his routine with adults, from records.
+5. ***Puff* is the pattern the government is likely to follow.** The answer is his routine with adults, from records. Section 31 takes this further.
 6. **The Texas position is unchanged, with one caution.** The answer that the extra was a test needs Texas counsel's advice before it is given anywhere.
 7. **Voluntary abandonment is still weak.** The rule is now set out.
 8. ***Munn* is a reference for how a case with these charges has ended.**
@@ -2553,7 +2556,7 @@ In an attempt the second list is not a list of things that happened. It is what 
 
 1. **It does not depend on her age.** Everything in sections 8 to 20 about what he believed is beside the point for this charge.
 2. **Most of its proof is his own words and movements,** in the government's own exhibits.
-3. **His own account supplies the intent.** He has said that he texts numbers from adult ads, that he has paid adults for sex for years, and that an urge took him to the hotel (sections 17.3 and 19.2). The exhibits the defense has built for Specs 1 and 2 show the same purpose: the other numbers messaged that day, the hotel searches and the stock lines. The better the routine is proved, the better this element is proved.
+3. **His own account supplies the intent.** He has said that he texts numbers from adult ads, that he has paid adults for sex for years, and that an urge took him to the hotel (sections 17.3 and 19.2). The exhibits the defense has built for Specs 1 and 2 show the same purpose: the other numbers messaged that day, the hotel searches and the stock lines. The better the routine is proved, the better this element is proved. That is true of a routine that ends in a paid meeting. Section 31.2 considers one that ends in the car park.
 4. **The defenses are weak.**
    - Impossibility is not one (21.1).
    - Voluntary abandonment requires a reason he does not give (section 20.3).
@@ -3370,7 +3373,7 @@ The Army court has put the whole of it in one sentence: "The person must experie
 3. **Routine and abandonment do not have to conflict.** It depends on what the routine is, and the records can show it. For each earlier removal: where he was, what he had arranged, and what he did next.
    - If he removed the app once a meeting was arranged and then went to it, the removal at 17:02 is a precaution. It says nothing about giving up, and it answers his own question in 24.4.
    - If he removed the app after a meeting, then at 17:02 he had finished nothing of that kind, and the removal stands out from the routine.
-   - If he drove somewhere, removed the app and left without meeting anyone, then 17:02 looks like the start of the same sequence. That would be evidence that he was backing out, and that this is how his shame shows itself. It is the best support the abandonment reading could have, and better still for the argument about firmness of intent (section 20.3).
+   - If he drove somewhere, removed the app and left without meeting anyone, then 17:02 looks like the start of the same sequence. That would be evidence that he was backing out, and that this is how his shame shows itself. It is the best support the abandonment reading could have, and better still for the argument about firmness of intent (section 20.3). Section 31 sets out what such a record would be worth, and what it would cost.
    - Location data set against the removal times would show which it was (section 19.2).
 4. **So the positions sort themselves.** The routine is the one that records can test. Whether it turns out neutral, helpful or harmful depends on those records. Abandonment as a formal defense needs evidence of his reason in one minute, against a rule written to exclude most reasons. Section 17 drew the same line for the case as a whole.
 5. **Only he knows why he did it.** This is a statement of what each explanation requires. It is not a suggestion about which to give.
@@ -4455,3 +4458,191 @@ One page, in writing, sent tonight. She may not read it until after the holiday.
 5. **A login is not a last play, and a date coming near would not make it one** (30.3). The reasons in sections 27 and 28 stand, and the account stays closed.
 6. **Section 1 has been updated, and section 7 has a new item, 18.**
 7. **The order of work is unchanged:** the request to preserve the account, then the video, the forensic report, and the account.
+
+## 31. Addendum 24, 26 Nov 2026: a pattern of arranging, driving and not meeting, and what it would be worth
+
+**What this covers.** Two questions supplied after section 30, recorded as relayed.
+
+*As relayed: on the compulsion issue, where he still drives to the location although he knows that a scam is probable: if a habit can be proved with other adults (texting, driving, showing up, but not actually meeting), what value does that have?*
+
+*As relayed: now consider the possibility that he may do the same with men on a dating app for men (texting, driving, showing up, but not actually meeting).*
+
+The second is put as a possibility, and this section treats it as one. It records nothing about him as a fact. I have seen no record of any earlier occasion of either kind. Two decisions are used here that earlier sections did not have: *Hickerson* and *Valle*. I read the passages quoted from each in a public copy of the opinions, and not the whole of either. The other new cases, and the rules, were read in extracts returned by a web search. Statements of law are my understanding, for counsel to confirm. This is an account of what such records would be worth. It is not a suggestion about what to say, and it is open to him only if it is true.
+
+**Short version**
+
+- **If the records show it, this would be the first evidence from outside the day itself on the element of Spec 3 that section 21 ranked least proved:** a firm intent to go through with a sexual act. It would give Spec 2 a second answer, and one that does not depend on her age.
+- **It would also weaken three inferences about her age.** The government reads his nervousness, the room he did not go to, and the thought of "just giving money and leaving" as signs that he knew she was someone he should not touch. A record of leaving adults in the same way answers that.
+- **What counts is narrow.** Only an occasion on which the meeting was there to be had, and he left of his own accord. An occasion that fell through because nobody came, or because it was a scam, shows nothing about his own will, and the government will say that he meant to go through with it. An occasion that ended in a meeting cuts the other way.
+- **So the pattern is mixed, on his own account,** because he has said that he used escorts for years. The questions are the proportion, and what separates the two kinds. If what separates them is that he goes in when she proves real, that is an intent with a condition, and the government will say that on May 1 the condition had been met.
+- **The law's answer to a man who loses his nerve is that intent is judged when he acts.** So the pattern has to be evidence of what he intends as he drives, and not only of what he does at the door.
+- **Not meaning to meet is no answer to Spec 1,** which is about the words he sent. The pattern helps there only through the inferences about her age. It probably does nothing in Texas, where the offer is the offense, and where each earlier agreement on a price could be charged as another.
+- **Proving it invites the government to bring in the other occasions,** including those that ended in a meeting. Each is an act the government could use, and some could be charged.
+- **Getting it before a panel is not simple.** It is unlikely to qualify as a "habit" under the rule. It has a better chance as evidence on intent, and through an evaluator.
+- **On the possibility he raises:** occasions of that kind could be the cleanest of all, because money, the price and the law would be out of the comparison. The cost is of a different kind. It is a disclosure about himself, made in a public trial and perhaps in two, and it cannot be taken back. That decision is his alone. It does not have to be made now, and it can be explored first inside the privilege (31.6).
+- **The government may already hold some of this.** If either kind of occasion left traces on the seized phone, they may be in the government's copy of it.
+- **Nothing should be deleted, and nobody should be contacted.** The details belong with counsel, in person, and not here.
+
+### 31.1 What the pattern would have to be
+
+1. **A sequence, on dated occasions.** Section 17.3 said that a routine is shown by the same sequence on several dates. Here the sequence is: a meeting arranged by text, the drive, the arrival, and a departure with no meeting.
+2. **Earlier occasions are of three kinds, and only one helps him.**
+
+| Kind of occasion | What it shows | Who gains |
+|---|---|---|
+| He arranged it, arrived, and the meeting took place | That when he drives to a meeting, he sometimes goes through with it | The government |
+| He arranged it, arrived, and it fell through for a reason outside him: nobody came, a deposit was demanded, or something at the place frightened him off | Little about his own will. It may support an inference that he meant to go through with it, perhaps on a condition. It proves no more than that | Mostly the government. It has some use on why he expected a scam (section 19.2) |
+| He arranged it, arrived, the other person was there and ready, and he left | That for him arriving is not a sign that he will go through with it | Him |
+
+3. **What marks the third kind in the records.**
+   - A message from the other person that shows she was there and ready: a room number, an invitation to come up, or a question about where he was.
+   - His location at the place, and for how long.
+   - No payment, and no cash drawn and spent.
+   - What he sent next: nothing, or an excuse.
+   - What he did next: the app removed, the drive home.
+   - Her reaction, if there is one. A complaint that he wasted her time is evidence that he did not meet her.
+4. **Numbers matter.** One or two such occasions prove nothing. The proportion matters as well: how many of each kind, over what period. An occasion on which he texted and never set out shows nothing about what a drive means.
+5. **How like May 1 they were matters.** On May 1 he wrote from the car park, asked her to come down, offered more, described his car and confirmed his lights (section 20.1). If the earlier occasions show the same, and then a departure, May 1 looks like the same sequence cut short by the arrest. If they were silent departures, the government will say that May 1 went further than he usually goes.
+6. **The first kind exists, on his own account.** He has said that he used escorts for years (section 19.3). So an honest description is a mixture, and what separates the occasions on which he went in from those on which he left is the fact that decides its worth (31.3).
+7. **The earlier occasion at the same hotel is one of these.** As he describes it, it belongs to the second kind (section 19.2).
+
+### 31.2 What it would be worth, charge by charge
+
+| Charge | What the pattern would do | Its limit |
+|---|---|---|
+| Spec 3 | It goes to the element that section 21.2 ranked least proved: a specific intent to engage in a sexual act, held when he did the act. It gives the argument about firmness of intent (section 20.3) facts to rest on | Intent is judged when he acts. An intent with a condition is probably still an intent. May 1 went as far as "Ya" (31.3) |
+| Spec 2 | The same. It is a second answer, and it does not depend on what he believed about her age | The two answers have to be put with care: he did not know who she was, and he would not have gone through with it in any case (section 24.2) |
+| Spec 1 | Nothing on the offense itself, which is the sending of words to a child and does not need a meeting. It helps only through the inferences about her age (point 1 below) | It may cut the other way. If the exchange and the drive are what he seeks, that fits a purpose to arouse or gratify |
+| Texas | Probably nothing on guilt. The offense is the offer or the agreement (section 20.3) | Each earlier occasion on which a fee was agreed could be charged there as well |
+| Negotiation and sentence | A good deal. A man who mostly does not go through with it is a different case from a man who does. An evaluator can say what the pattern is | It is the same record, with the same cost (31.5) |
+
+1. **It answers three inferences about her age.** These bear on Specs 1 and 2.
+   - Section 8.2 set out the government's reading of the interview: a man who thinks he is meeting an adult has little reason to hand over money and leave, so the thought fits someone he believed he should not touch. If he has left adults in the same way, the thought fits anyone.
+   - The nervousness. The accused in *Puff* said that he had not been nervous in that way with adults (section 20.4). A record of the same hesitation with adults is the answer to that case.
+   - The room he did not go to.
+   - It does not reach the question that decides those charges, which is whether he knew whose number it was.
+2. **It gives the removal of the apps a meaning.** Section 24.5 said that if earlier records show that he drove somewhere, removed the app and left without meeting anyone, then 17:02 looks like the start of the same sequence. That would be the best support the abandonment reading could have, and better still for firmness of intent.
+3. **It fits the interview statement, and the cost of that statement stays.** As relayed, he told the agents that he had thought about "just giving money and leaving." With a record of earlier departures, that is no longer a claim made only after the arrest. The statement still has "she" as one person on both days (section 8.2), and he has since said that it was a general version and not what he thought (section 21.3). It cannot be right for one charge and wrong for another.
+4. **It qualifies two things said earlier.** Section 21.4 said: "The better the routine is proved, the better this element is proved." That is true of a routine that ends in a paid meeting. If most of his sessions ended in the car park, the routine cuts the other way on that element. Section 17.3 said that habit could not be combined with slide 9's statement that he did not intend to meet anyone. A routine of not meeting would be the one form of habit that supports slide 9. Which routine he has is a question of fact, and the records will answer it.
+5. ***Penaloza* is the model for the argument.** There the Army court held that travel "must be accompanied by evidence of a firm intent to complete the offense," and found "a fair and rational hypothesis" that the accused did not intend to pay, because he had no cash (section 20.4). A record of arriving and leaving would be offered for the same kind of hypothesis: that he did not intend to go through with it.
+
+### 31.3 The government's answers
+
+1. **Intent, not resolve.** Section 24.2 quoted the Army court in *Rios*, on a robber who lost his nerve: "The key is intent, not resolve. The appellant was weak and unable to carry through with his plan. His intent was, at the time, no less criminal despite his lack of will." On that reasoning, a man who means to go through with it each time he drives, and loses his nerve each time he arrives, has attempted it each time. So the pattern helps only as evidence of what he intends when he does each act the government relies on: the drive, and the messages from the car park (section 21.3). The more regular it is, the harder it is to say that he sets out with a firm intent. It can never show that directly, and an intent that was absent when he set out could still have formed at the hotel.
+2. **An intent with a condition.** Section 19.3 noted the rule that an intent to do something if a condition is met is still an intent. He says that he drives although he expects a scam. If the records show that he went in whenever the woman proved to be real, the earlier departures show the condition and not a lack of intent. The government will then point to "Awesome," sent after the photo he had asked for as proof (section 22.2), and to her agreeing to come down. On its account, by 16:59 the condition had been met.
+3. **May 1 itself.** His last messages moved toward a meeting, on terms he had proposed. Section 24.4 put it this way: by 17:01:20 nothing was left to arrange, and the next thing to happen was her arrival at his car. He had not left.
+4. **The occasions that ended in a meeting.** Each one shows that the drive sometimes means what the government says it means.
+5. **The arrest.** It came before he met anyone or left, so nobody can say what he would have done. The pattern is evidence of what was likely. The government will say that this time was different, and it will look for what made it so.
+6. **A military case in which the accused did not turn up at all.** In *United States v. Hickerson*, 71 M.J. 659 (N-M. Ct. Crim. App. 2012), a Marine arranged online to meet a persona whose profile gave her age as 13. He "failed to show up at the meeting," and "testified that he never intended to actually meet" her. He was convicted of attempted enticement, and the court affirmed, holding that the arrangements he made "sufficiently demonstrated that the appellant took a substantial step toward enticement of a minor." Two things limit what that case says about his. The offense there was the persuading, which does not need an intent to carry out the act. And the members had his own admissions of a sexual interest in children, which the court called "highly probative of the appellant's intent and motive." Nothing of that kind is known here. The charge against him that works in that way is Spec 1.
+7. **How courts have treated a claim that it was never going to happen.**
+   - *United States v. Valle*, 807 F.3d 508 (2d Cir. 2015), was a conspiracy case. The court began: "This is a case about the line between fantasy and criminal intent." It upheld an acquittal, over a dissent. The chats said to show a real plan were "essentially indistinguishable" from the many that even the government treated as fantasy. The accused had traveled to another state and had lunch with one of the women discussed. The majority found it "impossible to conclude, without speculation," that the lunch was a step toward the crime.
+   - The reasoning helps him in one way. Where the conduct said to show intent looks the same as conduct that led to nothing on other occasions, the inference of intent is weaker.
+   - It is a different kind of case. The charge was an agreement and not an attempt. The lunch was with an old classmate, and his wife and child were with him. Here he drove to a hotel car park to meet someone from an ad. Section 20.4 lists the cases in which travel of that kind was held to be enough.
+   - In *United States v. Gladish*, 536 F.3d 646 (7th Cir. 2008), where the accused had only talked, the court said: "The requirement of proving a substantial step serves to distinguish people who pose real threats from those who are all hot air." The government will say that a man who drives to the hotel and waits in the car park is not all hot air.
+
+### 31.4 How it could be put before a panel
+
+1. **As a habit, it probably fails.** The rule says that evidence of "a person's habit" may be admitted "to prove that on a particular occasion the person or organization acted in accordance with the habit or routine practice" (M.R.E. 406). A federal appeals court has listed what makes conduct a habit: "(1) the degree to which the conduct is reflexive or semi-automatic as opposed to volitional; (2) the specificity or particularity of the conduct; and (3) the regularity or numerosity of the examples of the conduct" (*United States v. Angwin*, 271 F.3d 786 (9th Cir. 2001)). Deciding whether to meet someone is a choice, and on his own account he did not always decide the same way. The rule is also about acts: it lets a habit prove that a person acted in accordance with it. On May 1 the arrest came before he either met her or left, so there is no act for a habit to prove. What is in dispute is what he intended.
+2. **As character, it is limited to opinion and reputation.** An accused may offer evidence of a pertinent trait of his own. Under the federal rule, which the military rule follows as I understand it, the trait "may be proved by testimony about the person's reputation or by testimony in the form of an opinion," and not by particular occasions. It is hard to see who could give that opinion about conduct he kept to himself.
+3. **As other acts offered on intent, it has a better chance.**
+   - The rule bars evidence of other acts offered "to prove a person's character in order to show that on a particular occasion the person acted in accordance with the character" (M.R.E. 404(b)(1), as quoted in a 2025 opinion of the Court of Appeals for the Armed Forces). It allows such evidence for another purpose, and intent is one.
+   - The rule is usually used by the government. *Hickerson* shows how: where the defense was fantasy and "intent was the sole issue in dispute," the accused's admissions about his other conduct came in against him.
+   - Federal courts have often refused an accused's own evidence of what he did on other occasions. One put it flatly: "Evidence of good conduct is not admissible to negate criminal intent" (*United States v. Camejo*, 929 F.2d 610 (11th Cir. 1991)).
+   - The question for the judge would be whether these occasions support an inference about his intent on May 1 that does not run through his character. Showing only that he usually leaves might not be enough. Counsel would have to state the link: that this is the same conduct with a known ending, offered on what the drive shows. The judge would also weigh the time it takes and the risk of confusion (M.R.E. 403).
+   - If the government offers his history to prove his intent (section 7, item 5), the occasions that ended in the car park become part of the answer, and they are harder to keep out.
+4. **Through an evaluator.**
+   - Courts have said that an expert may describe a pattern of this kind. In *Gladish* the court said that a psychologist could not say what the accused intended, "but he could have testified that it was unlikely, given the defendant's psychology, that he would act on his intent." In *United States v. Hite*, 769 F.3d 1154 (D.C. Cir. 2014), where the defense was fantasy, the trial court "erred when it excluded" the defense expert's testimony "in its entirety."
+   - Courts have also kept such experts out. In *United States v. Hofus*, 598 F.3d 1171 (9th Cir. 2010), the testimony was "directed solely at the propensity to actually commit the underlying sexual act, which was not before the jury," because the charge was enticement. In *United States v. Stahlman*, 934 F.3d 1199 (11th Cir. 2019), the expert was excluded under the federal rule that an expert "must not state an opinion about whether the defendant did or did not have a mental state" that is an element of the offense.
+   - The *Hofus* objection has less force here. For Specs 2 and 3 the act itself is what he must have intended. Whether the military rules have the bar applied in *Stahlman* is for counsel.
+   - Section 19.2 lists what offering such evidence brings with it: notice, an exception to the privilege for treatment, and an examination by the government.
+5. **Through him.** He can say what he does. Every occasion is then open on cross-examination (section 21.5).
+6. **Through the government's own records.** If the copy of his phone holds the earlier trips and messages, the pattern can be shown from the government's evidence, by an examiner, without his testimony. That is the form this analysis has preferred throughout (section 17.4).
+
+### 31.5 What it opens
+
+1. **The other occasions.** The records that show the departures show the meetings as well. The government could offer those to prove the intent he denies (section 7, item 5). Section 4 noted that the other recipients on May 1 make a mix-up plausible and cost sympathy. A longer history does the same on a larger scale.
+2. **Each occasion may be an offense in itself.**
+   - In the court-martial, an occasion on which he drove to meet an escort could be charged as a separate attempt. In *Baldwin* an officer was convicted of three attempts to patronize a prostitute (section 21.6). His answer to each would be the argument made here. As I understand it, the limitation period for most offenses under the Code is five years.
+   - In Texas, a knowing offer or agreement to pay for sexual conduct is the offense (section 20.3). So an earlier occasion on which a fee was agreed could support a separate charge there, whether or not he met her. Whether an offer made with no intention of going through with it is within the buyer's statute is the question that section 20.3 left for his Texas counsel.
+   - So anything he says about earlier occasions, in either forum, could admit Texas offenses. That is for his Texas counsel before it is said anywhere.
+3. **It closes a plea to Spec 3.** A guilty plea needs an admission under oath that he intended the act (sections 11.5 and 21.5). He cannot say that he never meant to go through with it, and also plead guilty to having intended it. *Munn* ended in a plea to attempted patronizing (section 20.4). This argument and that outcome exclude each other, and which is true decides between them.
+4. **It has to be the same account each time, and it has to fit his messages.** It is slide 9 again. Section 5 lists "I did not intend to meet anyone" among the claims that cost credibility, because nothing stood behind it. Records would change that. Earlier departures could have several explanations: that he arrives undecided, that he arrives meaning to go in and gives it up, or something else. The records cannot say which was his state on May 1. What he says about it has to come from what he remembers, and not from which version fits best. Section 19.2 observed that having no intention to meet fits the messages from the car park if it means that he had decided nothing, and does not fit them if it means that he had decided not to. That was an observation about fit, and so is this.
+5. **"Compulsion" is the government's word too** (section 3). A compulsion to go is not a compulsion to stop. The records have to show both halves: that he goes, and that he leaves.
+6. **A mental condition offered at trial has its own consequences** (section 19.2).
+
+### 31.6 The same pattern with men, on a dating app
+
+This takes the second question as it was put, as a possibility.
+
+**What such occasions would add**
+
+1. **They could be the cleanest of the third kind in 31.1.** When a paid meeting is abandoned, there are many possible causes outside him: a scam for money, the price, the police. Occasions of this kind would take those out of the comparison. No money is involved, and nothing about the meeting is unlawful. They would not exclude every outside reason. A profile can be false there too, and a man can leave for fear of being seen. Their worth would depend on what the records show.
+2. **They would tend to show that the pattern is his, and not a feature of buying sex.** That would fit compulsion as he describes it (section 19.2): the going is the thing, whoever is at the other end.
+3. **As described, they involve no offense that I can see, with one qualification.** As I understand it, Congress removed consensual sodomy from Article 125 in 2013, and conduct is not an offense because the two people are of the same sex. Other offenses depend on the circumstances. The qualification is marriage. The Manual defines the conduct covered by the offense of extramarital sexual conduct as certain acts "engaged in by persons of the same or opposite sex," and the offense applies where either person is married to someone else. An occasion with no meeting is not that conduct. But *Baldwin* included a conviction for an attempt at it (section 21.6). So if he or the other person was married, counsel has to weigh whether such an occasion could be charged as an attempt, with the argument made here as the answer.
+4. **If everyone involved was an adult, they add to the record that his history is with adults** (section 3).
+5. **They would give an evaluator more to work with** than the paid occasions alone.
+
+**What they would cost**
+
+1. **A disclosure that cannot be taken back.** As I understand it, a court-martial is open to the public, and what is offered there goes into the record. There may be two trials. His family and his unit could learn of it. Whether that is a price worth paying is for him and for nobody else, and it is not a decision to make in a hurry or in a document.
+2. **Bias.** A panel member or a juror may hold it against him, though the law does not allow that. Counsel can question the members, and a member is to be excused who "should not sit as a member in the interest of having the court-martial free from substantial doubt as to legality, fairness, and impartiality" (R.C.M. 912(f)(1)(N), as the appeals court's digest states it). That reduces the risk. It does not remove it.
+3. **Breadth reads two ways.** The defense reads it as a man who does not follow through. The government may read it as a man without restraint, which is its account of May 1 (section 3). The answer is the one already in the case: his history is with adults, and when a minor was mentioned he refused in 37 seconds.
+4. **More of the account may come with it.** Offering some occasions does not make his whole private history admissible. It does give the government a reason to look at the rest, and to offer whatever cuts the other way: any meeting that did take place, which would make this pattern a mixed one too. If anyone in those conversations was under 18, or said so, counsel has to know that before anything else is decided. Other people could be drawn in, and investigators could go to them.
+5. **A fight over relevance.** The setting is different: no fee, another app, men. The government may say that it shows nothing about a paid meeting with a woman, and a judge may keep it out as confusing or as taking too long (M.R.E. 403). The defense answer is that the sequence is the same, and the sequence is the point.
+6. **It does not reach Spec 1,** or the question of whose number it was.
+
+**What may already be out of his hands**
+
+1. **If that app was on the phone on May 1, its data may be in the government's copy.** As relayed, DPS has held the phone since then (section 30.2). The scope of the warrant decides what the government may search for (section 22.11). An examiner who is looking for one thing still sees others.
+2. **His orientation, whatever it is, has no bearing on guilt,** and as I understand it the government could not offer it as such. Particular messages or conduct could still be relevant in their own right, under the rules on searches and on evidence, whether or not the defense raises the subject.
+3. **So counsel should hear of the possibility before the forensic report arrives.** Nothing in the report should come as a surprise to her, and she may want to look at the scope of the search.
+
+**How to keep the choice open**
+
+1. **Not here.** This document is not privileged (sections 11.5 and 29.7). The question is recorded as a possibility, and no detail should be added to it.
+2. **Tell counsel in person.** She cannot weigh what she does not know, and what he tells her is privileged.
+3. **Delete nothing:** not the account, the messages or the app. A deletion now would lose the evidence, and it would look like what section 24.3 describes.
+4. **Contact nobody from those conversations.**
+5. **Find out first, inside the privilege, what the records show.** What a consulting examiner finds can usually stay inside the defense (section 25.3). If the occasions are few, or mixed, the question answers itself and nothing need be disclosed.
+6. **Use the other occasions first.** If the record with women carries the point, this one is not needed. It is a reserve.
+7. **Work done in confidence by an evaluator engaged through counsel is generally protected.** That changes if the evaluator is called as a witness, or if evidence of a mental condition is offered (section 19.2). A clinician who treats him is under a different rule, with exceptions (sections 18.4 and 25.3). Counsel should explain both before he sees either.
+8. **Nothing about this has to be decided this week.** Whatever he decides about the evidence, he does not have to carry it alone (section 27.7).
+
+### 31.7 Records to add, through counsel
+
+These add to sections 19.5 and 20.5, which already ask for earlier trips that ended without a meeting.
+
+1. **For each earlier occasion, five facts:** what was arranged; whether he arrived; whether the other person was there and ready; who ended it, and how; and what he did next.
+2. **The government's copy of the phone:** its location history for the months before May 1, the messages, and the record of installs and removals. Some of this is kept for a limited time, so the date of the copy matters (section 26.1).
+3. **The texting provider's records of his other conversations.** They are in the same account, under the same six months (section 26.4). This is one more reason for the letter to the provider.
+4. **The Google account's activity on earlier dates:** directions, hotel searches and image searches (section 13.7).
+5. **Other records of where he was:** the carrier's, and the car's own, if it keeps any. Both need counsel.
+6. **Bank and payment-app records:** cash drawn before a trip, and whether it was spent.
+7. **The earlier occasion at the same hotel** (section 19.5).
+8. **The dating app's own records,** if that is pursued. What it keeps, and for how long, I do not know.
+9. **An evaluation,** arranged by counsel (section 7, item 7).
+
+### 31.8 Questions it will draw
+
+No answer shapes are offered.
+
+1. "How many times did you go through with it?"
+2. "What was different about the times you did?"
+3. "So when she turns out to be real, you go in?"
+4. "At 5:01 you confirmed that your lights were on. What had you decided?"
+5. "If you never meant to meet anyone, why ask about cash?"
+6. "You told the agents that you thought about giving her money and leaving. Is that what you usually do?"
+7. On the second possibility: "Did you ever meet any of them?" "How old were they?" "Who else knows about this?"
+
+### 31.9 What this changes
+
+1. **The point about firmness of intent could become evidence.** Section 21.3 treated it as a gap in the government's proof, for counsel to press. A record of arriving and leaving would give it facts. That is new. It would be the first evidence for the defense on Spec 3 that comes from outside the day itself.
+2. **Spec 2 would have a second answer. Spec 1 would not,** apart from the inferences about her age.
+3. **Three inferences about her age would be weaker:** from the nervousness, from the room, and from the interview.
+4. **Its worth depends on one kind of occasion,** and on how many there were beside the others. He has said that the others exist.
+5. **Its cost is the other occasions,** in both forums, and a plea to Spec 3.
+6. **Two earlier statements are qualified:** in section 17.3, on habit and slide 9, and in section 21.4, on the routine and Spec 3. Notes have been added.
+7. **The second possibility is recorded as a possibility.** It could be the cleanest proof, and it carries the most personal cost. The decision is his, it can wait, and nothing in this analysis rests on it.
+8. **There is one more reason for the letter to the provider.** His other conversations are in the same account.
+9. **Section 1 has been updated, and section 7 has a new item, 19.**
+10. **The order of work is unchanged:** the request to preserve the account, then the video, the forensic report, and the account.
